@@ -30,8 +30,8 @@ SAVE_COMP=True
 
 elo_stagger=20
 elo_step=20
-elo_min=-400
-elo_max=400
+elo_min=-600
+elo_max=600
 elo_pack=[elo_min, elo_max, elo_step, elo_stagger]
 
 ################### PROCESS RESULTS FILES ##########################################

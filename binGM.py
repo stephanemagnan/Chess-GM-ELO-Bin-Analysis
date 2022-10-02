@@ -5,7 +5,7 @@ class binGM:
     def __init__(self, gm_info,elo_pack ):
         playername,playerrank,playerelo,colour_index = gm_info
         elo_min, elo_max, elo_step, elo_stagger = elo_pack
-        
+
         bins=np.arange(elo_min,elo_max+1,elo_step)
 
         df_games=pd.read_csv(f'extracted/{playername}.txt', sep='\t', header=0, dtype={'White': 'string','White ELO': 'int','Black': 'string','Black ELO': 'int','Result': 'string','Date': 'string'})
@@ -24,11 +24,13 @@ class binGM:
         df_games.insert(loc=7,column='White Outcome',value='')
 
         #parse outcome column and change to Win/Tie/Loss
-        df_games.loc[df_games['Result']=='1/2-1/2','White Outcome']='Tie'
-        df_games.loc[(df_games['Result']=='1-0') & (white_inds),'White Outcome']='Win'
-        df_games.loc[(df_games['Result']=='0-1') & (white_inds),'White Outcome']='Loss'
-        df_games.loc[(df_games['Result']=='1-0') & (black_inds),'White Outcome']='Loss'
-        df_games.loc[(df_games['Result']=='0-1') & (black_inds),'White Outcome']='Win'
+        df_games.loc[df_games['Result']=='1/2-1/2', 'White Outcome']='Tie'
+        df_games.loc[(df_games['Result']=='1-0'), 'White Outcome']='Win'
+        df_games.loc[(df_games['Result']=='0-1'), 'White Outcome']='Loss'
+        # df_games.loc[(df_games['Result']=='1-0') & (white_inds),'White Outcome']='Win'
+        # df_games.loc[(df_games['Result']=='0-1') & (white_inds),'White Outcome']='Loss'
+        # df_games.loc[(df_games['Result']=='1-0') & (black_inds),'White Outcome']='Win'
+        # df_games.loc[(df_games['Result']=='0-1') & (black_inds),'White Outcome']='Loss'
 
         
         # Create the pandas DataFrame with column name is provided explicitly
@@ -43,6 +45,7 @@ class binGM:
             df_bins.loc[this_index,'Black Wins']=df_games[(df_games['White Outcome']=='Loss') & (black_inds) & (-df_games['White ELO Adv']>=this_elo['White ELO Adv']-elo_step/2) & (-df_games['White ELO Adv']<this_elo['White ELO Adv']+elo_step/2) ].shape[0]
             df_bins.loc[this_index,'Black Ties']=df_games[(df_games['White Outcome']=='Tie') & (black_inds) & (-df_games['White ELO Adv']>=this_elo['White ELO Adv']-elo_step/2) & (-df_games['White ELO Adv']<this_elo['White ELO Adv']+elo_step/2) ].shape[0]
             df_bins.loc[this_index,'Black Losses']=df_games[(df_games['White Outcome']=='Win') & (black_inds) & (-df_games['White ELO Adv']>=this_elo['White ELO Adv']-elo_step/2) & (-df_games['White ELO Adv']<this_elo['White ELO Adv']+elo_step/2) ].shape[0]
+            
 
         #Add count columnt
         df_bins['White Count']=df_bins['White Wins']+df_bins['White Ties']+df_bins['White Losses']
