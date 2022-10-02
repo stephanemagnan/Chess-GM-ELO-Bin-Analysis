@@ -13,7 +13,12 @@ FONT_SIZE_TITLE = 18
 
 
 
-def plotGMbins(df_bins,playername,playerrank,playerelo,elo_min,elo_max,elo_stagger,colour_index,DO_SAVE):
+def plotGMbins(df_bins,gm_info,elo_pack,DO_SAVE):
+    playername,playerrank,playerelo,colour_index=gm_info
+    elo_min, elo_max, elo_step, elo_stagger = elo_pack
+    #stagger doubled for single bins only
+    elo_stagger*=2
+
     full_colours, dulled_colours, faded_colours = buildColours()
     fig, axes = plt.subplots(figsize=(16,9), facecolor='#ffffff', ncols=4, sharey=True)
 
@@ -107,9 +112,13 @@ def plotGMbins(df_bins,playername,playerrank,playerelo,elo_min,elo_max,elo_stagg
 
     plt.subplots_adjust(wspace=0,top=0.875,bottom=0.15,left=0.1,right=0.95)
     if DO_SAVE:
-        plt.savefig(f'figures/{playername}.png')
+        plt.savefig(f'figures/{playerrank}. {playername}.png')
 
-def plot2GMbins(df_bins1,df_bins2,playername1,playername2,elo_min,elo_max,elo_stagger,colour_index1,colour_index2,DO_SAVE):
+def plot2GMbins(df_bins1,df_bins2,gm1_info,gm2_info,elo_pack,DO_SAVE):
+    playername1,playerrank1,playerelo1,colour_index1=gm1_info
+    playername2,playerrank2,playerelo2,colour_index2=gm2_info
+    elo_min, elo_max, elo_step, elo_stagger = elo_pack
+
     full_colours, dulled_colours, faded_colours = buildColours()
     fig, axes = plt.subplots(figsize=(16,9), facecolor='#ffffff', ncols=4, sharey=True)
 
@@ -218,13 +227,42 @@ def plot2GMbins(df_bins1,df_bins2,playername1,playername2,elo_min,elo_max,elo_st
 
 def buildColours():
     #create three tones of default style colours
-    full_colours = plt.rcParams["axes.prop_cycle"].by_key()["color"]
+    stock_colours = plt.rcParams["axes.prop_cycle"].by_key()["color"]
+    #add extra colours betwen the 7 bases
+    interp_colors=list()
+    prev_colour=stock_colours[-1]
+    for this_colour_index, this_colour in enumerate(stock_colours):
+        this_red=int(this_colour[1:3],16)
+        this_green=int(this_colour[3:5],16)
+        this_blue=int(this_colour[5:7],16)
+
+        prev_red=int(prev_colour[1:3],16)
+        prev_green=int(prev_colour[3:5],16)
+        prev_blue=int(prev_colour[5:7],16)
+
+        mid_red=int((this_red+prev_red)/2)
+        mid_green=int((this_green+prev_green)/2)
+        mid_blue=int((this_blue+prev_blue)/2)
+        
+        interp_colors.append(f'#{mid_red:02x}{mid_green:02x}{mid_blue:02x}')
+
+        prev_colour=this_colour
+    
+    #to interweave colours use this:
+    # full_colours=[sub[item] for item in range(len(stock_colours)) for sub in [interp_colors,stock_colours]]
+    #for more contrast between consecutive indices:
+    full_colours = stock_colours
+    full_colours.extend(interp_colors[1:7])
+    full_colours.append(interp_colors[0])
+
+    # print(full_colours)
+
     faded_colours = list()
     dulled_colours = list()
-    for this_color in full_colours:
-        this_red=int(this_color[1:3],16)
-        this_green=int(this_color[3:5],16)
-        this_blue=int(this_color[5:7],16)
+    for this_colour in full_colours:
+        this_red=int(this_colour[1:3],16)
+        this_green=int(this_colour[3:5],16)
+        this_blue=int(this_colour[5:7],16)
 
         faded_red=int((this_red+255)/2)
         faded_green=int((this_green+255)/2)

@@ -10,7 +10,7 @@ from os.path import isfile, join
 
 
 ################### OPTIONS ########################
-gms={'Anand','Aronian','Carlsen','Caruana','Ding','Firouzja','Giri','Karjakin','Mamedyarov','Nakamura','Nepomniachtchi','Niemann','Perez','Rapport','So','Vachier-Lagrave'}
+gms={'Anand','Aronian','Carlsen','Caruana','Ding','Dominguez Perez','Firouzja','Giri','Karjakin','Mamedyarov','Nakamura','Nepomniachtchi','Niemann','Rapport','So','Vachier-Lagrave'}
 
 ####################################################
 

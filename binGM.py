@@ -2,7 +2,10 @@ import numpy as np
 import pandas as pd
 
 class binGM:
-    def __init__(self, playername,elo_min,elo_max,elo_step ):
+    def __init__(self, gm_info,elo_pack ):
+        playername,playerrank,playerelo,colour_index = gm_info
+        elo_min, elo_max, elo_step, elo_stagger = elo_pack
+        
         bins=np.arange(elo_min,elo_max+1,elo_step)
 
         df_games=pd.read_csv(f'extracted/{playername}.txt', sep='\t', header=0, dtype={'White': 'string','White ELO': 'int','Black': 'string','Black ELO': 'int','Result': 'string','Date': 'string'})
