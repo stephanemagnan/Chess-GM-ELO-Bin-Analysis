@@ -1,0 +1,796 @@
+White	White ELO	Black	Black ELO	Result	Date
+Gharibyan, Mamikon	2487	Niemann, Hans Moke	2678	0-1	2022.06.22
+Shankland, Sam	2616	Niemann, Hans Moke	2529	0-1	2022.07.10
+Dominguez Perez, Leinier	2726	Niemann, Hans Moke	2529	0-1	2022.07.11
+Oparin, Grigoriy	2685	Niemann, Hans Moke	2636	0-1	2022.02.26
+Bluebaum, Matthias	2550	Niemann, Hans Moke	2636	0-1	2022.02.26
+Martinez Alcantara, Jose Eduardo	2690	Niemann, Hans Moke	2636	0-1	2022.02.26
+Praggnanandhaa, R	2599	Niemann, Hans Moke	2632	0-1	2022.03.12
+Kovalenko, Igor	2560	Niemann, Hans Moke	2632	0-1	2022.03.26
+Lupulescu, Constantin	2557	Niemann, Hans Moke	2632	0-1	2022.04.02
+Caruana, Fabiano	2744	Niemann, Hans Moke	2632	0-1	2022.04.02
+Fedoseev, Vladimir	2726	Niemann, Hans Moke	2632	0-1	2022.04.30
+Nepomniachtchi, Ian	2795	Niemann, Hans Moke	2529	1-0	2022.08.14
+Duda, Jan-Krzysztof	2808	Niemann, Hans Moke	2529	1-0	2022.08.15
+Carlsen, Magnus	2834	Niemann, Hans Moke	2529	1-0	2022.08.16
+Praggnanandhaa, R	1927	Niemann, Hans Moke	2529	1-0	2022.08.17
+Praggnanandhaa, R	1927	Niemann, Hans Moke	2529	1-0	2022.08.17
+Giri, Anish	2721	Niemann, Hans Moke	2529	1-0	2022.08.18
+Firouzja, Alireza	2704	Niemann, Hans Moke	2529	1-0	2022.08.19
+Aronian, Levon	2728	Niemann, Hans Moke	2529	1-0	2022.08.20
+Aronian, Levon	2728	Niemann, Hans Moke	2529	1-0	2022.08.20
+Le, Quang Liem	2661	Niemann, Hans Moke	2529	1-0	2022.08.21
+Wojtaszek, Radoslaw	2636	Niemann, Hans Moke	2529	1-0	2022.09.18
+Erigaisi, Arjun	2450	Niemann, Hans Moke	2529	1-0	2022.09.19
+Giri, Anish	2721	Niemann, Hans Moke	2529	1-0	2022.09.20
+Le, Quang Liem	2661	Niemann, Hans Moke	2529	1-0	2022.09.22
+Yoo, Christopher Woojin	2009	Niemann, Hans Moke	2492	0-1	2021.06.22
+Cardoso Cardoso, Jose Gabriel	2343	Niemann, Hans Moke	2492	0-1	2021.06.21
+Yoo, Christopher Woojin	2009	Niemann, Hans Moke	2492	0-1	2021.06.22
+TanitoluwaAps116	2317	Niemann, Hans Moke	2492	0-1	2021.06.21
+TanitoluwaAps116	2333	Niemann, Hans Moke	2492	0-1	2021.06.21
+TanitoluwaAps116	2582	Niemann, Hans Moke	2492	0-1	2021.06.21
+TanitoluwaAps116	2577	Niemann, Hans Moke	2492	0-1	2021.06.21
+TanitoluwaAps116	2317	Niemann, Hans Moke	2492	0-1	2021.06.21
+TanitoluwaAps116	2579	Niemann, Hans Moke	2492	0-1	2021.06.21
+Alexander Katz	0	Hans Niemann	0	0-1	2021.06.20
+Jason Wang	0	Hans Niemann	0	0-1	2021.06.21
+Hong, Andrew	0	Hans Niemann	0	0-1	2021.06.21
+Yoo, Christopher Woojin	2105	Niemann, Hans Moke	2554	0-1	2021.07.08
+Yoo, Christopher Woojin	2105	Niemann, Hans Moke	2554	0-1	2021.07.08
+Yoo, Christopher Woojin	2105	Niemann, Hans Moke	2554	0-1	2021.07.08
+Yoo, Christopher Woojin	2105	Niemann, Hans Moke	2554	0-1	2021.07.08
+Hong, Andrew	2474	Niemann, Hans Moke	2571	0-1	2021.07.19
+Balakrishnan, Praveen	2507	Niemann, Hans Moke	2571	0-1	2021.07.17
+Li, Ben	2376	Niemann, Hans Moke	2571	0-1	2021.07.22
+Garcia Hernandez, Angel	1843	Niemann, Hans Moke	2606	0-1	2021.08.25
+De Schampheleire, Glen	2360	Niemann, Hans Moke	2606	0-1	2021.08.25
+Indjic, Aleksandar	2629	Niemann, Hans Moke	2609	0-1	2021.09.08
+Budisavljevic, Luka	2509	Niemann, Hans Moke	2609	0-1	2021.09.11
+Harutyunyan, Tigran K.	2573	Niemann, Hans Moke	2609	0-1	2021.09.24
+Bashirli, Nail	2382	Niemann, Hans Moke	2609	0-1	2021.09.28
+Bjerre, Jonas Buhl	2552	Niemann, Hans Moke	2484	1/2-1/2	Thu Jan 07 2021
+Bellahcene, Bilel	2510	Niemann, Hans Moke	2484	1/2-1/2	Tue Jan 05 2021
+Dardha, Daniel	2485	Niemann, Hans Moke	2484	1/2-1/2	Tue Jan 05 2021
+Bogosavljevic, Boban	2523	Niemann, Hans Moke	2508	1/2-1/2	Sun Apr 18 2021
+Suleymanli, Aydin	2520	Niemann, Hans Moke	2508	1/2-1/2	Tue Apr 20 2021
+Draskovic, Luka	2472	Niemann, Hans Moke	2508	1/2-1/2	Wed Apr 21 2021
+Djukic, Nikola	2515	Niemann, Hans Moke	2508	1/2-1/2	Thu Apr 22 2021
+Urh, Zala	2234	Niemann, Hans Moke	2609	0-1	2021.09.26
+Shipov, Sergei	2802	Niemann, Hans Moke	2592	0-1	2021.10.16
+De Silva, L M S T	1621	Niemann, Hans Moke	2592	0-1	2021.10.16
+Bok, Benjamin	2658	Niemann, Hans Moke	2592	0-1	2021.10.16
+Bortnyk, Olexandr	2723	Niemann, Hans Moke	2592	0-1	2021.10.16
+Sjugirov, Sanan	2654	Niemann, Hans Moke	2592	0-1	2021.10.16
+Terry, Renato	2577	Niemann, Hans Moke	2592	0-1	2021.10.17
+Martinez Alcantara, Jose Eduardo	2690	Niemann, Hans Moke	2592	0-1	2021.10.17
+Sarana, Alexey	2671	Niemann, Hans Moke	2592	0-1	2021.10.17
+Bjerre, Jonas Buhl	2569	Niemann, Hans Moke	2638	0-1	2021.11.01
+Socko, Monika	2184	Niemann, Hans Moke	2592	0-1	2021.11.08
+Sjugirov, Sanan	2653	Niemann, Hans Moke	2592	0-1	2021.11.08
+Ponkratov, Pavel	2642	Niemann, Hans Moke	2592	0-1	2021.11.08
+Grandelius, Nils	2651	Niemann, Hans Moke	2592	0-1	2021.11.08
+Koziak, Vitali	2407	Niemann, Hans Moke	2635	0-1	2021.11.13
+Muradli, Mahammad	2501	Niemann, Hans Moke	2635	0-1	2021.11.17
+Fridman, Daniel	2542	Niemann, Hans Moke	2327	0-1	2021.12.06
+Van Wely, Loek	2593	Niemann, Hans Moke	2680	0-1	2021.12.09
+Niemann, Hans Moke	2484	Bernadskiy, Vitaliy	2619	1-0	Wed Jan 06 2021
+Niemann, Hans Moke	2465	Cheah, Yet Png Nicholas	1331	1-0	Mon Jan 04 2021
+Niemann, Hans Moke	2508	Nikcevic, Nebojsa	2393	1-0	Sun Apr 18 2021
+Niemann, Hans Moke	2508	Sanal, Vahap	2572	1-0	Mon Apr 19 2021
+Aram Hakobyan	0	Hans Niemann	0	1/2-1/2	2021.06.19
+Cardoso Cardoso, Jose Gabriel	2343	Niemann, Hans Moke	2492	1/2-1/2	2021.06.21
+Cardoso Cardoso, Jose Gabriel	2343	Niemann, Hans Moke	2492	1/2-1/2	2021.06.21
+TanitoluwaAps116	2575	Niemann, Hans Moke	2492	1/2-1/2	2021.06.21
+Yoo, Christopher Woojin	2105	Niemann, Hans Moke	2554	1/2-1/2	2021.07.08
+Yoo, Christopher Woojin	2105	Niemann, Hans Moke	2554	1/2-1/2	2021.07.08
+Brodsky, David	2455	Niemann, Hans Moke	2571	1/2-1/2	2021.07.16
+Galperin, Platon	2498	Niemann, Hans Moke	2606	1/2-1/2	2021.08.26
+Rakhmanov, Aleksandr	2661	Niemann, Hans Moke	2609	1/2-1/2	2021.09.15
+Puranik, Abhimanyu	2568	Niemann, Hans Moke	2609	1/2-1/2	2021.10.01
+Muradli, Mahammad	2487	Niemann, Hans Moke	2609	1/2-1/2	2021.09.29
+Petrov, Martin	2533	Niemann, Hans Moke	2609	1/2-1/2	2021.10.03
+Goryachkina, Aleksandra	2602	Niemann, Hans Moke	2638	1/2-1/2	2021.10.30
+Sadhwani, Raunak	2609	Niemann, Hans Moke	2635	1/2-1/2	2021.11.07
+Wojtaszek, Radoslaw	2700	Niemann, Hans Moke	2635	1/2-1/2	2021.11.05
+Artemiev, Vladislav	2699	Niemann, Hans Moke	2638	1/2-1/2	2021.11.04
+Xiong, Jeffery	2699	Niemann, Hans Moke	2592	1/2-1/2	2021.11.08
+Sindarov, Javokhir	2587	Niemann, Hans Moke	2635	1/2-1/2	2021.11.14
+Sjugirov, Sanan	2663	Niemann, Hans Moke	2635	1/2-1/2	2021.11.18
+Mchedlishvili, Mikheil	2589	Niemann, Hans Moke	2327	1/2-1/2	2021.12.06
+Kovalev, Vladislav	2647	Niemann, Hans Moke	2327	1/2-1/2	2021.12.07
+Niemann, Hans Moke	2508	Kisic, Bozidar	2263	1-0	Tue Apr 20 2021
+Niemann, Hans Moke	2508	Sanal, Vahap	2572	1-0	Sat Apr 24 2021
+Niemann, Hans Moke	2508	Osmak, Iulija	2428	1-0	Wed Apr 28 2021
+Niemann, Hans Moke	2508	Nikac, Predrag	2318	1-0	Mon Apr 26 2021
+Niemann, Hans Moke	2492	Kukhmazov, Arsen	2453	1-0	2021.06.15
+Niemann, Hans Moke	2492	Rostovtsev, Dmitry	2143	1-0	2021.06.15
+Niemann, Hans Moke	2492	Ulziikhishigjargal, Ochirkhuyag	1836	1-0	2021.06.15
+Hans Niemann	0	Shelev Oberoi	0	1-0	2021.06.17
+Hans Niemann	0	Atulya Arya Shetty	0	1-0	2021.06.19
+Niemann, Hans Moke	2492	Cardoso Cardoso, Jose Gabriel	2343	1-0	2021.06.21
+Niemann, Hans Moke	2492	Cardoso Cardoso, Jose Gabriel	2343	1-0	2021.06.21
+Niemann, Hans Moke	2492	Yoo, Christopher Woojin	2009	1-0	2021.06.22
+Niemann, Hans Moke	2492	Yoo, Christopher Woojin	2009	1-0	2021.06.22
+Niemann, Hans Moke	2492	Yoo, Christopher Woojin	2009	1-0	2021.06.22
+Niemann, Hans Moke	2492	Yoo, Christopher Woojin	2009	1-0	2021.06.21
+Niemann, Hans Moke	2492	TanitoluwaAps116	2317	1-0	2021.06.21
+Niemann, Hans Moke	2492	TanitoluwaAps116	2317	1-0	2021.06.21
+Niemann, Hans Moke	2492	TanitoluwaAps116	2584	1-0	2021.06.21
+Niemann, Hans Moke	2492	TanitoluwaAps116	2576	1-0	2021.06.21
+Niemann, Hans Moke	2492	TanitoluwaAps116	2580	1-0	2021.06.21
+Niemann, Hans Moke	2492	TanitoluwaAps116	2578	1-0	2021.06.21
+Hans Niemann	0	James Dean	0	1-0	2021.06.21
+Hans Niemann	0	Steven Zierk	0	1-0	2021.06.21
+Niemann, Hans Moke	2554	Yoo, Christopher Woojin	2105	1-0	2021.07.08
+Niemann, Hans Moke	2554	Yoo, Christopher Woojin	2105	1-0	2021.07.08
+Niemann, Hans Moke	2571	Checa, Nicolas	2552	1-0	2021.07.18
+Niemann, Hans Moke	2606	Campora, Daniel H.	2401	1-0	2021.08.26
+Niemann, Hans Moke	2606	Garcia Romero, Benjamin Abel	2248	1-0	2021.08.25
+Niemann, Hans Moke	2606	Yankelevich, Lev	2412	1-0	2021.08.27
+Niemann, Hans Moke	2609	Rios, Cristhian Camilo	2466	1-0	2021.09.18
+Niemann, Hans Moke	2609	Dushyant, Sharma	2332	1-0	2021.09.17
+Niemann, Hans Moke	2609	Amin, Bassem	2704	1-0	2021.09.20
+Niemann, Hans Moke	2609	Nikolov, Momchil	2522	1-0	2021.09.23
+Niemann, Hans Moke	2609	Ochedzan, Tymon	2300	1-0	2021.09.30
+Niemann, Hans Moke	2592	Rychagov, Andrey	2500	1-0	2021.10.16
+Niemann, Hans Moke	2592	Savchenko, Boris	2526	1-0	2021.10.16
+Niemann, Hans Moke	2592	Nogerbek, Kazybek	2436	1-0	2021.10.16
+Niemann, Hans Moke	2592	Orozbaev, Eldiar	1911	1-0	2021.10.16
+Niemann, Hans Moke	2592	Sarana, Alexey	2671	1-0	2021.10.16
+Niemann, Hans Moke	2592	Terry, Renato	2577	1-0	2021.10.17
+Niemann, Hans Moke	2592	Shimanov, Aleksandr	2570	1-0	2021.10.17
+Niemann, Hans Moke	2638	Sindarov, Javokhir	2587	1-0	2021.11.03
+Niemann, Hans Moke	2592	Socko, Monika	2184	1-0	2021.11.08
+Niemann, Hans Moke	2592	Bluebaum, Matthias	2681	1-0	2021.11.08
+Niemann, Hans Moke	2592	Sjugirov, Sanan	2653	1-0	2021.11.08
+Niemann, Hans Moke	2592	Paravyan, David	2639	1-0	2021.11.08
+Niemann, Hans Moke	2592	Kravtsiv, Martyn	2660	1-0	2021.11.08
+Niemann, Hans Moke	2592	Ponkratov, Pavel	2642	1-0	2021.11.08
+Niemann, Hans Moke	2635	Vokhidov, Shamsiddin	2521	1-0	2021.11.14
+Niemann, Hans Moke	2635	Rakhmatullaev, Almas	2183	1-0	2021.11.13
+Niemann, Hans Moke	2492	SpeedofLight0	2794	0-1	2021.06.15
+Hans Niemann	0	Arthur Guo	0	0-1	2021.06.19
+Niemann, Hans Moke	2492	Cardoso Cardoso, Jose Gabriel	2343	0-1	2021.06.21
+Niemann, Hans Moke	2492	Cardoso Cardoso, Jose Gabriel	2343	0-1	2021.06.21
+Niemann, Hans Moke	2492	Yoo, Christopher Woojin	2009	0-1	2021.06.22
+Niemann, Hans Moke	2492	Yoo, Christopher Woojin	2009	0-1	2021.06.22
+Niemann, Hans Moke	2492	TanitoluwaAps116	2317	0-1	2021.06.21
+Hans Niemann	0	Illya Nyzhnyk	0	0-1	2021.06.20
+Niemann, Hans Moke	2554	Yoo, Christopher Woojin	2105	0-1	2021.07.08
+Niemann, Hans Moke	2554	Yoo, Christopher Woojin	2105	0-1	2021.07.08
+Niemann, Hans Moke	2554	Yoo, Christopher Woojin	2105	0-1	2021.07.08
+Niemann, Hans Moke	2554	Yoo, Christopher Woojin	2105	0-1	2021.07.08
+Niemann, Hans Moke	2554	Yoo, Christopher Woojin	2105	0-1	2021.07.08
+Niemann, Hans Moke	2554	Yoo, Christopher Woojin	2105	0-1	2021.07.08
+Niemann, Hans Moke	2554	Yoo, Christopher Woojin	2105	0-1	2021.07.08
+Niemann, Hans Moke	2635	Dzhumaev, Marat	2445	1-0	2021.11.16
+Niemann, Hans Moke	2635	Vakhidov, Jakhongir	2557	1-0	2021.11.16
+Niemann, Hans Moke	2327	Maghsoodloo, Parham	2512	1-0	2021.12.07
+Niemann, Hans Moke	2327	Pichot, Alan	2523	1-0	2021.12.07
+Niemann, Hans Moke	2680	Jumabayev, Rinat	2536	1-0	2021.12.09
+Niemann, Hans Moke	2680	Fridman, Daniel	2663	1-0	2021.12.09
+Niemann, Hans Moke	2680	Abdumalik, Zhansaya	2380	1-0	2021.12.09
+Niemann, Hans Moke	2680	Iordachescu, Viorel	2534	1-0	2021.12.09
+Niemann, Hans Moke	2680	Meier, Georg	2584	1-0	2021.12.09
+Niemann, Hans Moke	2327	Erdos, Viktor	2601	1-0	2021.12.08
+Niemann, Hans Moke	2484	Warmerdam, Max	25	1/2-1/2	Thu Jan 07 2021
+Niemann, Hans Moke	2484	Moroni, Luca Jr	2560	1/2-1/2	Wed Jan 06 2021
+Niemann, Hans Moke	2508	Potpara, Nikola	2370	1/2-1/2	Sat Apr 17 2021
+Niemann, Hans Moke	2508	Suleymanli, Aydin	2520	1/2-1/2	Sun Apr 25 2021
+Hans Niemann	0	Justin Wang	0	1/2-1/2	2021.06.18
+Niemann, Hans Moke	2492	Yoo, Christopher Woojin	2009	1/2-1/2	2021.06.22
+Niemann, Hans Moke	2492	Cardoso Cardoso, Jose Gabriel	2343	1/2-1/2	2021.06.21
+Hans Niemann	0	Aram Hakobyan	0	1/2-1/2	2021.06.21
+Niemann, Hans Moke	2554	Yoo, Christopher Woojin	2105	1/2-1/2	2021.07.08
+Niemann, Hans Moke	2554	Yoo, Christopher Woojin	2105	0-1	2021.07.08
+Niemann, Hans Moke	2554	Yoo, Christopher Woojin	2105	1/2-1/2	2021.07.08
+Niemann, Hans Moke	2554	Yoo, Christopher Woojin	2105	1/2-1/2	2021.07.08
+Niemann, Hans Moke	2554	Yoo, Christopher Woojin	2105	0-1	2021.07.08
+Niemann, Hans Moke	2554	Yoo, Christopher Woojin	2105	0-1	2021.07.08
+Niemann, Hans Moke	2554	Yoo, Christopher Woojin	2105	1/2-1/2	2021.07.08
+Niemann, Hans Moke	2571	Burke, John M	2538	1/2-1/2	2021.07.20
+Niemann, Hans Moke	2571	Wang, Justin	2467	1/2-1/2	2021.07.23
+Niemann, Hans Moke	2592	Nakamura, Hikaru	2884	0-1	2021.10.16
+Niemann, Hans Moke	2592	Martinez Alcantara, Jose Eduardo	2690	0-1	2021.10.17
+Niemann, Hans Moke	2592	Sarana, Alexey	2671	0-1	2021.10.17
+Niemann, Hans Moke	2635	Xiong, Jeffery	2687	0-1	2021.11.06
+Niemann, Hans Moke	2592	Adly, Ahmed	2683	0-1	2021.11.08
+Niemann, Hans Moke	2592	Xiong, Jeffery	2699	0-1	2021.11.08
+Niemann, Hans Moke	2592	Grandelius, Nils	2651	0-1	2021.11.08
+Niemann, Hans Moke	2680	Pichot, Alan	2629	0-1	2021.12.09
+Perunovic, Milos	0	Niemann, Hans M	0	1-0	Fri Feb 28 2020
+Edouard,R	2640	Niemann,Hans Moke	2465	1-0	2020.01.06
+Amin,B	2673	Niemann,Hans Moke	2465	1-0	2020.01.06
+Braun,A	2605	Niemann,Hans Moke	2465	1-0	2020.01.06
+Gajewski,G	2614	Niemann,Hans Moke	2459	1-0	2020.01.06
+Dragun,K	2584	Niemann,Hans Moke	2459	1-0	2020.01.06
+Paragua, Mark	0	Niemann, Hans M	0	1-0	Sat Feb 29 2020
+Santos Ruiz, Miguel	2581	Niemann, Hans Moke	2465	1-0	Tue Dec 15 2020
+Fier, Alexandr	2562	Niemann, Hans Moke	2465	1-0	Wed Dec 23 2020
+Niemann, Hans Moke	2571	Jacobson, Brandon	2504	1/2-1/2	2021.07.25
+Niemann, Hans Moke	2609	Ivic, Velimir	2603	1/2-1/2	2021.09.11
+Niemann, Hans Moke	2609	Stojanovic, Dalibor	2483	1/2-1/2	2021.09.12
+Niemann, Hans Moke	2609	Sanal, Vahap	2561	1/2-1/2	2021.09.16
+Niemann, Hans Moke	2609	Nisipeanu, Liviu-Dieter	2657	1/2-1/2	2021.09.21
+Niemann, Hans Moke	2609	Ioannidis, Evgenios	2445	1/2-1/2	2021.09.28
+Niemann, Hans Moke	2609	Papadiamandis, Elliot	2404	1/2-1/2	2021.09.27
+Niemann, Hans Moke	2609	Adhiban, B.	2672	1/2-1/2	2021.09.25
+Niemann, Hans Moke	2609	Sarana, Alexey	2635	1/2-1/2	2021.10.02
+Niemann, Hans Moke	2592	Matinian, Nikita	2464	1/2-1/2	2021.10.16
+Niemann, Hans Moke	2592	Zubov, Alexander	2685	1/2-1/2	2021.10.16
+Niemann, Hans Moke	2638	Vachier-Lagrave, Maxime	2763	1/2-1/2	2021.10.27
+Niemann, Hans Moke	2638	Nguyen, Thai Dai Van	2577	1/2-1/2	2021.10.29
+Niemann, Hans Moke	2638	Ter-Sahakyan, Samvel	2607	1/2-1/2	2021.10.31
+Niemann, Hans Moke	2635	Utegaliyev, Azamat	2488	1/2-1/2	2021.11.13
+Niemann, Hans Moke	2327	Iordachescu, Viorel	2623	1/2-1/2	2021.12.06
+Wang, Kevin	0	Niemann, Hans M	0	0-1	Thu Feb 27 2020
+Niemann, Hans M	0	Korley, Kassa	0	1-0	Fri Feb 28 2020
+Bacrot,E	2679	Niemann,Hans Moke	2465	0-1	2020.01.06
+Niemann,Hans Moke	2465	Lagarde,Max	2651	1-0	2020.01.06
+Niemann,Hans Moke	2465	Meshkovs,Nikita	2565	1-0	2020.01.06
+Berg,E	2544	Niemann,Hans Moke	2465	0-1	2020.01.06
+Mons,L	2554	Niemann,Hans Moke	2465	0-1	2020.01.06
+Niemann,Hans Moke	2465	Bezold,M	2479	1-0	2020.01.06
+Moroni,L	2532	Niemann,Hans Moke	2465	1/2-1/2	2020.01.06
+Sonis,Francesco	2458	Niemann,Hans Moke	2465	0-1	2020.01.06
+Niemann,Hans Moke	2459	Czarnota,P	2502	1-0	2020.01.06
+Yoo, Christopher Woojin	0	Niemann, Hans M	0	0-1	Sun Mar 01 2020
+Khamrakulov, Djurabek	0	Niemann, Hans M	0	1/2-1/2	Sun Mar 01 2020
+Niemann, Hans M	0	Colas, Joshua	0	1-0	Mon Mar 02 2020
+Niemann, Hans M	0	Kaliksteyn, Alexander	0	1-0	Sat Feb 29 2020
+Loiacono, Antonio	2323	Niemann, Hans Moke	2465	0-1	Tue Dec 29 2020
+Niemann, Hans Moke	2465	Dalaud, Dorian	2242	1-0	Mon Dec 14 2020
+Niemann, Hans Moke	2465	Basso, Pier Luigi	2570	1-0	Wed Dec 30 2020
+Kanov, Nikola	2079	Niemann, Hans Moke	2465	0-1	Sun Dec 13 2020
+Moroni, Luca Jr	2551	Niemann, Hans Moke	2465	1/2-1/2	Wed Dec 30 2020
+Mitran, Anthony Cristian	2157	Niemann, Hans Moke	2465	0-1	Tue Dec 29 2020
+Bernadskiy, Vitaliy	2629	Niemann, Hans Moke	2465	1/2-1/2	Tue Dec 29 2020
+Samoun, Florent	2293	Niemann, Hans Moke	2465	1/2-1/2	Tue Dec 29 2020
+Carbonell Sancho, Marc	2274	Niemann, Hans Moke	2465	0-1	Thu Dec 17 2020
+Cheparinov, Ivan	2686	Niemann, Hans Moke	2465	1-0	Mon Dec 21 2020
+Edouard,R	2643	Niemann,Hans	2466	1-0	2019.01.08
+Postny,E	2623	Niemann,Hans	2466	1-0	2019.01.08
+Wang Qibiao	2240	Niemann,Hans	2477	1-0	2019.04.17
+Vigorito,D	2330	Niemann,Hans	2477	1-0	2019.04.17
+Boekhoff,A	2284	Niemann,Hans	2467	1-0	2019.07.03
+Narayanan,Samrug	2200	Niemann,Hans	2467	1-0	2019.07.03
+Jacobson,Brandon	2456	Niemann,Hans	2467	1-0	2019.07.11
+Liang,Awonder	2592	Niemann,Hans	2467	1-0	2019.07.11
+Husbands,Orlando	2279	Niemann,Hans	2460	1-0	2019.06.27
+Bryant,J	2434	Niemann,Hans	2460	1-0	2019.06.27
+Nyzhnyk,I	2649	Niemann,Hans	2460	1-0	2019.06.27
+Niemann,Hans Moke	2465	Vachier Lagrave,M	2770	0-1	2020.01.06
+Niemann,Hans Moke	2465	Blomqvist,E	2539	0-1	2020.01.06
+Niemann,Hans Moke	2465	Korobov,A	2685	0-1	2020.01.06
+Niemann,Hans Moke	2465	Moiseenko,A1	2620	0-1	2020.01.06
+Niemann,Hans Moke	2465	Valsecchi,A	2512	1/2-1/2	2020.01.06
+Niemann,Hans Moke	2459	Bartel,Mat	2639	0-1	2020.01.06
+Niemann, Hans M	0	Wang, Qibiao	0	0-1	Sat Feb 29 2020
+Niemann, Hans Moke	2465	Persico, Lorenzo	1933	1-0	Tue Dec 29 2020
+Niemann, Hans Moke	2465	Dardha, Daniel	2468	0-1	Tue Dec 29 2020
+Niemann, Hans Moke	2465	Orfini, Nicolo`	2278	1-0	Tue Dec 29 2020
+Niemann, Hans Moke	2465	Souhardo, Basak	2216	1-0	Wed Dec 16 2020
+Niemann, Hans Moke	2465	Maze, Sebastien	2557	1-0	Tue Dec 22 2020
+Niemann, Hans Moke	2465	Cornette, Matthieu	2558	1-0	Sat Dec 19 2020
+Niemann, Hans Moke	2465	Moussard, Jules	2626	1/2-1/2	Sun Dec 20 2020
+Sjugirov, Sanan	2602	Niemann, Hans Moke	2632	0-1	2022.05.14
+Shimanov, Aleksandr	2605	Niemann, Hans Moke	2632	0-1	2022.06.04
+Paravyan, David	2569	Niemann, Hans Moke	2632	0-1	2022.06.04
+Martinez Alcantara, Jose Eduardo	2690	Niemann, Hans Moke	2632	0-1	2022.06.04
+Demchenko, Anton	2539	Niemann, Hans Moke	2636	0-1	2022.02.12
+Tomashevsky, Evgeny	2695	Niemann, Hans Moke	2636	0-1	2022.02.12
+Early_Ghost	2282	Niemann, Hans Moke	2577	0-1	2022.07.15
+Xu, Yi	2471	Niemann, Hans Moke	2632	0-1	2022.07.15
+Johny_v2	2202	Niemann, Hans Moke	2632	0-1	2022.07.25
+Ohanyan, Emin	1927	Niemann, Hans Moke	2632	0-1	2022.07.29
+Skliarov, Viktor	2257	Niemann, Hans Moke	2632	0-1	2022.07.29
+Manukian, Artak	2346	Niemann, Hans Moke	2632	0-1	2022.07.29
+Sevian, Samuel	2569	Niemann, Hans Moke	2529	0-1	2022.07.31
+Vasquez Schroeder, Rodrigo	2567	Niemann, Hans Moke	2632	0-1	2022.07.30
+Nguyen, Duc Hoa	2225	Niemann, Hans Moke	2632	0-1	2022.07.30
+Ponkratov, Pavel	2493	Niemann, Hans Moke	2632	0-1	2022.08.06
+Azarov, Sergei	2494	Niemann, Hans Moke	2632	0-1	2022.08.06
+Nepomniachtchi, Ian	2791	Niemann, Hans Moke	2632	0-1	2022.08.06
+Salem, A.R. Saleh	2674	Niemann, Hans Moke	2632	0-1	2022.08.06
+Nakamura, Hikaru	2850	Niemann, Hans Moke	2632	0-1	2022.08.07
+Caruana, Fabiano	2847	Niemann, Hans Moke	2632	0-1	2022.08.13
+Sjugirov, Sanan	2609	Niemann, Hans Moke	2632	0-1	2022.08.13
+Carlsen, Magnus	2834	Niemann, Hans Moke	2529	0-1	2022.08.16
+Giri, Anish	2721	Niemann, Hans Moke	2529	0-1	2022.08.18
+Kobalia, Mikhail	2578	Niemann, Hans Moke	2687	0-1	2022.08.24
+Barbosa, Oliver	0	Niemann, Hans M	0	0-1	Fri Nov 15 2019
+Korley, Kassa	0	Niemann, Hans M	0	1/2-1/2	Sat Nov 16 2019
+Steingrimsson, Hedinn	0	Niemann, Hans M	0	0-1	Sun Nov 17 2019
+Paragua, Mark	0	Niemann, Hans M	0	1/2-1/2	Mon Nov 18 2019
+Tan,Ju2	2502	Niemann,Hans	2466	0-1	2019.01.08
+Wang,Wesley	2318	Niemann,Hans	2477	0-1	2019.04.17
+Sinha,Sahil	2265	Niemann,Hans	2477	0-1	2019.04.17
+Wu,Rochelle	2184	Niemann,Hans	2460	0-1	2019.06.19
+Costello,Alexander	2297	Niemann,Hans	2460	0-1	2019.06.19
+Hong,Andrew	2414	Niemann,Hans	2460	0-1	2019.06.19
+Zhou,Aiden	2074	Niemann,Hans	2467	0-1	2019.07.03
+Barretto,Franz	2121	Niemann,Hans	2460	0-1	2019.06.27
+Melkumyan,H	2661	Niemann,Hans Moke	2423	0-1	2019.08.21
+Guo,Arthur	2346	Niemann,Hans Moke	2423	0-1	2019.08.21
+Macieja,B	2513	Niemann,Hans Moke	2423	1-0	2019.08.21
+Raahul,V S	2262	Niemann,Hans Moke	2439	0-1	2019.10.02
+Raja,Rithvik R	2369	Niemann,Hans Moke	2439	0-1	2019.10.02
+Turgut,Aydin	2281	Niemann,Hans Moke	2439	0-1	2019.10.02
+Soto,Miguel Angel	2283	Niemann,Hans Moke	2439	0-1	2019.10.02
+Aronyak,Ghosh	2380	Niemann,Hans Moke	2439	1-0	2019.10.02
+Cardoso Cardoso,Jose Gabriel	2313	Niemann,Hans Moke	2439	1-0	2019.10.02
+Steingrimsson,H	2549	Niemann,Hans Moke	2436	0-1	2019.11.14
+Paragua,M	2496	Niemann,Hans Moke	2436	1-0	2019.11.18
+Vijay,Ke	2200	Niemann,Hans Moke	2471	1-0	2019.12.26
+Arias,M	2232	Niemann,Hans Moke	2471	0-1	2019.12.26
+Niemann, Hans M	0	Yudasin, Leonid	0	1-0	Thu Nov 14 2019
+Niemann, Hans M	0	Panjwani, Raja	0	1-0	Fri Nov 15 2019
+Niemann, Hans M	0	Krush, Irina	0	1-0	Sat Nov 16 2019
+Niemann,Hans	2466	Movsesian,S	2629	1-0	2019.01.08
+Khamrakulov,D	2503	Niemann,Hans	2466	1/2-1/2	2019.01.08
+Niemann,Hans	2466	Yu,Jennifer	2313	1-0	2019.01.08
+Le Tuan Minh	2515	Niemann,Hans	2466	1/2-1/2	2019.01.08
+Niemann,Hans	2477	Rajesh,C	2143	1-0	2019.04.17
+Niemann,Hans	2477	Sandler,L	2223	1-0	2019.04.17
+Niemann,Hans	2460	Ke,Ivan	2332	1-0	2019.06.19
+Niemann,Hans	2460	Shlyakhtenko,Robert	2206	1-0	2019.06.19
+Niemann,Hans	2467	Banerjee,Abhimanyu	2037	1-0	2019.07.03
+Niemann,Hans	2467	Mujumdar,Sameer	2106	1-0	2019.07.03
+Liang,Jason	2049	Niemann,Hans	2467	1/2-1/2	2019.07.03
+Niemann,Hans	2467	Yu,Jennifer	2341	1-0	2019.07.11
+Niemann,Hans	2467	Hilby,Craig	2433	1-0	2019.07.11
+Tang,Andrew	2495	Niemann,Hans	2467	1/2-1/2	2019.07.11
+Burke,John M	2562	Niemann,Hans	2467	1/2-1/2	2019.07.11
+Vaidya,Atulya	2118	Niemann,Hans	2467	1/2-1/2	2019.07.11
+Niemann,Hans	2460	Graif,William	2218	1-0	2019.06.27
+Niemann,Hans	2460	Li,Ben	2367	1-0	2019.06.27
+Niemann,Hans	2460	Plotkin,V	2297	1-0	2019.06.27
+Quesada Perez,Ya	2582	Niemann,Hans Moke	2423	1/2-1/2	2019.08.21
+Zhao,Ian	2320	Niemann,Hans Moke	2471	1/2-1/2	2019.12.26
+Liu,Bovey	2230	Niemann,Hans Moke	2471	1/2-1/2	2019.12.26
+Niemann, Hans M	0	Khamrakulov, Djurabek	0	0-1	Thu Nov 14 2019
+Niemann, Hans M	0	Sturt, Raven M	0	0-1	Sun Nov 17 2019
+Niemann,Hans	2466	Royal,Shreyas	1892	0-1	2019.01.08
+Niemann,Hans	2466	Xu,Grant	2207	0-1	2019.01.08
+Niemann,Hans	2466	Erenburg,S	2589	0-1	2019.01.08
+Niemann,Hans	2477	Burke,John M	2550	0-1	2019.04.17
+Niemann,Hans	2477	Durarbayli,V	2628	1/2-1/2	2019.04.17
+Niemann,Hans	2460	Stearman,Josiah	2297	0-1	2019.06.19
+Niemann,Hans	2460	Wang,Justin	2444	1/2-1/2	2019.06.19
+Niemann,Hans	2467	Kretchetov,A	2216	1/2-1/2	2019.07.03
+Niemann,Hans	2467	Sheng,Joshua	2449	0-1	2019.07.11
+Niemann,Hans	2467	Checa,Nicolas	2506	1/2-1/2	2019.07.11
+Niemann,Hans	2460	Peredun,A	2344	1/2-1/2	2019.06.27
+Niemann,Hans Moke	2423	Ortiz Suarez,I	2551	0-1	2019.08.21
+Niemann,Hans Moke	2423	Green,Au	2103	1-0	2019.08.21
+Niemann,Hans Moke	2439	Karthik,Sai Ch	2046	1-0	2019.10.02
+Niemann,Hans Moke	2439	Makarian,Rudik	2386	1-0	2019.10.02
+Niemann,Hans Moke	2439	Daghli,Arash	2387	0-1	2019.10.02
+Niemann,Hans Moke	2436	Paragua,M	2496	1-0	2019.11.18
+Niemann,Hans Moke	2436	Khamrakulov,D	2517	0-1	2019.11.18
+Niemann,Hans Moke	2471	Krishnakumar,Sriram	2079	1-0	2019.12.26
+Niemann,Hans Moke	2471	Chen,Alex	2064	1-0	2019.12.26
+Niemann,Hans Moke	2471	Lehmann,Spencer	2236	1-0	2019.12.26
+Niemann,Hans Moke	2471	Aoshima,Mirai	2361	0-1	2019.12.26
+Niemann,Hans Moke	2471	Peng,Shunkai	2315	1-0	2019.12.26
+Ynojosa, F.	2387	Niemann, Hans	2348	1-0	2018.01.18
+Stukopin, A.	2590	Niemann, Hans	2348	1/2-1/2	2018.01.18
+Wang, E.	2162	Niemann, Hans	2302	1/2-1/2	2018.03.28
+Miyasaka, Marcus	2134	Niemann, Hans	2302	1/2-1/2	2018.03.28
+Tang, Andrew	2509	Niemann, Hans	2302	1-0	2018.03.28
+Gorovets, A.	2496	Niemann, Hans	2302	0-1	2018.03.28
+Dukic, Zachary	2118	Niemann, Hans	2313	1/2-1/2	2018.06.28
+Lenderman, A.	2615	Niemann, Hans	2313	1/2-1/2	2018.06.28
+Boris, Peter	1853	Niemann, Hans	2313	0-1	2018.06.28
+Raja, H.	2442	Niemann, Hans	2313	1-0	2018.07.04
+Gorovets, A.	2498	Niemann, Hans	2313	0-1	2018.07.04
+Ewing, Gabriel	2032	Niemann, Hans	2313	0-1	2018.07.04
+Erenburg, S.	2564	Niemann, Hans	2329	1-0	2018.08.17
+Wang, Annie	2288	Niemann, Hans	2329	0-1	2018.08.30
+Wang, Wesley	2328	Niemann, Hans	2329	1-0	2018.08.30
+Jacobson, Aaron	2254	Niemann, Hans	2329	0-1	2018.08.30
+Badelka, Olga	2390	Niemann, Hans	2439	0-1	2018.11.25
+Baidetskyi, Valentin	2398	Niemann, Hans	2439	0-1	2018.11.25
+Bivol, Alina	2403	Niemann, Hans	2439	0-1	2018.11.16
+Kevlishvili, Robby	2451	Niemann, Hans	2439	1-0	2018.11.16
+Kiewra, Keaton F	2364	Niemann, Hans	2439	0-1	2018.11.16
+Martins, Bruno Andre Leite	2205	Niemann, Hans	2439	0-1	2018.11.25
+Patel, Advait	2467	Niemann, Hans	2439	1-0	2018.11.16
+Niemann,Hans Moke	2423	Stukopin,A	2568	1/2-1/2	2019.08.21
+Niemann,Hans Moke	2439	Stork,Oliver	2314	1/2-1/2	2019.10.02
+Niemann, Hans	2348	Bortnyk, Olexandr	2610	1-0	2018.01.18
+Niemann, Hans	2348	Ruiz C, J.	2368	1-0	2018.01.18
+Niemann, Hans	2302	Oberoi, Shelev	1924	1-0	2018.03.28
+Niemann, Hans	2302	Slade, Theodore	2020	1-0	2018.03.28
+Niemann, Hans	2302	Subervi, J.	2145	1-0	2018.03.28
+Niemann, Hans	2302	Balakrishnan, Praveen	2405	0-1	2018.03.28
+Niemann, Hans	2313	Perske, Thore	2464	0-1	2018.06.28
+Niemann, Hans	2313	Lux, Hugo de Melo	2154	1-0	2018.07.04
+Niemann, Hans	2313	Chen, Forest	2107	1-0	2018.07.04
+Puranik, A.	2507	Niemann, Hans	2313	1/2-1/2	2018.07.04
+Niemann, Hans	2313	Bartochowski, Nicholas	2013	1-0	2018.07.04
+Shabalov, A.	2584	Niemann, Hans	2329	1/2-1/2	2018.08.17
+Niemann, Hans	2329	Stukopin, A.	2598	1-0	2018.08.17
+Niemann, Hans	2329	Huschenbeth, N.	2590	1-0	2018.08.17
+Diulger, A.	2334	Niemann, Hans	2329	1/2-1/2	2018.08.30
+Niemann, Hans	2329	Arjun, V.	2224	1-0	2018.08.30
+Niemann, Hans	2329	Adamson, R.	2210	1-0	2018.08.30
+Gauri, S.	2345	Niemann, Hans	2329	1/2-1/2	2018.08.30
+Barseghyan, Armen Ar.	2386	Niemann, Hans	2439	1/2-1/2	2018.11.25
+Niemann, Hans	2439	Yakubboev, Nodirbek	2549	1-0	2018.11.25
+Niemann, Hans	2439	Tanriverdi, Enes	2317	1-0	2018.11.25
+Niemann, Hans	2439	Csiki, Endre	2282	1-0	2018.11.25
+Niemann, Hans	2439	Ozturk, Efe Hakan	2083	1-0	2018.11.25
+Niemann, Hans	2439	Gurevich, D	2393	1-0	2018.11.16
+Niemann, Hans	2439	Ali Marandi, Cemil Can	2552	1-0	2018.11.16
+Sevian, Samuel	2574	Niemann, Hans M	2281	1-0	2017.04.12
+Lin, Andy	2147	Niemann, Hans M	2282	1-0	2017.05.25
+Barbosa, O PHI.	2511	Niemann, Hans M	2282	1-0	2017.06.30
+Li, Ruifeng	2571	Niemann, Hans M	2282	1-0	2017.06.24
+Copeland, Sam S	2118	Niemann, Hans M	2282	1-0	2017.06.30
+Elezi, Luan	2116	Niemann, Hans M	2282	1-0	2017.06.30
+Sheng, Joshua	2392	Niemann, Hans	2297	1-0	2017.12.26
+Niemann, Hans	2302	Popilski, G.	2502	1/2-1/2	2018.03.28
+Niemann, Hans	2313	Graif, William	2156	1/2-1/2	2018.06.28
+Niemann, Hans	2313	Xu, Arthur	1955	1/2-1/2	2018.06.28
+Niemann, Hans	2313	Erenburg, S.	2563	1/2-1/2	2018.06.28
+Niemann, Hans	2313	Titus, Andrew	2118	0-1	2018.07.04
+Niemann, Hans	2313	Vorontsov, P.	2564	0-1	2018.07.04
+Niemann, Hans	2329	Ortiz Suarez, I.	2549	1/2-1/2	2018.08.17
+Niemann, Hans	2329	Sevian, Samuel	2645	1/2-1/2	2018.08.17
+Niemann, Hans	2329	Martin del Campo, R.	2314	1/2-1/2	2018.08.30
+Niemann, Hans	2329	Yu, Jennifer	2327	1/2-1/2	2018.08.30
+Haessel, Dale R	2205	Niemann, Hans M	2254	1-0	2017.08.02
+Li, Ben	2305	Niemann, Hans M	2254	1-0	2017.08.17
+Li, Ben	2305	Niemann, Hans M	2254	1-0	2017.08.17
+Moradiabadi, Elshan	2530	Niemann, Hans M	2254	1-0	2017.08.02
+Niemann, Hans	2439	Pour Agha Bala, Amirreza	2319	0-1	2018.11.25
+Niemann, Hans	2439	Boros, Denes	2442	1/2-1/2	2018.11.16
+Niemann, Hans	2439	Shtembuliak, Evgeny	2487	1/2-1/2	2018.11.16
+Niemann, Hans	2439	Balakrishnan, Praveen	2409	1/2-1/2	2018.11.16
+Fernandez, Nelson Wilfredo	1922	Niemann, Hans M	2281	1/2-1/2	2017.04.12
+Niemann, Hans M	2281	Senft, Sean	1983	1-0	2017.04.12
+Hong, Andrew Z	2383	Niemann, Hans M	2282	0-1	2017.05.25
+Niemann, Hans M	2282	Ulrich, Rachel J	2073	1-0	2017.05.25
+Troff, Kayden W	2482	Niemann, Hans M	2282	1/2-1/2	2017.05.25
+Eswaran, Ashritha	2086	Niemann, Hans M	2282	0-1	2017.06.24
+Lee, Jayden Z	1689	Niemann, Hans M	2282	0-1	2017.06.24
+Corrales Jimenez, F.	2524	Niemann, Hans M	2282	0-1	2017.06.30
+Niemann, Hans M	2282	Zhu, Qingyu	1964	1-0	2017.06.30
+Hernandez Carmenates, Hold	2510	Niemann, Hans M	2282	1/2-1/2	2017.06.24
+Niemann, Hans M	2282	Harshita, Guddanti	2023	1-0	2017.06.24
+Macaspac, A.	2059	Niemann, Hans M	2282	0-1	2017.06.24
+Eswaran, Ashritha	2086	Niemann, Hans M	2282	0-1	2017.06.24
+Lee, Jayden Z	1689	Niemann, Hans M	2282	0-1	2017.06.24
+Shen, Shiyan	2019	Niemann, Hans	2297	0-1	2017.12.26
+Arvind, C.	2166	Niemann, Hans	2297	1/2-1/2	2017.12.26
+Kirumaki, Ronit	2050	Niemann, Hans	2297	1/2-1/2	2017.12.26
+Huang, Andy	2178	Niemann, Hans M	2254	0-1	2017.08.17
+Kim, Yoon-Young	2293	Niemann, Hans M	2254	1/2-1/2	2017.08.17
+Nguyen, Emily	2110	Niemann, Hans M	2254	1-0	2017.08.17
+Sambuev, Bator	2522	Niemann, Hans M	2254	1-0	2017.08.02
+Shen, Christopher Y	2167	Niemann, Hans M	2254	1/2-1/2	2017.08.17
+Titus, Andrew L	2131	Niemann, Hans M	2254	1/2-1/2	2017.08.17
+Yip, Carissa	2187	Niemann, Hans M	2254	0-1	2017.08.17
+Daniluk,Ji	1909	Niemann,Hans M	2254	0-1	2017.08.02
+Niemann, Hans M	2281	Wang, Jason	2026	0-1	2017.04.12
+Niemann, Hans M	2282	Nakar, Ey	2476	1/2-1/2	2017.05.25
+Niemann, Hans M	2282	Belous, V.	2587	0-1	2017.05.25
+Niemann, Hans M	2282	Sarkar, J.	2375	0-1	2017.05.25
+Niemann, Hans M	2282	Paragua, M.	2520	0-1	2017.06.24
+Niemann, Hans M	2282	Nakar, Ey	2476	0-1	2017.06.24
+Niemann, Hans M	2282	Moradiabadi, E.	2550	1/2-1/2	2017.06.30
+Niemann, Hans M	2282	Virtanen, Teemu	2141	1-0	2017.06.24
+Niemann, Hans M	2282	Paragua, M.	2520	0-1	2017.06.24
+Niemann, Hans M	2282	Nakar, Ey	2476	0-1	2017.06.24
+Niemann, Hans M	2282	Nyamdorj, Davaaochir	2098	1-0	2017.06.30
+Niemann, Hans M	2282	Ashwin, J.	2492	0-1	2017.06.30
+Niemann, Hans	2297	Gorti, Akshita	2194	0-1	2017.12.26
+Niemann, Hans	2297	Lin, Andy	2144	1/2-1/2	2017.12.26
+Niemann, Hans	2297	Schmakel, Sam	2430	0-1	2017.12.26
+Niemann, Hans M	2254	Huang, Andy	2178	1-0	2017.08.17
+Niemann, Hans M	2254	Cao, Jason	2328	1/2-1/2	2017.08.02
+Niemann, Hans M	2254	Becerra Rivero, Julio	2539	1/2-1/2	2017.08.02
+Niemann, Hans M	2254	Nguyen, Trung Kien	2181	1-0	2017.08.17
+Niemann, Hans M	2254	Nguyen, Emily	2110	1/2-1/2	2017.08.17
+Niemann, Hans M	2254	Yip, Carissa	2187	0-1	2017.08.17
+Niemann, Hans M	2254	Lu, Albert	2323	1-0	2017.08.17
+Niemann,Hans M	2254	Chandra,Anand Rishi	1682	1-0	2017.08.02
+Niemann,Hans M	2254	Timmerman,Brian	1615	1-0	2017.08.02
+Niemann,Hans M	2254	Kostadinov,Krasimir Georgiev	0	1-0	2017.08.02
+Bures, J.	2393	Niemann, Hans M	2298	1-0	2016.06.08
+Gauri, S.	2332	Niemann, Hans M	2298	1-0	2016.06.08
+Eckert, D.	2152	Niemann, Hans M	2298	0-1	2016.06.08
+Yip, Carissa	2196	Niemann, Hans M	2298	0-1	2016.06.08
+Young, An	2300	Niemann, Hans M	2298	1-0	2016.06.08
+Zaloznyy, M.	2170	Niemann, Hans M	2298	0-1	2016.05.26
+Homa, S.	2329	Niemann, Hans M	2325	0-1	2016.03.23
+Vigorito, D.	2415	Niemann, Hans M	2325	0-1	2016.03.23
+Velikanov, A.	2355	Niemann, Hans M	2325	1-0	2016.03.23
+Gauri, S.	2341	Niemann, Hans M	2325	0-1	2016.03.23
+Bachmann, Ax	2642	Niemann, Hans M	2298	1-0	2016.06.30
+Ghatti, Sanjay	2151	Niemann, Hans M	2269	0-1	2016.07.05
+Corrales Jimenez, F.	2530	Niemann, Hans M	2269	1-0	2016.07.05
+Krush, I.	2443	Niemann, Hans M	2298	1-0	2016.06.30
+Chandra, Akshat	2489	Niemann, Hans M	2298	1-0	2016.08.13
+Quesada Perez, Yu	2634	Niemann, Hans M	2298	1-0	2016.08.25
+Cordova, E.	2637	Niemann, Hans M	2288	1-0	2016.10.06
+Li, Ruifeng	2538	Niemann, Hans M	2288	1-0	2016.10.17
+Rahul, Srivatshav P	2277	Niemann, Hans M	2288	1-0	2016.10.17
+Thavandiran, S.	2346	Niemann, Hans M	2288	1-0	2016.10.17
+Thavandiran, S.	2353	Niemann, Hans M	2273	1-0	2016.11.18
+Kambrath, Y.	2362	Niemann, Hans M	2273	1-0	2016.11.18
+Rozman, Levy	2394	Niemann, Hans M	2273	1-0	2016.11.18
+Drozdowski, K.	2508	Niemann, Hans M	2273	1-0	2016.11.18
+Niemann,Hans	2297	Kitsis,Stanislav	0	1/2-1/2	2017.12.26
+Niemann, Hans M	2298	Kavutskiy, K.	2367	1-0	2016.06.08
+Niemann, Hans M	2298	Brooks, M.	2410	1/2-1/2	2016.06.08
+Niemann, Hans M	2298	Hua, L.	2277	1/2-1/2	2016.06.08
+Niemann, Hans M	2325	Martin del Campo, R.	2360	0-1	2016.03.23
+Canty, James H	2353	Niemann, Hans M	2325	1/2-1/2	2016.03.23
+Niemann, Hans M	2325	Larson, Matthew W	2236	0-1	2016.03.23
+Niemann, Hans M	2325	Young, An	2298	1-0	2016.03.23
+Niemann, Hans M	2325	Lorne, M.	2099	1-0	2016.03.23
+Chandra, Akshat	2510	Niemann, Hans M	2278	1/2-1/2	2016.01.29
+Bora, Safal	2404	Niemann, Hans M	2269	1/2-1/2	2016.07.05
+Niemann, Hans M	2269	Mikhalevski, V.	2545	0-1	2016.07.05
+Niemann, Hans M	2269	Yang Kaiqi	2387	1-0	2016.07.05
+Niemann, Hans M	2269	Odeh, K.	2032	1-0	2016.07.05
+Nieto, G.	1894	Niemann, Hans M	2269	0-1	2016.07.05
+Niemann, Hans M	2269	Shimanov, A.	2627	0-1	2016.07.05
+Niemann, Hans M	2288	Voelker, Ja	2112	1-0	2016.10.17
+Rosen, E.	2382	Niemann, Hans M	2288	0-1	2016.10.17
+Niemann, Hans M	2288	Banawa, Joe	2363	0-1	2016.10.17
+Duran Vega, S.	2383	Niemann, Hans M	2288	0-1	2016.10.17
+Niemann, Hans M	2288	Liang, Awonder	2478	0-1	2016.10.17
+Niemann, Hans M	2273	Kadric, D.	2583	1-0	2016.11.18
+Ishhanov, T.	2273	Niemann, Hans M	2273	0-1	2016.11.18
+Vasserman, Daniel	2158	Niemann, Hans M	2277	0-1	2016.12.09
+Chasin, Nico Werner	2009	Niemann, Hans M	2277	0-1	2016.12.09
+Niemann, Hans M	2277	Allicock, R.	2151	0-1	2016.12.09
+Fridman, Daniel	2605	Niemann, Hans Moke	2656	1/2-1/2	2022.05.14
+Sargsyan, Shant	2648	Niemann, Hans Moke	2678	1/2-1/2	2022.06.20
+Nihal, Sarin	2654	Niemann, Hans Moke	2678	1/2-1/2	2022.06.24
+Nguyen, Thai Dai Van	2610	Niemann, Hans Moke	2678	1/2-1/2	2022.06.28
+Wei, Yi	2752	Niemann, Hans Moke	2529	1/2-1/2	2022.07.10
+Nakamura, Hikaru	2850	Niemann, Hans Moke	2632	1/2-1/2	2022.04.02
+Shuvalova, Polina	2355	Niemann, Hans Moke	2632	1/2-1/2	2022.05.14
+Matlakov, Maxim	2669	Niemann, Hans Moke	2632	1/2-1/2	2022.06.04
+Martinez Alcantara, Jose Eduardo	2690	Niemann, Hans Moke	2632	1/2-1/2	2022.05.28
+Navara, David	2686	Niemann, Hans Moke	2632	1/2-1/2	2022.05.28
+Mamedyarov, Shakhriyar	2699	Niemann, Hans Moke	2529	1/2-1/2	2022.07.12
+Xiong, Jeffery	2714	Niemann, Hans Moke	2632	1/2-1/2	2022.07.16
+Kravtsiv, Martyn	2694	Niemann, Hans Moke	2632	1/2-1/2	2022.07.29
+Pichot, Alan	2579	Niemann, Hans Moke	2632	1/2-1/2	2022.07.29
+Rasulov, Vugar	2509	Niemann, Hans Moke	2632	1/2-1/2	2022.08.07
+Shimanov, Aleksandr	2605	Niemann, Hans Moke	2632	1/2-1/2	2022.08.13
+Le, Quang Liem	2661	Niemann, Hans Moke	2529	1/2-1/2	2022.08.21
+Kuzubov, Yuriy	2644	Niemann, Hans Moke	2687	1/2-1/2	2022.08.26
+Carlsen, Magnus	2864	Niemann, Hans Moke	2687	0-1	2022.09.04
+Dominguez Perez, Leinier	2745	Niemann, Hans Moke	2688	1/2-1/2	2022.09.06
+Vachier-Lagrave, Maxime	2757	Niemann, Hans Moke	2688	1/2-1/2	2022.09.09
+Carlsen, Magnus	2861	Niemann, Hans Moke	2688	0-1	2022.09.12
+Gelfand, Boris	2641	Niemann, Hans Moke	2529	0-1	2022.09.18
+Ivanchuk, Vasyl	2686	Niemann, Hans Moke	2529	0-1	2022.09.21
+Le, Quang Liem	2661	Niemann, Hans Moke	2529	0-1	2022.09.22
+Abdusattorov, Nodirbek	2432	Niemann, Hans M	2046	1-0	2015.10.25
+Niemann, Hans M	2046	Gavrilescu, David	2208	1-0	2015.10.25
+Niemann, Hans M	2298	Homa, S.	2316	1/2-1/2	2016.06.08
+Baldvinsson, Loftur	1945	Niemann, Hans M	2275	1-0	2015.03.10
+Borg, F.	1828	Niemann, Hans M	2275	0-1	2015.03.10
+Niemann, Hans M	2275	Stefansson, Vignir Vatnar	1909	1-0	2015.03.10
+Rasmussen, A.	2532	Niemann, Hans M	2275	1-0	2015.03.10
+Valtysson, T.	1974	Niemann, Hans M	2275	0-1	2015.03.10
+Sequera Paolini, J.	2408	Niemann, Hans M	2275	1/2-1/2	2015.03.10
+Priyadharshan, K.	2456	Niemann, Hans M	2275	1-0	2015.04.01
+Griffith, Kyron W	2303	Niemann, Hans M	2173	1-0	2015.05.21
+Shen, A.	2346	Niemann, Hans M	2173	1-0	2015.05.21
+Morrison, K.	2232	Niemann, Hans M	2180	0-1	2015.06.19
+Katz, Alexander R	2320	Niemann, Hans M	2180	1/2-1/2	2015.06.25
+El Debs, F.	2515	Niemann, Hans M	2180	1-0	2015.06.25
+Rubenchik, R.	2275	Niemann, Hans M	2142	1-0	2015.08.25
+Manukian, L.	2272	Niemann, Hans M	2154	0-1	2015.12.26
+Kudrin, S.	2495	Niemann, Hans M	2278	1-0	2015.12.11
+Margiotta, J.	1936	Niemann, Hans M	2278	0-1	2015.12.11
+Prilleltensky, M.	2232	Niemann, Hans M	2278	0-1	2015.12.11
+Chandra, Akshat	2510	Niemann, Hans M	2278	1-0	2015.12.11
+Niemann, Hans M	2298	Ramirez, Alej	2563	1/2-1/2	2016.06.30
+Niemann, Hans M	2288	Kiewra, K.	2454	1/2-1/2	2016.10.17
+Niemann, Hans M	2277	Osinenko, A.	2179	1/2-1/2	2016.12.09
+Salimbagat, Rico	2219	Niemann, Hans M	2142	0-1	2015.08.25
+Niemann, Hans M	2046	Firouzja, Alireza	2364	0-1	2015.10.25
+Niemann, Hans M	1867	Peters, Ja	2356	0-1	2014.11.27
+Niemann, Hans M	2275	Hansen, LH.	1994	1/2-1/2	2015.03.10
+Niemann, Hans M	2275	Wang, Yiye	2433	0-1	2015.03.10
+Niemann, Hans M	2275	Palmeri, Ralph P	1642	1-0	2015.03.10
+Niemann, Hans M	2275	Birkisson, Bardur Orn	1839	1-0	2015.03.10
+Niemann, Hans M	2173	Panchanatham, Vignesh	2229	1-0	2015.05.21
+Niemann, Hans M	2173	Colas, Joshua	2292	1-0	2015.05.21
+Niemann, Hans M	2173	Santarius, E.	2308	1/2-1/2	2015.05.21
+Niemann, Hans M	2180	Browne, W.	2433	0-1	2015.06.19
+Niemann, Hans M	2180	Felgaer, R.	2585	0-1	2015.06.19
+Niemann, Hans M	2180	Ghaem Maghami, E.	2562	0-1	2015.06.25
+Niemann, Hans M	2142	Jacobson, Aaron	2231	1-0	2015.08.25
+Niemann, Hans M	2154	Atoufi, P.	2261	0-1	2015.12.26
+Niemann, Hans M	2154	Bykovtsev, Agata	2214	1-0	2015.12.26
+Niemann, Hans M	2154	Bodek, Michael H	2410	0-1	2015.12.26
+Niemann, Hans M	2278	Kumar, Aravind	2317	1-0	2015.12.11
+Niemann, Hans M	2278	Bonin, J.	2313	1-0	2015.12.11
+Niemann, Hans M	2278	Zats, Yefrem	1987	1-0	2015.12.11
+Niemann, Hans M	2278	Sturt, R.	2374	0-1	2015.12.11
+Niemann, Hans Moke	2656	Areshchenko, Alexander	2667	1-0	2022.05.15
+Niemann, Hans Moke	2678	Martirosyan, Haik M.	2656	1-0	2022.06.27
+Niemann, Hans Moke	2529	Tari, Aryan	2531	1-0	2022.07.10
+Niemann, Hans Moke	2636	Jumabayev, Rinat	2561	1-0	2022.02.26
+Niemann, Hans Moke	2636	Keymer, Vincent	2557	1-0	2022.02.26
+Niemann, Hans Moke	2632	Jumabayev, Rinat	2561	1-0	2022.03.26
+Niemann, Hans Moke	2632	Kosteniuk, Alexandra	2469	1-0	2022.03.26
+Niemann, Hans Moke	2632	Kobalia, Mikhail	2667	1-0	2022.05.14
+Niemann, Hans Moke	2632	Antipov, Mikhail Al.	2512	1-0	2022.05.14
+Niemann, Hans Moke	2632	Maghsoodloo, Parham	2630	1-0	2022.06.04
+Niemann, Hans Moke	2632	Pichot, Alan	2579	1-0	2022.06.04
+Niemann, Hans Moke	2636	Hansen, Eric	2568	1-0	2022.02.12
+Niemann, Hans Moke	2636	Sarana, Alexey	2665	1-0	2022.02.12
+Niemann, Hans Moke	2632	kynas	2175	1-0	2022.07.15
+Niemann, Hans Moke	2632	Yuan, Qingyu	2359	1-0	2022.07.15
+Niemann, Hans Moke	2632	Kovalev, Vladislav	2530	1-0	2022.07.29
+Niemann, Hans Moke	2632	Le, Quang Liem	2657	1-0	2022.07.29
+Niemann, Hans Moke	2632	Suleymanli, Aydin	2481	1-0	2022.07.29
+Niemann, Hans Moke	2632	Blitz	2192	1-0	2022.07.29
+Niemann, Hans Moke	2632	Yuan, Qingyu	2359	1-0	2022.07.29
+Niemann, Hans Moke	2632	talstactician	2187	1-0	2022.07.29
+Nepomniachtchi, Ian	2792	Niemann, Hans Moke	2688	1/2-1/2	2022.09.11
+Adhiban, B.	2538	Niemann, Hans Moke	2529	1/2-1/2	2022.09.19
+Navara, David	2659	Niemann, Hans Moke	2529	1/2-1/2	2022.09.20
+Praggnanandhaa, R	1927	Niemann, Hans Moke	2529	1/2-1/2	2022.09.20
+Niemann, Hans Moke	2678	Ter-Sahakyan, Samvel	2640	0-1	2022.06.23
+Niemann, Hans Moke	2529	Xiong, Jeffery	2725	0-1	2022.07.10
+Niemann, Hans Moke	2529	Sevian, Samuel	2569	0-1	2022.07.11
+Niemann, Hans Moke	2529	Aronian, Levon	2728	0-1	2022.07.11
+Niemann, Hans Moke	2636	Aronian, Levon	2773	0-1	2022.02.26
+Niemann, Hans Moke	2636	Xiong, Jeffery	2727	0-1	2022.02.26
+Niemann, Hans Moke	2632	Andreikin, Dmitry	2736	1-0	2022.07.30
+Niemann, Hans Moke	2632	Grischuk, Alexander	2762	1-0	2022.07.30
+Niemann, Hans Moke	2632	Nasuta, Grzegorz	2366	1-0	2022.07.30
+Niemann, Hans Moke	2632	Pichot, Alan	2579	1-0	2022.07.30
+Niemann, Hans Moke	2632	Pichot, Alan	2578	1-0	2022.08.06
+Niemann, Hans Moke	2632	Rasulov, Vugar	2509	1-0	2022.08.07
+Niemann, Hans Moke	2529	Xiong, Jeffery	2725	1-0	2022.08.07
+Niemann, Hans Moke	2632	Preotu, Razvan	2407	1-0	2022.08.13
+Niemann, Hans Moke	2632	Azarov, Sergei	2494	1-0	2022.08.13
+Niemann, Hans Moke	2529	Duda, Jan-Krzysztof	2808	1-0	2022.08.15
+Niemann, Hans Moke	2529	Praggnanandhaa, R	1927	1-0	2022.08.17
+Niemann, Hans Moke	2529	Aronian, Levon	2728	1-0	2022.08.20
+Niemann, Hans Moke	2529	Le, Quang Liem	2661	1-0	2022.08.21
+Niemann, Hans Moke	2687	Idani, Pouya	2641	1-0	2022.08.27
+Niemann, Hans Moke	2687	Mamedyarov, Shakhriyar	2758	1-0	2022.09.03
+Niemann, Hans Moke	2529	Keymer, Vincent	2542	1-0	2022.09.18
+Niemann, Hans Moke	2529	Yoo, Christopher Woojin	1861	1-0	2022.09.18
+Niemann, Hans Moke	2529	Aronian, Levon	2720	1-0	2022.09.20
+Niemann, Hans Moke	2529	Duda, Jan-Krzysztof	2808	1-0	2022.09.21
+Niemann, Hans Moke	2632	Cheparinov, Ivan	2622	0-1	2022.03.12
+Niemann, Hans Moke	2632	Bluebaum, Matthias	2550	0-1	2022.03.12
+Niemann, Hans Moke	2632	Robson, Ray	2683	0-1	2022.03.26
+Niemann, Hans Moke	2632	Sarana, Alexey	2666	0-1	2022.04.02
+Niemann, Hans Moke	2632	Dubov, Daniil	2791	0-1	2022.04.02
+Niemann, Hans Moke	2632	Andreikin, Dmitry	2736	0-1	2022.04.02
+Niemann, Hans Moke	2632	Paravyan, David	2569	0-1	2022.04.16
+Niemann, Hans Moke	2632	Dubov, Daniil	2791	0-1	2022.04.30
+Niemann, Hans Moke	2521	Paravyan, David	2669	0-1	2022.05.28
+Niemann, Hans Moke	2632	Andreikin, Dmitry	2736	0-1	2022.06.04
+Niemann, Hans Moke	2632	Abdusattorov, Nodirbek	2663	0-1	2022.06.04
+Niemann, Hans Moke	2636	Abdusattorov, Nodirbek	2663	0-1	2022.02.12
+Niemann, Hans Moke	2636	Alekseenko, Kirill	2682	0-1	2022.02.12
+Niemann, Hans Moke	2529	Rapport, Richard	2802	0-1	2022.07.12
+Niemann, Hans Moke	2529	Wojtaszek, Radoslaw	2636	0-1	2022.07.13
+Niemann, Hans Moke	2632	Melkumyan, Hrant	2604	0-1	2022.07.15
+Niemann, Hans Moke	2632	Bartel, Mateusz	2526	0-1	2022.07.16
+Niemann, Hans Moke	2632	Tran, Thanh Tu	2347	0-1	2022.07.25
+Niemann, Hans Moke	2624	Terry, Renato	2474	0-1	2022.07.29
+Niemann, Hans Moke	2632	Sanal, Vahap	2574	0-1	2022.08.13
+Niemann, Hans Moke	2529	Duda, Jan-Krzysztof	2808	0-1	2022.08.15
+Niemann, Hans Moke	2529	Carlsen, Magnus	2834	0-1	2022.08.16
+Niemann, Hans Moke	2529	Carlsen, Magnus	2834	0-1	2022.08.16
+Niemann, Hans Moke	2529	Giri, Anish	2721	0-1	2022.08.18
+Niemann, Hans Moke	2529	Le, Quang Liem	2661	0-1	2022.08.21
+Niemann, Hans Moke	2678	Petrosyan, Manuel	2638	1/2-1/2	2022.06.25
+Niemann, Hans Moke	2632	Naroditsky, Daniel	2608	1/2-1/2	2022.03.12
+Niemann, Hans Moke	2632	Hakobyan, Aram	2557	1/2-1/2	2022.03.26
+Niemann, Hans Moke	2632	Abdusattorov, Nodirbek	2663	1/2-1/2	2022.04.16
+Niemann, Hans Moke	2632	Matlakov, Maxim	2669	1/2-1/2	2022.04.30
+Niemann, Hans Moke	2632	Moussard, Jules	2589	1/2-1/2	2022.06.04
+Niemann, Hans Moke	2636	Ivanchuk, Vasyl	2710	1/2-1/2	2022.02.12
+Niemann, Hans Moke	2632	Caruana, Fabiano	2847	1/2-1/2	2022.07.16
+Niemann, Hans Moke	2632	Alekseenko, Kirill	2682	1/2-1/2	2022.08.06
+Niemann, Hans Moke	2632	Shimanov, Aleksandr	2605	1/2-1/2	2022.08.06
+Niemann, Hans Moke	2632	Xiong, Jeffery	2714	1/2-1/2	2022.08.06
+Niemann, Hans Moke	2529	Rasulov, Vugar	2410	1/2-1/2	2022.08.07
+Niemann, Hans Moke	2529	Nakamura, Hikaru	2837	1/2-1/2	2022.08.07
+Niemann, Hans Moke	2632	Vokhidov, Shamsiddin	2619	1/2-1/2	2022.08.13
+Niemann, Hans Moke	2529	Praggnanandhaa, R	1927	1/2-1/2	2022.08.17
+Niemann, Hans Moke	2529	Giri, Anish	2721	1/2-1/2	2022.08.18
+Niemann, Hans Moke	2529	Firouzja, Alireza	2704	1/2-1/2	2022.08.19
+Niemann, Hans Moke	2529	Aronian, Levon	2728	1/2-1/2	2022.08.20
+Niemann, Hans Moke	2687	Sanal, Vahap	2570	0-1	2022.08.24
+Niemann, Hans Moke	2687	Maghsoodloo, Parham	2701	1/2-1/2	2022.08.25
+Niemann, Hans Moke	2688	So, Wesley	2771	0-1	2022.09.08
+Niemann, Hans Moke	2688	Caruana, Fabiano	2758	0-1	2022.09.10
+Niemann, Hans Moke	2529	Le, Quang Liem	2661	0-1	2022.09.19
+Niemann, Hans Moke	2529	Saric, Ivan	2635	0-1	2022.09.21
+Niemann, Hans Moke	2529	Le, Quang Liem	2661	0-1	2022.09.22
+Bogosavljevic, Boban	2523	Niemann, Hans Moke	2508	1-0	Tue Apr 27 2021
+Jacobson, Brandon	2362	Niemann, Hans Moke	2492	1-0	2021.06.15
+Yoo, Christopher Woojin	2009	Niemann, Hans Moke	2492	1-0	2021.06.22
+Yoo, Christopher Woojin	2009	Niemann, Hans Moke	2492	1-0	2021.06.22
+Yoo, Christopher Woojin	2009	Niemann, Hans Moke	2492	1-0	2021.06.22
+Yoo, Christopher Woojin	2105	Niemann, Hans Moke	2554	1-0	2021.07.08
+Yoo, Christopher Woojin	2105	Niemann, Hans Moke	2554	1-0	2021.07.08
+Yoo, Christopher Woojin	2105	Niemann, Hans Moke	2554	1-0	2021.07.08
+Yoo, Christopher Woojin	2105	Niemann, Hans Moke	2554	1-0	2021.07.08
+Yoo, Christopher Woojin	2105	Niemann, Hans Moke	2554	1-0	2021.07.08
+Yoo, Christopher Woojin	2105	Niemann, Hans Moke	2554	1-0	2021.07.08
+Yoo, Christopher Woojin	2105	Niemann, Hans Moke	2554	1-0	2021.07.08
+Yoo, Christopher Woojin	2105	Niemann, Hans Moke	2554	1-0	2021.07.08
+Yoo, Christopher Woojin	2105	Niemann, Hans Moke	2554	1-0	2021.07.08
+Yoo, Christopher Woojin	2105	Niemann, Hans Moke	2554	1-0	2021.07.08
+Yoo, Christopher Woojin	2479	Niemann, Hans Moke	2571	1-0	2021.07.24
+Warmerdam, Max	2562	Niemann, Hans Moke	2606	1-0	2021.08.28
+Bernadskiy, Vitaliy	2611	Niemann, Hans Moke	2609	1-0	2021.09.10
+Salem, A.R. Saleh	2679	Niemann, Hans Moke	2609	1-0	2021.09.19
+Abdusattorov, Nodirbek	2648	Niemann, Hans Moke	2609	1-0	2021.09.22
+Mikhailovsky, Vladimir	2402	Niemann, Hans Moke	2592	1-0	2021.10.16
+Perez Ponsa, Federico	2672	Niemann, Hans Moke	2592	1-0	2021.10.16
+Niemann, Hans Moke	2687	Aronian, Levon	2775	1/2-1/2	2022.09.02
+Niemann, Hans Moke	2688	Firouzja, Alireza	2778	1/2-1/2	2022.09.05
+Niemann, Hans Moke	2529	Le, Quang Liem	2661	1/2-1/2	2022.09.22
+Girel, Joseph	2310	Niemann, Hans Moke	2508	0-1	Fri Apr 23 2021
+Travadon, Loic	2414	Niemann, Hans Moke	2508	0-1	Sat Apr 24 2021
+Sukovic, Andrej	2283	Niemann, Hans Moke	2508	0-1	Thu Apr 29 2021
+Draskovic, Luka	2472	Niemann, Hans Moke	2508	0-1	Mon Apr 26 2021
+Rodriguez, Santiago	2256	Niemann, Hans Moke	2492	0-1	2021.06.15
+Turgut, Aydin	2138	Niemann, Hans Moke	2492	0-1	2021.06.15
+Fier, Alexandr	2569	Niemann, Hans Moke	2492	0-1	2021.06.15
+Joshua Colas	0	Hans Niemann	0	0-1	2021.06.17
+Aleksandr Ostrovskiy	0	Hans Niemann	0	0-1	2021.06.18
+Yoo, Christopher Woojin	2009	Niemann, Hans Moke	2492	0-1	2021.06.22
+Cardoso Cardoso, Jose Gabriel	2343	Niemann, Hans Moke	2492	0-1	2021.06.21
+Cardoso Cardoso, Jose Gabriel	2343	Niemann, Hans Moke	2492	0-1	2021.06.21
+Shimanov, Aleksandr	2570	Niemann, Hans Moke	2592	1-0	2021.10.17
+Aronian, Levon	2782	Niemann, Hans Moke	2638	1-0	2021.10.28
+Adly, Ahmed	2683	Niemann, Hans Moke	2592	1-0	2021.11.08
+Bluebaum, Matthias	2681	Niemann, Hans Moke	2592	1-0	2021.11.08
+Paravyan, David	2639	Niemann, Hans Moke	2592	1-0	2021.11.08
+Kravtsiv, Martyn	2660	Niemann, Hans Moke	2592	1-0	2021.11.08
+Bernadskiy, Vitaliy	2592	Niemann, Hans Moke	2635	1-0	2021.11.15
+Kadric, Denis	2469	Niemann, Hans Moke	2680	1-0	2021.12.09
+Salem, A.R. Saleh	2642	Niemann, Hans Moke	2680	1-0	2021.12.09
+Fedoseev, Vladimir	2690	Niemann, Hans Moke	2680	1-0	2021.12.09
+Erdos, Viktor	2599	Niemann, Hans Moke	2680	1-0	2021.12.09
+Fedoseev, Vladimir	2692	Niemann, Hans Moke	2327	1-0	2021.12.08
+Jumabayev, Rinat	2562	Niemann, Hans Moke	2327	1-0	2021.12.08
+Donchenko, Alexander	2602	Niemann, Hans Moke	2678	1-0	2022.06.26
+Duda, Jan-Krzysztof	2808	Niemann, Hans Moke	2529	1-0	2022.07.11
+Robson, Ray	2683	Niemann, Hans Moke	2636	1-0	2022.02.26
+Dubov, Daniil	2791	Niemann, Hans Moke	2636	1-0	2022.02.26
+Ponkratov, Pavel	2487	Niemann, Hans Moke	2632	1-0	2022.03.12
+Van Foreest, Jorden	2609	Niemann, Hans Moke	2632	1-0	2022.03.12
+Matlakov, Maxim	2669	Niemann, Hans Moke	2632	1-0	2022.03.26
+Grischuk, Alexander	2762	Niemann, Hans Moke	2632	1-0	2022.03.26
+Kamsky, Gata	2645	Niemann, Hans Moke	2632	1-0	2022.03.26
+Dreev, Aleksey	2625	Niemann, Hans Moke	2632	1-0	2022.04.16
+Kovalev, Vladislav	2530	Niemann, Hans Moke	2632	1-0	2022.04.16
+Giri, Anish	2766	Niemann, Hans Moke	2632	1-0	2022.04.30
+Gledura, Benjamin	2326	Niemann, Hans Moke	2632	1-0	2022.04.30
+Durarbayli, Vasif	2528	Niemann, Hans Moke	2632	1-0	2022.05.14
+Yang, Kaiqi	2373	Niemann, Hans Moke	2632	1-0	2022.05.14
+Caruana, Fabiano	2744	Niemann, Hans Moke	2636	1-0	2022.02.12
+Nepomniachtchi, Ian	2740	Niemann, Hans Moke	2636	1-0	2022.02.12
+Ju, Wenjun	2610	Niemann, Hans Moke	2529	1-0	2022.07.13
+Erigaisi, Arjun	2450	Niemann, Hans Moke	2529	1-0	2022.07.12
+Giri, Anish	2721	Niemann, Hans Moke	2529	1-0	2022.07.13
+Koksal, Ege	2286	Niemann, Hans Moke	2632	1-0	2022.07.15
+Robson, Ray	2670	Niemann, Hans Moke	2632	1-0	2022.07.16
+Xiong, Jeffery	2725	Niemann, Hans Moke	2529	1-0	2022.07.31
+Nyzhnyk, Illya	2643	Niemann, Hans Moke	2632	1-0	2022.07.30
+Abdusattorov, Nodirbek	2663	Niemann, Hans Moke	2632	1-0	2022.07.30

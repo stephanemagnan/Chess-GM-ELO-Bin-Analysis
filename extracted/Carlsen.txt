@@ -1,0 +1,1251 @@
+White	White ELO	Black	Black ELO	Result	Date
+Carlsen, Magnus	2864	Vachier-Lagrave, Maxime	2760	1/2-1/2	2022.06.09
+Carlsen, Magnus	2864	Wang, Hao	2744	1/2-1/2	2022.05.31
+Carlsen, Magnus	2864	Pechac, Jergus	2587	1/2-1/2	2022.08.06
+Carlsen, Magnus	2864	Schitco, Ivan	2509	1/2-1/2	2022.08.08
+Carlsen, Magnus	2834	Giri, Anish	2721	1/2-1/2	2022.08.15
+Carlsen, Magnus	2834	Niemann, Hans Moke	2529	0-1	2022.08.16
+Carlsen, Magnus	2834	Aronian, Levon	2728	1/2-1/2	2022.08.17
+Carlsen, Magnus	2834	Duda, Jan-Krzysztof	2808	0-1	2022.08.19
+Carlsen, Magnus	2834	Duda, Jan-Krzysztof	2808	0-1	2022.08.19
+Carlsen, Magnus	2834	Praggnanandhaa, R	1927	0-1	2022.08.21
+Carlsen, Magnus	2830	Bortnyk, Olexandr	2723	0-1	2022.08.23
+Carlsen, Magnus	2864	Niemann, Hans Moke	2687	0-1	2022.09.04
+Carlsen, Magnus	2861	Niemann, Hans Moke	2688	0-1	2022.09.12
+Carlsen, Magnus	2834	Keymer, Vincent	2542	1-0	2022.09.21
+Carlsen, Magnus	2834	Aronian, Levon	2720	0-1	2022.09.22
+Carlsen, Magnus	2834	Aronian, Levon	2720	1-0	2022.09.22
+Carlsen, Magnus	2834	Keymer, Vincent	2542	1-0	2022.09.23
+Carlsen, Magnus	2834	Erigaisi, Arjun	2450	1-0	2022.09.24
+Carlsen, Magnus	2834	Erigaisi, Arjun	2450	1-0	2022.09.25
+Carlsen, Magnus	2830	Petrosyan, Manuel	2592	1-0	2022.09.27
+Carlsen, Magnus	2830	Nazari, Arad	2129	1-0	2022.09.27
+Carlsen, Magnus	2830	Bacrot, Etienne	2666	1-0	2022.09.27
+Carlsen, Magnus	2830	Ozdemir, Serhan Berat	1882	1-0	2022.09.27
+Carlsen, Magnus	2830	Makarian, Rudik	2410	1-0	2022.09.27
+Carlsen, Magnus	2830	Martinez Alcantara, Jose Eduardo	2703	1-0	2022.09.27
+Esipenko, Andrey	2677	Carlsen, Magnus	2862	1-0	Sun Jan 24 2021
+So, Wesley	2770	Carlsen, Magnus	2862	1-0	Sat Feb 06 2021
+Ding, Liren	2791	Carlsen, Magnus	2862	1-0	Mon Feb 08 2021
+Carlsen, Magnus	2881	So, Wesley	2741	1/2-1/2	2021.06.30
+Carlsen, Magnus	2881	Ding, Liren	2836	1/2-1/2	2021.07.03
+Carlsen, Magnus	2881	Aronian, Levon	2778	1/2-1/2	2021.07.02
+Carlsen, Magnus	2847	Esipenko, Andrey	2716	1/2-1/2	2021.07.25
+Carlsen, Magnus	2847	Wojtaszek, Radoslaw	2691	1/2-1/2	2021.07.23
+Carlsen, Magnus	2881	Esipenko, Andrey	2628	1/2-1/2	2021.07.27
+Carlsen, Magnus	2847	Duda, Jan-Krzysztof	2738	1/2-1/2	2021.08.01
+Carlsen, Magnus	2881	Giri, Anish	2744	1/2-1/2	2021.08.30
+Carlsen, Magnus	2881	Aronian, Levon	2761	1/2-1/2	2021.08.30
+Carlsen, Magnus	2881	Duda, Jan-Krzysztof	2775	1/2-1/2	2021.08.30
+Carlsen, Magnus	2881	Mamedyarov, Shakhriyar	2756	1/2-1/2	2021.08.29
+Carlsen, Magnus	2881	Duda, Jan-Krzysztof	2775	1/2-1/2	2021.09.01
+Carlsen, Magnus	2881	Aronian, Levon	2761	1/2-1/2	2021.09.02
+Carlsen, Magnus	2881	Aronian, Levon	2761	1/2-1/2	2021.09.02
+Carlsen, Magnus	2881	Aronian, Levon	2761	1/2-1/2	2021.09.03
+Carlsen, Magnus	2881	Artemiev, Vladislav	2757	1/2-1/2	2021.09.04
+Carlsen, Magnus	2855	Tari, Aryan	2642	1/2-1/2	2021.09.08
+Carlsen, Magnus	2855	Nepomniachtchi, Ian	2792	1/2-1/2	2021.09.10
+Carlsen, Magnus	2855	Nepomniachtchi, Ian	2782	1/2-1/2	2021.11.27
+Carlsen, Magnus	2855	Caruana, Fabiano	2791	1/2-1/2	2021.11.17
+Carlsen, Magnus	2855	Nepomniachtchi, Ian	2782	1/2-1/2	2021.11.30
+Carlsen, Magnus	2856	Nepomniachtchi, Ian	2782	1/2-1/2	2021.12.08
+Dubov, Daniil	2710	Carlsen, Magnus	2862	1-0	Wed Feb 10 2021
+Dubov, Daniil	2710	Carlsen, Magnus	2862	1-0	Wed Feb 10 2021
+Vachier-Lagrave, Maxime	2784	Carlsen, Magnus	2862	1-0	Fri Feb 12 2021
+Vachier-Lagrave, Maxime	2784	Carlsen, Magnus	2862	1-0	Fri Feb 12 2021
+So, Wesley	2770	Carlsen, Magnus	2862	1-0	Sat Feb 13 2021
+So, Wesley	2770	Carlsen, Magnus	2862	1-0	Sun Feb 14 2021
+Giri, Anish	2776	Carlsen, Magnus	2847	1-0	Sat Mar 13 2021
+Aronian, Levon	2781	Carlsen, Magnus	2847	1-0	Thu Apr 29 2021
+Nakamura, Hikaru	2736	Carlsen, Magnus	2847	1-0	Sun May 02 2021
+Aronian, Levon	2781	Carlsen, Magnus	2847	1-0	Mon May 24 2021
+Nakamura, Hikaru	2829	Carlsen, Magnus	2881	1-0	Wed May 26 2021
+Nakamura, Hikaru	2829	Carlsen, Magnus	2881	1-0	Wed May 26 2021
+Radjabov, Teimour	2758	Carlsen, Magnus	2881	1-0	Fri May 28 2021
+So, Wesley	2741	Carlsen, Magnus	2881	1-0	Sun May 30 2021
+So, Wesley	2741	Carlsen, Magnus	2881	1-0	Mon May 31 2021
+Firouzja, Alireza	2703	Carlsen, Magnus	2881	1-0	2021.06.26
+Aronian, Levon	2778	Carlsen, Magnus	2881	1-0	2021.06.27
+So, Wesley	2741	Carlsen, Magnus	2881	1-0	2021.06.29
+So, Wesley	2741	Carlsen, Magnus	2881	1-0	2021.06.30
+Aronian, Levon	2739	Carlsen, Magnus	2886	1-0	2021.07.02
+Aronian, Levon	2778	Carlsen, Magnus	2881	1-0	2021.07.02
+Aronian, Levon	2778	Carlsen, Magnus	2881	1-0	2021.07.01
+Ding, Liren	2836	Carlsen, Magnus	2881	1-0	2021.07.04
+Ding, Liren	2836	Carlsen, Magnus	2881	1-0	2021.07.04
+Esipenko, Andrey	2628	Carlsen, Magnus	2881	1-0	2021.07.27
+Bluebaum, Matthias	2670	Carlsen, Magnus	2862	0-1	Sat Feb 06 2021
+Dominguez Perez, Leinier	2758	Carlsen, Magnus	2862	0-1	Sat Feb 06 2021
+Vidit, Santosh Gujrathi	2726	Carlsen, Magnus	2862	0-1	Mon Feb 08 2021
+So, Wesley	2770	Carlsen, Magnus	2862	0-1	Sat Feb 13 2021
+Van Foreest, Jorden	2701	Carlsen, Magnus	2847	0-1	Sat Mar 13 2021
+Nepomniachtchi, Ian	2789	Carlsen, Magnus	2847	0-1	Sun Mar 14 2021
+Aronian, Levon	2781	Carlsen, Magnus	2847	0-1	Tue Mar 16 2021
+Aronian, Levon	2781	Carlsen, Magnus	2847	0-1	Wed Mar 17 2021
+Le, Quang Liem	2709	Carlsen, Magnus	2847	0-1	Sat Apr 24 2021
+Tari, Aryan	2639	Carlsen, Magnus	2847	0-1	Sun Apr 25 2021
+Firouzja, Alireza	2759	Carlsen, Magnus	2847	0-1	Mon Apr 26 2021
+Aronian, Levon	2781	Carlsen, Magnus	2847	0-1	Fri Apr 30 2021
+Nakamura, Hikaru	2736	Carlsen, Magnus	2847	0-1	Sat May 01 2021
+Nakamura, Hikaru	2736	Carlsen, Magnus	2847	0-1	Sun May 02 2021
+Mamedyarov, Shakhriyar	2770	Carlsen, Magnus	2847	0-1	Sun May 23 2021
+Dubov, Daniil	2710	Carlsen, Magnus	2847	0-1	Mon May 24 2021
+Nakamura, Hikaru	2829	Carlsen, Magnus	2881	0-1	Thu May 27 2021
+Nakamura, Hikaru	2900	Carlsen, Magnus	2886	0-1	Thu May 27 2021
+So, Wesley	2741	Carlsen, Magnus	2881	0-1	Sun May 30 2021
+Radjabov, Teimour	2758	Carlsen, Magnus	2881	0-1	Sat May 29 2021
+So, Wesley	2816	Carlsen, Magnus	2886	0-1	Mon May 31 2021
+Salem, A.R. Saleh	2718	Carlsen, Magnus	2881	0-1	2021.06.26
+Firouzja, Alireza	2696	Carlsen, Magnus	2881	1-0	2021.08.28
+Artemiev, Vladislav	2757	Carlsen, Magnus	2881	1-0	2021.09.04
+Karjakin, Sergey	2758	Carlsen, Magnus	2855	1-0	2021.09.12
+Wojtaszek, Radoslaw	2705	Carlsen, Magnus	2862	1/2-1/2	Sat Jan 30 2021
+Duda, Jan-Krzysztof	2743	Carlsen, Magnus	2862	1/2-1/2	Fri Jan 22 2021
+Caruana, Fabiano	2823	Carlsen, Magnus	2862	1/2-1/2	Wed Jan 27 2021
+Anton Guijarro, David	2679	Carlsen, Magnus	2862	1/2-1/2	Sun Jan 17 2021
+Van Foreest, Jorden	2671	Carlsen, Magnus	2862	1/2-1/2	Tue Jan 19 2021
+Nepomniachtchi, Ian	2789	Carlsen, Magnus	2862	1/2-1/2	Sun Feb 07 2021
+Grischuk, Alexander	2777	Carlsen, Magnus	2862	1/2-1/2	Sun Feb 07 2021
+Dubov, Daniil	2710	Carlsen, Magnus	2862	1/2-1/2	Mon Feb 08 2021
+So, Wesley	2741	Carlsen, Magnus	2881	0-1	2021.06.30
+Martinovic, Sasa	2548	Carlsen, Magnus	2847	0-1	2021.07.15
+Tari, Aryan	2639	Carlsen, Magnus	2847	0-1	2021.07.19
+Esipenko, Andrey	2595	Carlsen, Magnus	2886	0-1	2021.07.27
+Bacrot, Etienne	2678	Carlsen, Magnus	2847	0-1	2021.07.28
+Fedoseev, Vladimir	2700	Carlsen, Magnus	2847	0-1	2021.08.04
+Liang, Awonder	2397	Carlsen, Magnus	2881	0-1	2021.08.30
+Hansen, Eric	2579	Carlsen, Magnus	2881	0-1	2021.08.29
+Duda, Jan-Krzysztof	2775	Carlsen, Magnus	2881	0-1	2021.09.01
+Duda, Jan-Krzysztof	2775	Carlsen, Magnus	2881	0-1	2021.09.01
+Artemiev, Vladislav	2757	Carlsen, Magnus	2881	0-1	2021.09.04
+Aronian, Levon	2761	Carlsen, Magnus	2881	0-1	2021.09.03
+Tari, Aryan	2642	Carlsen, Magnus	2855	0-1	2021.09.14
+Nepomniachtchi, Ian	2792	Carlsen, Magnus	2855	0-1	2021.09.17
+Sarrau, Jelle	2374	Carlsen, Magnus	2855	0-1	2021.09.20
+Notkevich, Benjamin Arvola	2471	Carlsen, Magnus	2855	0-1	2021.10.29
+Nepomniachtchi, Ian	2782	Carlsen, Magnus	2856	0-1	2021.12.10
+Dubov, Daniil	2710	Carlsen, Magnus	2862	1/2-1/2	Tue Feb 09 2021
+Dubov, Daniil	2710	Carlsen, Magnus	2862	1/2-1/2	Wed Feb 10 2021
+Vachier-Lagrave, Maxime	2784	Carlsen, Magnus	2862	1/2-1/2	Thu Feb 11 2021
+Vachier-Lagrave, Maxime	2784	Carlsen, Magnus	2862	1/2-1/2	Fri Feb 12 2021
+So, Wesley	2770	Carlsen, Magnus	2862	1/2-1/2	Sun Feb 14 2021
+Firouzja, Alireza	2759	Carlsen, Magnus	2847	1/2-1/2	Sat Mar 13 2021
+Grandelius, Nils	2670	Carlsen, Magnus	2847	1/2-1/2	Sun Mar 14 2021
+Radjabov, Teimour	2765	Carlsen, Magnus	2847	1/2-1/2	Sun Mar 14 2021
+So, Wesley	2770	Carlsen, Magnus	2847	1/2-1/2	Mon Mar 15 2021
+Dubov, Daniil	2710	Carlsen, Magnus	2847	1/2-1/2	Mon Mar 15 2021
+Aronian, Levon	2781	Carlsen, Magnus	2847	1/2-1/2	Wed Mar 17 2021
+Nepomniachtchi, Ian	2789	Carlsen, Magnus	2847	1/2-1/2	Thu Mar 18 2021
+Nepomniachtchi, Ian	2789	Carlsen, Magnus	2847	1/2-1/2	Thu Mar 18 2021
+Nepomniachtchi, Ian	2789	Carlsen, Magnus	2847	1/2-1/2	Fri Mar 19 2021
+Nepomniachtchi, Ian	2789	Carlsen, Magnus	2847	1/2-1/2	Fri Mar 19 2021
+So, Wesley	2770	Carlsen, Magnus	2847	1/2-1/2	Sat Mar 20 2021
+So, Wesley	2770	Carlsen, Magnus	2847	1/2-1/2	Sat Mar 20 2021
+So, Wesley	2770	Carlsen, Magnus	2847	1/2-1/2	Sat Mar 20 2021
+Vidit, Santosh Gujrathi	2726	Carlsen, Magnus	2847	1/2-1/2	Sat Apr 24 2021
+Mamedyarov, Shakhriyar	2770	Carlsen, Magnus	2847	1/2-1/2	Mon Apr 26 2021
+Praggnanandhaa, R	2608	Carlsen, Magnus	2847	1/2-1/2	Mon Apr 26 2021
+Radjabov, Teimour	2765	Carlsen, Magnus	2847	1/2-1/2	Tue Apr 27 2021
+Radjabov, Teimour	2765	Carlsen, Magnus	2847	1/2-1/2	Tue Apr 27 2021
+Radjabov, Teimour	2765	Carlsen, Magnus	2847	1/2-1/2	Wed Apr 28 2021
+Radjabov, Teimour	2765	Carlsen, Magnus	2847	1/2-1/2	Wed Apr 28 2021
+Christiansen, Johan-Sebastian	2618	Carlsen, Magnus	2847	1/2-1/2	Sun Apr 25 2021
+Aronian, Levon	2781	Carlsen, Magnus	2847	1/2-1/2	Thu Apr 29 2021
+Aronian, Levon	2781	Carlsen, Magnus	2847	1/2-1/2	Fri Apr 30 2021
+Nakamura, Hikaru	2736	Carlsen, Magnus	2847	1/2-1/2	Sat May 01 2021
+Pichot, Alan	2630	Carlsen, Magnus	2847	1/2-1/2	Sun May 23 2021
+Firouzja, Alireza	2703	Carlsen, Magnus	2881	1/2-1/2	Tue May 25 2021
+Ding, Liren	2799	Carlsen, Magnus	2847	1/2-1/2	Mon May 24 2021
+Nakamura, Hikaru	2829	Carlsen, Magnus	2881	1/2-1/2	Thu May 27 2021
+Caruana, Fabiano	2773	Carlsen, Magnus	2881	1/2-1/2	Tue May 25 2021
+Radjabov, Teimour	2758	Carlsen, Magnus	2881	1/2-1/2	Fri May 28 2021
+Radjabov, Teimour	2758	Carlsen, Magnus	2881	1/2-1/2	Sat May 29 2021
+Duda, Jan-Krzysztof	2774	Carlsen, Magnus	2881	1/2-1/2	2021.06.27
+Artemiev, Vladislav	2757	Carlsen, Magnus	2881	1/2-1/2	2021.06.27
+Ding, Liren	2836	Carlsen, Magnus	2881	1/2-1/2	2021.06.28
+Erigaisi, Arjun	2289	Carlsen, Magnus	2881	1/2-1/2	2021.06.28
+So, Wesley	2741	Carlsen, Magnus	2881	1/2-1/2	2021.06.29
+So, Wesley	2816	Carlsen, Magnus	2886	1/2-1/2	2021.06.30
+Ding, Liren	2836	Carlsen, Magnus	2881	1/2-1/2	2021.07.03
+Aronian, Levon	2778	Carlsen, Magnus	2881	1/2-1/2	2021.07.02
+Aronian, Levon	2778	Carlsen, Magnus	2881	1/2-1/2	2021.07.01
+Ding, Liren	2836	Carlsen, Magnus	2881	1/2-1/2	2021.07.03
+Ding, Liren	2788	Carlsen, Magnus	2886	1/2-1/2	2021.07.04
+Wojtaszek, Radoslaw	2691	Carlsen, Magnus	2847	1/2-1/2	2021.07.22
+Wojtaszek, Radoslaw	2729	Carlsen, Magnus	2881	1/2-1/2	2021.07.24
+Esipenko, Andrey	2716	Carlsen, Magnus	2847	1/2-1/2	2021.07.26
+Carlsen, Magnus	0	Vitiugov, Nikita	0	1-0	Sun Jan 19 2020
+Carlsen, Magnus	0	Kovalev, Vladislav	0	1-0	Wed Jan 22 2020
+Carlsen, Magnus	2863	Dubov, Daniil	2699	1-0	Tue Dec 29 2020
+Esipenko, Andrey	2628	Carlsen, Magnus	2881	1/2-1/2	2021.07.27
+Duda, Jan-Krzysztof	2738	Carlsen, Magnus	2847	1/2-1/2	2021.08.03
+Duda, Jan-Krzysztof	2738	Carlsen, Magnus	2847	1/2-1/2	2021.08.02
+Vidit, Santosh Gujrathi	2636	Carlsen, Magnus	2881	1/2-1/2	2021.08.28
+Artemiev, Vladislav	2757	Carlsen, Magnus	2881	1/2-1/2	2021.08.29
+Van Foreest, Jorden	2563	Carlsen, Magnus	2881	1/2-1/2	2021.08.30
+Dominguez Perez, Leinier	2786	Carlsen, Magnus	2881	1/2-1/2	2021.08.29
+Duda, Jan-Krzysztof	2775	Carlsen, Magnus	2881	1/2-1/2	2021.08.31
+Aronian, Levon	2761	Carlsen, Magnus	2881	1/2-1/2	2021.09.02
+Aronian, Levon	2761	Carlsen, Magnus	2881	1/2-1/2	2021.09.02
+Aronian, Levon	2761	Carlsen, Magnus	2881	1/2-1/2	2021.09.03
+Artemiev, Vladislav	2755	Carlsen, Magnus	2842	1/2-1/2	2021.09.05
+Rapport, Richard	2760	Carlsen, Magnus	2855	1/2-1/2	2021.09.09
+Rapport, Richard	2760	Carlsen, Magnus	2855	1/2-1/2	2021.09.09
+Firouzja, Alireza	2754	Carlsen, Magnus	2855	1/2-1/2	2021.09.07
+Firouzja, Alireza	2754	Carlsen, Magnus	2855	1/2-1/2	2021.09.07
+Nepomniachtchi, Ian	2792	Carlsen, Magnus	2855	1/2-1/2	2021.09.17
+Mamedyarov, Shakhriyar	2762	Carlsen, Magnus	2855	1/2-1/2	2021.09.22
+Nepomniachtchi, Ian	2782	Carlsen, Magnus	2855	1/2-1/2	2021.11.26
+Nepomniachtchi, Ian	2782	Carlsen, Magnus	2855	1/2-1/2	2021.11.28
+Nepomniachtchi, Ian	2782	Carlsen, Magnus	2855	1/2-1/2	2021.12.04
+Nepomniachtchi, Ian	2782	Carlsen, Magnus	2855	1/2-1/2	2021.12.01
+Carlsen, Magnus	0	Giri, Anish	0	1/2-1/2	Sat Jan 11 2020
+Yu, Yangyi	0	Carlsen, Magnus	0	1/2-1/2	Sun Jan 12 2020
+Carlsen, Magnus	0	Xiong, Jeffery	0	1/2-1/2	Mon Jan 13 2020
+Van Foreest, Jorden	0	Carlsen, Magnus	0	1/2-1/2	Tue Jan 14 2020
+Carlsen, Magnus	0	Dubov, Daniil	0	1/2-1/2	Thu Jan 16 2020
+Carlsen, Magnus	0	Caruana, Fabiano	0	1/2-1/2	Fri Jan 17 2020
+Anand, Viswanathan	0	Carlsen, Magnus	0	1/2-1/2	Sat Jan 18 2020
+Firouzja, Alireza	0	Carlsen, Magnus	0	0-1	Tue Jan 21 2020
+Duda, Jan-Krzysztof	0	Carlsen, Magnus	0	1/2-1/2	Fri Jan 24 2020
+Carlsen, Magnus	0	Artemiev, Vladislav	0	1/2-1/2	Sat Jan 25 2020
+So, Wesley	0	Carlsen, Magnus	0	1/2-1/2	Sun Jan 26 2020
+So, Wesley	2770	Carlsen, Magnus	2863	1/2-1/2	Sat Dec 26 2020
+Carlsen, Magnus	2863	Dubov, Daniil	2699	0-1	Tue Dec 29 2020
+Dubov, Daniil	2699	Carlsen, Magnus	2863	1/2-1/2	Tue Dec 29 2020
+Dubov, Daniil	2699	Carlsen, Magnus	2863	1-0	Wed Dec 30 2020
+Carlsen, Magnus	2863	Dubov, Daniil	2699	1/2-1/2	Wed Dec 30 2020
+Dubov, Daniil	2699	Carlsen, Magnus	2863	1-0	Wed Dec 30 2020
+Dubov, Daniil	2699	Carlsen, Magnus	2863	1/2-1/2	Tue Dec 29 2020
+Carlsen, Magnus	2863	Giri, Anish	2764	1/2-1/2	Sun Dec 27 2020
+Grischuk, Alexander	2777	Carlsen, Magnus	2863	1/2-1/2	Mon Dec 28 2020
+Carlsen, Magnus	2863	Nakamura, Hikaru	2736	1-0	Mon Dec 28 2020
+Carlsen, Magnus	2863	Aronian, Levon	2767	1/2-1/2	Sat Dec 26 2020
+Carlsen, Magnus	2863	Radjabov, Teimour	2765	1/2-1/2	Sat Dec 26 2020
+Carlsen, Magnus	2863	Dubov, Daniil	2699	1-0	Sun Dec 27 2020
+Carlsen, Magnus	2863	Vachier-Lagrave, Maxime	2784	1/2-1/2	Sun Dec 27 2020
+Carlsen, Magnus	0	Nepomniachtchi, Ian	0	1-0	Fri Nov 22 2019
+Carlsen, Magnus	0	Nakamura, Hikaru	0	1-0	Sat Nov 23 2019
+Carlsen, Magnus	0	Anand, Viswanathan	0	1-0	Sun Nov 24 2019
+Carlsen, Magnus	0	Ding, Liren	0	1-0	Sun Nov 24 2019
+Carlsen, Magnus	0	Aronian, Levon	0	1-0	Mon Nov 25 2019
+Carlsen, Magnus	0	Harikrishna, P.	0	1-0	Tue Nov 26 2019
+Carlsen, Magnus	0	Anand, Viswanathan	0	1-0	Tue Nov 26 2019
+Carlsen, Magnus	0	Aronian, Levon	0	1-0	Sun Dec 08 2019
+Carlsen, Magnus	0	Aronian, Levon	0	1-0	Fri Dec 06 2019
+Carlsen, Magnus	0	Aronian, Levon	0	1-0	Sun Dec 08 2019
+Carlsen, Magnus	0	Laznicka, Viktor	0	1-0	Fri Dec 27 2019
+Carlsen, Magnus	0	Savchenko, Boris	0	1-0	Thu Dec 26 2019
+Carlsen, Magnus	0	Shimanov, Aleksandr	0	1-0	Thu Dec 26 2019
+Carlsen, Magnus	0	Utegaliyev, Azamat	0	1-0	Thu Dec 26 2019
+Carlsen, Magnus	0	Jakovenko, Dmitry	0	1-0	Sun Dec 29 2019
+Carlsen, Magnus	0	Belov, Vladimir	0	1-0	Sun Dec 29 2019
+Carlsen, Magnus	0	Dubov, Daniil	0	1-0	Mon Dec 30 2019
+Carlsen, Magnus	0	Artemiev, Vladislav	0	1-0	Sun Dec 29 2019
+Carlsen, Magnus	0	Mamedyarov, Shakhriyar	0	1-0	Sun Dec 29 2019
+Carlsen, Magnus	0	Socko, Bartosz	0	1-0	Sun Dec 29 2019
+Carlsen, Magnus	0	Le, Quang Liem	0	1-0	Fri Dec 27 2019
+Carlsen, Magnus	0	Mamedyarov, Shakhriyar	0	1-0	Sat Dec 28 2019
+Nepomniachtchi, Ian	2784	Carlsen, Magnus	2863	1/2-1/2	Mon Dec 28 2020
+Harikrishna, Pentala	2732	Carlsen, Magnus	2863	1/2-1/2	Sat Dec 26 2020
+Anton Guijarro, David	2681	Carlsen, Magnus	2863	1/2-1/2	Sun Dec 27 2020
+Carlsen, Magnus	0	Nakamura, Hikaru	0	1-0	Mon Dec 30 2019
+Carlsen, Magnus	0	Kramnik, Vladimir	0	1-0	Mon Dec 30 2019
+Carlsen,M	2835	Mamedyarov,S	2817	1-0	2019.01.12
+Carlsen,M	2835	Rapport,R	2731	1-0	2019.01.12
+Carlsen,M	2835	Anand,V	2773	1-0	2019.01.12
+Carlsen,M	2835	Duda,J	2738	1-0	2019.01.12
+Carlsen,M	2845	Anand,V	2779	1-0	2019.03.31
+Carlsen,M	2845	Giri,A	2797	1-0	2019.03.31
+Carlsen,M	2845	Grischuk,A	2771	1-0	2019.03.31
+Carlsen,M	2845	Aronian,L	2763	1-0	2019.04.20
+Carlsen,M	2845	Vachier Lagrave,M	2773	1-0	2019.04.20
+Carlsen,M	2861	So,W	2754	1-0	2019.05.08
+Carlsen,M	2861	Vachier Lagrave,M	2780	1-0	2019.05.08
+Carlsen,M	2861	Topalov,V	2740	1-0	2019.05.11
+Carlsen,M	2861	Amin,B	2704	1-0	2019.05.11
+Carlsen,M	2861	Karjakin,Sergey	2752	1-0	2019.05.11
+Carlsen,M	2861	Wei Yi	2736	1-0	2019.05.11
+Carlsen,M	2861	Anand,V	2774	1-0	2019.05.25
+Carlsen,M	2875	Grischuk,A	2775	1-0	2019.06.03
+Carlsen,M	2875	Grischuk,A	2775	1-0	2019.06.04
+Carlsen,M	2875	Anand,V	2767	1-0	2019.06.04
+Carlsen,M	2875	Mamedyarov,S	2774	1-0	2019.06.04
+Carlsen,M	2875	Ding Liren	2805	1-0	2019.06.04
+Carlsen,M	2875	Yu Yangyi	2738	1-0	2019.06.04
+Carlsen,M	2875	Nakamura,Hi	2754	1-0	2019.06.26
+Tari, Aryan	2567	Carlsen, Magnus	2832	1-0	2022.06.07
+Anand, Viswanathan	2728	Carlsen, Magnus	2832	1-0	2022.06.05
+So, Wesley	2766	Carlsen, Magnus	2864	1-0	2022.06.01
+Bwalya, Gillan	2396	Carlsen, Magnus	2864	0-1	2022.08.02
+Smirnov, Anton	2600	Carlsen, Magnus	2864	0-1	2022.08.03
+Megaranto, Susanto	2529	Carlsen, Magnus	2864	0-1	2022.08.07
+Carlsen, Magnus	2834	Aronian, Levon	2728	1/2-1/2	2022.08.17
+Carlsen, Magnus	2834	Le, Quang Liem	2661	1/2-1/2	2022.08.18
+Duda, Jan-Krzysztof	2808	Carlsen, Magnus	2834	1-0	2022.08.19
+Duda, Jan-Krzysztof	2808	Carlsen, Magnus	2834	1-0	2022.08.19
+Carlsen, Magnus	2834	Firouzja, Alireza	2704	1/2-1/2	2022.08.20
+Firouzja, Alireza	2704	Carlsen, Magnus	2834	1-0	2022.08.20
+Carlsen, Magnus	2834	Praggnanandhaa, R	1927	1/2-1/2	2022.08.21
+Praggnanandhaa, R	1927	Carlsen, Magnus	2834	1-0	2022.08.21
+Praggnanandhaa, R	1927	Carlsen, Magnus	2834	1-0	2022.08.21
+Carlsen, Magnus	2830	Paravyan, David	2569	1/2-1/2	2022.08.23
+Andreikin, Dmitry	2736	Carlsen, Magnus	2830	1-0	2022.08.23
+Carlsen, Magnus	2834	Navara, David	2659	1/2-1/2	2022.09.19
+Carlsen, Magnus	2834	Keymer, Vincent	2542	1/2-1/2	2022.09.23
+Carlsen, Magnus	2834	Erigaisi, Arjun	2450	1/2-1/2	2022.09.24
+Carlsen, Magnus	2830	Nakamura, Hikaru	2850	1/2-1/2	2022.09.27
+Andreikin, Dmitry	2736	Carlsen, Magnus	2830	1-0	2022.09.27
+Bortnyk, Olexandr	2723	Carlsen, Magnus	2830	1-0	2022.09.27
+Carlsen, Magnus	2830	Van Foreest, Jorden	2649	1/2-1/2	2022.09.27
+Carlsen, Magnus	2830	Dardha, Daniel	2528	1/2-1/2	2022.09.27
+Carlsen,M	2875	Vachier Lagrave,M	2779	1-0	2019.06.26
+Carlsen,M	2882	Vachier Lagrave,M	2778	1-0	2019.08.10
+Carlsen,M	2882	Dominguez Perez,L	2763	1-0	2019.08.10
+Carlsen,M	2882	Vachier Lagrave,M	2778	1-0	2019.08.13
+Carlsen,M	2882	Mamedyarov,S	2764	1-0	2019.08.13
+Carlsen,M	2882	Rapport,R	2747	1-0	2019.08.13
+Carlsen,M	2882	Karjakin,Sergey	2750	1-0	2019.08.13
+Carlsen,M	2882	Ding Liren	2805	1-0	2019.08.13
+Carlsen,M	2882	So,W	2776	1-0	2019.08.17
+Carlsen,M	2876	Kuzubov,Y	2636	1-0	2019.10.10
+Carlsen,M	2876	Pichot,A	2590	1-0	2019.09.25
+Carlsen,M	2876	Pichot,A	2590	1-0	2019.09.25
+Carlsen,M	2876	Pichot,A	2590	1-0	2019.09.25
+Carlsen,M	2876	Pichot,A	2590	1-0	2019.09.25
+Carlsen,M	2876	Pichot,A	2590	1-0	2019.09.25
+Carlsen,M	2876	Pichot,A	2590	1-0	2019.09.25
+Carlsen,M	2876	Ganguly,S	2658	1-0	2019.10.10
+Carlsen,M	2876	Matlakov,M	2716	1-0	2019.10.10
+Carlsen,M	2876	Shirov,A	2664	1-0	2019.10.10
+Carlsen,M	2870	Tryggestad,Andreas Garberg	2365	1-0	2019.11.02
+Carlsen,M	2876	Cuenca Jimenez,J	2523	1-0	2019.09.25
+Carlsen,M	2876	Cuenca Jimenez,J	2523	1-0	2019.09.25
+Carlsen,M	2876	Cuenca Jimenez,J	2523	1-0	2019.09.25
+Carlsen,M	2876	Cuenca Jimenez,J	2523	1-0	2019.09.25
+Carlsen,M	2876	Cuenca Jimenez,J	2523	1-0	2019.09.25
+Carlsen, Magnus	0	Giri, Anish	0	1/2-1/2	Mon Nov 25 2019
+Carlsen, Magnus	0	Ding, Liren	0	0-1	Mon Nov 25 2019
+Carlsen, Magnus	0	So, Wesley	0	1/2-1/2	Mon Nov 25 2019
+Carlsen, Magnus	0	Vidit, Santosh Gujrathi	0	1/2-1/2	Tue Nov 26 2019
+Carlsen, Magnus	0	Nakamura, Hikaru	0	1/2-1/2	Tue Nov 26 2019
+Carlsen, Magnus	0	Nepomniachtchi, Ian	0	1/2-1/2	Tue Nov 26 2019
+Carlsen, Magnus	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Mon Dec 02 2019
+Carlsen, Magnus	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Wed Dec 04 2019
+Carlsen, Magnus	0	Vachier-Lagrave, Maxime	0	0-1	Wed Dec 04 2019
+Carlsen, Magnus	0	Vachier-Lagrave, Maxime	0	0-1	Wed Dec 04 2019
+Carlsen, Magnus	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Wed Dec 04 2019
+Carlsen, Magnus	0	Aronian, Levon	0	0-1	Sun Dec 08 2019
+Carlsen, Magnus	0	Wang, Hao	0	1/2-1/2	Fri Dec 27 2019
+Carlsen, Magnus	0	Abdusattorov, Nodirbek	0	1/2-1/2	Sun Dec 29 2019
+Carlsen,M	2861	Vachier Lagrave,M	2780	0-1	2019.05.11
+Carlsen,M	2875	Vachier Lagrave,M	2779	0-1	2019.06.03
+Carlsen,M	2882	Aronian,L	2765	0-1	2019.08.10
+Carlsen,M	2882	Yu Yangyi	2752	0-1	2019.08.13
+Carlsen,M	2882	Ding Liren	2805	0-1	2019.08.29
+Carlsen,M	2872	Vachier Lagrave,M	2780	0-1	2019.12.02
+Carlsen,M	2876	Mamedov,Rau	2645	1-0	2019.09.25
+Carlsen,M	2876	Mamedov,Rau	2645	0-1	2019.09.25
+Carlsen,M	2876	Mamedov,Rau	2645	1-0	2019.09.25
+Carlsen,M	2876	Mamedov,Rau	2645	1-0	2019.09.25
+Carlsen,M	2876	Mamedov,Rau	2645	1-0	2019.09.25
+Carlsen, Magnus	0	Nepomniachtchi, Ian	0	1/2-1/2	Mon Dec 30 2019
+Carlsen, Magnus	0	Dominguez Perez, Leinier	0	1/2-1/2	Sat Dec 28 2019
+Carlsen, Magnus	0	Grischuk, Alexander	0	1/2-1/2	Mon Dec 30 2019
+Carlsen,M	2835	Nepomniachtchi,I	2763	1/2-1/2	2019.01.12
+Carlsen,M	2835	Kramnik,V	2777	1/2-1/2	2019.01.12
+Carlsen,M	2845	Mamedyarov,S	2790	1/2-1/2	2019.03.31
+Carlsen,M	2845	Anand,V	2774	1/2-1/2	2019.04.20
+Carlsen,M	2845	Naiditsch,A	2695	1/2-1/2	2019.04.20
+Carlsen,M	2861	Nakamura,Hi	2761	1/2-1/2	2019.05.08
+Carlsen,M	2861	Topalov,V	2740	1/2-1/2	2019.05.08
+Carlsen,M	2861	Ding Liren	2805	1/2-1/2	2019.05.08
+Carlsen,M	2861	Nepomniachtchi,I	2773	1/2-1/2	2019.05.11
+Carlsen,M	2861	Nakamura,Hi	2761	1/2-1/2	2019.05.11
+Carlsen,M	2861	Ding Liren	2805	1/2-1/2	2019.05.11
+Carlsen,M	2861	So,W	2754	1/2-1/2	2019.05.11
+Carlsen,M	2861	Ding Liren	2805	1/2-1/2	2019.05.25
+Carlsen,M	2861	Karjakin,Sergey	2752	1/2-1/2	2019.05.25
+Carlsen,M	2875	Ding Liren	2805	1/2-1/2	2019.06.03
+Carlsen,M	2875	So,W	2754	1/2-1/2	2019.06.03
+Carlsen,M	2875	Anand,V	2767	1/2-1/2	2019.06.04
+Carlsen,M	2875	Mamedyarov,S	2774	1/2-1/2	2019.06.04
+Carlsen,M	2875	Ding Liren	2805	1/2-1/2	2019.06.04
+Carlsen,M	2875	Anand,V	2767	1/2-1/2	2019.06.26
+Carlsen,M	2875	Mamedyarov,S	2774	1/2-1/2	2019.06.26
+Carlsen,M	2875	Aronian,L	2752	1/2-1/2	2019.06.26
+Ding, Liren	0	Carlsen, Magnus	0	1-0	Tue Nov 26 2019
+Aronian, Levon	0	Carlsen, Magnus	0	1-0	Sun Dec 08 2019
+Andreikin, Dmitry	0	Carlsen, Magnus	0	1-0	Sun Dec 29 2019
+Vachier Lagrave,M	2780	Carlsen,M	2861	1-0	2019.05.11
+Aronian,L	2752	Carlsen,M	2875	1-0	2019.06.03
+Caruana,F	2819	Carlsen,M	2875	1-0	2019.06.04
+Karjakin,Sergey	2750	Carlsen,M	2882	1-0	2019.08.10
+Carlsen,M	2882	Mamedyarov,S	2764	1/2-1/2	2019.08.10
+Ding Liren	2805	Carlsen,M	2882	1-0	2019.08.10
+Caruana,F	2818	Carlsen,M	2882	1-0	2019.08.10
+Carlsen,M	2882	Giri,A	2779	1/2-1/2	2019.08.17
+Karjakin,Sergey	2750	Carlsen,M	2882	1-0	2019.08.13
+Carlsen,M	2882	Caruana,F	2818	1/2-1/2	2019.08.13
+Yu Yangyi	2752	Carlsen,M	2882	1-0	2019.08.13
+Carlsen,M	2882	Dominguez Perez,L	2763	1/2-1/2	2019.08.13
+Carlsen,M	2882	Aronian,L	2765	1/2-1/2	2019.08.13
+Carlsen,M	2882	Caruana,F	2818	1/2-1/2	2019.08.17
+Carlsen,M	2882	Karjakin,Sergey	2750	1/2-1/2	2019.08.17
+Carlsen,M	2882	Nepomniachtchi,I	2774	1/2-1/2	2019.08.17
+Carlsen,M	2882	Ding Liren	2805	1/2-1/2	2019.08.17
+Carlsen,M	2882	Ding Liren	2805	1/2-1/2	2019.08.29
+Carlsen,M	2876	Kasimdzhanov,R	2657	1/2-1/2	2019.10.10
+Carlsen,M	2876	Caruana,F	2812	1/2-1/2	2019.10.10
+Carlsen,M	2876	Mamedov,Rau	2645	1/2-1/2	2019.09.25
+Carlsen,M	2876	Mamedov,Rau	2645	1/2-1/2	2019.09.25
+Aronian, Levon	0	Carlsen, Magnus	0	0-1	Fri Nov 22 2019
+Giri, Anish	0	Carlsen, Magnus	0	0-1	Sat Nov 23 2019
+Vidit, Santosh Gujrathi	0	Carlsen, Magnus	0	0-1	Mon Nov 25 2019
+Harikrishna, P.	0	Carlsen, Magnus	0	0-1	Mon Nov 25 2019
+Nepomniachtchi, Ian	0	Carlsen, Magnus	0	0-1	Mon Nov 25 2019
+Anand, Viswanathan	0	Carlsen, Magnus	0	0-1	Mon Nov 25 2019
+Aronian, Levon	0	Carlsen, Magnus	0	0-1	Tue Nov 26 2019
+Vachier-Lagrave, Maxime	0	Carlsen, Magnus	0	0-1	Wed Dec 04 2019
+Predke, Alexandr	0	Carlsen, Magnus	0	0-1	Sun Dec 29 2019
+Wojtaszek, Radoslaw	0	Carlsen, Magnus	0	0-1	Sun Dec 29 2019
+Salem, A.R. Saleh	0	Carlsen, Magnus	0	0-1	Sun Dec 29 2019
+Matlakov, Maxim	0	Carlsen, Magnus	0	0-1	Mon Dec 30 2019
+Jobava, Baadur	0	Carlsen, Magnus	0	0-1	Sun Dec 29 2019
+Zubov, Alexander	0	Carlsen, Magnus	0	0-1	Fri Dec 27 2019
+Aronian, Levon	0	Carlsen, Magnus	0	0-1	Sat Dec 28 2019
+Firouzja, Alireza	0	Carlsen, Magnus	0	0-1	Mon Dec 30 2019
+Ding Liren	2805	Carlsen,M	2882	1-0	2019.08.13
+Caruana,F	2818	Carlsen,M	2882	1-0	2019.08.13
+Dominguez Perez,L	2763	Carlsen,M	2882	1-0	2019.08.13
+Ding Liren	2805	Carlsen,M	2882	1-0	2019.08.29
+Pichot,A	2590	Carlsen,M	2876	1-0	2019.09.25
+Pichot,A	2590	Carlsen,M	2876	1-0	2019.09.25
+Pichot,A	2590	Carlsen,M	2876	1-0	2019.09.25
+Mamedov,Rau	2645	Carlsen,M	2876	1-0	2019.09.25
+Mamedov,Rau	2645	Carlsen,M	2876	1-0	2019.09.25
+Van Foreest,Jorden	2612	Carlsen,M	2835	0-1	2019.01.12
+Navara,D	2739	Carlsen,M	2845	0-1	2019.03.31
+Karjakin,Sergey	2753	Carlsen,M	2845	0-1	2019.03.31
+Keymer,Vincent	2516	Carlsen,M	2845	0-1	2019.04.20
+Vallejo Pons,F	2693	Carlsen,M	2845	0-1	2019.04.20
+Meier,Geo	2628	Carlsen,M	2845	0-1	2019.04.20
+Svidler,P	2735	Carlsen,M	2845	0-1	2019.04.20
+Nepomniachtchi,I	2773	Carlsen,M	2861	0-1	2019.05.08
+Karjakin,Sergey	2752	Carlsen,M	2861	0-1	2019.05.08
+Amin,B	2704	Carlsen,M	2861	0-1	2019.05.08
+Wei Yi	2736	Carlsen,M	2861	0-1	2019.05.08
+Karjakin,Sergey	2752	Carlsen,M	2861	0-1	2019.05.11
+Topalov,V	2740	Carlsen,M	2861	0-1	2019.05.11
+Nakamura,Hi	2761	Carlsen,M	2861	0-1	2019.05.11
+Yu Yangyi	2738	Carlsen,M	2875	0-1	2019.06.03
+Anand,V	2767	Carlsen,M	2875	0-1	2019.06.03
+Mamedyarov,S	2774	Carlsen,M	2875	0-1	2019.06.03
+Caruana,F	2819	Carlsen,M	2875	0-1	2019.06.03
+Aronian,L	2752	Carlsen,M	2875	0-1	2019.06.04
+Giri,A	2779	Carlsen,M	2875	0-1	2019.06.26
+Nepomniachtchi,I	2775	Carlsen,M	2875	0-1	2019.06.26
+Ding Liren	2805	Carlsen,M	2875	0-1	2019.06.26
+Rapport,R	2747	Carlsen,M	2882	0-1	2019.08.10
+Mamedyarov,S	2764	Carlsen,M	2882	0-1	2019.08.13
+Vachier Lagrave,M	2778	Carlsen,M	2882	0-1	2019.08.17
+So, Wesley	0	Carlsen, Magnus	0	1/2-1/2	Fri Nov 22 2019
+Vidit, Santosh Gujrathi	0	Carlsen, Magnus	0	1/2-1/2	Sat Nov 23 2019
+Harikrishna, P.	0	Carlsen, Magnus	0	1/2-1/2	Sun Nov 24 2019
+Nakamura, Hikaru	0	Carlsen, Magnus	0	1/2-1/2	Mon Nov 25 2019
+Giri, Anish	0	Carlsen, Magnus	0	1/2-1/2	Tue Nov 26 2019
+So, Wesley	0	Carlsen, Magnus	0	1/2-1/2	Tue Nov 26 2019
+Vachier-Lagrave, Maxime	0	Carlsen, Magnus	0	1/2-1/2	Tue Dec 03 2019
+Vachier-Lagrave, Maxime	0	Carlsen, Magnus	0	1/2-1/2	Wed Dec 04 2019
+Vachier-Lagrave, Maxime	0	Carlsen, Magnus	0	1/2-1/2	Wed Dec 04 2019
+Vachier-Lagrave, Maxime	0	Carlsen, Magnus	0	1/2-1/2	Wed Dec 04 2019
+Aronian, Levon	0	Carlsen, Magnus	0	1/2-1/2	Sat Dec 07 2019
+Aronian, Levon	0	Carlsen, Magnus	0	1/2-1/2	Sun Dec 08 2019
+Aronian, Levon	0	Carlsen, Magnus	0	1/2-1/2	Sun Dec 08 2019
+Rakhmanov, Aleksandr	0	Carlsen, Magnus	0	1/2-1/2	Fri Dec 27 2019
+Melkumyan, Hrant	0	Carlsen, Magnus	0	1/2-1/2	Thu Dec 26 2019
+Pichot,A	2590	Carlsen,M	2876	0-1	2019.09.25
+Pichot,A	2590	Carlsen,M	2876	0-1	2019.09.25
+Pichot,A	2590	Carlsen,M	2876	0-1	2019.09.25
+Skrondal,I	2311	Carlsen,M	2870	0-1	2019.11.02
+Cuenca Jimenez,J	2523	Carlsen,M	2876	0-1	2019.09.25
+Cuenca Jimenez,J	2523	Carlsen,M	2876	0-1	2019.09.25
+Cuenca Jimenez,J	2523	Carlsen,M	2876	0-1	2019.09.25
+Mamedov,Rau	2645	Carlsen,M	2876	0-1	2019.09.25
+Mamedov,Rau	2645	Carlsen,M	2876	0-1	2019.09.25
+Mamedov,Rau	2645	Carlsen,M	2876	0-1	2019.09.25
+Mamedov, Rauf	0	Carlsen, Magnus	0	1/2-1/2	Thu Dec 26 2019
+Vachier-Lagrave, Maxime	0	Carlsen, Magnus	0	1/2-1/2	Mon Dec 30 2019
+Nakamura, Hikaru	0	Carlsen, Magnus	0	1/2-1/2	Sun Dec 29 2019
+Nakamura, Hikaru	0	Carlsen, Magnus	0	1/2-1/2	Sat Dec 28 2019
+Vachier-Lagrave, Maxime	0	Carlsen, Magnus	0	1/2-1/2	Sat Dec 28 2019
+Yu, Yangyi	0	Carlsen, Magnus	0	1/2-1/2	Mon Dec 30 2019
+Nakamura, Hikaru	0	Carlsen, Magnus	0	1/2-1/2	Mon Dec 30 2019
+Duda, Jan-Krzysztof	0	Carlsen, Magnus	0	1/2-1/2	Mon Dec 30 2019
+Ding Liren	2813	Carlsen,M	2835	1/2-1/2	2019.01.12
+Vidit,S	2695	Carlsen,M	2835	1/2-1/2	2019.01.12
+Fedoseev,Vl3	2724	Carlsen,M	2835	1/2-1/2	2019.01.12
+Shankland,S	2725	Carlsen,M	2835	1/2-1/2	2019.01.12
+Radjabov,T	2757	Carlsen,M	2835	1/2-1/2	2019.01.12
+Giri,A	2783	Carlsen,M	2835	1/2-1/2	2019.01.12
+Radjabov,T	2756	Carlsen,M	2845	1/2-1/2	2019.03.31
+Topalov,V	2740	Carlsen,M	2845	1/2-1/2	2019.03.31
+Ding Liren	2812	Carlsen,M	2845	1/2-1/2	2019.03.31
+Caruana,F	2819	Carlsen,M	2845	1/2-1/2	2019.04.20
+Amin,B	2704	Carlsen,M	2861	1/2-1/2	2019.05.11
+Ding Liren	2805	Carlsen,M	2861	1/2-1/2	2019.05.11
+So,W	2754	Carlsen,M	2861	1/2-1/2	2019.05.11
+Wei Yi	2736	Carlsen,M	2861	1/2-1/2	2019.05.11
+Nepomniachtchi,I	2773	Carlsen,M	2861	1/2-1/2	2019.05.11
+Karjakin,Sergey	2752	Carlsen,M	2861	1/2-1/2	2019.05.25
+Anand,V	2774	Carlsen,M	2861	1/2-1/2	2019.05.25
+Ding Liren	2805	Carlsen,M	2861	1/2-1/2	2019.05.25
+Aronian,L	2752	Carlsen,M	2875	1/2-1/2	2019.06.04
+Vachier Lagrave,M	2779	Carlsen,M	2875	1/2-1/2	2019.06.04
+Vachier Lagrave,M	2779	Carlsen,M	2875	1/2-1/2	2019.06.04
+So,W	2754	Carlsen,M	2875	1/2-1/2	2019.06.04
+Caruana,F	2819	Carlsen,M	2875	1/2-1/2	2019.06.04
+So,W	2754	Carlsen,M	2875	1/2-1/2	2019.06.04
+Caruana,F	2819	Carlsen,M	2875	1/2-1/2	2019.06.26
+Karjakin,Sergey	2748	Carlsen,M	2875	1/2-1/2	2019.06.26
+So,W	2754	Carlsen,M	2875	1/2-1/2	2019.06.26
+Yu Yangyi	2752	Carlsen,M	2882	1/2-1/2	2019.08.10
+Anand,V	2756	Carlsen,M	2882	1/2-1/2	2019.08.17
+Aronian,L	2765	Carlsen,M	2882	1/2-1/2	2019.08.13
+Vachier Lagrave,M	2778	Carlsen,M	2882	1/2-1/2	2019.08.13
+Rapport,R	2747	Carlsen,M	2882	1/2-1/2	2019.08.13
+Mamedyarov,S	2764	Carlsen,M	2882	1/2-1/2	2019.08.17
+Nakamura,Hi	2743	Carlsen,M	2882	1/2-1/2	2019.08.17
+Aronian,L	2765	Carlsen,M	2882	1/2-1/2	2019.08.17
+Ding Liren	2805	Carlsen,M	2882	1/2-1/2	2019.08.29
+Sarana,A	2655	Carlsen,M	2876	1/2-1/2	2019.10.10
+Kovalev,Vl	2661	Carlsen,M	2876	1/2-1/2	2019.10.10
+Aronian,L	2758	Carlsen,M	2876	1/2-1/2	2019.10.10
+Alekseenko,K	2674	Carlsen,M	2876	1/2-1/2	2019.10.10
+Wang Hao	2726	Carlsen,M	2876	1/2-1/2	2019.10.10
+Vidit,S	2722	Carlsen,M	2870	1/2-1/2	2019.11.22
+Carlsen, M.	2832	Nakamura, Hi	2786	1-0	2017.05.03
+Carlsen, M.	2832	Nakamura, Hi	2786	1-0	2017.05.03
+Carlsen, M.	2832	Nakamura, Hi	2786	1-0	2017.05.03
+Carlsen, M.	2832	Nakamura, Hi	2786	1-0	2017.05.03
+Carlsen, M.	2832	Nakamura, Hi	2786	1-0	2017.05.03
+Carlsen, M.	2832	Nakamura, Hi	2786	1-0	2017.05.03
+Carlsen, M.	2832	Nakamura, Hi	2786	1-0	2017.05.03
+Carlsen, M.	2832	Nakamura, Hi	2786	1-0	2017.05.03
+Carlsen, M.	2834	Hou Yifan	2680	1-0	2018.01.13
+Carlsen, M.	2834	Jones, G.	2640	1-0	2018.01.13
+Carlsen, M.	2834	Giri, A.	2752	1-0	2018.01.28
+Carlsen, M.	2834	So, W.	2792	1-0	2018.01.13
+Carlsen, M.	2834	Matlakov, M.	2718	1-0	2018.01.13
+Carlsen, M.	2834	Sharafiev, A.	2432	1-0	2018.01.18
+Carlsen, M.	2834	Gorozhanin, M.	2435	1-0	2018.01.18
+Carlsen, M.	2834	Holm, Kristian Stuvik	2436	1-0	2018.01.18
+Carlsen, M.	2834	Urkedal, F.	2572	1-0	2018.01.18
+Carlsen, M.	2834	Olafsson, H1.	2508	1-0	2018.01.18
+Carlsen, M.	2834	Yanchenko, R.	2436	1-0	2018.01.18
+Carlsen, M.	2834	Dreev, A.	2653	1-0	2018.01.18
+Carlsen, M.	2834	Iturrizaga, E.	2650	1-0	2018.01.18
+Harikrishna,P	2731	Carlsen,M	2870	1/2-1/2	2019.11.22
+Aronian,L	2775	Carlsen,M	2872	1/2-1/2	2019.12.02
+Cuenca Jimenez,J	2523	Carlsen,M	2876	1/2-1/2	2019.09.25
+Mamedov,Rau	2645	Carlsen,M	2876	1/2-1/2	2019.09.25
+Giri, Anish	2721	Carlsen, Magnus	2834	0-1	2022.08.15
+Niemann, Hans Moke	2529	Carlsen, Magnus	2834	0-1	2022.08.16
+Niemann, Hans Moke	2529	Carlsen, Magnus	2834	0-1	2022.08.16
+Aronian, Levon	2728	Carlsen, Magnus	2834	0-1	2022.08.17
+Le, Quang Liem	2661	Carlsen, Magnus	2834	0-1	2022.08.18
+Jaracz, Pawel	2459	Carlsen, Magnus	2830	0-1	2022.08.23
+Chigaev, Maksim	2487	Carlsen, Magnus	2830	0-1	2022.08.23
+Theodorou, Nikolas	2484	Carlsen, Magnus	2830	0-1	2022.08.23
+Erigaisi, Arjun	2450	Carlsen, Magnus	2834	0-1	2022.09.18
+Le, Quang Liem	2661	Carlsen, Magnus	2834	0-1	2022.09.18
+Gelfand, Boris	2641	Carlsen, Magnus	2834	0-1	2022.09.20
+Wojtaszek, Radoslaw	2636	Carlsen, Magnus	2834	0-1	2022.09.21
+Aronian, Levon	2720	Carlsen, Magnus	2834	0-1	2022.09.22
+Aronian, Levon	2720	Carlsen, Magnus	2834	0-1	2022.09.22
+Keymer, Vincent	2542	Carlsen, Magnus	2834	0-1	2022.09.23
+Erigaisi, Arjun	2450	Carlsen, Magnus	2834	0-1	2022.09.24
+Erigaisi, Arjun	2450	Carlsen, Magnus	2834	0-1	2022.09.25
+Timofeev, Artyom	2579	Carlsen, Magnus	2830	0-1	2022.09.27
+Vokhidov, Shamsiddin	2619	Carlsen, Magnus	2830	0-1	2022.09.27
+Karas, Marek	2272	Carlsen, Magnus	2830	0-1	2022.09.27
+De Silva, L M S T	1727	Carlsen, Magnus	2830	0-1	2022.09.27
+Wojtaszek, Radoslaw	2606	Carlsen, Magnus	2830	0-1	2022.09.27
+Richter, Paul	2542	Carlsen, Magnus	2830	0-1	2022.09.27
+Girel, Joseph	2104	Carlsen, Magnus	2830	0-1	2022.09.27
+Kollars, Dmitrij	2584	Carlsen, Magnus	2830	0-1	2022.09.27
+Carlsen, M.	2834	Flores Rios, M.	2529	1-0	2018.01.18
+Carlsen, M.	2834	Azarov, S.	2567	1-0	2018.01.18
+Carlsen, M.	2834	Grover, S.	2484	1-0	2018.01.18
+Carlsen, M.	2834	Boruchovsky, A.	2542	1-0	2018.01.18
+Carlsen, M.	2834	Ehlvest, J.	2536	1-0	2018.01.18
+Carlsen, M.	2843	Hou Yifan	2654	1-0	2018.03.31
+Carlsen, M.	2843	Wojtaszek, R.	2744	1-0	2018.04.19
+Carlsen, M.	2843	Topalov, V.	2749	1-0	2018.04.19
+Carlsen, M.	2843	Caruana, F.	2822	1-0	2018.05.28
+Carlsen, M.	2843	Caruana, F.	2822	1-0	2018.05.27
+Carlsen, M.	2843	So, W.	2778	1-0	2018.05.27
+Carlsen, M.	2843	Aronian, L.	2764	1-0	2018.05.28
+Carlsen, M.	2842	Navara, D.	2741	1-0	2018.07.22
+Carlsen, M.	2842	Georgiadis, N.	2526	1-0	2018.07.22
+Carlsen, M.	2842	Karjakin, Sergey	2773	1-0	2018.08.18
+Carlsen, M.	2842	Nakamura, Hi	2777	1-0	2018.08.18
+Carlsen, Magnus	2835	Svidler, Peter	2737	1-0	2018.12.29
+Carlsen, Magnus	2835	Korobov, Anton	2698	1-0	2018.12.29
+Carlsen, Magnus	2835	Popov, Ivan RUS	2592	1-0	2018.12.29
+Carlsen, Magnus	2835	Giri, Anish	2783	1-0	2018.12.29
+Carlsen, Magnus	2835	Caruana, Fabiano	2832	1-0	2018.11.28
+Carlsen, Magnus	2835	Tsydypov, Zhamsaran	2529	1-0	2018.12.29
+Carlsen, Magnus	2839	Potkin, Vladimir	2597	1-0	2018.10.12
+Carlsen, Magnus	2835	Teterev, Vitaly	2486	1-0	2018.12.29
+Carlsen, Magnus	2835	Amonatov, Farrukh	2614	1-0	2018.12.26
+Carlsen, M.	2832	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Carlsen, M.	2832	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Carlsen, M.	2832	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Carlsen, M.	2832	Nakamura, Hi	2786	0-1	2017.05.03
+Carlsen, M.	2832	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Carlsen, M.	2834	Wei Yi	2743	1/2-1/2	2018.01.13
+Carlsen, M.	2834	Caruana, F.	2811	1/2-1/2	2018.01.13
+Carlsen, M.	2834	Kramnik, V.	2787	1/2-1/2	2018.01.13
+Carlsen, M.	2834	Lenic, L.	2662	0-1	2018.01.18
+Carlsen, M.	2834	Spoelman, W.	2578	0-1	2018.01.18
+Carlsen, M.	2834	Lalith, B.	2542	0-1	2018.01.18
+Carlsen, M.	2843	Vitiugov, N.	2735	1/2-1/2	2018.03.31
+Carlsen, M.	2843	Vachier Lagrave, M.	2789	1/2-1/2	2018.03.31
+Carlsen, M.	2843	Aronian, L.	2794	1/2-1/2	2018.03.31
+Carlsen, M.	2843	Navara, D.	2745	1/2-1/2	2018.04.19
+Carlsen, M.	2843	Aronian, L.	2764	0-1	2018.05.27
+Carlsen, Magnus	2835	Vokhidov, Shamsiddin	2480	0-1	2018.12.26
+Carlsen, Magnus	2843	Nakamura, Hikaru	2781	1-0	2018.02.13
+Carlsen, Magnus	2835	Duda, Jan-Krzysztof	2738	1-0	2018.12.29
+Carlsen, Magnus	2835	Firouzja, Alireza	2607	1-0	2018.12.29
+Carlsen, Magnus	2835	Salgado Lopez, Ivan	2629	1-0	2018.12.26
+Carlsen, Magnus	2835	Andreikin, Dmitry	2719	1-0	2018.12.26
+Carlsen, Magnus	2835	Petrov, Nikita	2593	1-0	2018.12.26
+Carlsen, Magnus	2835	Vlassov, Nikolai	2401	1-0	2018.12.26
+Carlsen, Magnus	2835	Caruana, Fabiano	2832	1-0	2018.11.28
+Nakamura, Hi	2786	Carlsen, M.	2832	1-0	2017.05.03
+Nakamura, Hi	2786	Carlsen, M.	2832	1-0	2017.05.03
+Carlsen, M.	2843	Ding Liren	2778	1/2-1/2	2018.04.19
+Carlsen, M.	2843	Ding Liren	2791	1/2-1/2	2018.05.27
+Carlsen, M.	2843	Anand, V.	2760	1/2-1/2	2018.05.28
+So, W.	2778	Carlsen, M.	2843	1-0	2018.05.28
+Carlsen, M.	2843	Karjakin, Sergey	2782	1/2-1/2	2018.05.27
+Carlsen, M.	2843	Mamedyarov, S.	2808	1/2-1/2	2018.05.28
+Carlsen, M.	2842	Mamedyarov, S.	2801	1/2-1/2	2018.07.22
+Carlsen, M.	2842	Vachier Lagrave, M.	2779	1/2-1/2	2018.07.22
+Carlsen, M.	2842	Svidler, P.	2753	1/2-1/2	2018.07.22
+Carlsen, M.	2842	So, W.	2780	1/2-1/2	2018.08.18
+Carlsen, M.	2842	Caruana, F.	2822	1/2-1/2	2018.08.18
+Carlsen, Magnus	2835	Caruana, Fabiano	2832	1/2-1/2	2018.11.09
+Carlsen, Magnus	2835	Caruana, Fabiano	2832	1/2-1/2	2018.11.09
+Carlsen, Magnus	2835	Caruana, Fabiano	2832	1/2-1/2	2018.11.09
+Carlsen, Magnus	2835	Gelfand, Boris	2673	1/2-1/2	2018.12.29
+Carlsen, Magnus	2835	Caruana, Fabiano	2832	1/2-1/2	2018.11.09
+Carlsen, Magnus	2835	Caruana, Fabiano	2832	1/2-1/2	2018.11.09
+Carlsen, Magnus	2835	Anand, Viswanathan	2773	1/2-1/2	2018.12.26
+Carlsen, Magnus	2835	Shirov, Alexei	2643	1/2-1/2	2018.12.29
+Carlsen, Magnus	2839	Donchenko, Alexander	2610	1/2-1/2	2018.10.12
+Carlsen, Magnus	2835	Caruana, Fabiano	2832	1/2-1/2	2018.11.09
+Carlsen, Magnus	2839	Ding, Liren	2804	1/2-1/2	2018.10.12
+Carlsen, Magnus	2835	Nakamura, Hikaru	2746	1/2-1/2	2018.12.29
+Nakamura, Hi	2786	Carlsen, M.	2832	0-1	2017.05.03
+Nakamura, Hi	2786	Carlsen, M.	2832	0-1	2017.05.03
+Nakamura, Hi	2786	Carlsen, M.	2832	0-1	2017.05.03
+Nakamura, Hi	2786	Carlsen, M.	2832	0-1	2017.05.03
+Nakamura, Hi	2786	Carlsen, M.	2832	0-1	2017.05.03
+Nakamura, Hi	2786	Carlsen, M.	2832	0-1	2017.05.03
+Adhiban, Baskaran	2655	Carlsen, M.	2834	0-1	2018.01.13
+Grigoriants, S RUS.	2568	Carlsen, M.	2834	0-1	2018.01.18
+Dudukin, Ilya	2396	Carlsen, M.	2834	0-1	2018.01.18
+Kaasen, Tor Fredrik	2340	Carlsen, M.	2834	0-1	2018.01.18
+Pruijssers, R.	2536	Carlsen, M.	2834	0-1	2018.01.18
+Meier, Geo	2647	Carlsen, M.	2834	0-1	2018.01.18
+Fontaine, R.	2563	Carlsen, M.	2834	0-1	2018.01.18
+Tran Tuan Minh	2548	Carlsen, M.	2834	0-1	2018.01.18
+Miroshnichenko, E.	2606	Carlsen, M.	2834	0-1	2018.01.18
+Mamedov, Rau	2709	Carlsen, M.	2834	0-1	2018.01.18
+Hansen, Eric	2629	Carlsen, M.	2834	0-1	2018.01.18
+Vaibhav, S.	2542	Carlsen, M.	2834	0-1	2018.01.18
+Hemant, S2.	2348	Carlsen, M.	2834	0-1	2018.01.18
+Kukk, S.	2178	Carlsen, M.	2834	0-1	2018.01.18
+Naiditsch, A.	2701	Carlsen, M.	2843	0-1	2018.03.31
+Giri, A.	2777	Carlsen, M.	2843	0-1	2018.04.19
+Mamedyarov, S.	2801	Carlsen, M.	2842	1-0	2018.07.22
+Tukhaev, Adam	2527	Carlsen, Magnus	2835	1-0	2018.12.26
+Zubov, Alexander	2597	Carlsen, Magnus	2835	1-0	2018.12.26
+Nakamura, Hi	2786	Carlsen, M.	2832	1/2-1/2	2017.05.03
+Nakamura, Hi	2786	Carlsen, M.	2832	1/2-1/2	2017.05.03
+Nakamura, Hi	2786	Carlsen, M.	2832	1/2-1/2	2017.05.03
+Svidler, P.	2768	Carlsen, M.	2834	1/2-1/2	2018.01.13
+Giri, A.	2752	Carlsen, M.	2834	1/2-1/2	2018.01.13
+Karjakin, Sergey	2753	Carlsen, M.	2834	1/2-1/2	2018.01.13
+Giri, A.	2752	Carlsen, M.	2834	1/2-1/2	2018.01.28
+Mamedyarov, S.	2804	Carlsen, M.	2834	1/2-1/2	2018.01.13
+Anand, V.	2767	Carlsen, M.	2834	1/2-1/2	2018.01.13
+Vachier Lagrave, M.	2793	Carlsen, M.	2834	1/2-1/2	2018.01.18
+Shimanov, A.	2641	Carlsen, M.	2834	1/2-1/2	2018.01.18
+Ladva, O.	2522	Carlsen, M.	2834	1/2-1/2	2018.01.18
+Caruana, F.	2784	Carlsen, M.	2843	1/2-1/2	2018.03.31
+Bluebaum, M.	2631	Carlsen, M.	2843	1/2-1/2	2018.03.31
+Vachier Lagrave, M.	2779	Carlsen, M.	2842	0-1	2018.07.22
+Aronian, Levon	2765	Carlsen, Magnus	2835	0-1	2018.12.29
+Bosiocic, Marin	2599	Carlsen, Magnus	2835	0-1	2018.12.29
+Caruana, Fabiano	2832	Carlsen, Magnus	2835	0-1	2018.11.28
+Golubov, Saveliy	2482	Carlsen, Magnus	2835	0-1	2018.12.29
+Mamedyarov, Shakhriyar	2817	Carlsen, Magnus	2835	0-1	2018.12.29
+Melkumyan, Hrant	2670	Carlsen, Magnus	2835	0-1	2018.12.26
+Oparin, Grigoriy	2613	Carlsen, Magnus	2835	0-1	2018.12.26
+Pogosyan, Stefan	2365	Carlsen, Magnus	2835	0-1	2018.12.26
+Tang, Andrew	2487	Carlsen, Magnus	2835	0-1	2018.12.26
+Wang, Hao	2730	Carlsen, Magnus	2835	0-1	2018.12.29
+Anand, V.	2776	Carlsen, M.	2843	1/2-1/2	2018.03.31
+Meier, Geo	2648	Carlsen, M.	2843	1/2-1/2	2018.03.31
+Radjabov, T.	2748	Carlsen, M.	2843	1/2-1/2	2018.04.19
+Mamedyarov, S.	2814	Carlsen, M.	2843	1/2-1/2	2018.04.19
+Mamedov, Rau	2704	Carlsen, M.	2843	1/2-1/2	2018.04.19
+Karjakin, Sergey	2778	Carlsen, M.	2843	1/2-1/2	2018.04.19
+Nakamura, Hi	2769	Carlsen, M.	2843	1/2-1/2	2018.05.27
+Mamedyarov, S.	2808	Carlsen, M.	2843	1/2-1/2	2018.05.27
+Vachier Lagrave, M.	2789	Carlsen, M.	2843	1/2-1/2	2018.05.27
+Anand, V.	2760	Carlsen, M.	2843	1/2-1/2	2018.05.27
+Nakamura, Hi	2769	Carlsen, M.	2843	1/2-1/2	2018.05.28
+Vachier Lagrave, M.	2789	Carlsen, M.	2843	1/2-1/2	2018.05.28
+Navara, D.	2741	Carlsen, M.	2842	1/2-1/2	2018.07.22
+Svidler, P.	2753	Carlsen, M.	2842	1/2-1/2	2018.07.22
+Georgiadis, N.	2526	Carlsen, M.	2842	1/2-1/2	2018.07.22
+Vachier Lagrave, M.	2779	Carlsen, M.	2842	1/2-1/2	2018.08.18
+Anand, V.	2768	Carlsen, M.	2842	1/2-1/2	2018.08.18
+Grischuk, A.	2766	Carlsen, M.	2842	1/2-1/2	2018.08.18
+Mamedyarov, S.	2801	Carlsen, M.	2842	1/2-1/2	2018.08.18
+Aronian, L.	2767	Carlsen, M.	2842	1/2-1/2	2018.08.18
+Andreikin, Dmitry	2719	Carlsen, Magnus	2835	1/2-1/2	2018.12.29
+Artemiev, Vladislav	2709	Carlsen, Magnus	2835	1/2-1/2	2018.12.29
+Caruana, Fabiano	2832	Carlsen, Magnus	2835	1/2-1/2	2018.11.09
+Caruana, Fabiano	2832	Carlsen, Magnus	2835	1/2-1/2	2018.11.09
+Caruana, Fabiano	2832	Carlsen, Magnus	2835	1/2-1/2	2018.11.09
+Carlsen, M.	2840	Wojtaszek, R.	2750	1-0	2017.01.14
+Carlsen, M.	2840	Wei Yi	2706	1-0	2017.01.14
+Carlsen, M.	2840	Van Wely, L.	2695	1-0	2017.01.14
+Carlsen, M.	2840	Hansen, Eric	2603	1-0	2017.01.11
+Carlsen, M.	2840	Gupta, Ab	2645	1-0	2017.01.11
+Carlsen, M.	2840	Nihal, Sarin	2340	1-0	2017.01.11
+Carlsen, M.	2840	Pavasovic, D.	2548	1-0	2017.01.11
+Carlsen, M.	2840	Sebenik, M.	2534	1-0	2017.01.11
+Carlsen, M.	2838	Mohammad, Nubairshah Shaikh	2408	1-0	2017.03.01
+Carlsen, M.	2838	Ghosh, D.	2581	1-0	2017.03.01
+Carlsen, M.	2838	Salem, AR.	2652	1-0	2017.03.01
+Carlsen, M.	2838	Grover, S.	2473	1-0	2017.03.01
+Caruana, Fabiano	2832	Carlsen, Magnus	2835	1/2-1/2	2018.11.09
+Caruana, Fabiano	2832	Carlsen, Magnus	2835	1/2-1/2	2018.11.09
+Caruana, Fabiano	2832	Carlsen, Magnus	2835	1/2-1/2	2018.11.09
+Dubov, Daniil	2703	Carlsen, Magnus	2835	1/2-1/2	2018.12.26
+Grigoriants, Sergey	2540	Carlsen, Magnus	2835	1/2-1/2	2018.12.29
+Karjakin, Sergey	2782	Carlsen, Magnus	2843	1/2-1/2	2018.05.28
+Mamedyarov, Shakhriyar	2820	Carlsen, Magnus	2839	1/2-1/2	2018.10.12
+Nakamura, Hikaru	2781	Carlsen, Magnus	2843	1/2-1/2	2018.02.13
+Nakamura, Hikaru	2746	Carlsen, Magnus	2835	1/2-1/2	2018.12.26
+Nepomniachtchi, Ian	2763	Carlsen, Magnus	2835	1/2-1/2	2018.12.29
+Svidler, Peter	2756	Carlsen, Magnus	2839	1/2-1/2	2018.10.12
+Wojtaszek, Radoslaw	2727	Carlsen, Magnus	2839	1/2-1/2	2018.10.12
+Zhigalko, Sergei	2604	Carlsen, Magnus	2835	1/2-1/2	2018.12.29
+Carlsen, M.	2838	Yatzenko, A.	2356	1-0	2017.03.01
+Carlsen, M.	2838	Sharafiev, A.	2433	1-0	2017.03.01
+Carlsen, M.	2838	Pantzar, Milton	2257	1-0	2017.03.01
+Carlsen, M.	2838	Meier, Geo	2630	1-0	2017.03.01
+Carlsen, M.	2838	Finegold, B.	2481	1-0	2017.03.01
+Carlsen, M.	2838	Akobian, V.	2645	1-0	2017.03.01
+Carlsen, M.	2838	Pantsulaia, L.	2589	1-0	2017.03.01
+Carlsen, M.	2832	Caruana, F.	2808	1-0	2017.06.05
+Carlsen, M.	2832	Giri, A.	2771	1-0	2017.06.05
+Carlsen, M.	2832	Aronian, L.	2793	1-0	2017.06.05
+Carlsen, M.	2832	Vachier Lagrave, M.	2796	1-0	2017.06.05
+Carlsen, M.	2832	Karjakin, Sergey	2781	1-0	2017.06.06
+Carlsen, M.	2832	So, W.	2812	1-0	2017.06.24
+Carlsen, M.	2832	Vachier Lagrave, M.	2796	1-0	2017.06.25
+Carlsen, M.	2832	Bacrot, E.	2708	1-0	2017.06.24
+Carlsen, M.	2832	Topalov, V.	2749	1-0	2017.06.24
+Carlsen, M.	2832	Bacrot, E.	2708	1-0	2017.06.21
+Carlsen, M.	2832	Caruana, F.	2808	1-0	2017.06.24
+Carlsen, M.	2832	Vachier Lagrave, M.	2796	1-0	2017.06.21
+Carlsen, M.	2832	Topalov, V.	2749	1-0	2017.06.21
+Carlsen, M.	2832	Kramnik, V.	2808	1-0	2017.06.28
+Carlsen, M.	2832	Jobava, Ba	2707	1-0	2017.06.28
+Carlsen, M.	2832	Nepomniachtchi, I.	2732	1-0	2017.07.01
+Carlsen, M.	2832	Jobava, Ba	2707	1-0	2017.07.01
+Carlsen, M.	2832	So, W.	2812	1-0	2017.07.01
+Carlsen, M.	2832	Vachier Lagrave, M.	2796	1-0	2017.07.01
+Carlsen, M.	2832	Ivanchuk, V.	2738	1-0	2017.07.01
+Carlsen, M.	2832	Aronian, L.	2793	1-0	2017.07.01
+Carlsen, M.	2827	Balogun, Oluwafemi	2255	1-0	2017.09.03
+Carlsen, M.	2827	Dreev, A.	2648	1-0	2017.09.03
+Carlsen, M.	2827	Birkisson, Bardur Orn	2164	1-0	2017.09.23
+Carlsen, M.	2827	Xiong, Jeffery	2633	1-0	2017.09.23
+Carlsen, M.	2827	Granda Zuniga, J.	2653	1-0	2017.09.23
+Carlsen, M.	2832	Guseinov, G.	2645	1-0	2017.05.03
+Carlsen, M.	2832	Guseinov, G.	2645	1-0	2017.05.03
+Carlsen, M.	2832	Guseinov, G.	2645	1-0	2017.05.03
+Carlsen, M.	2832	Guseinov, G.	2645	1-0	2017.05.03
+Carlsen, M.	2832	Guseinov, G.	2645	1-0	2017.05.03
+Carlsen, M.	2832	Guseinov, G.	2645	1-0	2017.05.03
+Carlsen, M.	2832	Guseinov, G.	2645	1-0	2017.05.03
+Carlsen, M.	2832	Guseinov, G.	2645	1-0	2017.05.03
+Carlsen, M.	2832	Guseinov, G.	2645	1-0	2017.05.03
+Carlsen, M.	2837	Ding Liren	2774	1-0	2017.11.12
+Carlsen, M.	2832	So, W.	2815	1-0	2017.05.03
+Carlsen, M.	2832	So, W.	2815	1-0	2017.05.03
+Carlsen, M.	2832	So, W.	2815	1-0	2017.05.03
+Carlsen, M.	2832	So, W.	2815	1-0	2017.05.03
+Carlsen, M.	2832	So, W.	2815	1-0	2017.05.03
+Carlsen, M.	2832	So, W.	2815	1-0	2017.05.03
+Carlsen, M.	2832	So, W.	2815	1-0	2017.05.03
+Carlsen, M.	2832	So, W.	2815	1-0	2017.05.03
+Carlsen, M.	2832	So, W.	2815	1-0	2017.05.03
+Carlsen, M.	2832	So, W.	2815	1-0	2017.05.03
+Carlsen, M.	2832	So, W.	2815	1-0	2017.05.03
+Carlsen, M.	2837	Ding Liren	2774	1-0	2017.11.13
+Carlsen, M.	2837	Ding Liren	2774	1-0	2017.11.13
+Carlsen, M.	2837	Ding Liren	2774	1-0	2017.11.13
+Carlsen, M.	2837	Ding Liren	2774	1-0	2017.11.14
+Carlsen, M.	2832	Grischuk, A.	2750	1-0	2017.05.03
+Carlsen, M.	2832	Grischuk, A.	2750	1-0	2017.05.03
+Carlsen, M.	2832	Grischuk, A.	2750	1-0	2017.05.03
+Carlsen, M.	2832	Grischuk, A.	2750	1-0	2017.05.03
+Carlsen, M.	2832	Grischuk, A.	2750	1-0	2017.05.03
+Carlsen, M.	2837	Adams, Mi	2715	1-0	2017.12.01
+Carlsen, M.	2837	Nepomniachtchi, I.	2729	1-0	2017.12.26
+Carlsen, M.	2837	Wang Yue	2690	1-0	2017.12.26
+Carlsen, M.	2837	Kasimdzhanov, R.	2683	1-0	2017.12.26
+Carlsen, M.	2837	Akobian, V.	2647	1-0	2017.12.29
+Carlsen, M.	2837	Kryvoruchko, Y.	2689	1-0	2017.12.29
+Carlsen, M.	2837	Inarkiev, E.	2689	1-0	2017.12.29
+Carlsen, M.	2837	Harikrishna, P.	2744	1-0	2017.12.29
+Carlsen, M.	2837	Karjakin, Sergey	2760	1-0	2017.12.29
+Carlsen, M.	2837	Korobov, A.	2652	1-0	2017.12.29
+Carlsen, M.	2837	Artemiev, V.	2691	1-0	2017.12.29
+Carlsen, Magnus	2832	Aronian, Levon	2793	1-0	2017.06.28
+Carlsen, Magnus	2862	Vachier-Lagrave, Maxime	2784	1-0	Sun Jan 31 2021
+Carlsen, Magnus	2862	Grandelius, Nils	2663	1-0	Tue Jan 26 2021
+Carlsen, Magnus	2862	Firouzja, Alireza	2749	1-0	Sat Jan 16 2021
+Carlsen, Magnus	2862	Aronian, Levon	2781	1-0	Sat Feb 06 2021
+Carlsen, Magnus	2862	Shankland, Sam	2691	1-0	Sat Feb 06 2021
+Carlsen, Magnus	2862	Nakamura, Hikaru	2736	1-0	Sun Feb 07 2021
+Tari, Aryan	2663	Carlsen, Magnus	2864	1/2-1/2	2022.06.07
+Anand, Viswanathan	2751	Carlsen, Magnus	2864	1/2-1/2	2022.06.05
+So, Wesley	2766	Carlsen, Magnus	2864	1/2-1/2	2022.06.01
+Vocaturo, Daniele	2616	Carlsen, Magnus	2864	1/2-1/2	2022.07.31
+Giri, Anish	2721	Carlsen, Magnus	2834	1/2-1/2	2022.08.15
+Aronian, Levon	2728	Carlsen, Magnus	2834	1/2-1/2	2022.08.17
+Le, Quang Liem	2661	Carlsen, Magnus	2834	1/2-1/2	2022.08.18
+Firouzja, Alireza	2704	Carlsen, Magnus	2834	1/2-1/2	2022.08.20
+Firouzja, Alireza	2704	Carlsen, Magnus	2834	1/2-1/2	2022.08.20
+Praggnanandhaa, R	1927	Carlsen, Magnus	2834	1/2-1/2	2022.08.21
+Xiong, Jeffery	2714	Carlsen, Magnus	2830	1/2-1/2	2022.08.23
+Aronian, Levon	2775	Carlsen, Magnus	2864	1/2-1/2	2022.09.03
+Giri, Anish	2721	Carlsen, Magnus	2834	1/2-1/2	2022.09.18
+Praggnanandhaa, R	1927	Carlsen, Magnus	2834	1/2-1/2	2022.09.19
+Ivanchuk, Vasyl	2686	Carlsen, Magnus	2834	1/2-1/2	2022.09.20
+Keymer, Vincent	2542	Carlsen, Magnus	2834	1/2-1/2	2022.09.23
+Jobava, Baadur	2582	Carlsen, Magnus	2830	1/2-1/2	2022.09.27
+Nakamura, Hikaru	2850	Carlsen, Magnus	2830	1/2-1/2	2022.09.27
+Yoo, Christopher Woojin	2105	Carlsen, Magnus	2830	0-1	2022.09.27
+Carlsen, M.	2840	Giri, A.	2773	1/2-1/2	2017.01.14
+Carlsen, M.	2840	Karjakin, Sergey	2785	1/2-1/2	2017.01.14
+Carlsen, M.	2840	Adhiban, Baskaran	2653	1/2-1/2	2017.01.14
+Carlsen, M.	2840	Hambleton, A.	2441	1/2-1/2	2017.01.11
+Carlsen, M.	2838	Fossan, E.	2344	0-1	2017.02.08
+Carlsen, M.	2838	Jobava, Ba	2701	0-1	2017.03.01
+Carlsen, M.	2832	Vachier Lagrave, M.	2796	0-1	2017.06.24
+Carlsen, M.	2832	Grischuk, A.	2761	0-1	2017.06.24
+Carlsen, M.	2832	So, W.	2812	0-1	2017.06.28
+Carlsen, M.	2827	Bu Xiangzhi	2714	0-1	2017.09.03
+Carlsen, M.	2832	Guseinov, G.	2645	0-1	2017.05.03
+Carlsen, M.	2832	So, W.	2815	0-1	2017.05.03
+Carlsen, M.	2832	So, W.	2815	0-1	2017.05.03
+Carlsen, M.	2837	Ding Liren	2774	0-1	2017.11.13
+Carlsen, M.	2837	Ding Liren	2774	0-1	2017.11.14
+Carlsen, M.	2832	Grischuk, A.	2750	0-1	2017.05.03
+Carlsen, M.	2832	Grischuk, A.	2750	0-1	2017.05.03
+Carlsen, M.	2837	Nepomniachtchi, I.	2729	0-1	2017.12.01
+Carlsen, M.	2837	Anand, V.	2782	0-1	2017.12.26
+Carlsen, M.	2837	Grischuk, A.	2772	0-1	2017.12.26
+Carlsen, M.	2837	Yu Yangyi	2751	0-1	2017.12.29
+Carlsen, Magnus	2837	Bu, Xiangzhi	2730	0-1	2017.12.26
+Carlsen, Magnus	2822	Vachier-Lagrave, Maxime	2791	0-1	2017.08.02
+Carlsen, Magnus	2822	Karjakin, Sergey	2773	1-0	2017.08.02
+Carlsen, Magnus	2822	Aronian, Levon	2809	1-0	2017.08.02
+Carlsen, M.	2838	Aronian, L.	2774	1/2-1/2	2017.04.15
+Carlsen, M.	2838	Caruana, F.	2817	1/2-1/2	2017.04.15
+Carlsen, M.	2838	Vachier Lagrave, M.	2803	1/2-1/2	2017.04.15
+Carlsen, M.	2832	Giri, A.	2771	1/2-1/2	2017.06.06
+Carlsen, M.	2832	Vachier Lagrave, M.	2796	1/2-1/2	2017.06.06
+Carlsen, M.	2832	So, W.	2812	1/2-1/2	2017.06.06
+Carlsen, M.	2832	Nakamura, Hi	2785	1/2-1/2	2017.06.06
+Carlsen, M.	2832	Mamedyarov, S.	2800	1/2-1/2	2017.06.24
+Carlsen, M.	2832	Nakamura, Hi	2785	1/2-1/2	2017.06.24
+Carlsen, M.	2832	Karjakin, Sergey	2781	1/2-1/2	2017.06.24
+Carlsen, M.	2832	Karjakin, Sergey	2781	1/2-1/2	2017.06.21
+Carlsen, M.	2832	Anand, V.	2786	1/2-1/2	2017.06.28
+Carlsen, M.	2832	Kramnik, V.	2808	1/2-1/2	2017.07.01
+Carlsen, M.	2832	Giri, A.	2771	1/2-1/2	2017.07.01
+Carlsen, M.	2832	Anand, V.	2786	1/2-1/2	2017.07.01
+Carlsen, M.	2827	Nakamura, Hi	2781	1/2-1/2	2017.09.23
+Carlsen, M.	2827	Vidit, S.	2702	1/2-1/2	2017.09.23
+Carlsen, M.	2832	Guseinov, G.	2645	1/2-1/2	2017.05.03
+Carlsen, M.	2832	Guseinov, G.	2645	1/2-1/2	2017.05.03
+Carlsen, M.	2837	Ding Liren	2774	1/2-1/2	2017.11.11
+Carlsen, M.	2837	Ding Liren	2774	1/2-1/2	2017.11.11
+Carlsen, M.	2837	Ding Liren	2774	1/2-1/2	2017.11.12
+Carlsen, M.	2837	Ding Liren	2774	1/2-1/2	2017.11.12
+Carlsen, M.	2832	So, W.	2815	1/2-1/2	2017.05.03
+Carlsen, M.	2832	So, W.	2815	1/2-1/2	2017.05.03
+Rapport, R.	2702	Carlsen, M.	2840	1-0	2017.01.14
+Andreikin, D.	2734	Carlsen, M.	2838	1-0	2017.03.01
+Aronian, L.	2793	Carlsen, M.	2832	1-0	2017.06.06
+Kramnik, V.	2808	Carlsen, M.	2832	1-0	2017.06.06
+Nakamura, Hi	2785	Carlsen, M.	2832	1-0	2017.06.24
+Karjakin, Sergey	2781	Carlsen, M.	2832	1-0	2017.06.24
+Carlsen, M.	2837	Ding Liren	2774	1/2-1/2	2017.11.14
+Carlsen, M.	2837	Ding Liren	2774	1/2-1/2	2017.11.14
+Carlsen, M.	2837	Ding Liren	2774	1/2-1/2	2017.11.14
+Carlsen, M.	2837	Ding Liren	2774	1/2-1/2	2017.11.14
+Carlsen, M.	2832	So, W.	2815	1/2-1/2	2017.05.03
+Carlsen, M.	2832	Grischuk, A.	2750	1/2-1/2	2017.05.03
+Carlsen, M.	2832	Grischuk, A.	2750	1/2-1/2	2017.05.03
+Carlsen, M.	2832	Grischuk, A.	2750	1/2-1/2	2017.05.03
+Carlsen, M.	2832	Grischuk, A.	2750	1/2-1/2	2017.05.03
+Carlsen, M.	2837	Anand, V.	2782	1/2-1/2	2017.12.01
+Carlsen, M.	2837	So, W.	2788	1/2-1/2	2017.12.01
+Carlsen, M.	2837	Eljanov, P.	2711	1/2-1/2	2017.12.26
+Carlsen, M.	2837	Wang Hao	2709	1/2-1/2	2017.12.26
+Carlsen, M.	2837	Wang Hao	2709	1/2-1/2	2017.12.29
+Carlsen, M.	2837	Grigoriants, S RUS.	2561	1/2-1/2	2017.12.29
+Carlsen, M.	2837	Vachier Lagrave, M.	2789	1/2-1/2	2017.12.29
+Carlsen, Magnus	2837	Caruana, Fabiano	2799	1/2-1/2	2017.12.01
+Carlsen, Magnus	2822	Nakamura, Hikaru	2792	1/2-1/2	2017.08.02
+Carlsen, Magnus	2832	Nakamura, Hikaru	2785	1/2-1/2	2017.06.05
+Eljanov, P.	2755	Carlsen, M.	2840	0-1	2017.01.14
+Oussedik, E.	2155	Carlsen, M.	2840	0-1	2017.01.11
+Aradhya, Garg	2230	Carlsen, M.	2840	0-1	2017.01.11
+Beletic, D.	2286	Carlsen, M.	2840	0-1	2017.01.11
+Kulkarni, R.	2325	Carlsen, M.	2838	0-1	2017.03.01
+Kunte, A.	2491	Carlsen, M.	2838	0-1	2017.03.01
+Aradhya, Garg	2315	Carlsen, M.	2838	0-1	2017.03.01
+Gorozhanin, M.	2419	Carlsen, M.	2838	0-1	2017.03.01
+Pantsulaia, L.	2589	Carlsen, M.	2838	0-1	2017.03.01
+Jobava, Ba	2701	Carlsen, M.	2838	0-1	2017.03.01
+Rosenthal, Nicholas	2169	Carlsen, M.	2838	0-1	2017.03.01
+So, W.	2822	Carlsen, M.	2838	0-1	2017.03.01
+Pantzar, Milton	2257	Carlsen, M.	2838	0-1	2017.03.01
+Meier, Geo	2621	Carlsen, M.	2838	0-1	2017.04.15
+So, W.	2812	Carlsen, M.	2832	0-1	2017.06.05
+Vachier Lagrave, M.	2796	Carlsen, M.	2832	1-0	2017.06.24
+Caruana, F.	2808	Carlsen, M.	2832	1-0	2017.06.24
+Giri, A.	2771	Carlsen, M.	2832	1-0	2017.07.01
+Guseinov, G.	2645	Carlsen, M.	2832	1-0	2017.05.03
+Guseinov, G.	2645	Carlsen, M.	2832	1-0	2017.05.03
+So, W.	2815	Carlsen, M.	2832	1-0	2017.05.03
+So, W.	2815	Carlsen, M.	2832	1-0	2017.05.03
+Grischuk, A.	2750	Carlsen, M.	2832	1-0	2017.05.03
+Grischuk, A.	2750	Carlsen, M.	2832	1-0	2017.05.03
+Sjugirov, S.	2650	Carlsen, M.	2837	1-0	2017.12.29
+Karjakin, Sergey	2781	Carlsen, M.	2832	0-1	2017.06.05
+Topalov, V.	2749	Carlsen, M.	2832	0-1	2017.06.24
+So, W.	2812	Carlsen, M.	2832	0-1	2017.06.24
+Bacrot, E.	2708	Carlsen, M.	2832	0-1	2017.06.24
+Mamedyarov, S.	2800	Carlsen, M.	2832	0-1	2017.06.24
+Mamedyarov, S.	2800	Carlsen, M.	2832	0-1	2017.06.21
+So, W.	2812	Carlsen, M.	2832	0-1	2017.06.21
+Anand, V.	2786	Carlsen, M.	2832	0-1	2017.07.01
+Kramnik, V.	2808	Carlsen, M.	2832	0-1	2017.07.01
+Vachier Lagrave, M.	2796	Carlsen, M.	2832	0-1	2017.07.01
+Ivanchuk, V.	2738	Carlsen, M.	2832	0-1	2017.07.01
+Nepomniachtchi, I.	2732	Carlsen, M.	2832	0-1	2017.07.01
+Jobava, Ba	2707	Carlsen, M.	2832	0-1	2017.07.01
+Balogun, Oluwafemi	2255	Carlsen, M.	2827	0-1	2017.09.03
+Dreev, A.	2648	Carlsen, M.	2827	0-1	2017.09.03
+Perelshteyn, E.	2524	Carlsen, M.	2827	0-1	2017.09.23
+Caruana, F.	2799	Carlsen, M.	2827	0-1	2017.09.23
+Eljanov, P.	2734	Carlsen, M.	2827	0-1	2017.09.23
+Guseinov, G.	2645	Carlsen, M.	2832	0-1	2017.05.03
+Guseinov, G.	2645	Carlsen, M.	2832	0-1	2017.05.03
+Guseinov, G.	2645	Carlsen, M.	2832	0-1	2017.05.03
+Guseinov, G.	2645	Carlsen, M.	2832	0-1	2017.05.03
+Guseinov, G.	2645	Carlsen, M.	2832	0-1	2017.05.03
+Guseinov, G.	2645	Carlsen, M.	2832	0-1	2017.05.03
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.11
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.12
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.12
+So, W.	2815	Carlsen, M.	2832	0-1	2017.05.03
+So, W.	2815	Carlsen, M.	2832	0-1	2017.05.03
+So, W.	2815	Carlsen, M.	2832	0-1	2017.05.03
+So, W.	2815	Carlsen, M.	2832	0-1	2017.05.03
+So, W.	2815	Carlsen, M.	2832	0-1	2017.05.03
+So, W.	2815	Carlsen, M.	2832	0-1	2017.05.03
+So, W.	2815	Carlsen, M.	2832	0-1	2017.05.03
+So, W.	2815	Carlsen, M.	2832	0-1	2017.05.03
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.13
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.13
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.13
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.14
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.14
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.14
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.14
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.14
+So, W.	2815	Carlsen, M.	2832	0-1	2017.05.03
+Grischuk, A.	2750	Carlsen, M.	2832	0-1	2017.05.03
+Grischuk, A.	2750	Carlsen, M.	2832	0-1	2017.05.03
+Grischuk, A.	2750	Carlsen, M.	2832	0-1	2017.05.03
+Grischuk, A.	2750	Carlsen, M.	2832	0-1	2017.05.03
+Grischuk, A.	2750	Carlsen, M.	2832	0-1	2017.05.03
+Grischuk, A.	2750	Carlsen, M.	2832	0-1	2017.05.03
+Andreikin, D.	2736	Carlsen, M.	2840	1/2-1/2	2017.01.14
+So, W.	2808	Carlsen, M.	2840	1/2-1/2	2017.01.14
+Nepomniachtchi, I.	2767	Carlsen, M.	2840	1/2-1/2	2017.01.14
+Aronian, L.	2780	Carlsen, M.	2840	1/2-1/2	2017.01.14
+Harikrishna, P.	2766	Carlsen, M.	2840	1/2-1/2	2017.01.14
+Caruana, F.	2827	Carlsen, M.	2840	1/2-1/2	2017.01.11
+Grover, S.	2467	Carlsen, M.	2840	1/2-1/2	2017.01.11
+Lenic, L.	2641	Carlsen, M.	2840	1/2-1/2	2017.01.11
+Gupta, Ab	2627	Carlsen, M.	2838	1/2-1/2	2017.03.01
+Meier, Geo	2630	Carlsen, M.	2838	1/2-1/2	2017.03.01
+Bluebaum, M.	2634	Carlsen, M.	2838	1/2-1/2	2017.04.15
+Grischuk, A.	2750	Carlsen, M.	2832	0-1	2017.05.03
+Aronian, L.	2805	Carlsen, M.	2837	0-1	2017.12.01
+Dobrov, V.	2515	Carlsen, M.	2837	0-1	2017.12.26
+Pantsulaia, L.	2612	Carlsen, M.	2837	0-1	2017.12.26
+Movsesian, S.	2647	Carlsen, M.	2837	0-1	2017.12.26
+Salem, AR.	2638	Carlsen, M.	2837	0-1	2017.12.26
+Fedoseev, Vl3	2718	Carlsen, M.	2837	0-1	2017.12.26
+Anton Guijarro, D.	2666	Carlsen, M.	2837	0-1	2017.12.29
+Mamedyarov, S.	2799	Carlsen, M.	2837	0-1	2017.12.29
+Grischuk, A.	2772	Carlsen, M.	2837	0-1	2017.12.29
+Melkumyan, H.	2633	Carlsen, M.	2837	0-1	2017.12.29
+Ding Liren	2777	Carlsen, M.	2837	0-1	2017.12.29
+Petrosian, TL.	2601	Carlsen, M.	2837	0-1	2017.12.29
+So, Wesley	2810	Carlsen, Magnus	2822	0-1	2017.08.02
+Hou Yifan	2649	Carlsen, M.	2838	1/2-1/2	2017.04.15
+Naiditsch, A.	2702	Carlsen, M.	2838	1/2-1/2	2017.04.15
+Kramnik, V.	2808	Carlsen, M.	2832	1/2-1/2	2017.06.05
+Anand, V.	2786	Carlsen, M.	2832	1/2-1/2	2017.06.05
+Caruana, F.	2808	Carlsen, M.	2832	1/2-1/2	2017.06.06
+Anand, V.	2786	Carlsen, M.	2832	1/2-1/2	2017.06.06
+Vachier Lagrave, M.	2796	Carlsen, M.	2832	1/2-1/2	2017.06.25
+Grischuk, A.	2761	Carlsen, M.	2832	1/2-1/2	2017.06.24
+Nakamura, Hi	2785	Carlsen, M.	2832	1/2-1/2	2017.06.21
+Caruana, F.	2808	Carlsen, M.	2832	1/2-1/2	2017.06.21
+Grischuk, A.	2761	Carlsen, M.	2832	1/2-1/2	2017.06.21
+Nepomniachtchi, I.	2732	Carlsen, M.	2832	1/2-1/2	2017.06.28
+Vachier Lagrave, M.	2796	Carlsen, M.	2832	1/2-1/2	2017.06.28
+Giri, A.	2771	Carlsen, M.	2832	1/2-1/2	2017.06.28
+Ivanchuk, V.	2738	Carlsen, M.	2832	1/2-1/2	2017.06.28
+So, W.	2812	Carlsen, M.	2832	1/2-1/2	2017.07.01
+Aronian, L.	2793	Carlsen, M.	2832	1/2-1/2	2017.07.01
+Bu Xiangzhi	2714	Carlsen, M.	2827	1/2-1/2	2017.09.03
+Kasimdzhanov, R.	2676	Carlsen, M.	2827	1/2-1/2	2017.09.23
+Guseinov, G.	2645	Carlsen, M.	2832	1/2-1/2	2017.05.03
+Guseinov, G.	2645	Carlsen, M.	2832	1/2-1/2	2017.05.03
+Guseinov, G.	2645	Carlsen, M.	2832	1/2-1/2	2017.05.03
+Ding Liren	2774	Carlsen, M.	2837	1/2-1/2	2017.11.11
+Ding Liren	2774	Carlsen, M.	2837	1/2-1/2	2017.11.12
+So, W.	2815	Carlsen, M.	2832	1/2-1/2	2017.05.03
+Carlsen, M.	2844	Hou Yifan	2673	1-0	2016.01.16
+Carlsen, M.	2844	Adams, Mi	2744	1-0	2016.01.16
+So, W.	2815	Carlsen, M.	2832	1/2-1/2	2017.05.03
+So, W.	2815	Carlsen, M.	2832	1/2-1/2	2017.05.03
+So, W.	2815	Carlsen, M.	2832	1/2-1/2	2017.05.03
+So, W.	2815	Carlsen, M.	2832	1/2-1/2	2017.05.03
+So, W.	2815	Carlsen, M.	2832	1/2-1/2	2017.05.03
+Ding Liren	2774	Carlsen, M.	2837	1/2-1/2	2017.11.13
+Ding Liren	2774	Carlsen, M.	2837	1/2-1/2	2017.11.14
+So, W.	2815	Carlsen, M.	2832	1/2-1/2	2017.05.03
+Grischuk, A.	2750	Carlsen, M.	2832	1/2-1/2	2017.05.03
+Grischuk, A.	2750	Carlsen, M.	2832	1/2-1/2	2017.05.03
+Grischuk, A.	2750	Carlsen, M.	2832	1/2-1/2	2017.05.03
+Karjakin, Sergey	2760	Carlsen, M.	2837	1/2-1/2	2017.12.01
+Vachier Lagrave, M.	2789	Carlsen, M.	2837	1/2-1/2	2017.12.01
+Nakamura, Hi	2781	Carlsen, M.	2837	1/2-1/2	2017.12.01
+Svidler, P.	2765	Carlsen, M.	2837	1/2-1/2	2017.12.26
+Artemiev, V.	2691	Carlsen, M.	2837	1/2-1/2	2017.12.26
+Bortnyk, Olexandr	2610	Carlsen, M.	2837	1/2-1/2	2017.12.29
+Anand, V.	2782	Carlsen, M.	2837	1/2-1/2	2017.12.29
+Aronian, L.	2805	Carlsen, M.	2837	1/2-1/2	2017.12.29
+Anand, Viswanathan	2783	Carlsen, Magnus	2822	1/2-1/2	2017.08.02
+Caruana, Fabiano	2807	Carlsen, Magnus	2822	1/2-1/2	2017.08.02
+Nepomniachtchi, Ian	2742	Carlsen, Magnus	2822	1/2-1/2	2017.08.02
+Svidler, Peter	2749	Carlsen, Magnus	2822	1/2-1/2	2017.08.02
+Carlsen, M.	2855	Nakamura, Hi	2787	1-0	2016.06.11
+Carlsen, M.	2855	Kramnik, V.	2812	1-0	2016.06.11
+Carlsen, M.	2855	Giri, A.	2782	1-0	2016.06.11
+Carlsen, M.	2855	Fressinet, L.	2687	1-0	2016.06.11
+Carlsen, M.	2855	Aronian, L.	2792	1-0	2016.06.11
+Carlsen, M.	2855	Kramnik, V.	2812	1-0	2016.06.09
+Carlsen, M.	2855	Aronian, L.	2792	1-0	2016.06.09
+Carlsen, M.	2855	Grischuk, A.	2747	1-0	2016.06.05
+Carlsen, M.	2855	Topalov, V.	2761	1-0	2016.06.19
+Carlsen, M.	2855	So, W.	2770	1-0	2016.06.19
+Carlsen, M.	2855	Topalov, V.	2761	1-0	2016.06.17
+Carlsen, M.	2855	Anand, V.	2770	1-0	2016.06.17
+Carlsen, M.	2851	Petrosian, TL.	2611	1-0	2016.04.06
+Carlsen, M.	2851	Petrosian, TL.	2611	1-0	2016.04.06
+Carlsen, M.	2851	Petrosian, TL.	2611	1-0	2016.04.06
+Carlsen, M.	2851	Petrosian, TL.	2611	1-0	2016.04.06
+Carlsen, M.	2851	Petrosian, TL.	2611	1-0	2016.04.06
+Carlsen, M.	2851	Petrosian, TL.	2611	1-0	2016.04.06
+Carlsen, M.	2851	Petrosian, TL.	2611	1-0	2016.04.06
+Carlsen, M.	2851	Petrosian, TL.	2611	1-0	2016.04.06
+Carlsen, M.	2851	Petrosian, TL.	2611	1-0	2016.04.06
+Carlsen, M.	2851	Petrosian, TL.	2611	1-0	2016.04.06
+Carlsen, M.	2851	Kramnik, V.	2801	1-0	2016.04.19
+Carlsen, M.	2851	Eljanov, P.	2765	1-0	2016.04.19
+Carlsen, M.	2851	Kramnik, V.	2801	1-0	2016.04.18
+Carlsen, Magnus	2862	Dubov, Daniil	2710	1-0	Tue Feb 09 2021
+Carlsen, Magnus	2862	Dubov, Daniil	2710	1-0	Tue Feb 09 2021
+Carlsen, Magnus	2862	Dubov, Daniil	2710	1-0	Wed Feb 10 2021
+Carlsen, Magnus	2862	Dubov, Daniil	2710	1-0	Wed Feb 10 2021
+Carlsen, Magnus	2862	Vachier-Lagrave, Maxime	2784	1-0	Thu Feb 11 2021
+Carlsen, Magnus	2862	Vachier-Lagrave, Maxime	2784	1-0	Thu Feb 11 2021
+Carlsen, Magnus	2862	Vachier-Lagrave, Maxime	2784	1-0	Fri Feb 12 2021
+Carlsen, Magnus	2862	Vachier-Lagrave, Maxime	2784	1-0	Fri Feb 12 2021
+Carlsen, Magnus	2847	Vachier-Lagrave, Maxime	2758	1-0	Sat Mar 13 2021
+Carlsen, Magnus	2847	Anton Guijarro, David	2673	1-0	Sat Mar 13 2021
+Carlsen, Magnus	2847	Mamedyarov, Shakhriyar	2770	1-0	Sun Mar 14 2021
+Carlsen, Magnus	2847	Karjakin, Sergey	2757	1-0	Sun Mar 14 2021
+Carlsen, Magnus	2847	Pichot, Alan	2630	1-0	Mon Mar 15 2021
+Carlsen, Magnus	2847	Aronian, Levon	2781	1-0	Tue Mar 16 2021
+Carlsen, Magnus	2847	Nepomniachtchi, Ian	2789	1-0	Fri Mar 19 2021
+Carlsen, Magnus	2847	Nepomniachtchi, Ian	2789	1-0	Fri Mar 19 2021
+Carlsen, Magnus	2847	So, Wesley	2770	1-0	Sat Mar 20 2021
+Carlsen, Magnus	2847	So, Wesley	2770	1-0	Sat Mar 20 2021
+Carlsen, Magnus	2847	Dominguez Perez, Leinier	2758	1-0	Sat Apr 24 2021
+Carlsen, Magnus	2847	Radjabov, Teimour	2765	1-0	Wed Apr 28 2021
+Carlsen, Magnus	2847	Jones, Gawain C B	2670	1-0	Sun Apr 25 2021
+Carlsen, Magnus	2847	Duda, Jan-Krzysztof	2729	1-0	Mon Apr 26 2021
+Carlsen, Magnus	2847	Aronian, Levon	2781	1-0	Thu Apr 29 2021
+Carlsen, Magnus	2847	Aronian, Levon	2781	1-0	Fri Apr 30 2021
+Carlsen, Magnus	2847	Nakamura, Hikaru	2736	1-0	Sat May 01 2021
+Carlsen, Magnus	2847	Grischuk, Alexander	2776	1-0	Mon May 24 2021
+Carlsen, Magnus	2886	Nakamura, Hikaru	2900	1-0	Thu May 27 2021
+Carlsen, Magnus	2881	Nakamura, Hikaru	2829	1-0	Wed May 26 2021
+Carlsen, Magnus	2881	Nakamura, Hikaru	2829	1-0	Wed May 26 2021
+Carlsen, Magnus	2881	Radjabov, Teimour	2758	1-0	Tue May 25 2021
+Carlsen, Magnus	2881	Radjabov, Teimour	2758	1-0	Fri May 28 2021
+Carlsen, Magnus	2881	Radjabov, Teimour	2758	1-0	Sat May 29 2021
+Carlsen, Magnus	2886	So, Wesley	2816	1-0	Mon May 31 2021
+Carlsen, Magnus	2881	So, Wesley	2741	1-0	Mon May 31 2021
+Carlsen, Magnus	2881	Hou, Yifan	2621	1-0	2021.06.26
+Carlsen, Magnus	2881	Svidler, Peter	2742	1-0	2021.06.26
+Carlsen, Magnus	2881	Dubov, Daniil	2770	1-0	2021.06.27
+Carlsen, Magnus	2881	Vidit, Santosh Gujrathi	2636	1-0	2021.06.28
+Carlsen, Magnus	2881	So, Wesley	2741	1-0	2021.06.29
+Carlsen, Magnus	2881	So, Wesley	2741	1-0	2021.06.29
+Carlsen, Magnus	2886	So, Wesley	2816	1-0	2021.06.30
+Carlsen, Magnus	2881	Ding, Liren	2836	1-0	2021.07.03
+Carlsen, Magnus	2881	Aronian, Levon	2778	1-0	2021.07.01
+Carlsen, Magnus	2881	Aronian, Levon	2778	1-0	2021.07.01
+Carlsen, Magnus	2886	Ding, Liren	2788	1-0	2021.07.04
+Carlsen, Magnus	2847	Martinovic, Sasa	2548	1-0	2021.07.16
+Carlsen, Magnus	2847	Tari, Aryan	2639	1-0	2021.07.18
+Carlsen, Magnus	2881	Wojtaszek, Radoslaw	2729	1-0	2021.07.24
+Carlsen, Magnus	2881	Esipenko, Andrey	2628	1-0	2021.07.27
+Carlsen, Magnus	2886	Esipenko, Andrey	2595	1-0	2021.07.27
+Carlsen, Magnus	2862	Dubov, Daniil	2710	0-1	Wed Feb 10 2021
+Carlsen, Magnus	2862	Vachier-Lagrave, Maxime	2784	0-1	Fri Feb 12 2021
+Carlsen, Magnus	2847	Nepomniachtchi, Ian	2789	0-1	Thu Mar 18 2021
+Carlsen, Magnus	2847	Nepomniachtchi, Ian	2789	0-1	Fri Mar 19 2021
+Carlsen, Magnus	2847	Vachier-Lagrave, Maxime	2760	0-1	Sun May 23 2021
+Carlsen, Magnus	2847	Bacrot, Etienne	2678	1-0	2021.07.29
+Carlsen, Magnus	2847	Fedoseev, Vladimir	2700	1-0	2021.08.05
+Carlsen, Magnus	2881	So, Wesley	2774	1-0	2021.08.28
+Carlsen, Magnus	2881	Le, Quang Liem	2744	1-0	2021.08.28
+Carlsen, Magnus	2881	Naroditsky, Daniel	2639	1-0	2021.08.28
+Carlsen, Magnus	2881	Vachier-Lagrave, Maxime	2817	1-0	2021.08.29
+Carlsen, Magnus	2881	Duda, Jan-Krzysztof	2775	1-0	2021.08.31
+Carlsen, Magnus	2881	Duda, Jan-Krzysztof	2775	1-0	2021.08.31
+Carlsen, Magnus	2881	Aronian, Levon	2761	1-0	2021.09.03
+Carlsen, Magnus	2842	Artemiev, Vladislav	2755	1-0	2021.09.05
+Carlsen, Magnus	2881	Artemiev, Vladislav	2757	1-0	2021.09.04
+Carlsen, Magnus	2842	Artemiev, Vladislav	2755	1-0	2021.09.05
+Carlsen, Magnus	2855	Tari, Aryan	2642	1-0	2021.09.08
+Carlsen, Magnus	2855	Nepomniachtchi, Ian	2792	1-0	2021.09.10
+Carlsen, Magnus	2855	Firouzja, Alireza	2754	1-0	2021.09.13
+Carlsen, Magnus	2855	Rapport, Richard	2760	1-0	2021.09.15
+Carlsen, Magnus	2855	Karjakin, Sergey	2758	1-0	2021.09.16
+Carlsen, Magnus	2855	Llobell Cortell, Enrique	2392	1-0	2021.09.21
+Carlsen, Magnus	2856	Nepomniachtchi, Ian	2782	1-0	2021.12.05
+Carlsen, Magnus	2855	Nepomniachtchi, Ian	2782	1-0	2021.12.03
+Carlsen, Magnus	2862	Giri, Anish	2764	1/2-1/2	Fri Jan 29 2021
+Carlsen, Magnus	2862	Donchenko, Alexander	2668	1/2-1/2	Thu Jan 21 2021
+Carlsen, Magnus	2862	Harikrishna, Pentala	2732	1/2-1/2	Sat Jan 23 2021
+Carlsen, Magnus	2862	Tari, Aryan	2625	1/2-1/2	Mon Jan 18 2021
+Carlsen, Magnus	2862	Giri, Anish	2764	1/2-1/2	Sun Feb 07 2021
+Carlsen, Magnus	2862	Duda, Jan-Krzysztof	2743	1/2-1/2	Sun Feb 07 2021
+Carlsen, Magnus	2862	Radjabov, Teimour	2765	1/2-1/2	Mon Feb 08 2021
+Carlsen, Magnus	2862	Vachier-Lagrave, Maxime	2784	1/2-1/2	Mon Feb 08 2021
+Carlsen, Magnus	2862	Vachier-Lagrave, Maxime	2784	1/2-1/2	Fri Feb 12 2021
+Carlsen, Magnus	2862	So, Wesley	2770	1/2-1/2	Sat Feb 13 2021
+Carlsen, Magnus	2862	So, Wesley	2770	1/2-1/2	Sat Feb 13 2021
+Carlsen, Magnus	2862	So, Wesley	2770	1/2-1/2	Sun Feb 14 2021
+Carlsen, Magnus	2862	So, Wesley	2770	1/2-1/2	Sun Feb 14 2021
+Carlsen, Magnus	2847	Nakamura, Hikaru	2736	1/2-1/2	Mon Mar 15 2021
+Carlsen, Magnus	2847	Aronian, Levon	2781	1/2-1/2	Mon Mar 15 2021
+Carlsen, Magnus	2847	Aronian, Levon	2781	1/2-1/2	Tue Mar 16 2021
+Carlsen, Magnus	2847	Aronian, Levon	2781	1/2-1/2	Wed Mar 17 2021
+Carlsen, Magnus	2847	Nepomniachtchi, Ian	2789	1/2-1/2	Thu Mar 18 2021
+Carlsen, Magnus	2881	Nakamura, Hikaru	2829	0-1	Thu May 27 2021
+Carlsen, Magnus	2886	So, Wesley	2816	0-1	Mon May 31 2021
+Carlsen, Magnus	2881	So, Wesley	2741	0-1	2021.06.30
+Carlsen, Magnus	2881	Aronian, Levon	2778	0-1	2021.07.02
+Carlsen, Magnus	2886	Aronian, Levon	2739	0-1	2021.07.02
+Carlsen, Magnus	2881	Ding, Liren	2836	0-1	2021.07.04
+Carlsen, Magnus	2847	Duda, Jan-Krzysztof	2738	0-1	2021.08.03
+Carlsen, Magnus	2847	Karjakin, Sergey	2757	1/2-1/2	Sat Apr 24 2021
+Carlsen, Magnus	2847	Radjabov, Teimour	2765	1/2-1/2	Sat Apr 24 2021
+Carlsen, Magnus	2847	Radjabov, Teimour	2765	1/2-1/2	Tue Apr 27 2021
+Carlsen, Magnus	2847	So, Wesley	2770	1/2-1/2	Mon Apr 26 2021
+Carlsen, Magnus	2847	Radjabov, Teimour	2765	1/2-1/2	Tue Apr 27 2021
+Carlsen, Magnus	2847	Radjabov, Teimour	2765	1/2-1/2	Wed Apr 28 2021
+Carlsen, Magnus	2847	Aronian, Levon	2781	1/2-1/2	Sun Apr 25 2021
+Carlsen, Magnus	2847	Nakamura, Hikaru	2736	1/2-1/2	Sun Apr 25 2021
+Carlsen, Magnus	2847	Aronian, Levon	2781	1/2-1/2	Thu Apr 29 2021
+Carlsen, Magnus	2847	Aronian, Levon	2781	1/2-1/2	Fri Apr 30 2021
+Carlsen, Magnus	2847	Nakamura, Hikaru	2736	1/2-1/2	Sun May 02 2021
+Carlsen, Magnus	2847	Nakamura, Hikaru	2736	1/2-1/2	Sun May 02 2021
+Carlsen, Magnus	2847	Nakamura, Hikaru	2736	1/2-1/2	Sat May 01 2021
+Carlsen, Magnus	2847	Nepomniachtchi, Ian	2792	1/2-1/2	Sun May 23 2021
+Carlsen, Magnus	2881	Svidler, Peter	2742	1/2-1/2	Tue May 25 2021
+Carlsen, Magnus	2881	Nakamura, Hikaru	2829	1/2-1/2	Tue May 25 2021
+Carlsen, Magnus	2847	Giri, Anish	2780	1/2-1/2	Mon May 24 2021
+Carlsen, Magnus	2881	Nakamura, Hikaru	2829	1/2-1/2	Thu May 27 2021
+Carlsen, Magnus	2881	Radjabov, Teimour	2758	1/2-1/2	Fri May 28 2021
+Carlsen, Magnus	2881	So, Wesley	2741	1/2-1/2	Sun May 30 2021
+Carlsen, Magnus	2881	Radjabov, Teimour	2758	1/2-1/2	Sat May 29 2021
+Carlsen, Magnus	2881	So, Wesley	2741	1/2-1/2	Mon May 31 2021
+Carlsen, Magnus	2881	Giri, Anish	2731	1/2-1/2	2021.06.27
+Carlsen, Magnus	2881	Gukesh, D	1927	1/2-1/2	2021.06.28
+Carlsen, Magnus	2881	Adhiban, B.	2624	1/2-1/2	2021.06.28
+Carlsen, Magnus	2864	Giri, Anish	2761	1-0	2022.06.03
+Carlsen, Magnus	2832	Vachier-Lagrave, Maxime	2813	1-0	2022.06.09
+Carlsen, Magnus	2864	Mamedyarov, Shakhriyar	2751	1-0	2022.06.06
+Carlsen, Magnus	2864	Wang, Hao	2744	1-0	2022.05.31
+Carlsen, Magnus	2864	Radjabov, Teimour	2753	1-0	2022.06.02
+Carlsen, Magnus	2864	Batsuren, Dambasuren	2518	1-0	2022.08.01
+Carlsen, Magnus	2864	Meier, Georg	2613	1-0	2022.07.30
+Carlsen, Magnus	2864	Stanojoski, Zvonko	2412	1-0	2022.08.05
+Carlsen, Magnus	2834	Giri, Anish	2721	1-0	2022.08.15
+Carlsen, Magnus	2834	Niemann, Hans Moke	2529	1-0	2022.08.16
+Carlsen, Magnus	2834	Le, Quang Liem	2661	1-0	2022.08.18
+Carlsen, Magnus	2834	Duda, Jan-Krzysztof	2808	1-0	2022.08.19
+Carlsen, Magnus	2834	Firouzja, Alireza	2704	1-0	2022.08.20
+Carlsen, Magnus	2834	Firouzja, Alireza	2704	1-0	2022.08.20
+Carlsen, Magnus	2834	Praggnanandhaa, R	1927	1-0	2022.08.21
+Carlsen, Magnus	2830	Goncalves, Davi Sulzbacher	2107	1-0	2022.08.23
+Carlsen, Magnus	2830	Shirov, Alexei	2678	1-0	2022.08.23
+Carlsen, Magnus	2830	Dubov, Daniil	2791	1-0	2022.08.23
+Carlsen, Magnus	2830	Bluebaum, Matthias	2603	1-0	2022.08.23
+Carlsen, Magnus	2864	Nepomniachtchi, Ian	2792	1-0	2022.09.02
+Carlsen, Magnus	2834	Adhiban, B.	2538	1-0	2022.09.18
+Carlsen, Magnus	2834	Aronian, Levon	2720	1-0	2022.09.19
+Carlsen, Magnus	2834	Saric, Ivan	2635	1-0	2022.09.20
+Carlsen, Magnus	2834	Duda, Jan-Krzysztof	2808	1-0	2022.09.20
+Carlsen, Magnus	2834	Yoo, Christopher Woojin	1861	1-0	2022.09.21

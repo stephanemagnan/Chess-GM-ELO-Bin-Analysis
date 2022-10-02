@@ -1,0 +1,666 @@
+[Event "GCT Blitz Paris 2017"]
+[Site "Paris FRA"]
+[Date "2017.06.24"]
+[Round "7.3"]
+[White "Karjakin, Sergey"]
+[Black "Grischuk, A."]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2781"]
+[BlackElo "2761"]
+[PlyCount "115"]
+[EventDate "2017.06.24"]
+[EventType "tourn (blitz)"]
+[EventRounds "18"]
+[EventCountry "FRA"]
+[EventCategory "22"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 e6 4. Nf3 c5 5. c3 Nc6 6. Nbd2 cxd4 7. exd4 Nh5 8.
+Bg5 f6 9. Be3 Bd6 10. Bb5 O-O 11. O-O g6 12. Ne1 Qc7 13. g3 Ne7 14. Ndf3 Ng7
+15. Bh6 Nef5 16. Bc1 g5 17. Ng2 Qf7 18. Re1 Bd7 19. a4 a6 20. Bd3 Rae8 21. b3
+h6 22. c4 Kh8 23. Ba3 Bxa3 24. Rxa3 Bc6 25. c5 a5 26. Ra2 Ne7 27. Bb1 Bd7 28.
+Qd3 Qg8 29. h4 Ngf5 30. hxg5 hxg5 31. Ne3 Nxe3 32. Qxe3 Nf5 33. Qc1 Qf7 34. Kg2
+Kg7 35. Nxg5 Qh5 36. Nf3 Rh8 37. Rh1 Qg4 38. Qf4 Qxf4 39. gxf4 Rxh1 40. Kxh1
+Ne7 41. Kg2 Nc6 42. Rd2 Rg8 43. Kf1 Be8 44. f5 Bh5 45. Nh4 Bf7 46. fxe6 Bxe6
+47. Nf5+ Kf8 48. Nd6 Bh3+ 49. Ke2 Rg1 50. Bc2 Rg7 51. Ke3 Nb4 52. Bd3 Be6 53.
+f3 Nc6 54. Bb5 Ne7 55. Rh2 Ng6 56. Rh6 Bg8 57. Bd3 Re7+ 58. Kd2 1-0
+
+
+[Event "GCT Blitz Paris 2017"]
+[Site "Paris FRA"]
+[Date "2017.06.24"]
+[Round "8.3"]
+[White "Karjakin, Sergey"]
+[Black "Vachier Lagrave, M."]
+[Result "1-0"]
+[ECO "A20"]
+[WhiteElo "2781"]
+[BlackElo "2796"]
+[PlyCount "163"]
+[EventDate "2017.06.24"]
+[EventType "tourn (blitz)"]
+[EventRounds "18"]
+[EventCountry "FRA"]
+[EventCategory "22"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 d5 4. cxd5 Nxd5 5. Nf3 Nc6 6. O-O Nb6 7. Nc3 Be7 8.
+Rb1 a5 9. d3 O-O 10. Be3 Be6 11. a3 Nd5 12. Nxd5 Bxd5 13. Rc1 a4 14. Qc2 Re8
+15. Rfe1 f5 16. Bc5 Bf6 17. e4 fxe4 18. dxe4 Bb3 19. Qc3 Qd7 20. Bf1 Red8 21.
+Bc4+ Bxc4 22. Qxc4+ Kh8 23. Be3 Qd3 24. Kg2 Qxc4 25. Rxc4 Rd3 26. Re2 Kg8 27.
+Rd2 Rxd2 28. Nxd2 Ra5 29. Nb1 Rb5 30. Bc1 Ra5 31. Nc3 Kf7 32. Be3 Be7 33. Kf1
+Bd6 34. Rxa4 Rxa4 35. Nxa4 Na5 36. Ke2 Nc4 37. Bc1 b5 38. Nc3 c6 39. Kd3 Na5
+40. Bd2 Nc4 41. Nd1 Ke6 42. Bc3 Nb6 43. Ne3 Na4 44. Nc2 Nc5+ 45. Ke3 Na4 46.
+Kd2 Bc5 47. f4 exf4 48. gxf4 g6 49. Bh8 Bd6 50. Ke3 c5 51. h3 Nb6 52. b3 Be7
+53. Bc3 Bd6 54. Ba5 Bc7 55. a4 c4 56. Nd4+ Kd7 57. axb5 cxb3 58. Kd3 Na4 59.
+Bxc7 Nc5+ 60. Kc3 Nxe4+ 61. Kxb3 Kxc7 62. Kc4 Kb6 63. Kd5 Nf2 64. h4 Nd3 65.
+Ke4 Ne1 66. f5 gxf5+ 67. Kxf5 Kc5 68. h5 Nd3 69. Ne6+ Kxb5 70. Ng5 Kc6 71. Nxh7
+Kd7 72. Kf6 Nf2 73. Kg7 Ke6 74. Nf6 Nh3 75. h6 Ng5 76. Kg6 Nf7 77. h7 Nh8+ 78.
+Kg7 Ke7 79. Ne4 Ke8 80. Ng3 Ke7 81. Nf5+ Ke8 82. Nh4 1-0
+
+
+[Event "GCT Blitz Paris 2017"]
+[Site "Paris FRA"]
+[Date "2017.06.24"]
+[Round "3.2"]
+[White "Karjakin, Sergey"]
+[Black "Bacrot, E."]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2781"]
+[BlackElo "2708"]
+[PlyCount "151"]
+[EventDate "2017.06.24"]
+[EventType "tourn (blitz)"]
+[EventRounds "18"]
+[EventCountry "FRA"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 a6 7. a4 O-O 8. Re1 h6
+9. h3 Be6 10. Bxe6 fxe6 11. b4 Ba7 12. Be3 Bxe3 13. Rxe3 Ne7 14. Nbd2 Ng6 15.
+Qb3 Qe7 16. g3 Rf7 17. Rf1 Raf8 18. Nh2 Kh8 19. Qd1 Qe8 20. Kg2 Nh7 21. Rf3 Nf6
+22. a5 d5 23. Qe2 Qc6 24. Rc1 Qd6 25. Ng4 c5 26. Nxf6 gxf6 27. Qe3 Kh7 28. Qxc5
+Qd7 29. exd5 exd5 30. c4 Rc8 31. Qb6 f5 32. Nb3 e4 33. dxe4 dxe4 34. Rfc3 Rg8
+35. Nc5 Qd4 36. Nxb7 Qxb6 37. axb6 Rxb7 38. c5 Nf4+ 39. Kf1 Nd3 40. Rb1 Rc8 41.
+Ra3 Ra8 42. Ke2 Kg6 43. Ke3 Kf6 44. Kd4 Ke6 45. f3 Rd8+ 46. Ke3 Ne5 47. Rc3
+Nxf3 48. Ra1 Ke5 49. Rxa6 Rbd7 50. Raa3 Rd1 51. Rc2 Nd4 52. Rca2 Nb5 53. Rb3
+R8d3+ 54. Rxd3 Rxd3+ 55. Kf2 e3+ 56. Kf1 Nc3 57. b7 Rd1+ 58. Kg2 Rd8 59. Ra8
+Rd2+ 60. Kf3 Nd5 61. b8=Q+ Kd4 62. Qh8+ Kc4 63. g4 Rf2+ 64. Kg3 f4+ 65. Kh4 e2
+66. Qe5 Ne3 67. Qe4+ Kb3 68. Qd3+ Kb2 69. Qd2+ Kb3 70. Kh5 Rh2 71. h4 Ng2 72.
+Qxe2 Rxh4+ 73. Kg6 f3 74. Qxf3+ Kc4 75. Qxg2 Kb5 76. Qg3 1-0
+
+
+[Event "GCT Blitz Paris 2017"]
+[Site "Paris FRA"]
+[Date "2017.06.24"]
+[Round "1.4"]
+[White "Karjakin, Sergey"]
+[Black "So, W."]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2781"]
+[BlackElo "2812"]
+[PlyCount "73"]
+[EventDate "2017.06.24"]
+[EventType "tourn (blitz)"]
+[EventRounds "18"]
+[EventCountry "FRA"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 O-O 6. a4 a5 7. Bg5 h6 8. Bh4
+g5 9. Bg3 d6 10. c3 Kg7 11. Na3 Bg4 12. Nc2 Nh5 13. Ne3 Bxe3 14. fxe3 Nxg3 15.
+hxg3 f5 16. Be6 Ne7 17. Qb3 Rb8 18. Nh2 Be2 19. exf5 Bxf1 20. Rxf1 h5 21. Qd1
+Qe8 22. e4 Ng8 23. Qd2 Qe7 24. Bxg8 Kxg8 25. g4 h4 26. Nf3 Qg7 27. Qxg5 Qxg5
+28. Nxg5 b5 29. Ne6 Rf7 30. axb5 Rxb5 31. Rf2 c6 32. g5 Rb8 33. Kh2 Rfb7 34. g6
+Re8 35. Kh3 a4 36. Kxh4 Rbe7 37. Kg5 1-0
+
+
+[Event "FIDE World Cup 2017"]
+[Site "Tbilisi GEO"]
+[Date "2017.09.05"]
+[Round "1.3"]
+[White "Karjakin, Sergey"]
+[Black "Smirnov, Ant"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2780"]
+[BlackElo "2508"]
+[PlyCount "105"]
+[EventDate "2017.09.03"]
+[EventType "k.o."]
+[EventRounds "7"]
+[EventCountry "GEO"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+c6 9. Re1 Bf5 10. Qb3 Na6 11. cxd5 cxd5 12. Nc3 Nb4 13. Bxe4 dxe4 14. Nxe4 Be6
+15. Qd1 Rc8 16. Bg5 Qd7 17. Re2 f6 18. Nxd6 Qxd6 19. Bf4 Qd7 20. a3 Nc6 21. Rc1
+Bd5 22. Rd2 Rfe8 23. h3 Bxf3 24. gxf3 Qxh3 25. d5 Ne5 26. Rxc8 Qxc8 27. d6 Qd7
+28. Kg2 Ng6 29. Bg3 Nf8 30. Rc2 Ne6 31. Qd5 Kf8 32. Qf5 Rc8 33. Rc7 Rxc7 34.
+dxc7 h6 35. Qc2 Qc8 36. Qd3 Kf7 37. Qd5 g5 38. a4 h5 39. b4 h4 40. Bd6 b6 41.
+a5 bxa5 42. bxa5 a6 43. Qb3 Ke8 44. Qa4+ Kf7 45. Qc4 Ke8 46. Qc6+ Kf7 47. Kh2
+Nd4 48. Qd5+ Ne6 49. Qf5 Qd7 50. Kg1 Qc8 51. Be5 Ke7 52. Qh7+ Ke8 53. Bd6 1-0
+
+
+[Event "33rd ECC Open 2017"]
+[Site "Antalya TUR"]
+[Date "2017.10.08"]
+[Round "1.1"]
+[White "Karjakin, Sergey"]
+[Black "Johannesson, Oliver"]
+[Result "1-0"]
+[ECO "B48"]
+[WhiteElo "2765"]
+[BlackElo "2273"]
+[PlyCount "49"]
+[EventDate "2017.10.08"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "TUR"]
+[WhiteTeam "Globus"]
+[BlackTeam "Fjolnir Chess Club"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qf3 Ne5 8.
+Qg3 h5 9. O-O-O h4 10. Qh3 b5 11. f4 Nc4 12. Bxc4 Qxc4 13. Rhe1 Be7 14. Kb1 Bb7
+15. f5 Nf6 16. Bg5 e5 17. Nf3 Qc7 18. Bxf6 gxf6 19. Nd5 Bxd5 20. Rxd5 Rc8 21.
+Re2 Qc4 22. Rd3 Rc5 23. g4 d5 24. b3 Qb4 25. exd5 1-0
+
+
+[Event "33rd ECC Open 2017"]
+[Site "Antalya TUR"]
+[Date "2017.10.10"]
+[Round "3.1"]
+[White "Karjakin, Sergey"]
+[Black "Ragger, M."]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2765"]
+[BlackElo "2659"]
+[PlyCount "145"]
+[EventDate "2017.10.08"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "TUR"]
+[WhiteTeam "Globus"]
+[BlackTeam "AVE Novy Bor"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3
+O-O 9. Nc3 Nb8 10. Re1 Nbd7 11. Ba2 Bb7 12. Ne2 d5 13. exd5 Nxd5 14. Ng3 Nf4
+15. d4 Ng6 16. dxe5 Ndxe5 17. Nxe5 Qxd1 18. Rxd1 Nxe5 19. Bf4 Bd6 20. Kf1 Nc4
+21. Bxd6 Nxd6 22. Ne2 Rfd8 23. Nf4 Kf8 24. Rd3 Be4 25. Rc3 Ne8 26. f3 Bb7 27.
+Re1 Rd4 28. Nd3 Bd5 29. Bxd5 Rxd5 30. a4 Rd4 31. axb5 axb5 32. Rc5 Rb8 33. b3
+Rd6 34. Nb4 f6 35. Nd5 Rb7 36. Ra1 c6 37. Nb4 Rc7 38. Ra6 Re7 39. Nd3 Rc7 40.
+Ke2 Ke7 41. Nb4 Kd7 42. Ra8 Re6+ 43. Kf2 Ke7 44. h4 g6 45. g4 Rd6 46. Rc3 Ng7
+47. Na6 Rcd7 48. Nc5 Rc7 49. Na6 Rcd7 50. Rc8 h5 51. Nb8 Rd2+ 52. Ke3 R7d5 53.
+Nxc6+ Ke6 54. Rc7 Rd7 55. Rxd7 Rxd7 56. Nd4+ Kd5 57. Nxb5 Re7+ 58. Kf2 hxg4 59.
+fxg4 f5 60. Rc4 Ke5 61. Nd4 Rf7 62. Nf3+ Kd5 63. Rd4+ Kc5 64. Rc4+ Kd5 65. Rd4+
+Kc5 66. Ra4 Rf8 67. Ke2 Ne6 68. gxf5 gxf5 69. Ng5 Nc7 70. h5 Rg8 71. Rc4+ Kb6
+72. Nh3 Nd5 73. h6 1-0
+
+
+[Event "chess.com Speed 5m+2spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.10.24"]
+[Round "2.9"]
+[White "Karjakin, Sergey"]
+[Black "Nepomniachtchi, I."]
+[Result "1-0"]
+[ECO "A89"]
+[WhiteElo "2783"]
+[BlackElo "2751"]
+[PlyCount "123"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "FIN"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. c4 Bg7 5. Nc3 O-O 6. Nf3 d6 7. O-O Nc6 8. d5
+Na5 9. Nd2 c5 10. Qc2 a6 11. b3 b5 12. Bb2 Bd7 13. e3 Rb8 14. Rab1 Qe8 15. Ne2
+bxc4 16. bxc4 Ba4 17. Qd3 Bd7 18. Qa3 Nb7 19. Qxa6 Qc8 20. Bc3 Nd8 21. Qxc8
+Rxc8 22. Rb6 Ra8 23. Ra1 Nf7 24. Rb7 Rfd8 25. Nf4 Rdb8 26. Rxb8+ Rxb8 27. a4
+Ne8 28. Bxg7 Kxg7 29. a5 Ra8 30. e4 fxe4 31. Nxe4 Ne5 32. Nd2 Nc7 33. Ne6+ Bxe6
+34. dxe6 Ra7 35. Bd5 Nd3 36. Ne4 Nb4 37. Nc3 Kf6 38. f4 Nc2 39. Ra2 Nd4 40. Kf2
+Nxd5 41. cxd5 Ra6 42. Ke3 Nb3 43. Ne4+ Kg7 44. Ra3 c4 45. Ra4 Nxa5 46. Ke2 Ra7
+47. Nc3 Kf6 48. g4 h6 49. Ke3 Kg7 50. g5 hxg5 51. fxg5 Kf8 52. h4 Kg7 53. Ke2
+Kf8 54. Kd1 Kg7 55. Kc2 Kf8 56. Ne2 Nc6 57. dxc6 Rxa4 58. c7 Ra8 59. Nf4 Kg7
+60. Nd5 Re8 61. Kc3 Rh8 62. Nxe7 1-0
+
+
+[Event "chess.com Speed 3m+2spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.10.24"]
+[Round "2.15"]
+[White "Karjakin, Sergey"]
+[Black "Nepomniachtchi, I."]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2783"]
+[BlackElo "2751"]
+[PlyCount "77"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "FIN"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 d6 6. O-O Nbd7 7. h3 b6 8. c4
+Bb7 9. Nc3 a6 10. Bh2 Qe8 11. d5 e5 12. Nd2 Qe7 13. b4 Kh8 14. a4 a5 15. bxa5
+Rxa5 16. Nb3 Raa8 17. a5 Ba6 18. Qd2 Nc5 19. Rfb1 Nxb3 20. Rxb3 Nd7 21. Rba3
+Bb7 22. Nb5 Nc5 23. axb6 Rxa3 24. Rxa3 cxb6 25. Ra7 Qd8 26. Bd3 f5 27. Bc2 Qb8
+28. Qc3 Ba6 29. Rxg7 Bxb5 30. Re7 Re8 31. Rxe8+ Bxe8 32. f4 Nd7 33. Ba4 b5 34.
+Bxb5 Kg8 35. fxe5 Nxe5 36. Bxe5 dxe5 37. Bxe8 Qxe8 38. c5 f4 39. c6 1-0
+
+
+[Event "chess.com Speed 3m+2spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.10.24"]
+[Round "2.17"]
+[White "Karjakin, Sergey"]
+[Black "Nepomniachtchi, I."]
+[Result "1-0"]
+[ECO "B35"]
+[WhiteElo "2783"]
+[BlackElo "2751"]
+[PlyCount "117"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "FIN"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 Re8 9. f3 e6 10. f4 Qa5 11. O-O d5 12. e5 Nd7 13. Ncb5 Nxd4 14. Nxd4 Nc5
+15. c3 Bd7 16. Bc2 Qa6 17. h4 Rac8 18. h5 Ba4 19. b3 Bb5 20. Rf2 Bd3 21. Bxd3
+Nxd3 22. Rc2 Nc5 23. c4 Ne4 24. cxd5 Nc3 25. Qc1 Qd3 26. d6 Ne2+ 27. Rxe2 Rxc1+
+28. Rxc1 Rd8 29. hxg6 hxg6 30. Kf2 g5 31. Nf3 g4 32. Nd4 Kh7 33. Rd2 Qe4 34.
+Ne2 Kg6 35. Rc4 Qb1 36. Rc7 f6 37. Re7 fxe5 38. Rxe6+ Kf7 39. Re7+ Kf8 40. fxe5
+Qf5+ 41. Nf4 Kg8 42. d7 Bf8 43. Re8 Rxd7 44. Rxd7 Qxd7 45. Ra8 Kg7 46. e6 Qd6
+47. Rxa7 Qc6 48. Ra4 Qc2+ 49. Kg3 Bd6 50. Rd4 Qc3 51. Rxd6 Qxe3+ 52. Kxg4 Kf8
+53. Rd8+ Kg7 54. Rd7+ Kh6 55. e7 Qe5 56. Rd6+ Kh7 57. Re6 Qg7+ 58. Kh3 Qc3+ 59.
+g3 1-0
+
+
+[Event "chess.com Speed 1m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.10.24"]
+[Round "2.21"]
+[White "Karjakin, Sergey"]
+[Black "Nepomniachtchi, I."]
+[Result "1-0"]
+[ECO "A89"]
+[WhiteElo "2783"]
+[BlackElo "2751"]
+[PlyCount "53"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "FIN"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 Nc6 8. d5
+Nb4 9. a3 Na6 10. Qc2 Bd7 11. b4 c6 12. dxc6 bxc6 13. Bb2 Rc8 14. Rfd1 Qe8 15.
+Rac1 Kh8 16. Qa4 Nc7 17. Qxa7 f4 18. gxf4 Ne6 19. e3 Nh5 20. c5 Nhxf4 21. exf4
+Nxf4 22. cxd6 e5 23. Ne4 Nxg2 24. Kxg2 Qe6 25. Nfg5 Qf5 26. Ng3 Qxf2+ 27. Qxf2
+1-0
+
+
+[Event "chess.com Speed 1m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.10.24"]
+[Round "2.23"]
+[White "Karjakin, Sergey"]
+[Black "Nepomniachtchi, I."]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2783"]
+[BlackElo "2751"]
+[PlyCount "83"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "FIN"]
+
+1. Nf3 g6 2. d4 Bg7 3. Bf4 d6 4. e3 f5 5. c4 Nf6 6. Nc3 O-O 7. h3 h6 8. Be2 Qe8
+9. d5 Na6 10. Bh2 Bd7 11. O-O c6 12. dxc6 bxc6 13. Qc2 Nc5 14. Rfd1 g5 15. Rab1
+g4 16. hxg4 Nxg4 17. Bg3 Rb8 18. Nh4 Qh5 19. b4 Ne6 20. c5 Be5 21. cxd6 Bxg3
+22. fxg3 exd6 23. Rxd6 Rb7 24. Qd2 Bc8 25. Rf1 Rg7 26. Bc4 Re7 27. Rxc6 Ne5 28.
+Rxc8 Rxc8 29. Qd6 Qf7 30. Nxf5 Nxc4 31. Nxe7+ Kh8 32. Rxf7 Nxd6 33. Nxc8 Nxf7
+34. Nxa7 Kg7 35. Nab5 Ne5 36. a4 Nc4 37. Kf2 Nd8 38. Nd4 Nb2 39. Ke2 Nb7 40. a5
+Nc4 41. a6 Nbd6 42. Nd5 1-0
+
+
+[Event "chess.com Speed 5m+2spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.10.24"]
+[Round "2.1"]
+[White "Karjakin, Sergey"]
+[Black "Nepomniachtchi, I."]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2783"]
+[BlackElo "2751"]
+[PlyCount "53"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "FIN"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 d6 6. O-O c5 7. c3 Nc6 8. Nbd2
+b6 9. h3 Bb7 10. a4 Rc8 11. Bh2 Re8 12. Bd3 a6 13. Qe2 cxd4 14. exd4 e5 15.
+dxe5 dxe5 16. Ne4 Nxe4 17. Bxe4 f5 18. Rfd1 Qe7 19. Bd5+ Kh8 20. Qe3 f4 21.
+Qxb6 e4 22. Re1 Ne5 23. Qxb7 Nxf3+ 24. gxf3 Qg5+ 25. Kh1 Rb8 26. Rxe4 Red8 27.
+Bxf4 1-0
+
+
+[Event "chess.com Speed 5m+2spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.10.24"]
+[Round "2.3"]
+[White "Karjakin, Sergey"]
+[Black "Nepomniachtchi, I."]
+[Result "1-0"]
+[ECO "A04"]
+[WhiteElo "2783"]
+[BlackElo "2751"]
+[PlyCount "103"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "FIN"]
+
+1. Nf3 c5 2. e3 Nf6 3. d4 g6 4. d5 Bg7 5. Nc3 O-O 6. Be2 d6 7. O-O e6 8. dxe6
+Bxe6 9. e4 Nc6 10. Bf4 d5 11. exd5 Nxd5 12. Nxd5 Qxd5 13. Qxd5 Bxd5 14. c3 Rfe8
+15. Be3 b6 16. Rfd1 Ne7 17. Kf1 Bc6 18. a4 Nf5 19. Bd2 h6 20. a5 b5 21. g4 Nd6
+22. Be3 Nc4 23. Bxc4 bxc4 24. Nd2 Rab8 25. Ra2 Bf8 26. a6 Rb6 27. Ke1 Bb5 28.
+Rda1 Bd6 29. Kf1 Kg7 30. Kg1 Re6 31. Ra5 Be7 32. h3 h5 33. Bf4 hxg4 34. hxg4
+Bxa6 35. Be3 Bf8 36. g5 Rbc6 37. Nf3 Be7 38. Bf4 Rb6 39. Bc7 Bb7 40. Ne5 Rxb2
+41. Rxa7 Bd5 42. Rd1 Be4 43. Nxc4 Re2 44. Be5+ Kh7 45. Rdd7 Re1+ 46. Kh2 Rh1+
+47. Kg3 Rg1+ 48. Kf4 Bf5 49. Rxe7 Rg4+ 50. Kf3 Rxe7 51. Rxe7 Rxc4 52. Re8 1-0
+
+
+[Event "chess.com Speed 5m+2spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.10.24"]
+[Round "2.7"]
+[White "Karjakin, Sergey"]
+[Black "Nepomniachtchi, I."]
+[Result "1-0"]
+[ECO "A48"]
+[WhiteElo "2783"]
+[BlackElo "2751"]
+[PlyCount "63"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+[WhiteTeamCountry "AUT"]
+[BlackTeamCountry "FIN"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. e3 O-O 5. Be2 d6 6. O-O c5 7. c3 Nc6 8. Nbd2
+b6 9. h3 Bb7 10. a4 Rc8 11. Bh2 Rc7 12. Bd3 Qa8 13. Qe2 Rd7 14. Rfd1 Re8 15.
+Bc4 Rdd8 16. Qf1 e6 17. Bb5 a6 18. Be2 d5 19. Bc7 Rc8 20. Bxb6 c4 21. Bc5 Nd7
+22. Bd6 Na5 23. Rdb1 Rc6 24. Bb4 Qd8 25. b3 Nxb3 26. Nxb3 cxb3 27. Rxb3 Qc7 28.
+Rab1 Rc8 29. Nd2 a5 30. Bxa5 Qxa5 31. Rxb7 Qxc3 32. Bb5 1-0
+
+
+[Event "11th Kings Rapid 2017"]
+[Site "Medias ROU"]
+[Date "2017.11.26"]
+[Round "3.1"]
+[White "Karjakin, Sergey"]
+[Black "Wei Yi"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2760"]
+[BlackElo "2739"]
+[PlyCount "97"]
+[EventDate "2017.11.26"]
+[EventType "tourn (rapid)"]
+[EventRounds "6"]
+[EventCountry "ROU"]
+[EventCategory "18"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 Bf5 4. c4 e6 5. Nc3 Bb4 6. Qa4+ Nc6 7. Nf3 O-O 8. Rc1
+dxc4 9. Bxc4 a6 10. Qd1 Nd5 11. Bxd5 Qxd5 12. a3 Bxc3+ 13. Rxc3 Rac8 14. O-O
+Bg4 15. Rc5 Bxf3 16. Qxf3 Qxf3 17. gxf3 Rfd8 18. b4 Rd7 19. Rfc1 f6 20. Kf1 Kf7
+21. Ke2 Re8 22. b5 axb5 23. Rxb5 e5 24. dxe5 fxe5 25. Bg3 Nd8 26. Rxe5 Rxe5 27.
+Bxe5 c6 28. f4 g6 29. a4 Ke6 30. Bd4 Rd5 31. Rb1 Kd7 32. Bf6 Kc7 33. e4 Rd7 34.
+Ke3 Ne6 35. Be5+ Kc8 36. Rc1 Rf7 37. h4 Kd7 38. h5 Nf8 39. Rd1+ Ke8 40. Rh1 Rd7
+41. a5 Kf7 42. Rc1 Ne6 43. h6 Nd8 44. Ra1 Ne6 45. a6 bxa6 46. Rxa6 c5 47. Ra8
+Rb7 48. Rh8 Rb3+ 49. Ke2 1-0
+
+
+[Event "11th Kings Rapid 2017"]
+[Site "Medias ROU"]
+[Date "2017.11.27"]
+[Round "6.2"]
+[White "Karjakin, Sergey"]
+[Black "Deac, Bogdan-Daniel"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2760"]
+[BlackElo "2566"]
+[PlyCount "65"]
+[EventDate "2017.11.26"]
+[EventType "tourn (rapid)"]
+[EventRounds "6"]
+[EventCountry "ROU"]
+[EventCategory "18"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. c3 O-O 6. a4 a5 7. Bg5 h6 8. Bh4
+Be7 9. Bg3 d6 10. Nbd2 g6 11. Nf1 Nh5 12. Ne3 Bf6 13. Nd5 Bg7 14. Bh4 g5 15.
+Bg3 Nf4 16. Ne3 h5 17. h3 Be6 18. Nd2 h4 19. Bh2 d5 20. exd5 Nxd5 21. O-O Nf4
+22. Bxe6 Nxe6 23. Ne4 Ne7 24. g4 Qd7 25. Nf5 Nxf5 26. gxf5 Nf4 27. Bxf4 exf4
+28. f6 Qxh3 29. Qh5 f3 30. Qxg5 Qg2+ 31. Qxg2 fxg2 32. Kxg2 Bh6 33. Rh1 1-0
+
+
+[Event "11th Kings Blitz 2017"]
+[Site "Medias ROU"]
+[Date "2017.11.28"]
+[Round "10.2"]
+[White "Karjakin, Sergey"]
+[Black "Ivanchuk, V."]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2760"]
+[BlackElo "2729"]
+[PlyCount "59"]
+[EventDate "2017.11.28"]
+[EventType "tourn (blitz)"]
+[EventRounds "12"]
+[EventCountry "ROU"]
+[EventCategory "18"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4
+O-O 9. O-O Nc6 10. Re1 Be6 11. Nd5 Bxd5 12. exd5 Nb8 13. a4 Nbd7 14. a5 Ng4 15.
+Bc1 f5 16. Bf1 Bf6 17. h3 Nh6 18. c4 Nf7 19. b4 Ng5 20. Nxg5 Bxg5 21. c5 Bxc1
+22. Rxc1 Nf6 23. c6 Qc7 24. Qb3 e4 25. cxb7 Qxb7 26. Rc6 Rfb8 27. Rxd6 Qe7 28.
+Rxa6 Rxa6 29. d6+ Qf7 30. Bc4 1-0
+
+
+[Event "11th Kings Blitz 2017"]
+[Site "Medias ROU"]
+[Date "2017.11.28"]
+[Round "2.2"]
+[White "Karjakin, Sergey"]
+[Black "Deac, Bogdan-Daniel"]
+[Result "1-0"]
+[ECO "C88"]
+[WhiteElo "2760"]
+[BlackElo "2566"]
+[PlyCount "67"]
+[EventDate "2017.11.28"]
+[EventType "tourn (blitz)"]
+[EventRounds "12"]
+[EventCountry "ROU"]
+[EventCategory "18"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. d4 d6 10. dxe5 Nxe5 11. Nbd2 Ned7 12. Bc4 a5 13. b3 Nb6 14. Bd3 Nfd7 15.
+Bb2 Nc5 16. Nc4 Nbd7 17. Bf1 Bb7 18. e5 dxe5 19. Nfxe5 Nb6 20. Qh5 Bf6 21. Rad1
+Qc8 22. Nxb6 cxb6 23. Rd6 Be7 24. Ng4 Bxd6 25. Nf6+ gxf6 26. Bxf6 Be4 27. Qh6
+Ne6 28. Rxe4 Qxc2 29. Rg4+ Qg6 30. h4 Rac8 31. g3 Rc2 32. Bd3 Rc3 33. Bxg6 fxg6
+34. Rxg6+ 1-0
+
+
+[Event "11th Kings Blitz 2017"]
+[Site "Medias ROU"]
+[Date "2017.11.28"]
+[Round "8.2"]
+[White "Karjakin, Sergey"]
+[Black "Deac, Bogdan-Daniel"]
+[Result "1-0"]
+[ECO "C53"]
+[WhiteElo "2760"]
+[BlackElo "2566"]
+[PlyCount "76"]
+[EventDate "2017.11.28"]
+[EventType "tourn (blitz)"]
+[EventRounds "12"]
+[EventCountry "ROU"]
+[EventCategory "18"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a6 6. a4 O-O 7. b4 Ba7 8. Bg5 d6
+9. O-O Ne7 10. Nh4 Ng6 11. Nxg6 hxg6 12. Na3 Qe8 13. Nc2 Be6 14. Qf3 Bxc4 15.
+dxc4 Qe6 16. Qd3 Nh5 17. Be3 Nf4 18. Bxf4 exf4 19. Nd4 Qf6 20. a5 Rfe8 21. Rfe1
+g5 22. h3 Re7 23. Re2 Qg6 24. Rae1 Rae8 25. Nf3 g4 26. hxg4 Qxg4 27. e5 dxe5
+28. Rxe5 Rxe5 29. Rxe5 Rxe5 30. Nxe5 Qg3 31. Qd8+ Kh7 32. Qd2 f6 33. c5 Qg5 34.
+Qd3+ Kg8 35. Qd5+ Kh7 36. Qe4+ f5 37. Qxb7 f3 38. Qxf3 Qc1+ 1-0
+
+
+[Event "chess.com Speed 1m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.12.16"]
+[Round "3.23"]
+[White "Karjakin, Sergey"]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "A18"]
+[WhiteElo "2783"]
+[BlackElo "2786"]
+[PlyCount "80"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. Nf3 b6 8. d4
+Bb7 9. Bd3 Bxf3 10. Qxf3 Qxf3 11. gxf3 Bd6 12. a4 Nc6 13. Be4 Kd7 14. Ke2 Rae8
+15. Bxc6+ Kxc6 16. f4 g6 17. Be3 Rb8 18. h3 Rhe8 19. Rhb1 Be7 20. Kd3 a6 21.
+Rb3 Ra8 22. Rbb1 Bd6 23. Ke2 Be7 24. Kd3 Reb8 25. Ke2 Bd6 26. Kd3 Re8 27. Ke2
+Kd7 28. Kd3 Ke7 29. a5 Red8 30. axb6 cxb6 31. Rxb6 a5 32. Ra4 Kf6 33. Rb5 Bc7
+34. Ke4 Rdc8 35. c5 Ke7 36. c4 Rd8 37. d5 f5+ 38. Kd4 Kd7 39. d6 Kc6 40. Ke5
+Bb8 1-0
+
+
+[Event "chess.com Speed 5m+2spm 2017"]
+[Site "chess.com INT"]
+[Date "2017.12.16"]
+[Round "3.1"]
+[White "Karjakin, Sergey"]
+[Black "Nakamura, Hi"]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2783"]
+[BlackElo "2786"]
+[PlyCount "94"]
+[EventDate "2017.05.03"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. d4 Nf6 2. Bf4 e6 3. e3 c5 4. Nf3 Nc6 5. c3 d5 6. Nbd2 cxd4 7. exd4 Nh5 8.
+Be3 Qc7 9. g3 f5 10. Ne5 Nf6 11. Ndf3 Bd6 12. Nd3 O-O 13. Bg2 b6 14. O-O Ba6
+15. Re1 Ne4 16. Bf4 Bxd3 17. Bxd6 Qxd6 18. Qxd3 a6 19. a4 h6 20. Rac1 Rfc8 21.
+h4 g6 22. Re2 Kg7 23. Rec2 Rcb8 24. Ra1 g5 25. Rcc1 g4 26. Ne1 Na5 27. Qd1 b5
+28. Nd3 Nc6 29. b4 a5 30. axb5 Rxb5 31. Nf4 Rbb8 32. Bxe4 dxe4 33. Nxe6+ Qxe6
+34. d5 Qf6 35. dxc6 Qxc6 36. Rxa5 Rd8 37. Qe2 Rxa5 38. bxa5 Qa4 39. a6 Rd3 40.
+Qb2 Qxa6 41. Ra1 Qc6 42. Qb8 Rd7 43. Ra8 e3 44. Qh8+ Kg6 45. Rg8+ Kf7 46. Qg7+
+Ke6 47. Re8+ Kd6 1-0
+
+
+[Event "World Rapid 2017"]
+[Site "Riyadh KSA"]
+[Date "2017.12.27"]
+[Round "10.31"]
+[White "Karjakin, Sergey"]
+[Black "Ni Hua"]
+[Result "1-0"]
+[ECO "A18"]
+[WhiteElo "2760"]
+[BlackElo "2671"]
+[PlyCount "74"]
+[EventDate "2017.12.26"]
+[EventType "swiss (rapid)"]
+[EventRounds "15"]
+[EventCountry "SAU"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. Nf3 Nc6 8.
+Bd3 Ne5 9. Be2 Nxf3+ 10. Bxf3 Qe5+ 11. Qe2 Qxe2+ 12. Kxe2 Rb8 13. a4 Bd6 14. d4
+b6 15. a5 Ke7 16. axb6 axb6 17. Ra7 Kf6 18. Be3 e5 19. Bc6 Be6 20. Ra4 Rbd8 21.
+Rb1 Bd7 22. Bxd7 Rxd7 23. c5 bxc5 24. dxc5 Be7 25. Rb7 Rc8 26. Raa7 Ke6 27. c6
+Rdd8 28. Bb6 Bg5 29. Bxc7 Rd2+ 30. Ke1 Rc2 31. Ba5 Rxc6 32. Rxf7 Rd6 33. Rxg7
+Bd2+ 34. Kd1 Ra2 35. Bb4 Rxa7 36. Rxa7 Rd8 37. Ke2 h6 1-0
+
+
+[Event "World Rapid 2017"]
+[Site "Riyadh KSA"]
+[Date "2017.12.27"]
+[Round "6.19"]
+[White "Karjakin, Sergey"]
+[Black "Vidit, S."]
+[Result "1-0"]
+[ECO "A28"]
+[WhiteElo "2760"]
+[BlackElo "2715"]
+[PlyCount "125"]
+[EventDate "2017.12.26"]
+[EventType "swiss (rapid)"]
+[EventRounds "15"]
+[EventCountry "SAU"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 d6 6. Ne2 a5 7. a3 Bc5 8. b3
+O-O 9. Ng3 Re8 10. Bb2 Ba7 11. Be2 h6 12. O-O Be6 13. Bc3 Ne7 14. d4 exd4 15.
+Nxd4 Bd7 16. Qd2 Bb6 17. Rad1 Nc6 18. Nf3 Ne5 19. Qb2 Qe7 20. b4 axb4 21. axb4
+c5 22. h3 Rab8 23. b5 Rbd8 24. Rd2 Bc7 25. Rfd1 b6 26. Nh4 Be6 27. Nf3 Nxc4 28.
+Bxc4 Bxc4 29. Nf5 Qe6 30. Nxh6+ gxh6 31. Bxf6 Ra8 32. Bh8 f6 33. Bxf6 Rf8 34.
+Bc3 Rf7 35. e4 Raf8 36. Nh2 Qxe4 37. Ng4 Qg6 38. Qc1 h5 39. Rd5 Bxd5 40. Rxd5
+Rf5 41. Nh6+ Kh7 42. Nxf5 Rxf5 43. Qd1 Qf7 44. Rxf5 Qxf5 45. Qe2 Qb1+ 46. Kh2
+d5+ 47. g3 d4 48. Bxd4 cxd4 49. Qe7+ Kg8 50. Qe8+ Kg7 51. Qd7+ Kf6 52. Qxc7 d3
+53. Qxb6+ Ke5 54. Qc5+ Ke4 55. b6 Qb3 56. Qe3+ Kd5 57. b7 Kc6 58. b8=Q Qxb8 59.
+Qxd3 Qe5 60. Kg2 Kc7 61. g4 hxg4 62. hxg4 Qf4 63. Qg3 1-0
+
+
+[Event "World Rapid 2017"]
+[Site "Riyadh KSA"]
+[Date "2017.12.26"]
+[Round "4.45"]
+[White "Karjakin, Sergey"]
+[Black "Adnani, M."]
+[Result "1-0"]
+[ECO "B75"]
+[WhiteElo "2760"]
+[BlackElo "2448"]
+[PlyCount "95"]
+[EventDate "2017.12.26"]
+[EventType "swiss (rapid)"]
+[EventRounds "15"]
+[EventCountry "SAU"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+Bd7 9. O-O-O h5 10. Bc4 Ne5 11. Bb3 Rc8 12. Kb1 a6 13. Bg5 O-O 14. h3 Nc4 15.
+Qd3 b5 16. g4 Rc5 17. Bc1 Qb6 18. g5 Nh7 19. Nd5 Qd8 20. h4 a5 21. Bxc4 bxc4
+22. Qa3 e6 23. Nc3 Qb6 24. Nde2 Rc6 25. Bf4 d5 26. exd5 Rcc8 27. Qd6 Qa7 28.
+Be5 Rfe8 29. Bxg7 Kxg7 30. dxe6 Bxe6 31. Nd4 Nf8 32. Ndb5 Qb8 33. Qd4+ Kg8 34.
+Ne4 Nh7 35. Ned6 Red8 36. Qe5 Rc6 37. Rd4 Qb6 38. a4 Rc5 39. Qf4 c3 40. Rhd1
+Rb8 41. Ne4 Rf5 42. Qxb8+ Qxb8 43. Rd8+ Qxd8 44. Rxd8+ Kg7 45. Nbd6 Rd5 46.
+Nxc3 Re5 47. Ne8+ Kf8 48. Nf6+ 1-0

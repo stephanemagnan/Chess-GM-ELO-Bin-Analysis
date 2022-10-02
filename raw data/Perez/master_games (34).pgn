@@ -1,0 +1,691 @@
+[Event "76th Tata Steel Masters"]
+[Site "Wijk aan Zee NED"]
+[Date "2014.01.21"]
+[Round "8.2"]
+[White "Dominguez Perez, L."]
+[Black "So, W."]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2754"]
+[BlackElo "2719"]
+[PlyCount "41"]
+[EventDate "2014.01.11"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "NED"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2014.01.27"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O
+8. Qd2 b6 9. O-O-O Bb7 10. h4 Nd7 11. Bd3 Nf6 12. Bd4 c5 13. Bxf6 Bxf6 14. Qf4
+d5 15. h5 Re8 16. g4 g6 17. hxg6 hxg6 18. g5 Bg7 19. Rh7 d4 20. Bc4 Qe7 21. Qh4
+1-0
+
+
+[Event "76th Tata Steel Masters"]
+[Site "Wijk aan Zee NED"]
+[Date "2014.01.15"]
+[Round "4.3"]
+[White "Dominguez Perez, L."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2754"]
+[BlackElo "2782"]
+[PlyCount "215"]
+[EventDate "2014.01.11"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "NED"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2014.01.20"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3
+O-O 9. Nc3 Be6 10. Be3 Qd7 11. Nd5 Bd8 12. Bg5 Bxd5 13. exd5 Nd4 14. Nxd4 exd4
+15. a4 Qf5 16. Bd2 Rb8 17. axb5 axb5 18. h3 h5 19. Ra7 h4 20. Qf3 Qxf3 21. gxf3
+Re8 22. f4 Nd7 23. Bb4 Nb6 24. Kg2 Na4 25. Ba3 Nb6 26. Bb4 Na4 27. Rb1 Re7 28.
+Ra6 Re8 29. Kf3 Rb7 30. Ra8 Kf8 31. Ra1 Nc5 32. R1a7 Rxa7 33. Rxa7 Nxb3 34.
+cxb3 Ke7 35. Rb7 Kd7 36. Rxb5 Rh8 37. Bd2 Rh5 38. Ra5 g6 39. Ke4 Rh8 40. Ra8
+f5+ 41. Kf3 Bf6 42. Ra1 Rb8 43. b4 Re8 44. Ra7 Rb8 45. Ke2 Kc8 46. Kd1 Rb5 47.
+Ra5 Rb8 48. Kc2 Kd7 49. Ra1 Rb5 50. Ra5 Rb8 51. b5 Kc8 52. Kb3 Kb7 53. Ra1 Re8
+54. Re1 Rxe1 55. Bxe1 Kb6 56. Kc4 Be7 57. f3 Bf6 58. Kb4 Bd8 59. Bf2 Bf6 60. b3
+Kb7 61. Ka5 Bd8 62. Kb4 Bf6 63. Ka5 Bd8 64. b6 cxb6+ 65. Kb5 Bf6 66. b4 Be7 67.
+Bxd4 Bd8 68. Bc3 Be7 69. Bg7 Bd8 70. Bd4 Be7 71. Bxb6 Bf6 72. Bf2 Bc3 73. Bxh4
+Bd2 74. Bf2 Bxf4 75. Ka4 Ka6 76. b5+ Kb7 77. Kb3 Kc7 78. Kc2 Kb7 79. Bd4 Bg3
+80. Be3 Be5 81. Kb3 Kc7 82. Ka4 Kb7 83. Kb4 Bg3 84. Kc4 Be5 85. Kb3 Bg3 86. Kc2
+Be5 87. Kd2 Bg3 88. Ke2 Bh4 89. Kf1 Bg3 90. Kg2 Bh4 91. Bf2 Bf6 92. Be3 Bh4 93.
+Bf2 Bf6 94. h4 Kc7 95. Kh3 Kb7 96. h5 gxh5 97. Bh4 Bd4 98. Be7 Be5 99. Bd8 Kc8
+100. Bg5 Kb7 101. Kh4 Kb6 102. Be3+ Kxb5 103. f4 Bb2 104. Kxh5 Kb4 105. Kg5 Kc3
+106. Kxf5 Kxd3 107. Bg1 Bc1 108. Bh2 1-0
+
+
+[Event "Battle of the Americas Blitz 2014"]
+[Site "St Louis USA"]
+[Date "2014.03.08"]
+[Round "1"]
+[White "Dominguez Perez, L."]
+[Black "Robson, R."]
+[Result "1-0"]
+[ECO "B48"]
+[WhiteElo "2757"]
+[BlackElo "2628"]
+[PlyCount "55"]
+[EventDate "2014.03.08"]
+[EventType "match (blitz)"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "Mark Crowther"]
+[SourceDate "2014.03.10"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Qd2 Nf6 8. f4
+Bb4 9. Bd3 d5 10. e5 Ng4 11. Bg1 f6 12. Be2 Nxd4 13. Bxd4 fxe5 14. fxe5 Nxe5
+15. Qg5 Ng6 16. O-O Qe7 17. Qe3 Bd7 18. a3 Bd6 19. Bh5 O-O-O 20. Bb6 Rdf8 21.
+Rxf8+ Rxf8 22. Bxg6 hxg6 23. Ne2 e5 24. c3 Bc6 25. b4 Qe6 26. Bc5 Re8 27. Bxd6
+Qxd6 28. a4 1-0
+
+
+[Event "Battle of the Americas Blitz 2014"]
+[Site "St Louis USA"]
+[Date "2014.03.08"]
+[Round "5"]
+[White "Dominguez Perez, L."]
+[Black "Robson, R."]
+[Result "1-0"]
+[ECO "C18"]
+[WhiteElo "2757"]
+[BlackElo "2628"]
+[PlyCount "105"]
+[EventDate "2014.03.08"]
+[EventType "match (blitz)"]
+[EventRounds "6"]
+[EventCountry "USA"]
+[Source "Mark Crowther"]
+[SourceDate "2014.03.10"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Bd3
+f5 9. exf6 Rxf6 10. Bg5 Rf7 11. Qh5 g6 12. Qd1 e5 13. dxe5 Nbc6 14. Nf3 Bg4 15.
+Be2 Bxf3 16. Bxf3 Nxe5 17. Be2 Qd6 18. O-O Nf5 19. Qd2 Nc4 20. Qd3 Ne5 21. Qh3
+Re8 22. Rad1 Kg7 23. Rfe1 Nc6 24. Bd3 Rxe1+ 25. Rxe1 c4 26. Bxf5 Rxf5 27. Qh6+
+Kg8 28. h3 Qf8 29. Qh4 Qxa3 30. Bh6 Qd6 31. Re8+ Kf7 32. Rf8+ Ke6 33. Rh8 Qe7
+34. Qg4 Kd7 35. Rg8 Kd6 36. Bf4+ Kc5 37. Be3+ Kb5 38. Qd1 a5 39. Qb1+ Ka4 40.
+Qa2+ Kb5 41. Qb2+ Ka4 42. Qa1+ Qa3 43. Qb1 b5 44. Rc8 Rf6 45. Rc7 Qxc3 46. Rb7
+b4 47. Bd2 Qa3 48. Qd1 c3 49. Bc1 Qa1 50. Kh2 d4 51. Qf1 Rf5 52. Qc4 Qb1 53.
+Qxc6+ 1-0
+
+
+[Event "21st TCh-RUS 2014"]
+[Site "Loo RUS"]
+[Date "2014.04.12"]
+[Round "6.3"]
+[White "Dominguez Perez, L."]
+[Black "Frolyanov, D."]
+[Result "1-0"]
+[ECO "B33"]
+[WhiteElo "2757"]
+[BlackElo "2578"]
+[PlyCount "89"]
+[EventDate "2014.04.07"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2014.04.14"]
+[WhiteTeam "St. Petersburg"]
+[BlackTeam "Lada (Samara region)"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Rb8 12. Nc2 Bg5 13. a4 bxa4 14. Ncb4
+Nxb4 15. cxb4 O-O 16. Rxa4 a5 17. b5 Bd7 18. Nc3 Qb6 19. Bc4 Kh8 20. O-O f5 21.
+exf5 Bxf5 22. Qe2 Rbc8 23. Kh1 Bd7 24. f3 Bd8 25. Rd1 Qb8 26. Ne4 Bc7 27. b3
+Bf5 28. Ng5 h6 29. Ne4 Rcd8 30. Nc3 Bh7 31. Nd5 Rde8 32. Bd3 Bg8 33. Be4 Bb6
+34. Rc1 Qd8 35. Qd2 Bxd5 36. Bxd5 Rf4 37. Be4 Ref8 38. Rac4 Bc5 39. g3 R4f6 40.
+Qd5 Qb8 41. Qb7 Qe8 42. Kg2 R6f7 43. Qc6 Qb8 44. Rxc5 dxc5 45. Qg6 1-0
+
+
+[Event "21st TCh-RUS 2014"]
+[Site "Loo RUS"]
+[Date "2014.04.08"]
+[Round "2.2"]
+[White "Dominguez Perez, L."]
+[Black "Dreev, A."]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "2757"]
+[BlackElo "2670"]
+[PlyCount "81"]
+[EventDate "2014.04.07"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2014.04.14"]
+[WhiteTeam "St. Petersburg"]
+[BlackTeam "Rook (Kazan)"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. O-O Bg6 7. Nbd2 Nf5 8. Nb3
+Nd7 9. c3 a6 10. Bf4 Be7 11. g4 Nh4 12. Nxh4 Bxh4 13. Bg3 Bxg3 14. hxg3 Qb6 15.
+f4 Be4 16. a4 c5 17. a5 Qc7 18. Nd2 Rd8 19. Nxe4 dxe4 20. d5 Nxe5 21. Qa4+ Nd7
+22. dxe6 fxe6 23. Qxe4 O-O 24. Qxe6+ Kh8 25. Bf3 g5 26. Qe7 Rg8 27. Rad1 gxf4
+28. gxf4 Qxf4 29. Rxd7 Rxg4+ 30. Kf2 Rxd7 31. Qxd7 Rg7 32. Qe8+ Rg8 33. Qe4
+Qd2+ 34. Qe2 Qf4 35. Rg1 Rd8 36. Qe7 Qd2+ 37. Qe2 Qf4 38. Rg4 Qh2+ 39. Ke1 Qd6
+40. Rg5 Rf8 41. Bd5 1-0
+
+
+[Event "41st Olympiad Open 2014"]
+[Site "Tromso NOR"]
+[Date "2014.08.03"]
+[Round "2.14"]
+[White "Dominguez Perez, L."]
+[Black "Dias, P."]
+[Result "1-0"]
+[ECO "C67"]
+[WhiteElo "2760"]
+[BlackElo "2416"]
+[PlyCount "232"]
+[EventDate "2014.08.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "NOR"]
+[Source "Mark Crowther"]
+[SourceDate "2014.08.04"]
+[WhiteTeam "Cuba"]
+[BlackTeam "Portugal"]
+[WhiteTeamCountry "CUB"]
+[BlackTeamCountry "POR"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. h3 Be6 10. g4 Ne7 11. Ng5 h5 12. Nxe6+ fxe6 13. Kg2 Ng6 14. f4
+Be7 15. Nd2 Kd7 16. Ne4 c5 17. Be3 Kc6 18. c4 Raf8 19. b3 b6 20. Kg3 Bh4+ 21.
+Kg2 Be7 22. Rad1 Rf7 23. Rf2 Nh4+ 24. Kg3 Ng6 25. Kg2 Nh4+ 26. Kg1 Ng6 27. Rdf1
+hxg4 28. hxg4 Rh3 29. Bd2 Bh4 30. Kg2 Rd3 31. Re2 Rf8 32. Be3 a5 33. Rf3 a4 34.
+Rd2 Rfd8 35. Rxd3 Rxd3 36. Bg1 Rd1 37. Nc3 Rd2+ 38. Kh3 Be1 39. Nxa4 Rxa2 40.
+Bh2 Re2 41. Bg3 Bd2 42. Nc3 Bxc3 43. Rxc3 b5 44. cxb5+ Kxb5 45. Rd3 Kc6 46. Rd8
+Re3 47. Kg2 Rxb3 48. f5 Rb4 49. fxg6 Rxg4 50. Kf3 Rxg6 51. Rd1 Rh6 52. Bf4 Rh3+
+53. Ke4 Ra3 54. Rd8 Ra4+ 55. Kf3 Ra3+ 56. Be3 Rb3 57. Rd1 Rc3 58. Rd8 Ra3 59.
+Rd2 Rc3 60. Rd1 Ra3 61. Rc1 Ra5 62. Bf4 Ra3+ 63. Be3 Ra5 64. Rg1 Kd5 65. Rxg7
+Kxe5 66. Rxc7 Kd6 67. Rc8 Kd7 68. Rh8 Kd6 69. Rd8+ Kc7 70. Rd1 Kc6 71. Ke4 c4
+72. Rc1 Ra4 73. Kd4 Kb5 74. Rh1 Ra3 75. Rh5+ Kb4 76. Bd2+ c3 77. Be1 Rb3 78.
+Rc5 Rb1 79. Bxc3+ Kb3 80. Kd3 Rh1 81. Rb5+ Ka4 82. Rb4+ Ka3 83. Rb8 Rh3+ 84.
+Kc2 Rh2+ 85. Kd3 Ka4 86. Kc4 Rh4+ 87. Bd4 Rh5 88. Rg8 Rf5 89. Rh8 Rg5 90. Re8
+Rh5 91. Rb8 Rg5 92. Rb7 Rh5 93. Bf2 Rg5 94. Bd4 Rh5 95. Bf6 Rf5 96. Bc3 Rf4+
+97. Bd4 Rf5 98. Rb1 Rf3 99. Rb4+ Ka3 100. Rb1 Ka4 101. Rb8 Rf5 102. Rb4+ Ka5
+103. Rb1 Ka6 104. Rb6+ Ka5 105. Rc6 Ka4 106. Ra6+ Ra5 107. Rb6 Rh5 108. Rb7 Rg5
+109. Rb8 Rh5 110. Bf6 Rf5 111. Bc3 Rf4+ 112. Bd4 Rf5 113. Rb4+ Ka5 114. Rb1 Ka6
+115. Rb6+ Ka5 116. Rxe6 Ka4 1-0
+
+
+[Event "41st Olympiad Open 2014"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[Round "7.1"]
+[White "Dominguez Perez, L."]
+[Black "Mamedyarov, S."]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2760"]
+[BlackElo "2743"]
+[PlyCount "61"]
+[EventDate "2014.08.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "NOR"]
+[Source "Mark Crowther"]
+[SourceDate "2014.08.11"]
+[WhiteTeam "Cuba"]
+[BlackTeam "Azerbaijan"]
+[WhiteTeamCountry "CUB"]
+[BlackTeamCountry "AZE"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 Qb6 7. g4 Nc6 8. Nb3
+e6 9. Qe2 Qc7 10. Be3 b5 11. O-O-O Nd7 12. Qf2 Nce5 13. Kb1 Be7 14. Rg1 g5 15.
+h4 h6 16. Rh1 Rg8 17. hxg5 hxg5 18. Rh3 Rb8 19. Nd4 b4 20. Na4 Nf6 21. b3 Bd7
+22. Bxa6 d5 23. Qh2 Bd6 24. Qe2 Qa5 25. Rh6 Ke7 26. exd5 Bxa4 27. dxe6 fxe6 28.
+bxa4 Nd5 29. Nc6+ Nxc6 30. Bxg5+ Kf8 31. Qxe6 1-0
+
+
+[Event "SportAccord Blitz 2014"]
+[Site "Beijing CHN"]
+[Date "2014.12.13"]
+[Round "28.3"]
+[White "Dominguez Perez, L."]
+[Black "Wang Yue"]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2726"]
+[BlackElo "2720"]
+[PlyCount "111"]
+[EventDate "2014.12.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "30"]
+[EventCountry "CHN"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2014.12.15"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Nc6 7. Be3 Be7
+8. Qd2 Be6 9. O-O-O Qd7 10. h4 h6 11. a3 Bf6 12. Nd4 Bxd4 13. Bxd4 f6 14. c4
+O-O-O 15. Bc3 Rhe8 16. f3 Qf7 17. b3 d5 18. cxd5 Rxd5 19. Bd3 Ne5 20. Bxe5 Rxe5
+21. Rhe1 Bd7 22. Rxe5 Rxe5 23. Be4 Qe7 24. Kb2 c6 25. Qd4 f5 26. Bd3 Qc5 27.
+Qxc5 Rxc5 28. Re1 Kd8 29. c4 f4 30. Bg6 b5 31. Kc3 bxc4 32. bxc4 Kc7 33. Re7
+Kd6 34. Rxg7 Re5 35. Be4 Rh5 36. Rf7 Rxh4 37. c5+ Ke6 38. Rg7 Rh5 39. Rg6+ Kf7
+40. Kd4 Be6 41. g4 fxg3 42. Rxg3 Rh4 43. Ke5 h5 44. Rg5 Rh1 45. Bg6+ Ke7 46.
+Rxh5 Re1+ 47. Be4 Bd5 48. Rh7+ Ke8 49. Rxa7 Re2 50. a4 Kd8 51. Kd6 Kc8 52. Bxd5
+cxd5 53. c6 Kb8 54. Rh7 d4 55. Rh8+ Ka7 56. c7 1-0
+
+
+[Event "SportAccord Blitz 2014"]
+[Site "Beijing CHN"]
+[Date "2014.12.13"]
+[Round "24.7"]
+[White "Dominguez Perez, L."]
+[Black "Ponomariov, R."]
+[Result "1-0"]
+[ECO "B06"]
+[WhiteElo "2726"]
+[BlackElo "2714"]
+[PlyCount "67"]
+[EventDate "2014.12.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "30"]
+[EventCountry "CHN"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2014.12.15"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. Qd2 b5 6. O-O-O Bb7 7. h4 Nf6 8. f3
+h5 9. Nh3 e6 10. Ng5 Nbd7 11. g3 Qe7 12. Bh3 Nb6 13. b3 Nfd7 14. Ne2 O-O-O 15.
+Kb1 Kb8 16. Rhe1 c5 17. Qa5 Rc8 18. dxc5 dxc5 19. Bf4+ Ka7 20. Nc3 Bc6 21. Bd6
+Qe8 22. e5 c4 23. f4 Bf8 24. Nge4 Bxe4 25. Nxb5+ Kb7 26. Rxe4 axb5 27. Bg2 Bxd6
+28. Rxc4+ Kb8 29. Rxd6 Nxc4 30. Qa8+ Kc7 31. Rc6+ Kd8 32. Rxc8+ Ke7 33. Rxe8+
+Rxe8 34. Qa7 1-0
+
+
+[Event "SportAccord Blitz 2014"]
+[Site "Beijing CHN"]
+[Date "2014.12.13"]
+[Round "22.8"]
+[White "Dominguez Perez, L."]
+[Black "Bacrot, E."]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2726"]
+[BlackElo "2718"]
+[PlyCount "69"]
+[EventDate "2014.12.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "30"]
+[EventCountry "CHN"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2014.12.15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. c3 Bd7 6. O-O g6 7. Nbd2 Bg7 8. Re1
+O-O 9. Ba4 Nh5 10. Nf1 Kh8 11. Bb3 Na5 12. Bc2 f5 13. exf5 Bxf5 14. Ne3 Bd7 15.
+d4 Nc6 16. h3 Nf4 17. dxe5 Nxe5 18. Nxe5 Bxe5 19. Ng4 Bg7 20. Bxf4 Rxf4 21. Qd5
+Bc6 22. Qe6 Qf8 23. Qe7 h5 24. Qg5 hxg4 25. Qxg6 Kg8 26. Qh7+ Kf7 27. Qh5+ Kg8
+28. Bh7+ Kh8 29. Bf5+ Bh6 30. Re6 Qxf5 31. Qxh6+ Kg8 32. Rg6+ Kf7 33. Qh7+ Ke8
+34. Rg8+ Qf8 35. Re1+ 1-0
+
+
+[Event "SportAccord Blitz 2014"]
+[Site "Beijing CHN"]
+[Date "2014.12.13"]
+[Round "8.5"]
+[White "Dominguez Perez, L."]
+[Black "Wang Hao"]
+[Result "1-0"]
+[ECO "B11"]
+[WhiteElo "2726"]
+[BlackElo "2710"]
+[PlyCount "91"]
+[EventDate "2014.12.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "30"]
+[EventCountry "CHN"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2014.12.15"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. d4 dxe4 7. Qxe4 Nf6 8.
+Qd3 Nbd7 9. g3 g6 10. Bg2 Bg7 11. O-O O-O 12. Rd1 Qe7 13. Ne2 Rfd8 14. c3 a5
+15. Qc2 a4 16. a3 e5 17. Bg5 h6 18. Bd2 exd4 19. Nxd4 Nc5 20. Re1 Qf8 21. Rad1
+Re8 22. Rxe8 Rxe8 23. Bc1 Qe7 24. Nf3 Nd5 25. Nd4 Qe5 26. Bd2 Qh5 27. Nf3 g5
+28. Nd4 Bxd4 29. cxd4 Nb3 30. Bc3 Re2 31. Qd3 Nxc3 32. bxc3 Ra2 33. Re1 Qg6 34.
+Re8+ Kg7 35. Qe3 Qf6 36. Rb8 b5 37. Bf3 Nd2 38. Be2 Nc4 39. Bxc4 bxc4 40. Rc8
+Qf5 41. Ra8 Qb1+ 42. Kg2 Qf5 43. Rxa4 Qd3 44. Qe5+ Kh7 45. Ra8 Qc2 46. Rh8+ 1-0
+
+
+[Event "SportAccord Blitz 2014"]
+[Site "Beijing CHN"]
+[Date "2014.12.13"]
+[Round "5.5"]
+[White "Dominguez Perez, L."]
+[Black "Harikrishna, P."]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2726"]
+[BlackElo "2727"]
+[PlyCount "71"]
+[EventDate "2014.12.13"]
+[EventType "tourn (blitz)"]
+[EventRounds "30"]
+[EventCountry "CHN"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2014.12.15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 d6 7. c3 O-O 8. Nbd2
+Nd7 9. Bc2 Bf6 10. Re1 Nc5 11. Nf1 Bg4 12. Ne3 Bxf3 13. Qxf3 Bg5 14. g3 g6 15.
+h4 Bh6 16. h5 Ne6 17. Kg2 Kg7 18. Rh1 Bg5 19. Qg4 Qd7 20. Qh3 Rh8 21. Kg1 Rad8
+22. Qg4 Bxe3 23. Bxe3 Nc5 24. Qh4 Qe7 25. h6+ Kf8 26. Bg5 Qd7 27. Bxd8 Nxd8 28.
+Qf6 Rg8 29. d4 exd4 30. cxd4 Nce6 31. Bb3 Qe7 32. Qxe7+ Kxe7 33. Rd1 Ng5 34.
+Kg2 Nc6 35. f4 Nxe4 36. Rhe1 1-0
+
+
+[Event "SportAccord Rapid 2014"]
+[Site "Beijing CHN"]
+[Date "2014.12.12"]
+[Round "6.7"]
+[White "Dominguez Perez, L."]
+[Black "Bacrot, E."]
+[Result "1-0"]
+[ECO "B90"]
+[WhiteElo "2726"]
+[BlackElo "2718"]
+[PlyCount "107"]
+[EventDate "2014.12.11"]
+[EventType "swiss (rapid)"]
+[EventRounds "7"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2014.12.15"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+h5 9. Nd5 Bxd5 10. exd5 Nbd7 11. Qd2 g6 12. O-O-O Bg7 13. Kb1 Qc7 14. Be2 O-O
+15. g4 Rfc8 16. Rc1 hxg4 17. fxg4 a5 18. g5 Ne4 19. Qd3 Nec5 20. Nxc5 Nxc5 21.
+Qd1 Qe7 22. h4 a4 23. a3 e4 24. h5 Qe5 25. c3 Nb3 26. Rc2 Qg3 27. Qg1 Qxg1+ 28.
+Rxg1 Ra5 29. Rd1 Be5 30. Bg4 Rf8 31. Rf2 Nc5 32. Rdf1 gxh5 33. Bxh5 Nd3 34.
+Rxf7 Rxf7 35. Bxf7+ Kg7 36. Be8 Ra8 37. Bb5 Ra5 38. Bc4 Nc5 39. Kc2 Nd7 40. Be2
+Nf8 41. Bb6 Ra8 42. Bg4 Ng6 43. Re1 Nf4 44. Rxe4 Kg6 45. Be3 Nxd5 46. Bd2 b5
+47. Bf3 Rd8 48. Rh4 Nb6 49. Be4+ Kf7 50. Bd3 Nd7 51. Bxb5 Nc5 52. Bxa4 Rb8 53.
+Bc6 Ke6 54. b4 1-0
+
+
+[Event "SportAccord Basque 2014"]
+[Site "Beijing CHN"]
+[Date "2014.12.16"]
+[Round "1.11"]
+[White "Dominguez Perez, L."]
+[Black "Wojtaszek, R."]
+[Result "1-0"]
+[ECO "A36"]
+[WhiteElo "2726"]
+[BlackElo "2744"]
+[PlyCount "101"]
+[EventDate "2014.12.16"]
+[EventType "swiss (rapid)"]
+[EventRounds "5"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2014.12.22"]
+
+1. e4 c5 2. c4 Nc6 3. Nc3 g6 4. g3 Bg7 5. Bg2 d6 6. Nge2 e6 7. O-O Nge7 8. d3
+O-O 9. Rb1 b6 10. Be3 Nd4 11. Qd2 Bb7 12. Bh6 Bxh6 13. Qxh6 Nec6 14. Qd2 Rb8
+15. Nxd4 Nxd4 16. f4 f6 17. Ne2 Nxe2+ 18. Qxe2 Qe7 19. h4 e5 20. f5 Qg7 21. Qe3
+g5 22. hxg5 Qxg5 23. Qxg5+ fxg5 24. Bf3 Bc6 25. b4 Kg7 26. Kf2 Be8 27. Rh1 Rf6
+28. Ke3 Rh6 29. b5 Rxh1 30. Rxh1 Rb7 31. Bh5 Bxh5 32. Rxh5 h6 33. Rh2 a5 34.
+bxa6 Ra7 35. Kf3 Rxa6 36. Kg4 Ra3 37. Rd2 Rc3 38. Kh5 Rc1 39. Rb2 Rh1+ 40. Kg4
+h5+ 41. Kxg5 Rh3 42. g4 hxg4 43. Rxb6 g3 44. f6+ Kf7 45. Rb7+ Ke8 46. f7+ Kf8
+47. Kg6 g2 48. Rb8+ Ke7 49. f8=Q+ Kd7 50. Qf7+ Kc6 51. Qb7# 1-0
+
+
+[Event "SportAccord Basque 2014"]
+[Site "Beijing CHN"]
+[Date "2014.12.16"]
+[Round "2.6"]
+[White "Dominguez Perez, L."]
+[Black "Ponomariov, R."]
+[Result "1-0"]
+[ECO "C65"]
+[WhiteElo "2726"]
+[BlackElo "2714"]
+[PlyCount "93"]
+[EventDate "2014.12.16"]
+[EventType "swiss (rapid)"]
+[EventRounds "5"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2014.12.22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. c3 O-O 6. O-O d6 7. Bg5 h6 8. Bh4
+g5 9. Bg3 Nh5 10. Nbd2 Qf6 11. Kh1 Nf4 12. Nc4 Ne7 13. d4 exd4 14. cxd4 Bb6 15.
+e5 dxe5 16. dxe5 Qg7 17. Bxf4 gxf4 18. Qc1 c6 19. Nxb6 axb6 20. Bc4 Ng6 21. Re1
+Re8 22. Bd3 Be6 23. Bxg6 fxg6 24. Qxf4 Rxa2 25. Rxa2 Bxa2 26. Nd4 Bd5 27. f3 g5
+28. Qe3 Qg6 29. h3 Kg7 30. Ne2 c5 31. Ng3 h5 32. Rd1 h4 33. Nh5+ Kh6 34. Rxd5
+Kxh5 35. f4 Qf5 36. fxg5 Re6 37. Rd6 c4 38. Qe2+ Kxg5 39. Qxc4 Rxd6 40. exd6
+Qf2 41. Qc1+ Kg6 42. Qd1 Qf6 43. d7 Qd8 44. Qd6+ Kf5 45. Qd5+ Kf6 46. Qxb7 Kf5
+47. Qc8 1-0
+
+
+[Event "World Blitz 2015"]
+[Site "Berlin GER"]
+[Date "2015.10.13"]
+[Round "5.15"]
+[White "Schneider, Il"]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "D27"]
+[WhiteElo "2481"]
+[BlackElo "2732"]
+[PlyCount "107"]
+[EventDate "2015.10.13"]
+[EventType "swiss (blitz)"]
+[EventRounds "21"]
+[EventCountry "GER"]
+[Source "Mark Crowther"]
+[SourceDate "2015.10.19"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 a6 6. O-O c5 7. Bb3 Be7 8. Nc3
+O-O 9. d5 exd5 10. Nxd5 Nxd5 11. Qxd5 Qxd5 12. Bxd5 Nd7 13. a4 Nf6 14. Bc4 Ne4
+15. b3 Be6 16. Bxe6 fxe6 17. Bb2 Rad8 18. Rfd1 Bf6 19. Bxf6 gxf6 20. Kf1 Kf7
+21. Rac1 b5 22. axb5 axb5 23. Ke1 Rxd1+ 24. Rxd1 Ra8 25. Rd7+ Ke8 26. Rxh7 Ra1+
+27. Ke2 Ra2+ 28. Ke1 c4 29. bxc4 bxc4 30. Rc7 c3 31. Nd4 e5 32. f3 exd4 33.
+fxe4 Rxg2 34. exd4 c2 35. h4 Rh2 36. h5 Kd8 37. Rc5 Kd7 38. h6 Rh4 39. Rxc2
+Rxe4+ 40. Re2 Rh4 41. Rf2 Rxh6 42. Ke2 Ke6 43. Kd3 f5 44. Kc4 Rh1 45. Re2+ Kf6
+46. d5 Rd1 47. Kc5 f4 48. d6 Kf5 49. Kc6 f3 50. Rf2 Kf4 51. d7 Kg3 52. Rxf3+
+Kxf3 53. Kc7 Rxd7+ 54. Kxd7 1/2-1/2
+
+
+[Event "World Blitz 2015"]
+[Site "Berlin GER"]
+[Date "2015.10.13"]
+[Round "3.8"]
+[White "Zhang Zhong"]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2619"]
+[BlackElo "2732"]
+[PlyCount "105"]
+[EventDate "2015.10.13"]
+[EventType "swiss (blitz)"]
+[EventRounds "21"]
+[EventCountry "GER"]
+[Source "Mark Crowther"]
+[SourceDate "2015.10.19"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 h6 5. Bh4 Bg7 6. f4 c5 7. e5 Nh5 8. dxc5
+dxe5 9. Qxd8+ Kxd8 10. O-O-O+ Bd7 11. fxe5 Bxe5 12. Nd5 g5 13. Bf2 e6 14. Nf3
+Bg7 15. Nb4 Ke7 16. Bc4 Nc6 17. a3 Rhd8 18. Rhe1 Kf8 19. Rd6 Be8 20. Red1 Rdc8
+21. g3 Nf6 22. Re1 Ng4 23. Bg1 Nge5 24. Be2 Ne7 25. Nxe5 Bxe5 26. Rdd1 a5 27.
+Nd3 Bg7 28. Bf3 Bc6 29. Bh5 Nd5 30. Ne5 Bxe5 31. Rxe5 Nf6 32. Be2 Rd8 33. Rf1
+Ke7 34. Bd3 Rd5 35. Re2 Nd7 36. Ref2 f5 37. b4 axb4 38. axb4 Ra1+ 39. Kb2 Rxf1
+40. Rxf1 Ne5 41. Be2 Rd2 42. Re1 Bf3 43. Bb5 Bc6 44. Bxc6 Nxc6 45. Kc3 Rd5 46.
+b5 Ne5 47. Ra1 Nf3 48. Be3 Kd7 49. Ra7 Kc8 50. Ra8+ Kd7 51. Ra7 Kc8 52. Ra8+
+Kd7 53. Ra7 1/2-1/2
+
+
+[Event "World Rapid 2015"]
+[Site "Berlin GER"]
+[Date "2015.10.12"]
+[Round "15.2"]
+[White "Nepomniachtchi, I."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "C45"]
+[WhiteElo "2705"]
+[BlackElo "2732"]
+[PlyCount "97"]
+[EventDate "2015.10.10"]
+[EventType "swiss (rapid)"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "Mark Crowther"]
+[SourceDate "2015.10.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 bxc6 6. Nc3 Nf6 7. Bd3 O-O
+8. O-O Re8 9. Bg5 h6 10. Bh4 Be7 11. e5 Nd5 12. Bxe7 Qxe7 13. Qd2 Qb4 14. Rae1
+Qf4 15. Qd1 Nxc3 16. bxc3 d5 17. exd6 Bg4 18. Rxe8+ Rxe8 19. Re1 Rf8 20. f3 Be6
+21. dxc7 Qxc7 22. Qe2 Qb6+ 23. Qe3 Rb8 24. Qxb6 axb6 25. a4 Kf8 26. Rb1 Ke7 27.
+a5 Kd6 28. Rxb6 Rxb6 29. axb6 Bc8 30. Bc4 f6 31. Kf2 Kc5 32. Be6 Ba6 33. Ke3
+Kxb6 34. Kd4 Bf1 35. g3 Bg2 36. Bg4 Bf1 37. Ke4 Bc4 38. Bh5 Be6 39. Be8 c5 40.
+Ba4 Kc7 41. Bb3 Kd6 42. Bxe6 Kxe6 43. g4 g6 44. h3 f5+ 45. Ke3 Ke5 46. c4 Ke6
+47. Kf4 Kf6 48. h4 Ke6 49. Ke3 1/2-1/2
+
+
+[Event "World Rapid 2015"]
+[Site "Berlin GER"]
+[Date "2015.10.12"]
+[Round "12.3"]
+[White "Bocharov, D."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2560"]
+[BlackElo "2732"]
+[PlyCount "51"]
+[EventDate "2015.10.10"]
+[EventType "swiss (rapid)"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "Mark Crowther"]
+[SourceDate "2015.10.12"]
+
+1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. b4 O-O 5. Be2 b6 6. O-O c5 7. c3 d6 8. Bb2 Bb7
+9. Nbd2 Nbd7 10. Qb3 Qc7 11. c4 Rfe8 12. bxc5 bxc5 13. d5 e6 14. dxe6 Rxe6 15.
+Rab1 Bc6 16. Bc3 Rae8 17. Ng5 R6e7 18. Bf3 h6 19. Bxc6 Qxc6 20. Ngf3 Rb8 21.
+Qc2 Ree8 22. h3 Rb6 23. Rb3 Ne4 24. Bxg7 Kxg7 25. Rd1 Nef6 26. Qd3 1/2-1/2
+
+
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.19"]
+[Round "3.5"]
+[White "Adams, Michael"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteElo "2742"]
+[BlackElo "2732"]
+[ECO "C67"]
+[EventDate "2015.09.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 
+Nf5 8. Nf3 O-O 9. d4 d5 10. c3 Bd6 11. Bd3 h6 12. Nbd2 Qf6 13. Nf1 Be6 14.
+ Bd2 Nfe7 15. Ng3 Bg4 16. Be2 Nf5 17. Qb3 Nxg3 18. hxg3 Ne7 19. Ne5 Be6 
+20. Bd3 b6 21. Re3 Nf5 22. Rf3 h5 23. Qc2 g6 24. g4 hxg4 25. Nxg4 Qh4 26. 
+Ne5 Ne7 27. Rg3 Nf5 28. Rh3 Nxd4 29. Rxh4 Nxc2 30. Nxg6 fxg6 31. Bxc2 Bf5 
+32. Bb3 c6 33. c4 Be7 34. Rh2 Rad8 35. cxd5 cxd5 36. Bc3 Bf6 37. Bxf6 Rxf6
+38. Rd1 Kg7 39. Rh4 Rfd6 40. Rhd4 Be6 41. f3 Kf6 42. Kf2 g5 43. Rh1 Bf7 
+44. f4 Bg6 45. fxg5+ Kxg5 46. Bd1 Be4 47. Bf3 Bxf3 48. Kxf3 Kf6 49. Kf4 
+Rf8 50. g4 Kg6+ 51. Kg3 Re6 52. Rh5 Re3+ 53. Kg2 Re2+ 54. Kg3 Re3+ 55. Kg2
+Re2+ 56. Kg3 1/2-1/2
+
+
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.17"]
+[Round "3.1"]
+[White "Adams, Michael"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteElo "2742"]
+[BlackElo "2732"]
+[ECO "C67"]
+[EventDate "2015.09.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 
+Nf5 8. Nf3 O-O 9. d4 d5 10. c3 Bd6 11. Bd3 Nce7 12. Nbd2 c6 13. Nf1 Ng6 
+14. Bg5 Nfe7 15. Ng3 f6 16. Bd2 Bg4 17. h3 Bd7 18. Qc2 Qc7 19. Nf1 Qc8 20.
+ Ng3 Qc7 21. Nf1 Qc8 22. Ng3 1/2-1/2
+
+
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.19"]
+[Round "3.4"]
+[White "Adams, Michael"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteElo "2742"]
+[BlackElo "2732"]
+[ECO "C67"]
+[EventDate "2015.09.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 
+Nf5 8. Nf3 O-O 9. d4 d5 10. c3 Bd6 11. Bd3 f6 12. Qc2 Qd7 13. Nbd2 g6 14. 
+b4 a6 15. Qb3 Qf7 16. Nc4 g5 17. a4 Bd7 18. Nxd6 Nxd6 19. Ra2 Rfe8 20. 
+Rae2 Rxe2 21. Bxe2 Re8 22. h3 h6 23. Bf1 Rxe1 24. Nxe1 Ne7 25. Nd3 b6 26. 
+Nb2 b5 27. a5 Bf5 28. Nd3 Bxd3 29. Bxd3 Qe6 30. Qd1 Kg7 31. h4 Ng6 32. 
+hxg5 hxg5 33. Bc2 c6 34. Be3 g4 35. Qe1 Kf7 36. Qc1 f5 37. Bd3 Ne4 38. g3 
+Qe8 39. Bf4 Qh8 40. Qe3 Qh5 41. Bc2 Nf8 42. Bd1 Ne6 43. f3 gxf3 44. Bxf3 
+Qh3 45. Bg2 Qg4 46. Bf3 Qh3 47. Bg2 Qh5 48. Bf3 Qg6 49. Kh2 Qh7+ 50. Kg2 
+Qg6 51. Kh2 Qh7+ 52. Kg2 Qg6 53. Kh2 1/2-1/2
+
+
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.15"]
+[Round "2.2"]
+[White "Melkumyan, Hrant"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteElo "2622"]
+[BlackElo "2732"]
+[ECO "E06"]
+[EventDate "2015.09.11"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 Be7 5. c4 O-O 6. Qc2 c5 7. O-O cxd4 8.
+ Nxd4 Qb6 9. Rd1 Nc6 10. Nxc6 Qxc6 11. a4 Bd7 12. Nd2 Qc7 13. b3 Rac8 14. 
+Bb2 Bc6 15. e4 dxe4 16. Nxe4 Bxe4 17. Bxe4 a5 18. Bxf6 Bxf6 19. Bxh7+ Kh8 
+20. Rac1 g6 21. Bxg6 fxg6 22. Qxg6 Qf7 23. Qh6+ Kg8 24. Qe3 Be7 25. Rd7 
+Qf6 26. c5 b6 27. Rc4 Bxc5 28. Rg4+ Kh8 29. Rh4+ Kg8 30. Rg4+ Kh8 31. Rh4+
+Kg8 32. Rg4+ 1/2-1/2
+
+
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.13"]
+[Round "1.3"]
+[White "Perez Ponsa, Federico"]
+[Black "Dominguez Perez, Leinier"]
+[Result "1/2-1/2"]
+[WhiteElo "2563"]
+[BlackElo "2732"]
+[ECO "C65"]
+[EventDate "2015.09.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O Be7 6. c3 O-O 7. Re1 a6 8. 
+Ba4 Re8 9. Nbd2 Bf8 10. d4 b5 11. Bc2 Bb7 12. d5 Nb8 13. Nf1 c6 14. dxc6 
+Bxc6 15. Bg5 Nbd7 16. Ne3 h6 17. Bh4 Qc7 18. Nd2 d5 19. Bxf6 Nxf6 20. exd5
+Nxd5 21. Nxd5 Bxd5 22. Be4 Rad8 23. Qf3 Be6 24. Nf1 g6 25. Bc6 Re7 26. Ne3
+f5 27. Nd5 Bxd5 28. Bxd5+ Kh7 29. Rad1 e4 30. Qe2 Red7 31. Be6 Rd6 32. Bb3
+h5 33. Rxd6 Bxd6 34. g3 Bc5 35. Rd1 Rxd1+ 36. Qxd1 f4 37. Kf1 fxg3 38. 
+fxg3 Qe7 39. Qe2 e3 40. Bc2 Kg7 41. Qf3 Qd6 42. Be4 a5 43. Qe2 Qe6 44. Bf3
+b4 45. cxb4 axb4 46. b3 Qh3+ 47. Qg2 Qf5 48. Qe2 g5 49. Kg2 g4 50. Bc6 Bd4
+51. Bb5 Qe4+ 52. Kg1 Qb1+ 53. Kg2 Qe4+ 54. Kg1 Qf3 55. Bd3 Kh6 56. Bc4 Kg5
+57. Bd3 Bc5 58. Bc4 Bb6 59. Bd3 Ba7 60. Ba6 Bc5 61. Bc4 Bd4 62. Ba6 h4 63.
+ gxh4+ Kxh4 64. Qe1+ Kg5 65. Be2 Qf4 66. Qf1 Qe4 67. Qf7 Qb1+ 68. Kg2 Qe4+
+69. Kg1 Qf5 70. Qxf5+ Kxf5 71. Kg2 Kf4 72. Bd1 Bf6 73. Be2 Bh4 74. Bd1 Bf6
+75. Be2 Bd4 76. Bd1 1/2-1/2

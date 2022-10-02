@@ -1,0 +1,1251 @@
+White	White ELO	Black	Black ELO	Result	Date
+So, Wesley	2814	Guseinov, Gadir	2581	1-0	2022.02.19
+So, Wesley	2814	Martirosyan, Haik M.	2735	1-0	2022.02.19
+So, Wesley	2814	Sjugirov, Sanan	2602	1-0	2022.02.26
+So, Wesley	2814	Martirosyan, Haik M.	2735	1-0	2022.02.26
+So, Wesley	2814	Le, Quang Liem	2686	1-0	2022.02.26
+So, Wesley	2814	Fedoseev, Vladimir	2726	1-0	2022.03.12
+So, Wesley	2814	Sarana, Alexey	2666	1-0	2022.03.12
+So, Wesley	2814	Tabatabaei, M. Amin	2585	1-0	2022.03.05
+So, Wesley	2814	Kosteniuk, Alexandra	2469	1-0	2022.03.05
+So, Wesley	2769	Dubov, Daniil	2712	1-0	2022.03.13
+So, Wesley	2814	Sadhwani, Raunak	2616	1-0	2022.03.12
+So, Wesley	2814	Donchenko, Alexander	2539	1-0	2022.03.19
+So, Wesley	2814	Grischuk, Alexander	2762	1-0	2022.04.09
+So, Wesley	2814	Ponkratov, Pavel	2487	1-0	2022.04.09
+So, Wesley	2814	Oparin, Grigoriy	2685	1-0	2022.02.12
+So, Wesley	2814	Keymer, Vincent	2557	1-0	2022.02.12
+So, Wesley	2814	Van Foreest, Jorden	2609	1-0	2022.02.12
+So, Wesley	2763	Tari, Aryan	2612	1-0	2022.07.16
+So, Wesley	2763	Jumabayev, Rinat	2561	1-0	2022.07.16
+So, Wesley	2779	Esipenko, Andrey	2679	1-0	2022.07.17
+So, Wesley	2773	Miguel, Sergio	2274	1-0	2022.07.29
+So, Wesley	2773	Sindarov, Javokhir	2629	1-0	2022.08.01
+So, Wesley	2773	Melkumyan, Hrant	2634	1-0	2022.08.05
+So, Wesley	2763	Eljanov, Pavel	2601	1-0	2022.08.13
+So, Wesley	2763	Oparin, Grigoriy	2639	1-0	2022.08.13
+So, Wesley	2770	Carlsen, Magnus	2862	1-0	Sat Feb 06 2021
+So, Wesley	2770	Dubov, Daniil	2710	1-0	Sat Feb 06 2021
+So, Wesley	2770	Shankland, Sam	2691	1-0	Sun Feb 07 2021
+So, Wesley	2770	Duda, Jan-Krzysztof	2743	1-0	Sun Feb 07 2021
+So, Wesley	2770	Duda, Jan-Krzysztof	2743	1-0	Tue Feb 09 2021
+So, Wesley	2770	Duda, Jan-Krzysztof	2743	1-0	Wed Feb 10 2021
+So, Wesley	2770	Radjabov, Teimour	2765	1-0	Thu Feb 11 2021
+So, Wesley	2770	Radjabov, Teimour	2765	1-0	Thu Feb 11 2021
+So, Wesley	2770	Carlsen, Magnus	2862	1-0	Sat Feb 13 2021
+So, Wesley	2770	Carlsen, Magnus	2862	1-0	Sun Feb 14 2021
+So, Wesley	2770	Aronian, Levon	2781	1-0	Sun Mar 14 2021
+So, Wesley	2770	Grandelius, Nils	2670	1-0	Mon Mar 15 2021
+So, Wesley	2770	Firouzja, Alireza	2759	1-0	Tue Mar 16 2021
+So, Wesley	2770	Firouzja, Alireza	2759	1-0	Wed Mar 17 2021
+So, Wesley	2770	Mamedyarov, Shakhriyar	2770	1-0	Sat Apr 24 2021
+So, Wesley	2770	Aronian, Levon	2781	1-0	Tue Apr 27 2021
+So, Wesley	2770	Christiansen, Johan-Sebastian	2618	1-0	Mon Apr 26 2021
+So, Wesley	2770	Vidit, Santosh Gujrathi	2726	1-0	Sun Apr 25 2021
+So, Wesley	2770	Tari, Aryan	2639	1-0	Mon Apr 26 2021
+So, Wesley	2770	Grischuk, Alexander	2776	1-0	Sun May 23 2021
+So, Wesley	2741	Vachier-Lagrave, Maxime	2860	1-0	Wed May 26 2021
+So, Wesley	2741	Carlsen, Magnus	2881	1-0	Sun May 30 2021
+So, Wesley	2741	Carlsen, Magnus	2881	1-0	Mon May 31 2021
+Bharath, Subramaniyam H	2346	So, Wesley	2763	1/2-1/2	2022.09.27
+Wojtaszek, Radoslaw	2606	So, Wesley	2763	1/2-1/2	2022.09.27
+So, Wesley	2770	Caruana, Fabiano	2820	1-0	2021.06.08
+So, Wesley	2741	Rapport, Richard	2727	1-0	2021.06.18
+So, Wesley	2741	Vachier-Lagrave, Maxime	2860	1-0	2021.06.20
+So, Wesley	2816	Aronian, Levon	2739	1-0	2021.06.22
+So, Wesley	2816	Vachier-Lagrave, Maxime	2822	1-0	2021.06.22
+So, Wesley	2816	Firouzja, Alireza	2770	1-0	2021.06.22
+So, Wesley	2816	Radjabov, Teimour	2757	1-0	2021.06.21
+So, Wesley	2741	Duda, Jan-Krzysztof	2774	1-0	2021.06.26
+So, Wesley	2741	Artemiev, Vladislav	2757	1-0	2021.06.27
+So, Wesley	2741	Carlsen, Magnus	2881	1-0	2021.06.29
+So, Wesley	2741	Carlsen, Magnus	2881	1-0	2021.06.30
+So, Wesley	2774	Aronian, Levon	2761	1-0	2021.07.31
+So, Wesley	2774	Artemiev, Vladislav	2757	1-0	2021.08.01
+So, Wesley	2774	Anton Guijarro, David	2674	1-0	2021.08.01
+So, Wesley	2774	Iturrizaga Bonelli, Eduardo	2647	1-0	2021.07.31
+So, Wesley	2774	Van Foreest, Jorden	2543	1-0	2021.08.03
+So, Wesley	2774	Koneru, Humpy	2483	1-0	2021.08.02
+So, Wesley	2774	Van Foreest, Jorden	2563	1-0	2021.08.04
+So, Wesley	2774	Artemiev, Vladislav	2757	1-0	2021.08.05
+So, Wesley	2774	Artemiev, Vladislav	2757	1-0	2021.08.06
+So, Wesley	2774	Le, Quang Liem	2744	1-0	2021.08.07
+So, Wesley	2774	Le, Quang Liem	2744	1-0	2021.08.07
+So, Wesley	2774	Shankland, Sam	2609	1-0	2021.08.11
+So, Wesley	2861	Mamedyarov, Shakhriyar	2755	1-0	2021.08.14
+So, Wesley	2861	Xiong, Jeffery	2724	1-0	2021.08.14
+So, Wesley	2861	Svidler, Peter	2743	1-0	2021.08.15
+So, Wesley	2861	Dominguez Perez, Leinier	2654	1-0	2021.08.15
+So, Wesley	2861	Shankland, Sam	2704	1-0	2021.08.15
+So, Wesley	2772	Svidler, Peter	2714	1-0	2021.08.19
+So, Wesley	2774	Vidit, Santosh Gujrathi	2636	1-0	2021.08.28
+So, Wesley	2774	Liang, Awonder	2397	1-0	2021.08.30
+So, Wesley	2774	Van Foreest, Jorden	2563	1-0	2021.08.30
+So, Wesley	2774	Hansen, Eric	2579	1-0	2021.08.29
+So, Wesley	2774	Dominguez Perez, Leinier	2786	1-0	2021.08.29
+So, Wesley	2774	Firouzja, Alireza	2696	1-0	2021.09.01
+So, Wesley	2778	Swiercz, Dariusz	2647	1-0	2021.10.07
+So, Wesley	2766	Sevian, Samuel	2597	1-0	2021.10.19
+So, Wesley	2814	Xiong, Jeffery	2699	1-0	2021.11.15
+So, Wesley	2814	Xiong, Jeffery	2699	1-0	2021.11.15
+So, Wesley	2814	Xiong, Jeffery	2699	1-0	2021.11.15
+So, Wesley	2814	Xiong, Jeffery	2699	1-0	2021.11.15
+So, Wesley	2814	Xiong, Jeffery	2699	1-0	2021.11.15
+So, Wesley	2814	Xiong, Jeffery	2699	1-0	2021.11.15
+So, Wesley	2814	Xiong, Jeffery	2699	1-0	2021.11.15
+So, Wesley	2814	Xiong, Jeffery	2699	1-0	2021.11.15
+So, Wesley	2814	Xiong, Jeffery	2699	1-0	2021.11.15
+So, Wesley	2814	Bilan, Danila	2164	1-0	2021.11.30
+So, Wesley	2814	Caruana, Fabiano	2803	1-0	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	1-0	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	1-0	2021.12.09
+So, Wesley	2770	Aronian, Levon	2781	1/2-1/2	Sat Feb 06 2021
+So, Wesley	2770	Nakamura, Hikaru	2736	1/2-1/2	Mon Feb 08 2021
+So, Wesley	2770	Duda, Jan-Krzysztof	2743	1/2-1/2	Tue Feb 09 2021
+So, Wesley	2770	Carlsen, Magnus	2862	0-1	Sat Feb 13 2021
+So, Wesley	2770	Nepomniachtchi, Ian	2789	0-1	Sat Mar 13 2021
+So, Wesley	2770	Giri, Anish	2776	0-1	Sat Mar 13 2021
+So, Wesley	2770	Giri, Anish	2776	0-1	Thu Mar 18 2021
+So, Wesley	2770	Duda, Jan-Krzysztof	2729	0-1	Sat Apr 24 2021
+So, Wesley	2770	Aronian, Levon	2781	0-1	Tue Apr 27 2021
+So, Wesley	2741	Carlsen, Magnus	2881	0-1	Sun May 30 2021
+So, Wesley	2816	Carlsen, Magnus	2886	0-1	Mon May 31 2021
+So, Wesley	2741	Carlsen, Magnus	2881	0-1	2021.06.30
+So, Wesley	2774	Caruana, Fabiano	2758	0-1	2021.08.12
+So, Wesley	2861	Caruana, Fabiano	2734	0-1	2021.08.15
+So, Wesley	2774	Artemiev, Vladislav	2757	0-1	2021.08.30
+So, Wesley	2774	Firouzja, Alireza	2696	0-1	2021.08.31
+So, Wesley	2814	Xiong, Jeffery	2699	0-1	2021.11.15
+So, Wesley	2814	Xiong, Jeffery	2699	0-1	2021.11.15
+So, Wesley	2814	Xiong, Jeffery	2699	0-1	2021.11.15
+So, Wesley	2814	Caruana, Fabiano	2803	0-1	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	1-0	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	0-1	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	1-0	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	1-0	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	0-1	2021.12.09
+So, Wesley	2770	Carlsen, Magnus	2862	1/2-1/2	Sun Feb 14 2021
+So, Wesley	2770	Radjabov, Teimour	2765	1/2-1/2	Sat Mar 13 2021
+So, Wesley	2770	Vachier-Lagrave, Maxime	2758	1/2-1/2	Sun Mar 14 2021
+So, Wesley	2770	Carlsen, Magnus	2847	1/2-1/2	Mon Mar 15 2021
+So, Wesley	2770	Firouzja, Alireza	2759	1/2-1/2	Tue Mar 16 2021
+So, Wesley	2770	Giri, Anish	2776	1/2-1/2	Thu Mar 18 2021
+So, Wesley	2770	Giri, Anish	2776	1/2-1/2	Fri Mar 19 2021
+So, Wesley	2770	Giri, Anish	2776	1/2-1/2	Fri Mar 19 2021
+So, Wesley	2770	Giri, Anish	2776	1/2-1/2	Fri Mar 19 2021
+So, Wesley	2770	Carlsen, Magnus	2847	1/2-1/2	Sat Mar 20 2021
+So, Wesley	2770	Carlsen, Magnus	2847	1/2-1/2	Sat Mar 20 2021
+So, Wesley	2770	Carlsen, Magnus	2847	1/2-1/2	Sat Mar 20 2021
+So, Wesley	2770	Aronian, Levon	2781	1/2-1/2	Wed Apr 28 2021
+So, Wesley	2770	Le, Quang Liem	2709	1/2-1/2	Sun Apr 25 2021
+So, Wesley	2770	Firouzja, Alireza	2759	1/2-1/2	Sun May 23 2021
+So, Wesley	2741	Vachier-Lagrave, Maxime	2860	1/2-1/2	Tue May 25 2021
+So, Wesley	2741	Vachier-Lagrave, Maxime	2860	1/2-1/2	Thu May 27 2021
+So, Wesley	2741	Vachier-Lagrave, Maxime	2860	1/2-1/2	Wed May 26 2021
+So, Wesley	2741	Nepomniachtchi, Ian	2778	1/2-1/2	Fri May 28 2021
+So, Wesley	2741	Nepomniachtchi, Ian	2778	1/2-1/2	Fri May 28 2021
+So, Wesley	2741	Aronian, Levon	2778	1/2-1/2	2021.06.06
+So, Wesley	2770	Giri, Anish	2780	1/2-1/2	2021.06.11
+So, Wesley	2770	Vachier-Lagrave, Maxime	2760	1/2-1/2	2021.06.13
+So, Wesley	2741	Nepomniachtchi, Ian	2778	1/2-1/2	2021.06.19
+So, Wesley	2741	Aronian, Levon	2778	1/2-1/2	2021.06.19
+So, Wesley	2816	Caruana, Fabiano	2711	1/2-1/2	2021.06.22
+So, Wesley	2816	Svidler, Peter	2754	1/2-1/2	2021.06.21
+So, Wesley	2816	Kramnik, Vladimir	2797	1/2-1/2	2021.06.21
+So, Wesley	2816	Nepomniachtchi, Ian	2785	1/2-1/2	2021.06.21
+So, Wesley	2741	Svidler, Peter	2742	1/2-1/2	2021.06.26
+So, Wesley	2741	Ding, Liren	2836	1/2-1/2	2021.06.27
+So, Wesley	2741	Firouzja, Alireza	2703	1/2-1/2	2021.06.28
+So, Wesley	2741	Carlsen, Magnus	2881	1/2-1/2	2021.06.29
+So, Wesley	2816	Carlsen, Magnus	2886	1/2-1/2	2021.06.30
+So, Wesley	2774	Van Foreest, Jorden	2543	1/2-1/2	2021.08.03
+So, Wesley	2774	Artemiev, Vladislav	2757	1/2-1/2	2021.08.06
+So, Wesley	2774	Artemiev, Vladislav	2757	1/2-1/2	2021.08.05
+So, Wesley	2774	Le, Quang Liem	2744	1/2-1/2	2021.08.08
+So, Wesley	2774	Le, Quang Liem	2744	1/2-1/2	2021.08.08
+So, Wesley	2774	Le, Quang Liem	2744	1/2-1/2	2021.08.11
+So, Wesley	2774	Nakamura, Hikaru	2829	1/2-1/2	2021.08.13
+So, Wesley	2774	Rapport, Richard	2724	1/2-1/2	2021.08.12
+So, Wesley	2861	Rapport, Richard	2776	1/2-1/2	2021.08.14
+So, Wesley	2861	Le, Quang Liem	2690	1/2-1/2	2021.08.15
+So, Wesley	2772	Mamedyarov, Shakhriyar	2782	1/2-1/2	2021.08.17
+So, Wesley	2772	Rapport, Richard	2763	1/2-1/2	2021.08.21
+So, Wesley	2772	Dominguez Perez, Leinier	2758	1/2-1/2	2021.08.26
+So, Wesley	2772	Shankland, Sam	2709	1/2-1/2	2021.08.24
+So, Wesley	2774	Firouzja, Alireza	2696	1/2-1/2	2021.08.28
+So, Wesley	2774	Firouzja, Alireza	2696	1/2-1/2	2021.09.01
+Vachier-Lagrave, Maxime	2784	So, Wesley	2770	1-0	Sat Feb 06 2021
+Dominguez Perez, Leinier	2758	So, Wesley	2770	1-0	Sun Feb 07 2021
+Duda, Jan-Krzysztof	2743	So, Wesley	2770	1-0	Tue Feb 09 2021
+Radjabov, Teimour	2765	So, Wesley	2770	1-0	Thu Feb 11 2021
+Giri, Anish	2776	So, Wesley	2770	1-0	Thu Mar 18 2021
+Carlsen, Magnus	2847	So, Wesley	2770	1-0	Sat Mar 20 2021
+Carlsen, Magnus	2847	So, Wesley	2770	1-0	Sat Mar 20 2021
+Firouzja, Alireza	2759	So, Wesley	2770	1-0	Sat Apr 24 2021
+Jones, Gawain C B	2670	So, Wesley	2770	1-0	Sat Apr 24 2021
+Aronian, Levon	2781	So, Wesley	2770	1-0	Tue Apr 27 2021
+Aronian, Levon	2781	So, Wesley	2770	1-0	Tue Apr 27 2021
+So, Wesley	2861	Firouzja, Alireza	2810	1/2-1/2	2021.09.01
+So, Wesley	2778	Caruana, Fabiano	2800	1/2-1/2	2021.10.09
+So, Wesley	2778	Dominguez Perez, Leinier	2760	1/2-1/2	2021.10.12
+So, Wesley	2778	Naroditsky, Daniel	2623	1/2-1/2	2021.10.16
+So, Wesley	2778	Robson, Ray	2669	1/2-1/2	2021.10.18
+So, Wesley	2814	Xiong, Jeffery	2699	1/2-1/2	2021.11.15
+So, Wesley	2814	Xiong, Jeffery	2699	1/2-1/2	2021.11.15
+So, Wesley	2814	Xiong, Jeffery	2699	1/2-1/2	2021.11.15
+So, Wesley	2814	Xiong, Jeffery	2699	1/2-1/2	2021.11.15
+So, Wesley	2814	Caruana, Fabiano	2803	1/2-1/2	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	1/2-1/2	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	1/2-1/2	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	1/2-1/2	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	1/2-1/2	2021.12.09
+Aronian, Levon	2781	So, Wesley	2770	1-0	Wed Apr 28 2021
+Carlsen, Magnus	2886	So, Wesley	2816	1-0	Mon May 31 2021
+Carlsen, Magnus	2881	So, Wesley	2741	1-0	Mon May 31 2021
+Aronian, Levon	2739	So, Wesley	2816	1-0	2021.06.21
+Giri, Anish	2731	So, Wesley	2741	1-0	2021.06.26
+Carlsen, Magnus	2881	So, Wesley	2741	1-0	2021.06.29
+Carlsen, Magnus	2881	So, Wesley	2741	1-0	2021.06.29
+Carlsen, Magnus	2886	So, Wesley	2816	1-0	2021.06.30
+Van Foreest, Jorden	2543	So, Wesley	2774	1-0	2021.08.03
+Artemiev, Vladislav	2757	So, Wesley	2774	1-0	2021.08.06
+Le, Quang Liem	2744	So, Wesley	2774	1-0	2021.08.08
+Shankland, Sam	2704	So, Wesley	2861	1-0	2021.08.14
+Caruana, Fabiano	2734	So, Wesley	2861	1-0	2021.08.14
+Mamedyarov, Shakhriyar	2755	So, Wesley	2861	1-0	2021.08.15
+Carlsen, Magnus	2881	So, Wesley	2774	1-0	2021.08.28
+Naroditsky, Daniel	2639	So, Wesley	2774	1-0	2021.08.29
+Firouzja, Alireza	2696	So, Wesley	2774	1-0	2021.08.31
+Firouzja, Alireza	2696	So, Wesley	2774	1-0	2021.09.01
+Firouzja, Alireza	2810	So, Wesley	2861	1-0	2021.09.01
+Xiong, Jeffery	2699	So, Wesley	2814	1-0	2021.11.15
+Xiong, Jeffery	2699	So, Wesley	2814	1-0	2021.11.15
+Xiong, Jeffery	2699	So, Wesley	2814	1-0	2021.11.15
+Xiong, Jeffery	2699	So, Wesley	2814	1-0	2021.11.15
+Xiong, Jeffery	2699	So, Wesley	2814	1-0	2021.11.15
+Xiong, Jeffery	2699	So, Wesley	2814	1-0	2021.11.15
+Bluebaum, Matthias	2670	So, Wesley	2770	0-1	Sat Feb 06 2021
+Duda, Jan-Krzysztof	2743	So, Wesley	2770	0-1	Tue Feb 09 2021
+Duda, Jan-Krzysztof	2743	So, Wesley	2770	0-1	Wed Feb 10 2021
+Radjabov, Teimour	2765	So, Wesley	2770	0-1	Fri Feb 12 2021
+Pichot, Alan	2630	So, Wesley	2770	0-1	Sat Mar 13 2021
+Karjakin, Sergey	2757	So, Wesley	2770	0-1	Sat Mar 13 2021
+Dubov, Daniil	2710	So, Wesley	2770	0-1	Sun Mar 14 2021
+Van Foreest, Jorden	2701	So, Wesley	2770	0-1	Sun Mar 14 2021
+Firouzja, Alireza	2759	So, Wesley	2770	0-1	Tue Mar 16 2021
+Firouzja, Alireza	2759	So, Wesley	2770	0-1	Wed Mar 17 2021
+Giri, Anish	2776	So, Wesley	2770	0-1	Thu Mar 18 2021
+Praggnanandhaa, R	2608	So, Wesley	2770	0-1	Sat Apr 24 2021
+Karjakin, Sergey	2757	So, Wesley	2770	0-1	Sun Apr 25 2021
+Dubov, Daniil	2710	So, Wesley	2770	0-1	Sun May 23 2021
+Pichot, Alan	2533	So, Wesley	2741	0-1	Tue May 25 2021
+Vachier-Lagrave, Maxime	2860	So, Wesley	2741	0-1	Thu May 27 2021
+Vachier-Lagrave, Maxime	2860	So, Wesley	2741	0-1	Wed May 26 2021
+Nepomniachtchi, Ian	2778	So, Wesley	2741	0-1	Fri May 28 2021
+Nepomniachtchi, Ian	2778	So, Wesley	2741	0-1	Sat May 29 2021
+Carlsen, Magnus	2886	So, Wesley	2816	0-1	Mon May 31 2021
+Caruana, Fabiano	2773	So, Wesley	2741	0-1	2021.06.20
+Kramnik, Vladimir	2797	So, Wesley	2816	0-1	2021.06.22
+Firouzja, Alireza	2770	So, Wesley	2816	0-1	2021.06.21
+Xiong, Jeffery	2699	So, Wesley	2814	1-0	2021.11.15
+Caruana, Fabiano	2803	So, Wesley	2814	1-0	2021.12.09
+Vachier-Lagrave, Maxime	2822	So, Wesley	2816	0-1	2021.06.21
+Nepomniachtchi, Ian	2785	So, Wesley	2816	0-1	2021.06.22
+Salem, A.R. Saleh	2718	So, Wesley	2741	0-1	2021.06.26
+Adhiban, B.	2624	So, Wesley	2741	0-1	2021.06.27
+Carlsen, Magnus	2881	So, Wesley	2741	0-1	2021.06.30
+Mishra, Abhimanyu	2504	So, Wesley	2774	0-1	2021.07.31
+Adhiban, B.	2624	So, Wesley	2774	0-1	2021.08.02
+Van Foreest, Jorden	2563	So, Wesley	2774	0-1	2021.08.04
+Le, Quang Liem	2744	So, Wesley	2774	0-1	2021.08.08
+Swiercz, Dariusz	2655	So, Wesley	2772	0-1	2021.08.18
+Duda, Jan-Krzysztof	2775	So, Wesley	2774	0-1	2021.08.28
+Firouzja, Alireza	2696	So, Wesley	2774	0-1	2021.09.01
+Burke, John M	2554	So, Wesley	2778	0-1	2021.10.13
+Caruana, Fabiano	2775	So, Wesley	2766	0-1	2021.10.19
+Xiong, Jeffery	2699	So, Wesley	2814	0-1	2021.11.15
+Xiong, Jeffery	2699	So, Wesley	2814	0-1	2021.11.15
+Xiong, Jeffery	2699	So, Wesley	2814	0-1	2021.11.15
+Xiong, Jeffery	2699	So, Wesley	2814	0-1	2021.11.15
+Xiong, Jeffery	2699	So, Wesley	2814	0-1	2021.11.15
+Wong, Yinn Long	2016	So, Wesley	2814	0-1	2021.11.30
+Caruana, Fabiano	2803	So, Wesley	2814	0-1	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	0-1	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	0-1	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	0-1	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	0-1	2021.12.09
+So, Wesley	2784	Sevian, Samuel	2569	1-0	2022.08.14
+So, Wesley	2784	Nakamura, Hikaru	2837	1-0	2022.08.14
+So, Wesley	2763	Nepomniachtchi, Ian	2791	1-0	2022.08.14
+So, Wesley	2763	Timofeev, Artyom	2578	1-0	2022.08.16
+So, Wesley	2763	Bilych, Olexiy	2157	1-0	2022.08.16
+So, Wesley	2763	Xu, Yi	2471	1-0	2022.08.16
+So, Wesley	2763	Taichman, Ori	2227	1-0	2022.08.16
+So, Wesley	2763	Blanco Ronquillo, Humberto L.	2425	1-0	2022.08.16
+So, Wesley	2763	Omelja, Artem	2382	1-0	2022.08.16
+So, Wesley	2763	Goltsev, Dmitry	2258	1-0	2022.08.16
+So, Wesley	2763	Rasulov, Vugar	2509	1-0	2022.08.16
+So, Wesley	2784	Martinez Alcantara, Jose Eduardo	2645	1-0	2022.08.18
+So, Wesley	2763	Ding, Liren	2788	1-0	2022.08.20
+So, Wesley	2773	Caruana, Fabiano	2776	1-0	2022.09.04
+So, Wesley	2784	Lazavik, Denis	2393	1-0	2022.09.17
+So, Wesley	2784	Lazavik, Denis	2393	1-0	2022.09.17
+So, Wesley	2784	Ivanchuk, Vasyl	2686	1-0	2022.09.22
+So, Wesley	2784	Ivanchuk, Vasyl	2686	1-0	2022.09.22
+So, Wesley	2763	Moksh, Amit Doshi	2245	1-0	2022.09.27
+So, Wesley	2763	Ernst, Sipke	2436	1-0	2022.09.27
+So, Wesley	2763	Vachylia, Andrii	2318	1-0	2022.09.27
+So, Wesley	2763	Milikow, Yoav	2341	1-0	2022.09.27
+So, Wesley	2763	Girel, Joseph	2104	1-0	2022.09.27
+So, Wesley	2763	Ekdyshman, Mikhail	2146	1-0	2022.09.27
+So, Wesley	2763	Ernst, Sipke	2436	1-0	2022.09.27
+Grischuk, Alexander	2777	So, Wesley	2770	1/2-1/2	Sun Feb 07 2021
+Nepomniachtchi, Ian	2789	So, Wesley	2770	1/2-1/2	Mon Feb 08 2021
+Vidit, Santosh Gujrathi	2726	So, Wesley	2770	1/2-1/2	Mon Feb 08 2021
+Ding, Liren	2791	So, Wesley	2770	1/2-1/2	Mon Feb 08 2021
+Radjabov, Teimour	2765	So, Wesley	2770	1/2-1/2	Thu Feb 11 2021
+Radjabov, Teimour	2765	So, Wesley	2770	1/2-1/2	Fri Feb 12 2021
+Carlsen, Magnus	2862	So, Wesley	2770	1/2-1/2	Sat Feb 13 2021
+Carlsen, Magnus	2862	So, Wesley	2770	1/2-1/2	Sat Feb 13 2021
+Carlsen, Magnus	2862	So, Wesley	2770	1/2-1/2	Sun Feb 14 2021
+Carlsen, Magnus	2862	So, Wesley	2770	1/2-1/2	Sun Feb 14 2021
+Anton Guijarro, David	2673	So, Wesley	2770	1/2-1/2	Mon Mar 15 2021
+Firouzja, Alireza	2759	So, Wesley	2770	1/2-1/2	Mon Mar 15 2021
+Firouzja, Alireza	2759	So, Wesley	2770	1/2-1/2	Wed Mar 17 2021
+Giri, Anish	2776	So, Wesley	2770	1/2-1/2	Fri Mar 19 2021
+Giri, Anish	2776	So, Wesley	2770	1/2-1/2	Fri Mar 19 2021
+Carlsen, Magnus	2847	So, Wesley	2770	1/2-1/2	Mon Apr 26 2021
+Aronian, Levon	2781	So, Wesley	2770	1/2-1/2	Wed Apr 28 2021
+Dominguez Perez, Leinier	2758	So, Wesley	2770	1/2-1/2	Sun Apr 25 2021
+Nepomniachtchi, Ian	2792	So, Wesley	2770	1/2-1/2	Mon May 24 2021
+Svidler, Peter	2714	So, Wesley	2770	1/2-1/2	Mon May 24 2021
+Vachier-Lagrave, Maxime	2860	So, Wesley	2741	1/2-1/2	Wed May 26 2021
+Nepomniachtchi, Ian	2778	So, Wesley	2741	1/2-1/2	Fri May 28 2021
+Carlsen, Magnus	2881	So, Wesley	2741	1/2-1/2	Sun May 30 2021
+Caruana, Fabiano	2803	So, Wesley	2814	0-1	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	0-1	2021.12.09
+Nepomniachtchi, Ian	2778	So, Wesley	2741	1/2-1/2	Sat May 29 2021
+Carlsen, Magnus	2881	So, Wesley	2741	1/2-1/2	Mon May 31 2021
+Mamedyarov, Shakhriyar	2761	So, Wesley	2741	1/2-1/2	2021.06.05
+Grischuk, Alexander	2776	So, Wesley	2770	1/2-1/2	2021.06.07
+Deac, Bogdan-Daniel	2627	So, Wesley	2770	1/2-1/2	2021.06.09
+Radjabov, Teimour	2765	So, Wesley	2770	1/2-1/2	2021.06.12
+Lupulescu, Constantin	2656	So, Wesley	2770	1/2-1/2	2021.06.14
+Firouzja, Alireza	2703	So, Wesley	2741	1/2-1/2	2021.06.18
+Svidler, Peter	2742	So, Wesley	2741	1/2-1/2	2021.06.18
+Radjabov, Teimour	2758	So, Wesley	2741	1/2-1/2	2021.06.19
+Bacrot, Etienne	2667	So, Wesley	2741	1/2-1/2	2021.06.20
+Svidler, Peter	2754	So, Wesley	2816	1/2-1/2	2021.06.22
+Rapport, Richard	2759	So, Wesley	2816	1/2-1/2	2021.06.21
+Gukesh, D	1927	So, Wesley	2741	1/2-1/2	2021.06.27
+Dubov, Daniil	2770	So, Wesley	2741	1/2-1/2	2021.06.27
+Vidit, Santosh Gujrathi	2636	So, Wesley	2741	1/2-1/2	2021.06.28
+Hou, Yifan	2621	So, Wesley	2741	1/2-1/2	2021.06.28
+Carlsen, Magnus	2881	So, Wesley	2741	1/2-1/2	2021.06.30
+Tari, Aryan	2531	So, Wesley	2774	1/2-1/2	2021.07.31
+Firouzja, Alireza	2696	So, Wesley	2774	1/2-1/2	2021.07.31
+Harikrishna, Pentala	2705	So, Wesley	2774	1/2-1/2	2021.08.01
+Ju, Wenjun	2610	So, Wesley	2774	1/2-1/2	2021.08.01
+Van Foreest, Jorden	2543	So, Wesley	2774	1/2-1/2	2021.08.03
+Le, Quang Liem	2744	So, Wesley	2774	1/2-1/2	2021.08.02
+Van Foreest, Jorden	2563	So, Wesley	2774	1/2-1/2	2021.08.04
+Artemiev, Vladislav	2757	So, Wesley	2774	1/2-1/2	2021.08.06
+Artemiev, Vladislav	2757	So, Wesley	2774	1/2-1/2	2021.08.05
+Artemiev, Vladislav	2757	So, Wesley	2774	1/2-1/2	2021.08.05
+Le, Quang Liem	2744	So, Wesley	2774	1/2-1/2	2021.08.07
+Xiong, Jeffery	2730	So, Wesley	2774	1/2-1/2	2021.08.11
+Mamedyarov, Shakhriyar	2756	So, Wesley	2774	1/2-1/2	2021.08.13
+Svidler, Peter	2745	So, Wesley	2774	1/2-1/2	2021.08.13
+Dominguez Perez, Leinier	2786	So, Wesley	2774	1/2-1/2	2021.08.12
+Le, Quang Liem	2690	So, Wesley	2861	1/2-1/2	2021.08.14
+Dominguez Perez, Leinier	2786	So, Wesley	2774	1/2-1/2	2021.08.14
+Xiong, Jeffery	2724	So, Wesley	2861	1/2-1/2	2021.08.15
+Caruana, Fabiano	2806	So, Wesley	2772	1/2-1/2	2021.08.20
+Xiong, Jeffery	2710	So, Wesley	2772	1/2-1/2	2021.08.23
+Vachier-Lagrave, Maxime	2751	So, Wesley	2772	1/2-1/2	2021.08.25
+Le, Quang Liem	2744	So, Wesley	2774	1/2-1/2	2021.08.28
+Giri, Anish	2744	So, Wesley	2774	1/2-1/2	2021.08.30
+Vachier-Lagrave, Maxime	2817	So, Wesley	2774	1/2-1/2	2021.08.29
+Firouzja, Alireza	2696	So, Wesley	2774	1/2-1/2	2021.08.31
+Xiong, Jeffery	2700	So, Wesley	2778	1/2-1/2	2021.10.06
+Lenderman, Aleksandr	2607	So, Wesley	2778	1/2-1/2	2021.10.08
+Bruzon Batista, Lazaro	2645	So, Wesley	2778	1/2-1/2	2021.10.11
+Shankland, Sam	2714	So, Wesley	2778	1/2-1/2	2021.10.14
+Sevian, Samuel	2654	So, Wesley	2778	1/2-1/2	2021.10.17
+Xiong, Jeffery	2699	So, Wesley	2814	1/2-1/2	2021.11.15
+Xiong, Jeffery	2699	So, Wesley	2814	1/2-1/2	2021.11.15
+So, Wesley	0	Anand, Viswanathan	0	1-0	Sun Jan 12 2020
+So, Wesley	0	Firouzja, Alireza	0	1-0	Tue Jan 14 2020
+So, Wesley	0	Duda, Jan-Krzysztof	0	1/2-1/2	Fri Jan 17 2020
+So, Wesley	0	Giri, Anish	0	1/2-1/2	Tue Jan 21 2020
+So, Wesley	0	Xiong, Jeffery	0	1/2-1/2	Fri Jan 24 2020
+So,W	2765	Firouzja,Alireza	2723	1-0	2020.01.11
+So,W	2765	Nyzhnyk,I	2662	0-1	2020.01.06
+So,W	2765	Speelman,J	2509	1-0	2020.01.06
+So,W	2765	Guseinov,G	2666	1-0	2020.01.06
+So,W	2765	Sevian,Samuel	2660	1-0	2020.01.06
+So,W	2765	Harvey,Marcus R	2419	0-1	2020.01.06
+So,W	2765	Oparin,G	2650	1-0	2020.01.06
+So,W	2765	Zierk,S	2509	1-0	2020.01.06
+So,W	2770	Firouzja,Alireza	2726	1-0	2020.01.06
+So, Wesley	2770	Vachier-Lagrave, Maxime	2784	1-0	Wed Dec 30 2020
+So, Wesley	2770	Vachier-Lagrave, Maxime	2784	0-1	Tue Dec 29 2020
+So, Wesley	2770	Vachier-Lagrave, Maxime	2784	1-0	Wed Dec 30 2020
+So, Wesley	2770	Vachier-Lagrave, Maxime	2784	0-1	Tue Dec 29 2020
+So, Wesley	2770	Dubov, Daniil	2699	1-0	Mon Dec 28 2020
+Xiong, Jeffery	2699	So, Wesley	2814	1/2-1/2	2021.11.15
+Caruana, Fabiano	2803	So, Wesley	2814	1/2-1/2	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	1/2-1/2	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	1/2-1/2	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	1/2-1/2	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	1/2-1/2	2021.12.09
+Caruana, Fabiano	0	So, Wesley	0	1/2-1/2	Sat Jan 11 2020
+Vitiugov, Nikita	0	So, Wesley	0	1/2-1/2	Mon Jan 13 2020
+Kovalev, Vladislav	0	So, Wesley	0	1/2-1/2	Thu Jan 16 2020
+Artemiev, Vladislav	0	So, Wesley	0	1/2-1/2	Sat Jan 18 2020
+Dubov, Daniil	0	So, Wesley	0	1/2-1/2	Sun Jan 19 2020
+Yu, Yangyi	0	So, Wesley	0	1/2-1/2	Wed Jan 22 2020
+Van Foreest, Jorden	0	So, Wesley	0	1/2-1/2	Sat Jan 25 2020
+So, Wesley	0	Carlsen, Magnus	0	1/2-1/2	Sun Jan 26 2020
+Vitiugov,N	2747	So,W	2765	1/2-1/2	2020.01.11
+Robson,R	2673	So,W	2765	0-1	2020.01.06
+Bruzon Batista,L	2640	So,W	2765	0-1	2020.01.06
+So,W	2765	Quesada Perez,Yu	2601	1/2-1/2	2020.01.06
+Jones,G	2679	So,W	2765	1/2-1/2	2020.01.06
+Nakamura,Hi	2736	So,W	2765	0-1	2020.01.06
+Moranda,W	2601	So,W	2765	1/2-1/2	2020.01.06
+Berchtenbreiter,M	2488	So,W	2765	0-1	2020.01.06
+So,W	2770	Saric,Iv	2646	1/2-1/2	2020.01.06
+Hansen,Eric	2606	So,W	2770	0-1	2020.01.06
+So, Wesley	2770	Carlsen, Magnus	2863	1/2-1/2	Sat Dec 26 2020
+Vachier-Lagrave, Maxime	2784	So, Wesley	2770	1-0	Wed Dec 30 2020
+So, Wesley	2770	Vachier-Lagrave, Maxime	2784	1/2-1/2	Wed Dec 30 2020
+So, Wesley	2770	Radjabov, Teimour	2765	1/2-1/2	Mon Dec 28 2020
+Giri, Anish	2764	So, Wesley	2770	0-1	Sat Dec 26 2020
+So, Wesley	2770	Grischuk, Alexander	2777	1/2-1/2	Sat Dec 26 2020
+So, Wesley	2770	Nepomniachtchi, Ian	2784	1/2-1/2	Sun Dec 27 2020
+So, Wesley	0	Mamedyarov, Shakhriyar	0	1-0	Thu Nov 07 2019
+So, Wesley	0	Karjakin, Sergey	0	1-0	Sat Nov 09 2019
+So, Wesley	0	Vidit, Santosh Gujrathi	0	1-0	Sat Nov 23 2019
+So, Wesley	0	Yu, Yangyi	0	1-0	Thu Dec 12 2019
+So,W	2765	Royal,Shreyas	1892	1-0	2019.01.08
+So,W	2765	Maze,S	2596	1-0	2019.01.22
+So,W	2765	Sadzikowski,D	2534	1-0	2019.01.22
+So,W	2765	Cervantes Landeiro,Thalia	2159	1-0	2019.01.08
+So,W	2765	Nyzhnyk,I	2624	1-0	2019.01.08
+So,W	2765	Lagno,Kateryna	2560	1-0	2019.01.22
+So,W	2765	Rodrigue-Lemieux,Shawn	2293	1-0	2019.01.08
+So,W	2765	Saric,Iv	2690	1-0	2019.01.08
+So,W	2765	Deac,Bogdan-Daniel	2603	1-0	2019.01.22
+So,W	2765	Navara,D	2738	1-0	2019.02.20
+So,W	2765	Navara,D	2738	1-0	2019.02.20
+Swiercz,D	2659	So,W	2765	1/2-1/2	2020.01.06
+Grischuk,A	2777	So,W	2770	1/2-1/2	2020.01.06
+Vachier-Lagrave, Maxime	2784	So, Wesley	2770	1/2-1/2	Sun Dec 27 2020
+Vachier-Lagrave, Maxime	2784	So, Wesley	2770	1/2-1/2	Wed Dec 30 2020
+Vachier-Lagrave, Maxime	2784	So, Wesley	2770	1/2-1/2	Tue Dec 29 2020
+Vachier-Lagrave, Maxime	2784	So, Wesley	2770	1/2-1/2	Wed Dec 30 2020
+Vachier-Lagrave, Maxime	2784	So, Wesley	2770	1/2-1/2	Tue Dec 29 2020
+Harikrishna, Pentala	2732	So, Wesley	2770	1/2-1/2	Mon Dec 28 2020
+Anton Guijarro, David	2681	So, Wesley	2770	1/2-1/2	Sat Dec 26 2020
+Aronian, Levon	2767	So, Wesley	2770	1/2-1/2	Sun Dec 27 2020
+So,W	2765	Navara,D	2738	1-0	2019.02.20
+So,W	2765	Navara,D	2738	1-0	2019.02.20
+So,W	2765	Navara,D	2738	1-0	2019.02.20
+So,W	2765	Navara,D	2738	1-0	2019.02.23
+So,W	2765	Navara,D	2738	1-0	2019.02.23
+So,W	2765	Navara,D	2738	1-0	2019.02.23
+So,W	2765	Navara,D	2738	1-0	2019.02.23
+So,W	2765	Navara,D	2738	1-0	2019.02.23
+So,W	2765	Petrosian,TL	2598	1-0	2019.01.08
+So,W	2765	Yu,Jennifer	2313	1-0	2019.01.08
+So,W	2765	Erenburg,S	2589	1-0	2019.01.08
+So,W	2765	Tillis. Bryan	0	1-0	2019.01.08
+So,W	2765	Eljanov,P	2680	1-0	2019.01.08
+So,W	2762	Gareev,T	2557	1-0	2019.03.20
+So,W	2765	Ghasi,A	2505	1-0	2019.01.08
+So,W	2765	Hansen,Eric	2615	1-0	2019.01.08
+So,W	2762	Rohde,M	2358	1-0	2019.03.19
+So,W	2762	Lenderman,A	2637	1-0	2019.03.20
+So,W	2762	Grabinsky,Joshua	2078	1-0	2019.03.19
+So,W	2754	Nepomniachtchi,I	2773	1-0	2019.05.08
+So,W	2754	Karjakin,Sergey	2752	1-0	2019.05.08
+So,W	2754	Vachier Lagrave,M	2780	1-0	2019.05.11
+So,W	2754	Duda,J	2728	1-0	2019.05.17
+So,W	2754	Duda,J	2728	1-0	2019.05.17
+So,W	2754	Caruana,F	2819	1-0	2019.06.03
+So,W	2754	Yu Yangyi	2738	1-0	2019.06.04
+So,W	2754	Vachier Lagrave,M	2779	1-0	2019.06.04
+So,W	2754	Ding Liren	2805	1-0	2019.06.26
+So,W	2754	Mamedyarov,S	2774	1-0	2019.06.26
+So,W	2754	Nakamura,Hi	2754	1-0	2019.06.26
+So,W	2763	Harikrishna,P	2734	1-0	2019.07.12
+So,W	2763	Karjakin,Sergey	2748	1-0	2019.07.12
+So,W	2767	Vidit,S	2718	1-0	2019.09.10
+So,W	2767	Demchenko,A	2655	1-0	2019.09.10
+So,W	2767	Duran Vega,S	2387	1-0	2019.09.10
+So,W	2767	Bjerre,Jonas Buhl	2506	1-0	2019.10.10
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Ganguly,S	2658	1-0	2019.10.10
+So,W	2760	Caruana,F	2822	1-0	2019.11.09
+So,W	2760	Korobov,A	2670	1-0	2019.11.09
+So,W	2760	Aronian,L	2772	1-0	2019.11.09
+So, Wesley	0	Nakamura, Hikaru	0	0-1	Sun Nov 24 2019
+So, Wesley	0	Anand, Viswanathan	0	0-1	Tue Nov 26 2019
+So,W	2765	Grandelius,N	2682	0-1	2019.01.22
+So,W	2765	Navara,D	2738	0-1	2019.02.23
+So,W	2765	Navara,D	2738	0-1	2019.02.23
+So,W	2765	Iturrizaga,E	2637	0-1	2019.01.08
+So,W	2762	Liang,Awonder	2590	0-1	2019.03.20
+So,W	2754	Nakamura,Hi	2761	0-1	2019.05.11
+So,W	2754	Aronian,L	2752	0-1	2019.06.03
+So,W	2754	Mamedyarov,S	2774	0-1	2019.06.03
+So,W	2776	Nepomniachtchi,I	2774	0-1	2019.08.17
+So,W	2767	Mamedyarov,S	2767	0-1	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	1-0	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	1-0	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	1-0	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	1-0	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	1-0	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	1-0	2019.09.02
+So,W	2767	Artemiev,V	2746	1-0	2019.09.02
+So,W	2767	Artemiev,V	2746	1-0	2019.09.02
+So,W	2767	Artemiev,V	2746	1-0	2019.09.02
+So,W	2767	Artemiev,V	2746	1-0	2019.09.02
+So,W	2767	Artemiev,V	2746	1-0	2019.09.02
+So,W	2767	Artemiev,V	2746	1-0	2019.09.02
+So,W	2767	Artemiev,V	2746	1-0	2019.09.02
+So, Wesley	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Sat Nov 09 2019
+So, Wesley	0	Carlsen, Magnus	0	1/2-1/2	Fri Nov 22 2019
+So, Wesley	0	Harikrishna, P.	0	1/2-1/2	Fri Nov 22 2019
+So, Wesley	0	Nepomniachtchi, Ian	0	1/2-1/2	Sat Nov 23 2019
+So, Wesley	0	Ding, Liren	0	1/2-1/2	Mon Nov 25 2019
+So, Wesley	0	Aronian, Levon	0	1/2-1/2	Mon Nov 25 2019
+So, Wesley	0	Harikrishna, P.	0	1/2-1/2	Mon Nov 25 2019
+So, Wesley	0	Vidit, Santosh Gujrathi	0	1/2-1/2	Mon Nov 25 2019
+So, Wesley	0	Nakamura, Hikaru	0	1/2-1/2	Mon Nov 25 2019
+So, Wesley	0	Nepomniachtchi, Ian	0	1/2-1/2	Tue Nov 26 2019
+So, Wesley	0	Giri, Anish	0	1/2-1/2	Tue Nov 26 2019
+So,W	2767	Mamedyarov,S	2767	0-1	2019.09.02
+So,W	2760	Artemiev,V	2731	0-1	2019.11.09
+So,W	2760	Korobov,A	2670	0-1	2019.11.06
+So,W	2760	Aronian,L	2772	0-1	2019.11.06
+So,W	2760	Le,Quang Liem	2713	0-1	2019.11.09
+So,W	2760	Nakamura,Hi	2741	0-1	2019.11.22
+So,W	2767	Vachier Lagrave,M	2774	0-1	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	0-1	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	0-1	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	0-1	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	0-1	2019.09.02
+So,W	2767	Artemiev,V	2746	0-1	2019.09.02
+So,W	2767	Artemiev,V	2746	0-1	2019.09.02
+So,W	2767	Artemiev,V	2746	0-1	2019.09.02
+So, Wesley	2766	Anand, Viswanathan	2751	1/2-1/2	2022.06.03
+So, Wesley	2742	Topalov, Veselin	2667	0-1	2022.06.09
+So, Wesley	2775	Topalov, Veselin	2730	1/2-1/2	2022.06.09
+So, Wesley	2775	Tari, Aryan	2663	1/2-1/2	2022.06.06
+So, Wesley	2766	Carlsen, Magnus	2864	1/2-1/2	2022.06.01
+So, Wesley	2742	Grigorov, Grigor	2510	0-1	2022.06.21
+So, Wesley	2742	Martinez Alcantara, Jose Eduardo	2703	1/2-1/2	2022.06.21
+So, Wesley	2742	Kamsky, Gata	2645	1/2-1/2	2022.06.21
+So, Wesley	2742	Keymer, Vincent	2548	0-1	2022.06.28
+So, Wesley	2742	Corrales Jimenez, Fidel	2541	0-1	2022.06.28
+So, Wesley	2742	Sevian, Samuel	2692	0-1	2022.07.02
+So, Wesley	2763	Nakamura, Hikaru	2850	0-1	2022.07.10
+So, Wesley	2782	Xiong, Jeffery	2729	0-1	2022.02.27
+So, Wesley	2782	Paravyan, David	2636	0-1	2022.02.20
+So, Wesley	2814	Maghsoodloo, Parham	2630	0-1	2022.03.05
+So, Wesley	2814	Martinez Alcantara, Jose Eduardo	2690	0-1	2022.03.05
+So, Wesley	2814	Fedoseev, Vladimir	2726	0-1	2022.03.19
+So, Wesley	2814	Martinez Alcantara, Jose Eduardo	2690	0-1	2022.04.09
+So, Wesley	2814	Andreikin, Dmitry	2736	0-1	2022.04.16
+So, Wesley	2814	Aronian, Levon	2773	0-1	2022.04.10
+So, Wesley	2763	Naroditsky, Daniel	2628	0-1	2022.08.16
+So, Wesley	2784	Nakamura, Hikaru	2837	0-1	2022.08.19
+So, Wesley	2784	Andreikin, Dmitry	2675	0-1	2022.08.21
+So, Wesley	2763	Mikhailov, Viacheslav	2381	0-1	2022.09.27
+So, Wesley	2763	Yanchenko, Roman	2514	1-0	2022.09.27
+So, Wesley	0	Carlsen, Magnus	0	1/2-1/2	Tue Nov 26 2019
+So, Wesley	0	Nepomniachtchi, Ian	0	1/2-1/2	Sat Dec 14 2019
+So, Wesley	0	Nepomniachtchi, Ian	0	1/2-1/2	Mon Dec 16 2019
+So,W	2765	Movsesian,S	2629	1/2-1/2	2019.01.08
+So,W	2765	Azarov,S	2575	1/2-1/2	2019.01.08
+So,W	2765	Navara,D	2738	1/2-1/2	2019.02.20
+So,W	2765	Navara,D	2738	1/2-1/2	2019.02.23
+So,W	2765	Navara,D	2738	1/2-1/2	2019.02.23
+So,W	2765	Navara,D	2738	1/2-1/2	2019.02.23
+So,W	2765	Navara,D	2738	1/2-1/2	2019.02.23
+So,W	2765	Navara,D	2738	1/2-1/2	2019.02.23
+So,W	2765	Wang Yue	2684	1/2-1/2	2019.01.08
+So,W	2765	Bhat,V	2519	1/2-1/2	2019.01.08
+So,W	2762	Shankland,S	2731	1/2-1/2	2019.03.20
+So,W	2765	Durarbayli,V	2620	1/2-1/2	2019.01.08
+So,W	2762	Guseinov,G	2664	1/2-1/2	2019.03.19
+So,W	2762	Dominguez Perez,L	2739	1/2-1/2	2019.03.20
+So,W	2762	Robson,R	2667	1/2-1/2	2019.03.19
+So,W	2754	Topalov,V	2740	1/2-1/2	2019.05.08
+So,W	2754	Ding Liren	2805	1/2-1/2	2019.05.08
+So,W	2754	Ding Liren	2805	1/2-1/2	2019.05.11
+So,W	2754	Karjakin,Sergey	2752	1/2-1/2	2019.05.11
+So,W	2754	Carlsen,M	2861	1/2-1/2	2019.05.11
+So,W	2754	Amin,B	2704	1/2-1/2	2019.05.11
+So,W	2754	Topalov,V	2740	1/2-1/2	2019.05.11
+So,W	2754	Wei Yi	2736	1/2-1/2	2019.05.11
+So,W	2754	Nepomniachtchi,I	2773	1/2-1/2	2019.05.11
+So,W	2754	Grischuk,A	2772	1/2-1/2	2019.05.17
+So,W	2754	Grischuk,A	2772	1/2-1/2	2019.05.17
+So,W	2754	Yu Yangyi	2738	1/2-1/2	2019.06.03
+So,W	2754	Anand,V	2767	1/2-1/2	2019.06.04
+So,W	2754	Anand,V	2767	1/2-1/2	2019.06.04
+So,W	2754	Carlsen,M	2875	1/2-1/2	2019.06.04
+So,W	2754	Carlsen,M	2875	1/2-1/2	2019.06.04
+So,W	2754	Vachier Lagrave,M	2779	1/2-1/2	2019.06.04
+So,W	2754	Vachier Lagrave,M	2779	1/2-1/2	2019.06.26
+So,W	2754	Anand,V	2767	1/2-1/2	2019.06.26
+So,W	2754	Carlsen,M	2875	1/2-1/2	2019.06.26
+So,W	2763	Harikrishna,P	2734	1/2-1/2	2019.07.12
+So,W	2763	Karjakin,Sergey	2748	1/2-1/2	2019.07.12
+So,W	2763	Mamedyarov,S	2765	1/2-1/2	2019.07.12
+So,W	2763	Karjakin,Sergey	2748	1/2-1/2	2019.07.12
+So,W	2763	Karjakin,Sergey	2748	1/2-1/2	2019.07.12
+So,W	2776	Giri,A	2779	1/2-1/2	2019.08.17
+So,W	2776	Caruana,F	2818	1/2-1/2	2019.08.17
+So,W	2776	Karjakin,Sergey	2750	1/2-1/2	2019.08.17
+So,W	2776	Aronian,L	2765	1/2-1/2	2019.08.17
+So,W	2767	Vitiugov,N	2732	1/2-1/2	2019.09.10
+So,W	2767	Volokitin,And	2627	1/2-1/2	2019.10.10
+So,W	2767	Moiseenko,A1	2635	1/2-1/2	2019.10.10
+Anand, Viswanathan	0	So, Wesley	0	1-0	Fri Nov 22 2019
+Anand, Viswanathan	0	So, Wesley	0	1-0	Mon Nov 25 2019
+Nepomniachtchi, Ian	0	So, Wesley	0	1-0	Mon Dec 16 2019
+Navara,D	2738	So,W	2765	1-0	2019.02.20
+Navara,D	2738	So,W	2765	1-0	2019.02.20
+Navara,D	2738	So,W	2765	1-0	2019.02.20
+Navara,D	2738	So,W	2765	1-0	2019.02.23
+Navara,D	2738	So,W	2765	1-0	2019.02.23
+So,W	2767	Mamedyarov,S	2767	1/2-1/2	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1/2-1/2	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1/2-1/2	2019.09.02
+So,W	2767	Robson,R	2670	1/2-1/2	2019.10.10
+So,W	2767	Alekseenko,K	2674	1/2-1/2	2019.10.10
+So,W	2760	Anand,V	2757	1/2-1/2	2019.11.06
+So,W	2760	Giri,A	2776	1/2-1/2	2019.11.09
+So,W	2760	Anand,V	2757	1/2-1/2	2019.11.09
+So,W	2767	Vachier Lagrave,M	2774	1/2-1/2	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	1/2-1/2	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	1/2-1/2	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	1/2-1/2	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	1/2-1/2	2019.09.02
+So,W	2767	Artemiev,V	2746	1/2-1/2	2019.09.02
+So,W	2767	Artemiev,V	2746	1/2-1/2	2019.09.02
+So,W	2767	Artemiev,V	2746	1/2-1/2	2019.09.02
+So,W	2767	Artemiev,V	2746	1/2-1/2	2019.09.02
+Navara,D	2738	So,W	2765	1-0	2019.02.23
+Navara,D	2738	So,W	2765	1-0	2019.02.23
+Navara,D	2738	So,W	2765	1-0	2019.02.23
+Navara,D	2738	So,W	2765	1-0	2019.02.23
+Navara,D	2738	So,W	2765	1-0	2019.02.23
+Le Tuan Minh	2515	So,W	2765	1-0	2019.01.08
+Azarov,S	2575	So,W	2765	1-0	2019.01.08
+Carlsen,M	2861	So,W	2754	1-0	2019.05.08
+Vachier Lagrave,M	2780	So,W	2754	1-0	2019.05.11
+Nakamura,Hi	2761	So,W	2754	1-0	2019.05.11
+Duda,J	2728	So,W	2754	1-0	2019.05.17
+Grischuk,A	2772	So,W	2754	1-0	2019.05.17
+Vachier Lagrave,M	2779	So,W	2754	1-0	2019.06.03
+Ding Liren	2805	So,W	2754	1-0	2019.06.03
+Ding Liren	2805	So,W	2754	1-0	2019.06.04
+Aronian,L	2752	So,W	2754	1-0	2019.06.04
+Mamedyarov,S	2765	So,W	2763	1-0	2019.07.12
+Carlsen,M	2882	So,W	2776	1-0	2019.08.17
+Vitiugov,N	2732	So,W	2767	1-0	2019.09.10
+Mamedyarov,S	2767	So,W	2767	1-0	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1-0	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1-0	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1-0	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1-0	2019.09.02
+Giri,A	2776	So,W	2760	1-0	2019.11.06
+Ding, Liren	0	So, Wesley	0	0-1	Sat Nov 23 2019
+Giri, Anish	0	So, Wesley	0	0-1	Mon Nov 25 2019
+Aronian, Levon	0	So, Wesley	0	0-1	Tue Nov 26 2019
+Harikrishna, P.	0	So, Wesley	0	0-1	Tue Nov 26 2019
+Tan,Ju2	2502	So,W	2765	0-1	2019.01.08
+Pigott,J	2387	So,W	2765	0-1	2019.01.22
+Cordova,E	2597	So,W	2765	0-1	2019.01.08
+Robson,R	2667	So,W	2765	0-1	2019.01.08
+Hansen,Eric	2615	So,W	2765	0-1	2019.01.08
+Navara,D	2738	So,W	2765	0-1	2019.02.20
+Navara,D	2738	So,W	2765	0-1	2019.02.20
+Navara,D	2738	So,W	2765	0-1	2019.02.23
+Navara,D	2738	So,W	2765	0-1	2019.02.23
+Caruana,F	2822	So,W	2760	1-0	2019.11.06
+Aronian,L	2772	So,W	2760	1-0	2019.11.09
+Vachier Lagrave,M	2774	So,W	2767	1-0	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	1-0	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	1-0	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	1-0	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	1-0	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	1-0	2019.09.02
+Artemiev,V	2746	So,W	2767	1-0	2019.09.02
+Artemiev,V	2746	So,W	2767	1-0	2019.09.02
+Artemiev,V	2746	So,W	2767	1-0	2019.09.02
+Artemiev,V	2746	So,W	2767	1-0	2019.09.02
+Navara,D	2738	So,W	2765	0-1	2019.02.23
+Navara,D	2738	So,W	2765	0-1	2019.02.23
+Shevchenko,Kirill	2539	So,W	2765	0-1	2019.01.08
+Priyadharshan,K	2553	So,W	2765	0-1	2019.01.08
+Wang,Tianqi	2329	So,W	2765	0-1	2019.01.08
+Checa,Nicolas	2508	So,W	2765	0-1	2019.01.08
+Sturt,R	2429	So,W	2762	0-1	2019.03.19
+Nyzhnyk,I	2638	So,W	2762	0-1	2019.03.19
+Amin,B	2704	So,W	2754	0-1	2019.05.08
+Ding Liren	2805	So,W	2754	0-1	2019.05.11
+Grischuk,A	2775	So,W	2754	0-1	2019.06.03
+Duran Vega,S	2387	So,W	2767	0-1	2019.09.10
+Mamedyarov,S	2767	So,W	2767	0-1	2019.09.02
+Mamedyarov,S	2767	So,W	2767	0-1	2019.09.02
+Mamedyarov,S	2767	So,W	2767	0-1	2019.09.02
+Caruana,F	2822	So,W	2760	0-1	2019.11.09
+Le,Quang Liem	2713	So,W	2760	0-1	2019.11.09
+Vachier Lagrave,M	2774	So,W	2767	0-1	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	0-1	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	0-1	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	0-1	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	0-1	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	0-1	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	0-1	2019.09.02
+Artemiev,V	2746	So,W	2767	0-1	2019.09.02
+Karjakin, Sergey	0	So, Wesley	0	1/2-1/2	Thu Nov 07 2019
+Mamedyarov, Shakhriyar	0	So, Wesley	0	1/2-1/2	Sun Nov 10 2019
+Karjakin, Sergey	0	So, Wesley	0	1/2-1/2	Sun Nov 10 2019
+Aronian, Levon	0	So, Wesley	0	1/2-1/2	Sun Nov 24 2019
+Giri, Anish	0	So, Wesley	0	1/2-1/2	Sun Nov 24 2019
+Nepomniachtchi, Ian	0	So, Wesley	0	1/2-1/2	Mon Nov 25 2019
+Carlsen, Magnus	0	So, Wesley	0	1/2-1/2	Mon Nov 25 2019
+Ding, Liren	0	So, Wesley	0	1/2-1/2	Tue Nov 26 2019
+Vidit, Santosh Gujrathi	0	So, Wesley	0	1/2-1/2	Tue Nov 26 2019
+Nakamura, Hikaru	0	So, Wesley	0	1/2-1/2	Tue Nov 26 2019
+Yu, Yangyi	0	So, Wesley	0	1/2-1/2	Wed Dec 11 2019
+Nepomniachtchi, Ian	0	So, Wesley	0	1/2-1/2	Sun Dec 15 2019
+Edouard,R	2643	So,W	2765	1/2-1/2	2019.01.08
+Svane,R	2594	So,W	2765	1/2-1/2	2019.01.22
+Navara,D	2738	So,W	2765	1/2-1/2	2019.01.22
+Thavandiran,S	2410	So,W	2765	1/2-1/2	2019.01.08
+Lagarde,Max	2604	So,W	2765	1/2-1/2	2019.01.22
+Lalith,B	2547	So,W	2765	1/2-1/2	2019.01.22
+Moranda,W	2593	So,W	2765	1/2-1/2	2019.01.08
+Navara,D	2738	So,W	2765	1/2-1/2	2019.02.20
+Artemiev,V	2746	So,W	2767	0-1	2019.09.02
+Artemiev,V	2746	So,W	2767	0-1	2019.09.02
+Artemiev,V	2746	So,W	2767	0-1	2019.09.02
+Artemiev,V	2746	So,W	2767	0-1	2019.09.02
+Artemiev,V	2746	So,W	2767	0-1	2019.09.02
+Navara,D	2738	So,W	2765	1/2-1/2	2019.02.23
+Ghosh,D	2544	So,W	2765	1/2-1/2	2019.01.08
+Robson,R	2667	So,W	2765	1/2-1/2	2019.01.08
+Postny,E	2623	So,W	2765	1/2-1/2	2019.01.08
+Iturrizaga,E	2637	So,W	2765	1/2-1/2	2019.01.08
+Nakamura,Hi	2746	So,W	2762	1/2-1/2	2019.03.20
+Akobian,V	2625	So,W	2762	1/2-1/2	2019.03.20
+Robson,R	2667	So,W	2762	1/2-1/2	2019.03.20
+Erenburg,S	2589	So,W	2765	1/2-1/2	2019.01.08
+Checa,Nicolas	2506	So,W	2762	1/2-1/2	2019.03.19
+Sevian,Samuel	2642	So,W	2762	1/2-1/2	2019.03.20
+Xiong,Jeffery	2663	So,W	2762	1/2-1/2	2019.03.20
+Caruana,F	2828	So,W	2762	1/2-1/2	2019.03.20
+Shimanov,A	2613	So,W	2762	1/2-1/2	2019.03.19
+Wei Yi	2736	So,W	2754	1/2-1/2	2019.05.08
+Vachier Lagrave,M	2780	So,W	2754	1/2-1/2	2019.05.08
+Nakamura,Hi	2761	So,W	2754	1/2-1/2	2019.05.08
+Topalov,V	2740	So,W	2754	1/2-1/2	2019.05.11
+Nepomniachtchi,I	2773	So,W	2754	1/2-1/2	2019.05.11
+Wei Yi	2736	So,W	2754	1/2-1/2	2019.05.11
+Karjakin,Sergey	2752	So,W	2754	1/2-1/2	2019.05.11
+Carlsen,M	2861	So,W	2754	1/2-1/2	2019.05.11
+Amin,B	2704	So,W	2754	1/2-1/2	2019.05.11
+Grischuk,A	2772	So,W	2754	1/2-1/2	2019.05.17
+Duda,J	2728	So,W	2754	1/2-1/2	2019.05.17
+Carlsen,M	2875	So,W	2754	1/2-1/2	2019.06.03
+Anand,V	2767	So,W	2754	1/2-1/2	2019.06.03
+Ding Liren	2805	So,W	2754	1/2-1/2	2019.06.04
+Caruana,F	2819	So,W	2754	1/2-1/2	2019.06.04
+Aronian,L	2752	So,W	2754	1/2-1/2	2019.06.04
+Grischuk,A	2775	So,W	2754	1/2-1/2	2019.06.04
+Caruana,F	2819	So,W	2754	1/2-1/2	2019.06.04
+Mamedyarov,S	2774	So,W	2754	1/2-1/2	2019.06.04
+Mamedyarov,S	2774	So,W	2754	1/2-1/2	2019.06.04
+Giri,A	2779	So,W	2754	1/2-1/2	2019.06.26
+Caruana,F	2819	So,W	2754	1/2-1/2	2019.06.26
+Karjakin,Sergey	2748	So,W	2754	1/2-1/2	2019.06.26
+Nepomniachtchi,I	2775	So,W	2754	1/2-1/2	2019.06.26
+Aronian,L	2752	So,W	2754	1/2-1/2	2019.06.26
+Harikrishna,P	2734	So,W	2763	1/2-1/2	2019.07.12
+Harikrishna,P	2734	So,W	2763	1/2-1/2	2019.07.12
+Karjakin,Sergey	2748	So,W	2763	1/2-1/2	2019.07.12
+Karjakin,Sergey	2748	So,W	2763	1/2-1/2	2019.07.12
+Karjakin,Sergey	2748	So,W	2763	1/2-1/2	2019.07.12
+Karjakin,Sergey	2748	So,W	2763	1/2-1/2	2019.07.12
+Ding Liren	2805	So,W	2776	1/2-1/2	2019.08.17
+Vachier Lagrave,M	2778	So,W	2776	1/2-1/2	2019.08.17
+Anand,V	2756	So,W	2776	1/2-1/2	2019.08.17
+Mamedyarov,S	2764	So,W	2776	1/2-1/2	2019.08.17
+Nakamura,Hi	2743	So,W	2776	1/2-1/2	2019.08.17
+Demchenko,A	2655	So,W	2767	1/2-1/2	2019.09.10
+Vidit,S	2718	So,W	2767	1/2-1/2	2019.09.10
+Jumabayev,R	2630	So,W	2767	1/2-1/2	2019.10.10
+Tari,A	2630	So,W	2767	1/2-1/2	2019.10.10
+Mamedyarov,S	2767	So,W	2767	1/2-1/2	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1/2-1/2	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1/2-1/2	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1/2-1/2	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1/2-1/2	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1/2-1/2	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1/2-1/2	2019.09.02
+McShane,L	2682	So,W	2767	1/2-1/2	2019.10.10
+Kryvoruchko,Y	2669	So,W	2767	1/2-1/2	2019.10.10
+Sjugirov,S	2662	So,W	2767	1/2-1/2	2019.10.10
+Anand,V	2757	So,W	2760	1/2-1/2	2019.11.09
+Artemiev,V	2731	So,W	2760	1/2-1/2	2019.11.06
+Le,Quang Liem	2713	So,W	2760	1/2-1/2	2019.11.06
+Korobov,A	2670	So,W	2760	1/2-1/2	2019.11.09
+Artemiev,V	2731	So,W	2760	1/2-1/2	2019.11.09
+Giri,A	2776	So,W	2760	1/2-1/2	2019.11.09
+Vachier Lagrave,M	2774	So,W	2767	1/2-1/2	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	1/2-1/2	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	1/2-1/2	2019.09.02
+Artemiev,V	2746	So,W	2767	1/2-1/2	2019.09.02
+Artemiev,V	2746	So,W	2767	1/2-1/2	2019.09.02
+So, Wesley	2742	Sadhwani, Raunak	2616	1/2-1/2	2022.06.28
+So, Wesley	2742	Sarana, Alexey	2666	1/2-1/2	2022.07.02
+So, Wesley	2763	Bharath, Subramaniyam H	2242	1/2-1/2	2022.07.09
+So, Wesley	2763	Bortnyk, Olexandr	2723	1/2-1/2	2022.07.09
+So, Wesley	2814	Anton Guijarro, David	2584	1/2-1/2	2022.02.19
+So, Wesley	2814	Dreev, Aleksey	2636	1/2-1/2	2022.02.19
+So, Wesley	2782	Sarana, Alexey	2667	1/2-1/2	2022.02.27
+So, Wesley	2814	Sarana, Alexey	2665	1/2-1/2	2022.02.26
+So, Wesley	2814	Kamsky, Gata	2645	1/2-1/2	2022.03.12
+So, Wesley	2814	Matlakov, Maxim	2669	1/2-1/2	2022.03.19
+So, Wesley	2814	Kovalenko, Igor	2560	1/2-1/2	2022.03.19
+So, Wesley	2814	Bluebaum, Matthias	2550	1/2-1/2	2022.03.19
+So, Wesley	2814	Fedoseev, Vladimir	2726	1/2-1/2	2022.04.09
+So, Wesley	2814	Bluebaum, Matthias	2550	1/2-1/2	2022.04.16
+So, Wesley	2814	Abdusattorov, Nodirbek	2663	1/2-1/2	2022.04.16
+So, Wesley	2814	Martinez Alcantara, Jose Eduardo	2690	1/2-1/2	2022.04.16
+So, Wesley	2814	Kovalev, Vladislav	2530	1/2-1/2	2022.02.12
+So, Wesley	2763	Paravyan, David	2569	1/2-1/2	2022.07.16
+So, Wesley	2763	Esipenko, Andrey	2617	1/2-1/2	2022.07.16
+So, Wesley	2763	Sevian, Samuel	2692	1/2-1/2	2022.07.17
+So, Wesley	2773	Idani, Pouya	2641	1/2-1/2	2022.08.03
+So, Wesley	2773	Praggnanandhaa, R	2661	1/2-1/2	2022.08.06
+So, Wesley	2773	Vidit, Santosh Gujrathi	2714	1/2-1/2	2022.08.09
+So, Wesley	2763	Nakamura, Hikaru	2850	1/2-1/2	2022.08.13
+So, Wesley	2763	Nepomniachtchi, Ian	2791	1/2-1/2	2022.08.14
+So, W.	2792	Adhiban, Baskaran	2655	1-0	2018.01.13
+So, W.	2792	Hou Yifan	2680	1-0	2018.01.13
+So, W.	2792	Jones, G.	2640	1-0	2018.01.13
+So, W.	2799	Aronian, L.	2794	1-0	2018.03.10
+So, W.	2786	Onischuk, Al	2672	1-0	2018.04.18
+So, W.	2778	Karjakin, Sergey	2782	1-0	2018.05.27
+So, W.	2778	Carlsen, M.	2843	1-0	2018.05.28
+So, W.	2778	Giri, A.	2782	1-0	2018.06.15
+So, W.	2778	Mamedyarov, S.	2808	1-0	2018.06.12
+So, W.	2778	Giri, A.	2782	1-0	2018.06.12
+So, W.	2778	Mamedyarov, S.	2808	1-0	2018.06.23
+So, W.	2778	Grischuk, A.	2766	1-0	2018.06.20
+So, W.	2778	Caruana, F.	2816	1-0	2018.06.20
+So, W.	2778	Vachier Lagrave, M.	2789	1-0	2018.06.20
+So, W.	2780	Vallejo Pons, F.	2707	1-0	2018.07.06
+So, W.	2780	Vallejo Pons, F.	2707	1-0	2018.07.06
+So, W.	2780	Wei Yi	2729	1-0	2018.07.24
+So, W.	2780	Wei Yi	2729	1-0	2018.07.24
+So, W.	2780	Wei Yi	2729	1-0	2018.07.24
+So, W.	2780	Wei Yi	2729	1-0	2018.07.24
+So, W.	2780	Wei Yi	2729	1-0	2018.07.24
+So, W.	2780	Wei Yi	2729	1-0	2018.07.24
+Artemiev,V	2746	So,W	2767	1/2-1/2	2019.09.02
+Artemiev,V	2746	So,W	2767	1/2-1/2	2019.09.02
+Artemiev,V	2746	So,W	2767	1/2-1/2	2019.09.02
+So, W.	2780	Grischuk, A.	2766	1-0	2018.08.11
+So, W.	2780	Mamedyarov, S.	2801	1-0	2018.08.14
+So, Wesley	2765	Vidit, Santosh Gujrathi	2702	1-0	2018.11.09
+So, Wesley	2765	Nihal, Sarin	2576	1-0	2018.11.09
+So, Wesley	2765	Harikrishna, Pendyala	2729	1-0	2018.11.13
+So, Wesley	2765	Ganguly, Surya Shekhar	2615	1-0	2018.11.13
+So, Wesley	2765	Mamedyarov, Shakhriyar	2817	1-0	2018.11.13
+So, Wesley	2776	Oboladze, Luka	2340	1-0	2018.09.24
+So, Wesley	2776	Sanchez Alvarez, Roberto Carlos	2391	1-0	2018.09.24
+So, Wesley	2776	Huschenbeth, Niclas	2589	1-0	2018.10.20
+So, Wesley	2780	Vidit, Santosh Gujrathi	2718	1-0	2018.07.24
+So, Wesley	2780	Vidit, Santosh Gujrathi	2718	1-0	2018.07.24
+So, Wesley	2780	Vidit, Santosh Gujrathi	2718	1-0	2018.07.24
+So, Wesley	2780	Vidit, Santosh Gujrathi	2718	1-0	2018.07.24
+So, Wesley	2780	Vidit, Santosh Gujrathi	2718	1-0	2018.07.24
+So, Wesley	2780	Vidit, Santosh Gujrathi	2718	1-0	2018.07.24
+So, Wesley	2780	Vidit, Santosh Gujrathi	2718	1-0	2018.07.24
+So, Wesley	2780	Vidit, Santosh Gujrathi	2718	1-0	2018.07.24
+So, Wesley	2780	Vidit, Santosh Gujrathi	2718	1-0	2018.07.24
+So, Wesley	2780	Duda, Jan-Krzysztof	2737	1-0	2018.07.24
+So, Wesley	2780	Duda, Jan-Krzysztof	2737	1-0	2018.07.24
+So, Wesley	2780	Duda, Jan-Krzysztof	2737	1-0	2018.07.24
+So, Wesley	2780	Duda, Jan-Krzysztof	2737	1-0	2018.07.24
+So, Wesley	2780	Duda, Jan-Krzysztof	2737	1-0	2018.07.24
+So, Wesley	2780	Duda, Jan-Krzysztof	2737	1-0	2018.07.24
+So, W.	2778	Mamedyarov, S.	2808	0-1	2018.06.15
+So, W.	2778	Nakamura, Hi	2769	0-1	2018.06.15
+So, W.	2778	Grischuk, A.	2766	0-1	2018.06.23
+So, W.	2780	Praggnanandhaa, R.	2529	0-1	2018.07.06
+So, W.	2780	Wei Yi	2729	0-1	2018.07.24
+So, W.	2780	Wei Yi	2729	0-1	2018.07.24
+So, W.	2780	Wei Yi	2729	0-1	2018.07.24
+So, W.	2780	Dominguez Perez, L.	2739	0-1	2018.08.11
+So, W.	2780	Mamedyarov, S.	2801	0-1	2018.08.11
+So, W.	2780	Karjakin, Sergey	2773	0-1	2018.08.14
+So, W.	2780	Anand, V.	2768	0-1	2018.08.14
+So, W.	2780	Nakamura, Hi	2777	0-1	2018.08.14
+So, W.	2780	Caruana, F.	2822	0-1	2018.08.14
+So, Wesley	2776	Giri, Anish	2780	0-1	2018.09.11
+So, Wesley	2780	Vidit, Santosh Gujrathi	2718	0-1	2018.07.24
+So, Wesley	2780	Duda, Jan-Krzysztof	2737	0-1	2018.07.24
+So, Wesley	2780	Duda, Jan-Krzysztof	2737	1-0	2018.07.24
+So, Wesley	2780	Duda, Jan-Krzysztof	2737	1-0	2018.07.24
+So, Wesley	2780	Nakamura, Hikaru	2777	1-0	2018.07.24
+So, Wesley	2780	Nakamura, Hikaru	2777	1-0	2018.07.24
+So, Wesley	2780	Nakamura, Hikaru	2777	1-0	2018.07.24
+So, Wesley	2780	Nakamura, Hikaru	2777	1-0	2018.07.24
+So, Wesley	2776	L'Ami, Erwin	2639	1-0	2018.09.24
+So, Wesley	2776	Stojanovic, Dalibor	2492	1-0	2018.09.24
+So, Wesley	2776	Bosiocic, Marin	2600	1-0	2018.09.24
+So, W.	2792	Karjakin, Sergey	2753	1/2-1/2	2018.01.13
+So, W.	2792	Mamedyarov, S.	2804	1/2-1/2	2018.01.13
+So, W.	2792	Giri, A.	2752	1/2-1/2	2018.01.13
+So, W.	2792	Svidler, P.	2768	1/2-1/2	2018.01.13
+So, W.	2799	Ding Liren	2769	1/2-1/2	2018.03.10
+So, W.	2799	Caruana, F.	2784	1/2-1/2	2018.03.10
+So, W.	2799	Kramnik, V.	2800	1/2-1/2	2018.03.10
+So, W.	2799	Karjakin, Sergey	2763	1/2-1/2	2018.03.10
+So, W.	2799	Grischuk, A.	2767	1/2-1/2	2018.03.10
+So, W.	2799	Mamedyarov, S.	2809	1/2-1/2	2018.03.10
+So, W.	2786	Lenderman, A.	2599	1/2-1/2	2018.04.18
+So, W.	2786	Nakamura, Hi	2787	1/2-1/2	2018.04.18
+So, W.	2786	Izoria, Z.	2599	1/2-1/2	2018.04.18
+So, W.	2786	Caruana, F.	2804	1/2-1/2	2018.04.18
+So, W.	2778	Karjakin, Sergey	2782	1/2-1/2	2018.05.28
+So, W.	2778	Vachier Lagrave, M.	2789	1/2-1/2	2018.05.27
+So, W.	2778	Anand, V.	2760	1/2-1/2	2018.05.27
+So, W.	2778	Aronian, L.	2764	1/2-1/2	2018.05.27
+So, W.	2778	Nakamura, Hi	2769	1/2-1/2	2018.05.28
+So, W.	2778	Vachier Lagrave, M.	2789	1/2-1/2	2018.05.28
+So, W.	2778	Grischuk, A.	2766	1/2-1/2	2018.06.15
+So, Wesley	2780	Duda, Jan-Krzysztof	2737	0-1	2018.07.24
+So, Wesley	2780	Nakamura, Hikaru	2777	0-1	2018.07.24
+So, Wesley	2780	Nakamura, Hikaru	2777	0-1	2018.07.24
+So, Wesley	2780	Nakamura, Hikaru	2777	0-1	2018.07.24
+So, W.	2778	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.15
+So, W.	2778	Aronian, L.	2764	1/2-1/2	2018.06.15
+So, W.	2778	Anand, V.	2759	1/2-1/2	2018.06.15
+So, W.	2778	Caruana, F.	2816	1/2-1/2	2018.06.15
+So, W.	2778	Karjakin, Sergey	2782	1/2-1/2	2018.06.12
+So, W.	2778	Karjakin, Sergey	2782	1/2-1/2	2018.06.15
+So, W.	2778	Aronian, L.	2764	1/2-1/2	2018.06.12
+So, W.	2778	Aronian, L.	2764	1/2-1/2	2018.06.23
+So, W.	2778	Karjakin, Sergey	2782	1/2-1/2	2018.06.23
+So, W.	2778	Nakamura, Hi	2769	1/2-1/2	2018.06.23
+So, W.	2778	Caruana, F.	2816	1/2-1/2	2018.06.23
+So, W.	2778	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.23
+So, W.	2778	Nakamura, Hi	2769	1/2-1/2	2018.06.20
+So, W.	2778	Anand, V.	2759	1/2-1/2	2018.06.20
+So, W.	2778	Kramnik, V.	2792	1/2-1/2	2018.06.23
+So, W.	2778	Anand, V.	2759	1/2-1/2	2018.06.23
+So, W.	2780	Praggnanandhaa, R.	2529	1/2-1/2	2018.07.06
+So, W.	2780	Vallejo Pons, F.	2707	1/2-1/2	2018.07.06
+So, W.	2780	Wei Yi	2729	1/2-1/2	2018.07.24
+So, W.	2780	Wei Yi	2729	1/2-1/2	2018.07.24
+So, W.	2780	Wei Yi	2729	1/2-1/2	2018.07.24
+So, W.	2780	Wei Yi	2729	1/2-1/2	2018.07.24
+So, W.	2780	Wei Yi	2729	1/2-1/2	2018.07.24
+So, W.	2780	Aronian, L.	2767	1/2-1/2	2018.08.11
+So, W.	2780	Vachier Lagrave, M.	2779	1/2-1/2	2018.08.11
+So, W.	2780	Dominguez Perez, L.	2739	1/2-1/2	2018.08.14
+So, W.	2780	Aronian, L.	2767	1/2-1/2	2018.08.14
+So, W.	2780	Vachier Lagrave, M.	2779	1/2-1/2	2018.08.14
+So, W.	2780	Grischuk, A.	2766	1/2-1/2	2018.08.14
+So, W.	2780	Nakamura, Hi	2777	1/2-1/2	2018.08.18
+So, W.	2780	Karjakin, Sergey	2773	1/2-1/2	2018.08.18
+So, W.	2780	Anand, V.	2768	1/2-1/2	2018.08.18
+So, W.	2780	Caruana, F.	2822	1/2-1/2	2018.08.18
+So, W.	2780	Caruana, F.	2822	1/2-1/2	2018.08.28
+So, Wesley	2765	Karjakin, Sergey	2753	1/2-1/2	2018.11.09
+So, Wesley	2765	Mamedyarov, Shakhriyar	2817	1/2-1/2	2018.11.09
+So, Wesley	2765	Anand, Viswanathan	2773	1/2-1/2	2018.11.13
+So, Wesley	2765	Nakamura, Hikaru	2746	1/2-1/2	2018.11.13
+So, Wesley	2765	Praggnanandhaa, R	2530	1/2-1/2	2018.11.13
+So, Wesley	2765	Karjakin, Sergey	2753	1/2-1/2	2018.11.13
+So, Wesley	2765	Aronian, Levon	2765	1/2-1/2	2018.11.13
+So, Wesley	2765	Vidit, Santosh Gujrathi	2702	1/2-1/2	2018.11.13
+So, Wesley	2776	Melkumyan, Hrant	2660	1/2-1/2	2018.10.20
+So, Wesley	2776	Sevian, Samuel	2634	1/2-1/2	2018.10.20
+So, Wesley	2776	Shirov, Alexei	2636	1/2-1/2	2018.10.20
+So, Wesley	2780	Vidit, Santosh Gujrathi	2718	1/2-1/2	2018.07.24
+So, Wesley	2780	Vidit, Santosh Gujrathi	2718	1/2-1/2	2018.07.24
+So, Wesley	2780	Vidit, Santosh Gujrathi	2718	1/2-1/2	2018.07.24
+So, Wesley	2780	Vidit, Santosh Gujrathi	2718	1/2-1/2	2018.07.24
+So, Wesley	2780	Duda, Jan-Krzysztof	2737	1/2-1/2	2018.07.24
+Carlsen, M.	2834	So, W.	2792	1-0	2018.01.13
+Caruana, F.	2784	So, W.	2799	1-0	2018.03.10
+Grischuk, A.	2767	So, W.	2799	1-0	2018.03.10
+Karjakin, Sergey	2763	So, W.	2799	1-0	2018.03.10
+Carlsen, M.	2843	So, W.	2778	1-0	2018.05.27
+Caruana, F.	2822	So, W.	2778	1-0	2018.05.28
+Nakamura, Hi	2769	So, W.	2778	1-0	2018.06.15
+Mamedyarov, S.	2808	So, W.	2778	1-0	2018.06.15
+Karjakin, Sergey	2782	So, W.	2778	1-0	2018.06.15
+Karjakin, Sergey	2782	So, W.	2778	1-0	2018.06.23
+Mamedyarov, S.	2808	So, W.	2778	1-0	2018.06.20
+Vallejo Pons, F.	2707	So, W.	2780	1-0	2018.07.06
+So, Wesley	2780	Duda, Jan-Krzysztof	2737	1/2-1/2	2018.07.24
+So, Wesley	2780	Duda, Jan-Krzysztof	2737	1/2-1/2	2018.07.24
+So, Wesley	2780	Duda, Jan-Krzysztof	2737	1/2-1/2	2018.07.24
+So, Wesley	2780	Nakamura, Hikaru	2777	1/2-1/2	2018.07.24
+So, Wesley	2780	Nakamura, Hikaru	2777	1/2-1/2	2018.07.24
+So, Wesley	2780	Nakamura, Hikaru	2777	1/2-1/2	2018.07.24
+So, Wesley	2780	Nakamura, Hikaru	2777	1/2-1/2	2018.07.24
+So, Wesley	2780	Nakamura, Hikaru	2777	1/2-1/2	2018.07.24
+So, Wesley	2780	Nakamura, Hikaru	2777	1/2-1/2	2018.07.24
+So, Wesley	2776	Krishna, C R G	2445	1/2-1/2	2018.10.20
+So, Wesley	2780	Nakamura, Hikaru	2777	1/2-1/2	2018.07.24
+So, Wesley	2776	Wojtaszek, Radoslaw	2727	1/2-1/2	2018.09.24
+So, Wesley	2776	Sargissian, Gabriel	2691	1/2-1/2	2018.09.24
+Wei Yi	2729	So, W.	2780	1-0	2018.07.24
+Wei Yi	2729	So, W.	2780	1-0	2018.07.24
+Wei Yi	2729	So, W.	2780	1-0	2018.07.24
+Wei Yi	2729	So, W.	2780	1-0	2018.07.24
+Nakamura, Hi	2777	So, W.	2780	1-0	2018.08.11
+Aronian, L.	2767	So, W.	2780	1-0	2018.08.14
+Mamedyarov, S.	2801	So, W.	2780	1-0	2018.08.14
+Dominguez Perez, L.	2739	So, W.	2780	1-0	2018.08.14
+Mamedyarov, S.	2801	So, W.	2780	1-0	2018.08.18
+Caruana, F.	2822	So, W.	2780	1-0	2018.08.28
+Anand, Viswanathan	2773	So, Wesley	2765	1-0	2018.11.13
+Aronian, Levon	2765	So, Wesley	2765	1-0	2018.11.09
+Duda, Jan-Krzysztof	2737	So, Wesley	2780	1-0	2018.07.24
+Ganguly, Surya Shekhar	2615	So, Wesley	2765	1-0	2018.11.13
+Harikrishna, Pendyala	2729	So, Wesley	2765	1-0	2018.11.13
+Nakamura, Hikaru	2777	So, Wesley	2780	1-0	2018.07.24
+Nakamura, Hikaru	2777	So, Wesley	2780	1-0	2018.07.24
+Nakamura, Hikaru	2777	So, Wesley	2780	1-0	2018.07.24
+Nakamura, Hikaru	2777	So, Wesley	2780	1-0	2018.07.24
+Nakamura, Hikaru	2777	So, Wesley	2780	1-0	2018.07.24
+Nakamura, Hikaru	2777	So, Wesley	2780	1-0	2018.07.24
+Nakamura, Hikaru	2746	So, Wesley	2765	1-0	2018.11.13
+Radjabov, Teimour	2751	So, Wesley	2776	1-0	2018.09.24
+Vidit, Santosh Gujrathi	2718	So, Wesley	2780	1-0	2018.07.24
+Vidit, Santosh Gujrathi	2718	So, Wesley	2780	1-0	2018.07.24
+Wei Yi	2743	So, W.	2792	0-1	2018.01.13
+Zherebukh, Y.	2640	So, W.	2786	0-1	2018.04.18
+Mamedyarov, S.	2808	So, W.	2778	0-1	2018.05.27
+Caruana, F.	2822	So, W.	2778	0-1	2018.05.27
+Ding Liren	2791	So, W.	2778	0-1	2018.05.27
+Giri, A.	2782	So, W.	2778	0-1	2018.06.15
+Caruana, F.	2816	So, W.	2778	0-1	2018.06.15
+Nakamura, Hi	2769	So, W.	2778	0-1	2018.06.12
+Grischuk, A.	2766	So, W.	2778	0-1	2018.06.12
+Caruana, F.	2816	So, W.	2778	0-1	2018.06.12
+Vachier Lagrave, M.	2789	So, W.	2778	0-1	2018.06.23
+Kramnik, V.	2792	So, W.	2778	0-1	2018.06.20
+Vallejo Pons, F.	2707	So, W.	2780	0-1	2018.07.06
+Praggnanandhaa, R.	2529	So, W.	2780	0-1	2018.07.06
+Praggnanandhaa, R.	2529	So, W.	2780	0-1	2018.07.06
+Wei Yi	2729	So, W.	2780	0-1	2018.07.24
+Wei Yi	2729	So, W.	2780	0-1	2018.07.24
+Wei Yi	2729	So, W.	2780	0-1	2018.07.24
+Wei Yi	2729	So, W.	2780	0-1	2018.07.24
+Wei Yi	2729	So, W.	2780	0-1	2018.07.24
+Wei Yi	2729	So, W.	2780	0-1	2018.07.24
+Wei Yi	2729	So, W.	2780	0-1	2018.07.24
+Wei Yi	2729	So, W.	2780	0-1	2018.07.24
+Vidit, Santosh Gujrathi	2718	So, Wesley	2780	1-0	2018.07.24
+Vidit, Santosh Gujrathi	2718	So, Wesley	2780	1-0	2018.07.24
+Matlakov, M.	2718	So, W.	2792	1/2-1/2	2018.01.13
+Kramnik, V.	2787	So, W.	2792	1/2-1/2	2018.01.13
+Caruana, F.	2811	So, W.	2792	1/2-1/2	2018.01.13
+Anand, V.	2767	So, W.	2792	1/2-1/2	2018.01.13
+Wei Yi	2729	So, W.	2780	0-1	2018.07.24
+Wei Yi	2729	So, W.	2780	0-1	2018.07.24
+Anand, V.	2768	So, W.	2780	0-1	2018.08.11
+Grischuk, A.	2766	So, W.	2780	0-1	2018.08.14
+Karjakin, Sergey	2773	So, W.	2780	0-1	2018.08.14
+Duda, Jan-Krzysztof	2737	So, Wesley	2780	0-1	2018.07.24
+Duda, Jan-Krzysztof	2737	So, Wesley	2780	0-1	2018.07.24
+Duda, Jan-Krzysztof	2737	So, Wesley	2780	0-1	2018.07.24
+Duda, Jan-Krzysztof	2737	So, Wesley	2780	0-1	2018.07.24
+Duda, Jan-Krzysztof	2737	So, Wesley	2780	0-1	2018.07.24
+Duda, Jan-Krzysztof	2737	So, Wesley	2780	0-1	2018.07.24
+Duda, Jan-Krzysztof	2737	So, Wesley	2780	0-1	2018.07.24
+Duda, Jan-Krzysztof	2737	So, Wesley	2780	0-1	2018.07.24
+Karjakin, Sergey	2753	So, Wesley	2765	0-1	2018.11.13
+Mamedyarov, Shakhriyar	2817	So, Wesley	2765	0-1	2018.11.13
+Nakamura, Hikaru	2777	So, Wesley	2780	0-1	2018.07.24
+Nakamura, Hikaru	2777	So, Wesley	2780	0-1	2018.07.24
+Praggnanandhaa, R	2530	So, Wesley	2765	0-1	2018.11.13
+Raja, H	2420	So, Wesley	2776	0-1	2018.10.20
+Vidit, Santosh Gujrathi	2718	So, Wesley	2780	0-1	2018.07.24
+Vidit, Santosh Gujrathi	2718	So, Wesley	2780	0-1	2018.07.24
+Mamedyarov, Shakhriyar	2778	So, Wesley	2742	1-0	2022.06.05
+Vachier-Lagrave, Maxime	2760	So, Wesley	2775	1-0	2022.06.07
+Ivic, Velimir	2610	So, Wesley	2742	1-0	2022.06.21
+Bortnyk, Olexandr	3000	So, Wesley	3065	1-0	2022.06.28
+Bortnyk, Olexandr	2723	So, Wesley	2742	1-0	2022.06.28
+Abdusattorov, Nodirbek	2663	So, Wesley	2742	1-0	2022.07.02
+Nakamura, Hikaru	2850	So, Wesley	2814	1-0	2022.02.26
+Nakamura, Hikaru	2850	So, Wesley	2814	1-0	2022.03.12
+Bok, Benjamin	2658	So, Wesley	2814	1-0	2022.03.05
+Demchenko, Anton	2539	So, Wesley	2814	1-0	2022.03.05
+Aronian, Levon	2705	So, Wesley	2769	1-0	2022.03.13
+Caruana, Fabiano	2744	So, Wesley	2814	1-0	2022.03.12
+Dubov, Daniil	2712	So, Wesley	2769	1-0	2022.03.20
+Erigaisi, Arjun	2745	So, Wesley	2814	1-0	2022.02.12
+Nakamura, Hikaru	2850	So, Wesley	2763	1-0	2022.08.16
+Yeletsky, Ivan	2293	So, Wesley	2763	1-0	2022.08.16
+Nazari, Arad	2129	So, Wesley	2763	1-0	2022.08.16
+Grischuk, Alexander	2762	So, Wesley	2763	1-0	2022.08.16
+So, Wesley	2784	Xiong, Jeffery	2725	1/2-1/2	2022.08.18
+So, Wesley	2784	Ding, Liren	2836	1/2-1/2	2022.08.20
+So, Wesley	2771	Aronian, Levon	2759	1/2-1/2	2022.09.06
+Firouzja, Alireza	2778	So, Wesley	2771	1-0	2022.09.10
+So, Wesley	2771	Dominguez Perez, Leinier	2745	1/2-1/2	2022.09.11
+Lazavik, Denis	2393	So, Wesley	2784	1-0	2022.09.17
+So, Wesley	2763	Kamsky, Gata	2666	1/2-1/2	2022.09.27
+Maiorov, Nikita	2417	So, Wesley	2742	0-1	2022.06.21
+Samsonkin, Artiom	2513	So, Wesley	2742	0-1	2022.06.21
+Halkias, Stelios	2453	So, Wesley	2742	0-1	2022.06.21
+Lashkin, Jegor	2368	So, Wesley	2742	0-1	2022.06.21
+Gubajdullin, Alexei	2280	So, Wesley	2742	0-1	2022.06.21
+Livaic, Leon	2540	So, Wesley	2742	0-1	2022.06.21
+Khismatullin, Denis	2543	So, Wesley	2742	0-1	2022.06.21
+Svane, Rasmus	2674	So, Wesley	2742	0-1	2022.06.21
+Cherniaiev, Tykhon	2289	So, Wesley	2742	0-1	2022.06.28
+Narayanan, Srinath	2760	So, Wesley	3057	0-1	2022.06.28
+Golubev, Mikhail	2374	So, Wesley	2742	0-1	2022.06.28
+Shimanov, Aleksandr	2605	So, Wesley	2742	0-1	2022.06.28
+Jaracz, Pawel	2459	So, Wesley	2742	0-1	2022.06.28
+Gubajdullin, Alexei	2280	So, Wesley	2742	0-1	2022.06.28
+Jobava, Baadur	2617	So, Wesley	2742	0-1	2022.06.28
+Tregubov, Pavel V.	2341	So, Wesley	2763	0-1	2022.07.09
+Jumabayev, Rinat	2561	So, Wesley	2763	0-1	2022.07.09
+Bok, Benjamin	2658	So, Wesley	2763	0-1	2022.07.09
+Demchenko, Anton	2539	So, Wesley	2814	0-1	2022.02.19
+Sarana, Alexey	2665	So, Wesley	2814	0-1	2022.02.27
+Bluebaum, Matthias	2550	So, Wesley	2814	0-1	2022.02.26
+Oparin, Grigoriy	2685	So, Wesley	2814	0-1	2022.02.26
+Mahdavi, Reza	2240	So, Wesley	2763	1-0	2022.09.27
+Priasmoro, Novendra	2309	So, Wesley	2763	1-0	2022.09.27
+Danielyan, Vahe	2421	So, Wesley	2763	1-0	2022.09.27
+Demchenko, Anton	2539	So, Wesley	2814	0-1	2022.03.12
+Oparin, Grigoriy	2685	So, Wesley	2814	0-1	2022.03.05
+Alekseenko, Kirill	2682	So, Wesley	2814	0-1	2022.03.19
+Bortnyk, Olexandr	2723	So, Wesley	2814	0-1	2022.03.19
+Martinez Alcantara, Jose Eduardo	2690	So, Wesley	2814	0-1	2022.03.19
+Ponkratov, Pavel	2487	So, Wesley	2814	0-1	2022.03.12
+Sarana, Alexey	2666	So, Wesley	2814	0-1	2022.04.09
+Ponkratov, Pavel	2487	So, Wesley	2814	0-1	2022.04.16
+Sevian, Samuel	2698	So, Wesley	2814	0-1	2022.04.16
+Grandelius, Nils	2617	So, Wesley	2814	0-1	2022.04.16
+Hansen, Eric	2568	So, Wesley	2763	0-1	2022.07.16
+Tregubov, Pavel V.	2341	So, Wesley	2763	0-1	2022.07.16
+Andreikin, Dmitry	2675	So, Wesley	2779	0-1	2022.07.17
+Sevian, Samuel	2692	So, Wesley	2763	0-1	2022.07.17
+Mastrovasilis, Athanasios	2519	So, Wesley	2773	0-1	2022.08.07
+Vasquez Schroeder, Rodrigo	2567	So, Wesley	2763	0-1	2022.08.13
+Lenderman, Aleksandr	2607	So, Wesley	2763	0-1	2022.08.13
+Korelskiy, Egor	2077	So, Wesley	2763	0-1	2022.08.16
+Csonka, Balazs	2404	So, Wesley	2763	0-1	2022.08.16
+Kruckenhauser, Arthur	2218	So, Wesley	2763	0-1	2022.08.16
+Sourath, Biswas	1777	So, Wesley	2763	0-1	2022.08.16
+Urazayev, Arystanbek	2441	So, Wesley	2763	0-1	2022.08.16
+Andreikin, Dmitry	2736	So, Wesley	2763	0-1	2022.08.16
+Ibarra Jerez, Jose Carlos	2628	So, Wesley	2763	0-1	2022.08.16
+Xiong, Jeffery	2725	So, Wesley	2784	0-1	2022.08.18
+Mamedyarov, Shakhriyar	2751	So, Wesley	2775	1/2-1/2	2022.06.05
+Giri, Anish	2766	So, Wesley	2814	1/2-1/2	2022.06.02
+Giri, Anish	2761	So, Wesley	2766	1/2-1/2	2022.06.02
+Bluebaum, Matthias	2556	So, Wesley	2742	1/2-1/2	2022.06.21
+Narayanan.S.L, 	2962	So, Wesley	3062	1/2-1/2	2022.06.28
+Matlakov, Maxim	2669	So, Wesley	2742	1/2-1/2	2022.06.28
+Matlakov, Maxim	2669	So, Wesley	2742	1/2-1/2	2022.07.02
+Keymer, Vincent	2548	So, Wesley	2742	1/2-1/2	2022.07.02
+Martinez Alcantara, Jose Eduardo	2703	So, Wesley	2742	1/2-1/2	2022.07.02
+Bok, Benjamin	2658	So, Wesley	2763	1/2-1/2	2022.07.10
+Nakamura, Hikaru	2850	So, Wesley	2763	1/2-1/2	2022.07.10
+Hansen, Eric	2568	So, Wesley	2763	1/2-1/2	2022.07.09
+Kovalev, Vladislav	2530	So, Wesley	2814	1/2-1/2	2022.02.19
+Caruana, Fabiano	2744	So, Wesley	2814	1/2-1/2	2022.02.19
+Paravyan, David	2569	So, Wesley	2814	1/2-1/2	2022.02.19
+Sadhwani, Raunak	2616	So, Wesley	2814	1/2-1/2	2022.03.05
+Martinez Alcantara, Jose Eduardo	2645	So, Wesley	2784	0-1	2022.08.18
+Niemann, Hans Moke	2688	So, Wesley	2771	0-1	2022.09.08
+Ivanchuk, Vasyl	2686	So, Wesley	2784	0-1	2022.09.22
+Dardha, Daniel	2528	So, Wesley	2763	0-1	2022.09.27
+Shandrygin, Nikita	2323	So, Wesley	2763	0-1	2022.09.27
+Machidon, Cristi	2312	So, Wesley	2763	0-1	2022.09.27
+Korchmar, Vasiliy	2370	So, Wesley	2763	0-1	2022.09.27
+Babazada, Khazar	2409	So, Wesley	2763	0-1	2022.09.27
+Koellner, Ruben Gideon	2286	So, Wesley	2763	0-1	2022.09.28
+Mekhitarian, Krikor Sevag	2598	So, Wesley	2814	1/2-1/2	2022.03.05
+Caruana, Fabiano	2744	So, Wesley	2814	1/2-1/2	2022.03.19
+Nakamura, Hikaru	2850	So, Wesley	2814	1/2-1/2	2022.04.09
+Xiong, Jeffery	2727	So, Wesley	2814	1/2-1/2	2022.04.09
+Aronian, Levon	2705	So, Wesley	2769	1/2-1/2	2022.04.10
+Le, Quang Liem	2686	So, Wesley	2814	1/2-1/2	2022.04.09
+Sadhwani, Raunak	2616	So, Wesley	2814	1/2-1/2	2022.02.12
+Giri, Anish	2766	So, Wesley	2814	1/2-1/2	2022.02.12
+Martinez Alcantara, Jose Eduardo	2690	So, Wesley	2814	1/2-1/2	2022.02.12
+Sevian, Samuel	2692	So, Wesley	2763	1/2-1/2	2022.07.16
+Sevian, Samuel	2569	So, Wesley	2779	1/2-1/2	2022.07.17
+Delgado Ramirez, Neuris	2614	So, Wesley	2773	1/2-1/2	2022.07.30
+Smirin, Ilia	2601	So, Wesley	2773	1/2-1/2	2022.08.02
+Can, Emre	2593	So, Wesley	2773	1/2-1/2	2022.08.08
+Nepomniachtchi, Ian	2791	So, Wesley	2763	1/2-1/2	2022.08.13
+Nepomniachtchi, Ian	2791	So, Wesley	2763	1/2-1/2	2022.08.14
+Nepomniachtchi, Ian	2795	So, Wesley	2784	1/2-1/2	2022.08.14
+Bachmann, Axel	2595	So, Wesley	2763	1/2-1/2	2022.08.16
+Nakamura, Hikaru	2837	So, Wesley	2784	1/2-1/2	2022.08.19
+Ding, Liren	2836	So, Wesley	2784	1/2-1/2	2022.08.20
+Andreikin, Dmitry	2675	So, Wesley	2784	1/2-1/2	2022.08.21
+Mamedyarov, Shakhriyar	2758	So, Wesley	2773	1/2-1/2	2022.09.02
+Vachier-Lagrave, Maxime	2757	So, Wesley	2773	1/2-1/2	2022.09.03
+Nepomniachtchi, Ian	2792	So, Wesley	2771	1/2-1/2	2022.09.05
+Lazavik, Denis	2393	So, Wesley	2784	1/2-1/2	2022.09.17
+So, Wesley	2742	Tari, Aryan	2567	1-0	2022.06.06
+So, Wesley	2814	Anand, Viswanathan	2758	1-0	2022.06.03
+So, Wesley	2766	Carlsen, Magnus	2864	1-0	2022.06.01
+So, Wesley	2766	Radjabov, Teimour	2753	1-0	2022.05.31
+So, Wesley	2742	Tica, Sven	2346	1-0	2022.06.21
+So, Wesley	2742	Kosakowski, Jakub	2476	1-0	2022.06.21
+So, Wesley	2742	Zhigalko, Sergei	2662	1-0	2022.06.21
+So, Wesley	2742	Oparin, Grigoriy	2639	1-0	2022.06.21
+So, Wesley	2742	Jaracz, Pawel	2459	1-0	2022.06.21
+So, Wesley	2742	Chigaev, Maksim	2457	1-0	2022.06.21
+So, Wesley	2742	Kravtsiv, Martyn	2694	1-0	2022.06.21
+So, Wesley	2742	Bortnyk, Mykola	2582	1-0	2022.06.21
+So, Wesley	2742	Jones, Gawain C B	2657	1-0	2022.06.28
+So, Wesley	2742	Terrieux, Kevin	2482	1-0	2022.06.28
+So, Wesley	2742	Hovhannisyan, Robert	2570	1-0	2022.06.28
+So, Wesley	2742	Terry, Renato	2577	1-0	2022.06.28
+So, Wesley	2742	Makarian, Rudik	2398	1-0	2022.06.28
+So, Wesley	2742	Khismatullin, Denis	2543	1-0	2022.06.28
+So, Wesley	2742	Rasulov, Vugar	2560	1-0	2022.06.28
+So, Wesley	2742	Vokhidov, Shamsiddin	2611	1-0	2022.07.02
+So, Wesley	2742	Bharath, Subramaniyam H	2242	1-0	2022.07.02
+So, Wesley	2742	Le, Quang Liem	2657	1-0	2022.07.02
+So, Wesley	2763	Sjugirov, Sanan	2609	1-0	2022.07.09
+So, Wesley	2763	Bok, Benjamin	2658	1-0	2022.07.10
+So, Wesley	2779	Paravyan, David	2636	1-0	2022.07.10

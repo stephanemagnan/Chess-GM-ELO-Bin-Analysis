@@ -1,0 +1,1251 @@
+White	White ELO	Black	Black ELO	Result	Date
+Karjakin, Sergey	2757	Dubov, Daniil	2710	1/2-1/2	Sat Mar 13 2021
+Karjakin, Sergey	2757	So, Wesley	2770	0-1	Sat Mar 13 2021
+Karjakin, Sergey	2757	Mamedyarov, Shakhriyar	2770	0-1	Mon Mar 15 2021
+Karjakin, Sergey	2757	Duda, Jan-Krzysztof	2729	1/2-1/2	Sat Apr 24 2021
+Karjakin, Sergey	2757	Tari, Aryan	2639	0-1	Mon Apr 26 2021
+Karjakin, Sergey	2757	So, Wesley	2770	0-1	Sun Apr 25 2021
+Karjakin, Sergey	2757	Le, Quang Liem	2709	1/2-1/2	Sun Apr 25 2021
+Karjakin, Sergey	2757	Oparin, Grigoriy	2654	1/2-1/2	2021.07.19
+Karjakin, Sergey	2757	Artemiev, Vladislav	2704	1/2-1/2	2021.07.22
+Karjakin, Sergey	2709	Artemiev, Vladislav	2757	1/2-1/2	2021.07.24
+Karjakin, Sergey	2757	Vachier-Lagrave, Maxime	2749	1/2-1/2	2021.07.26
+Karjakin, Sergey	2709	Vachier-Lagrave, Maxime	2831	1/2-1/2	2021.07.27
+Karjakin, Sergey	2709	Vachier-Lagrave, Maxime	2831	1/2-1/2	2021.07.27
+Karjakin, Sergey	2757	Duda, Jan-Krzysztof	2738	1/2-1/2	2021.08.04
+Karjakin, Sergey	2765	Esipenko, Andrey	2595	0-1	2021.08.16
+Karjakin, Sergey	2765	Karpov, Anatoly	2607	1/2-1/2	2021.08.16
+Karjakin, Sergey	2765	Predke, Alexandr	2642	0-1	2021.08.16
+Karjakin, Sergey	2765	Alekseenko, Kirill	2580	0-1	2021.08.16
+Karjakin, Sergey	2765	Potkin, Vladimir	2443	1/2-1/2	2021.08.16
+Karjakin, Sergey	2758	Rapport, Richard	2760	1/2-1/2	2021.09.08
+Karjakin, Sergey	2758	Rapport, Richard	2760	1/2-1/2	2021.09.08
+Karjakin, Sergey	2758	Nepomniachtchi, Ian	2792	1/2-1/2	2021.09.13
+Karjakin, Sergey	2758	Firouzja, Alireza	2754	0-1	2021.09.15
+Karjakin, Sergey	2758	Tari, Aryan	2642	1/2-1/2	2021.09.17
+Karjakin, Sergey	2757	Sasikiran, Krishnan	2577	1-0	2021.10.11
+Artemiev, Vladislav	0	Karjakin, Sergey	0	0-1	Fri Nov 08 2019
+Giri, Anish	0	Karjakin, Sergey	0	0-1	Sat Nov 09 2019
+Mamedyarov, Shakhriyar	0	Karjakin, Sergey	0	0-1	Sat Nov 09 2019
+Le, Quang Liem	0	Karjakin, Sergey	0	0-1	Sun Nov 10 2019
+Aronian, Levon	0	Karjakin, Sergey	0	0-1	Sun Nov 10 2019
+Khusnutdinov, Rustam	0	Karjakin, Sergey	0	0-1	Sun Dec 29 2019
+Bluebaum, Matthias	0	Karjakin, Sergey	0	0-1	Sun Dec 29 2019
+Xu, Yinglun	0	Karjakin, Sergey	0	0-1	Mon Dec 30 2019
+Hansen, Eric	0	Karjakin, Sergey	0	0-1	Mon Dec 30 2019
+Giri,A	2797	Karjakin,Sergey	2753	0-1	2019.03.31
+Amin,B	2704	Karjakin,Sergey	2752	0-1	2019.05.11
+Nepomniachtchi,I	2775	Karjakin,Sergey	2748	0-1	2019.06.10
+Nepomniachtchi,I	2775	Karjakin,Sergey	2748	0-1	2019.06.10
+Dubov,Daniil	2700	Karjakin,Sergey	2748	0-1	2019.06.10
+Giri,A	2779	Karjakin,Sergey	2748	1-0	2019.07.12
+So,W	2763	Karjakin,Sergey	2748	1-0	2019.07.12
+Inarkiev,E	2682	Karjakin,Sergey	2750	0-1	2019.08.04
+Dominguez Perez,L	2763	Karjakin,Sergey	2750	1-0	2019.08.10
+Aronian,L	2765	Karjakin,Sergey	2750	1-0	2019.08.10
+Vachier Lagrave,M	2778	Karjakin,Sergey	2750	1-0	2019.08.10
+Rapport,R	2747	Karjakin,Sergey	2750	1-0	2019.08.13
+Carlsen,M	2882	Karjakin,Sergey	2750	1-0	2019.08.13
+Mamedyarov,S	2764	Karjakin,Sergey	2750	1-0	2019.08.13
+Vitiugov,N	2732	Karjakin,Sergey	2760	1-0	2019.09.10
+Aronian,L	2772	Karjakin,Sergey	2754	1-0	2019.11.10
+Artemiev, Vladislav	0	Karjakin, Sergey	0	1/2-1/2	Sun Nov 10 2019
+Aronian, Levon	0	Karjakin, Sergey	0	1/2-1/2	Wed Nov 06 2019
+Mamedyarov, Shakhriyar	0	Karjakin, Sergey	0	1/2-1/2	Fri Nov 08 2019
+Korobov, Anton	0	Karjakin, Sergey	0	1/2-1/2	Sat Nov 09 2019
+Anand, Viswanathan	0	Karjakin, Sergey	0	1/2-1/2	Sun Nov 10 2019
+Harikrishna, P.	0	Karjakin, Sergey	0	1/2-1/2	Fri Dec 13 2019
+Harikrishna, P.	0	Karjakin, Sergey	0	1/2-1/2	Fri Dec 13 2019
+Harikrishna, P.	0	Karjakin, Sergey	0	1/2-1/2	Wed Dec 11 2019
+Wei, Yi	0	Karjakin, Sergey	0	1/2-1/2	Sun Dec 15 2019
+Wei, Yi	0	Karjakin, Sergey	0	1/2-1/2	Mon Dec 16 2019
+Amin, Bassem	0	Karjakin, Sergey	0	1/2-1/2	Fri Dec 27 2019
+Laznicka, Viktor	0	Karjakin, Sergey	0	1/2-1/2	Thu Dec 26 2019
+Inarkiev,E	2682	Karjakin,Sergey	2750	0-1	2019.08.02
+Inarkiev,E	2682	Karjakin,Sergey	2750	0-1	2019.08.02
+Inarkiev,E	2682	Karjakin,Sergey	2750	0-1	2019.08.04
+Inarkiev,E	2682	Karjakin,Sergey	2750	0-1	2019.08.04
+Yu Yangyi	2752	Karjakin,Sergey	2750	0-1	2019.08.13
+Caruana,F	2818	Karjakin,Sergey	2750	0-1	2019.08.13
+Dominguez Perez,L	2763	Karjakin,Sergey	2750	0-1	2019.08.13
+Sevian,Samuel	2654	Karjakin,Sergey	2760	0-1	2019.09.10
+Megaranto,S	2550	Karjakin,Sergey	2760	0-1	2019.09.10
+Jumabayev,R	2630	Karjakin,Sergey	2760	0-1	2019.10.10
+Bartel,Mat	2634	Karjakin,Sergey	2754	0-1	2019.12.26
+Xu,Yinglun	2555	Karjakin,Sergey	2754	0-1	2019.12.29
+Khusnutdinov,R	2491	Karjakin,Sergey	2754	0-1	2019.12.29
+Alekseev, Evgeny	0	Karjakin, Sergey	0	1/2-1/2	Thu Dec 26 2019
+Abdusattorov, Nodirbek	0	Karjakin, Sergey	0	1/2-1/2	Sun Dec 29 2019
+Mamedov, Rauf	0	Karjakin, Sergey	0	1/2-1/2	Sun Dec 29 2019
+Vidit, Santosh Gujrathi	0	Karjakin, Sergey	0	1/2-1/2	Sat Dec 28 2019
+Grachev, Boris	0	Karjakin, Sergey	0	1/2-1/2	Fri Dec 27 2019
+Guseinov, Gadir	0	Karjakin, Sergey	0	1/2-1/2	Sat Dec 28 2019
+Zhigalko, Sergei	0	Karjakin, Sergey	0	1/2-1/2	Mon Dec 30 2019
+Maghsoodloo,Parham	2673	Karjakin,Sergey	2753	1/2-1/2	2019.03.05
+Ding Liren	2812	Karjakin,Sergey	2753	1/2-1/2	2019.03.05
+Grandelius,N	2694	Karjakin,Sergey	2753	1/2-1/2	2019.03.05
+Radjabov,T	2756	Karjakin,Sergey	2753	1/2-1/2	2019.03.31
+Navara,D	2739	Karjakin,Sergey	2753	1/2-1/2	2019.03.31
+Mamedyarov,S	2790	Karjakin,Sergey	2753	1/2-1/2	2019.03.31
+Nakamura,Hi	2761	Karjakin,Sergey	2752	1/2-1/2	2019.05.08
+Topalov,V	2740	Karjakin,Sergey	2752	1/2-1/2	2019.05.08
+Wei Yi	2736	Karjakin,Sergey	2752	1/2-1/2	2019.05.11
+So,W	2754	Karjakin,Sergey	2752	1/2-1/2	2019.05.11
+Nakamura,Hi	2761	Karjakin,Sergey	2752	1/2-1/2	2019.05.11
+Vachier Lagrave,M	2780	Karjakin,Sergey	2752	1/2-1/2	2019.05.11
+Nepomniachtchi,I	2773	Karjakin,Sergey	2752	1/2-1/2	2019.05.11
+Anand,V	2774	Karjakin,Sergey	2752	1/2-1/2	2019.05.25
+Carlsen,M	2861	Karjakin,Sergey	2752	1/2-1/2	2019.05.25
+Wei Yi	2741	Karjakin,Sergey	2748	1/2-1/2	2019.06.10
+Radjabov,T	2759	Karjakin,Sergey	2748	1/2-1/2	2019.06.10
+Radjabov,T	2759	Karjakin,Sergey	2748	1/2-1/2	2019.06.10
+Kramnik,V	2753	Karjakin,Sergey	2748	1/2-1/2	2019.06.10
+Nepomniachtchi,I	2775	Karjakin,Sergey	2748	1/2-1/2	2019.06.10
+Dubov,Daniil	2700	Karjakin,Sergey	2748	1/2-1/2	2019.06.10
+Nepomniachtchi,I	2775	Karjakin,Sergey	2748	1/2-1/2	2019.06.10
+Mamedyarov,S	2774	Karjakin,Sergey	2748	1/2-1/2	2019.06.26
+Ding Liren	2805	Karjakin,Sergey	2748	1/2-1/2	2019.06.26
+Nepomniachtchi,I	2775	Karjakin,Sergey	2748	1/2-1/2	2019.06.26
+Vachier Lagrave,M	2779	Karjakin,Sergey	2748	1/2-1/2	2019.06.26
+Anand,V	2767	Karjakin,Sergey	2748	1/2-1/2	2019.06.26
+Giri,A	2779	Karjakin,Sergey	2748	1/2-1/2	2019.07.12
+Giri,A	2779	Karjakin,Sergey	2748	1/2-1/2	2019.07.12
+Giri,A	2779	Karjakin,Sergey	2748	1/2-1/2	2019.07.12
+So,W	2763	Karjakin,Sergey	2748	1/2-1/2	2019.07.12
+So,W	2763	Karjakin,Sergey	2748	1/2-1/2	2019.07.12
+So,W	2763	Karjakin,Sergey	2748	1/2-1/2	2019.07.12
+Inarkiev,E	2682	Karjakin,Sergey	2750	1/2-1/2	2019.08.04
+Inarkiev,E	2682	Karjakin,Sergey	2750	1/2-1/2	2019.08.02
+Harikrishna,P	2734	Karjakin,Sergey	2748	1/2-1/2	2019.07.31
+Harikrishna,P	2734	Karjakin,Sergey	2748	1/2-1/2	2019.07.31
+Harikrishna,P	2734	Karjakin,Sergey	2748	1/2-1/2	2019.07.31
+Ding Liren	2805	Karjakin,Sergey	2750	1/2-1/2	2019.08.10
+Aronian,L	2765	Karjakin,Sergey	2750	1/2-1/2	2019.08.13
+Vachier Lagrave,M	2778	Karjakin,Sergey	2750	1/2-1/2	2019.08.13
+Ding Liren	2805	Karjakin,Sergey	2750	1/2-1/2	2019.08.13
+Carlsen,M	2882	Karjakin,Sergey	2750	1/2-1/2	2019.08.17
+Karjakin, Sergey	2753	Caruana, F.	2811	1-0	2018.01.13
+Karjakin, Sergey	2753	Kramnik, V.	2787	1-0	2018.01.13
+Karjakin, Sergey	2763	Gelfand, B.	2695	1-0	2018.03.05
+Karjakin, Sergey	2763	Nakamura, Hi	2787	1-0	2018.03.05
+Karjakin, Sergey	2763	Nepomniachtchi, I.	2751	1-0	2018.03.05
+Karjakin, Sergey	2763	Artemiev, V.	2697	1-0	2018.03.05
+Karjakin, Sergey	2763	Kramnik, V.	2800	1-0	2018.03.02
+Karjakin, Sergey	2763	Grischuk, A.	2767	1-0	2018.03.05
+Karjakin, Sergey	2763	Praggnanandhaa, R.	2507	1-0	2018.03.01
+Karjakin, Sergey	2763	So, W.	2799	1-0	2018.03.10
+Karjakin, Sergey	2763	Caruana, F.	2784	1-0	2018.03.10
+Karjakin, Sergey	2763	Kramnik, V.	2800	1-0	2018.03.10
+Karjakin, Sergey	2778	Topalov, V.	2749	1-0	2018.04.19
+Karjakin, Sergey	2782	Aronian, L.	2764	1-0	2018.05.27
+Nakamura,Hi	2743	Karjakin,Sergey	2750	1/2-1/2	2019.08.17
+So,W	2776	Karjakin,Sergey	2750	1/2-1/2	2019.08.17
+Giri,A	2779	Karjakin,Sergey	2750	1/2-1/2	2019.08.17
+Caruana,F	2818	Karjakin,Sergey	2750	1/2-1/2	2019.08.17
+Abasov,N	2632	Karjakin,Sergey	2760	1/2-1/2	2019.10.10
+Anton Guijarro,D	2674	Karjakin,Sergey	2760	1/2-1/2	2019.10.10
+Maghsoodloo,Parham	2664	Karjakin,Sergey	2760	1/2-1/2	2019.10.10
+Kovalev,Vl	2661	Karjakin,Sergey	2760	1/2-1/2	2019.10.10
+Fedoseev,Vl3	2664	Karjakin,Sergey	2760	1/2-1/2	2019.10.10
+Harikrishna,P	2724	Karjakin,Sergey	2754	1/2-1/2	2019.12.11
+Harikrishna,P	2724	Karjakin,Sergey	2754	1/2-1/2	2019.12.11
+Karjakin, Sergey	2782	Mamedyarov, S.	2808	1-0	2018.05.27
+Karjakin, Sergey	2782	Vachier Lagrave, M.	2789	1-0	2018.05.28
+Karjakin, Sergey	2782	Anand, V.	2759	1-0	2018.06.15
+Karjakin, Sergey	2782	Giri, A.	2782	1-0	2018.06.15
+Karjakin, Sergey	2782	Caruana, F.	2816	1-0	2018.06.15
+Karjakin, Sergey	2782	Mamedyarov, S.	2808	1-0	2018.06.15
+Karjakin, Sergey	2782	So, W.	2778	1-0	2018.06.15
+Karjakin, Sergey	2782	Vachier Lagrave, M.	2789	1-0	2018.06.15
+Karjakin, Sergey	2782	Grischuk, A.	2766	1-0	2018.06.12
+Karjakin, Sergey	2782	Kramnik, V.	2792	1-0	2018.06.23
+Karjakin, Sergey	2782	Anand, V.	2759	1-0	2018.06.23
+Karjakin, Sergey	2782	Aronian, L.	2764	1-0	2018.06.23
+Karjakin, Sergey	2782	Grischuk, A.	2766	1-0	2018.06.23
+Karjakin, Sergey	2782	So, W.	2778	1-0	2018.06.23
+Karjakin, Sergey	2782	Mamedyarov, S.	2808	1-0	2018.06.20
+Karjakin, Sergey	2773	Dominguez Perez, L.	2739	1-0	2018.08.11
+Karjakin, Sergey	2773	Aronian, L.	2767	1-0	2018.08.14
+Karjakin, Sergey	2773	Nakamura, Hi	2777	1-0	2018.08.14
+Karjakin, Sergey	2773	Anand, V.	2768	1-0	2018.08.14
+Karjakin, Sergey	2773	Duda, J.	2737	1-0	2018.07.24
+Karjakin, Sergey	2773	Duda, J.	2737	1-0	2018.07.24
+Karjakin, Sergey	2773	Duda, J.	2737	1-0	2018.07.24
+Karjakin, Sergey	2773	Duda, J.	2737	1-0	2018.07.24
+Karjakin, Sergey	2773	Duda, J.	2737	1-0	2018.07.24
+Karjakin, Sergey	2773	Duda, J.	2737	1-0	2018.07.24
+Karjakin, Sergey	2763	Mamedyarov, S.	2809	0-1	2018.03.10
+Karjakin, Sergey	2763	Aronian, L.	2794	0-1	2018.03.10
+Karjakin, Sergey	2782	Anand, V.	2760	0-1	2018.05.28
+Karjakin, Sergey	2782	Caruana, F.	2816	0-1	2018.06.12
+Karjakin, Sergey	2782	Vachier Lagrave, M.	2789	0-1	2018.06.23
+Karjakin, Sergey	2773	Caruana, F.	2822	0-1	2018.08.14
+Karjakin, Sergey	2773	Grischuk, A.	2766	0-1	2018.08.14
+Karjakin, Sergey	2773	Duda, J.	2737	1-0	2018.07.24
+Karjakin, Sergey	2753	Petrosian, Tigran L	2598	1-0	2018.12.26
+Karjakin, Sergey	2753	Smirin, Ilia	2609	1-0	2018.12.29
+Karjakin, Sergey	2760	Cordova, Emilio	2609	1-0	2018.09.24
+Karjakin, Sergey	2760	Sevian, Samuel	2634	1-0	2018.10.20
+Karjakin, Sergey	2753	Svidler, Peter	2737	1-0	2018.12.29
+Karjakin, Sergey	2753	Harikrishna, Pendyala	2729	1-0	2018.11.09
+Karjakin, Sergey	2753	Anand, Viswanathan	2773	1-0	2018.11.13
+Karjakin, Sergey	2753	Riazantsev, Alexander	2649	1-0	2018.12.29
+Karjakin, Sergey	2753	Yilmaz, Mustafa	2636	1-0	2018.12.26
+Karjakin, Sergey	2753	Maghsoodloo, Parham	2688	1-0	2018.12.29
+Karjakin, Sergey	2753	Savchenko, Boris	2562	1-0	2018.12.26
+Karjakin, Sergey	2753	Jakovenko, Dmitry	2735	1-0	2018.12.29
+Karjakin, Sergey	2753	Najer, Evgeniy	2670	1-0	2018.12.29
+Karjakin, Sergey	2760	Lomasov, Semyon	2540	1-0	2018.10.20
+Karjakin, Sergey	2753	Demchenko, Anton	2679	1-0	2018.12.26
+Karjakin, Sergey	2753	Vallejo Pons, Francisco	2695	1-0	2018.12.29
+Karjakin, Sergey	2760	Soumya, Swaminathan	2423	1-0	2018.10.20
+Karjakin, Sergey	2753	Anand, V.	2767	1/2-1/2	2018.01.13
+Karjakin, Sergey	2753	Mamedyarov, S.	2804	1/2-1/2	2018.01.13
+Karjakin, Sergey	2753	Carlsen, M.	2834	1/2-1/2	2018.01.13
+Karjakin, Sergey	2753	Wei Yi	2743	1/2-1/2	2018.01.13
+Karjakin, Sergey	2763	Mamedyarov, S.	2809	1/2-1/2	2018.03.05
+Karjakin, Sergey	2763	Anand, V.	2776	1/2-1/2	2018.03.05
+Karjakin, Sergey	2763	Anand, V.	2776	1/2-1/2	2018.03.02
+Karjakin, Sergey	2763	Grischuk, A.	2767	1/2-1/2	2018.03.02
+Karjakin, Sergey	2763	Dubov, Daniil	2701	1/2-1/2	2018.03.02
+Karjakin, Sergey	2763	Mamedyarov, S.	2809	1/2-1/2	2018.03.02
+Karjakin, Sergey	2763	Grischuk, A.	2767	1/2-1/2	2018.03.10
+Karjakin, Sergey	2763	Ding Liren	2769	1/2-1/2	2018.03.10
+Karjakin, Sergey	2778	Ding Liren	2778	1/2-1/2	2018.04.19
+Karjakin, Sergey	2778	Navara, D.	2745	1/2-1/2	2018.04.19
+Karjakin, Sergey	2778	Carlsen, M.	2843	1/2-1/2	2018.04.19
+Karjakin, Sergey	2773	Mamedyarov, S.	2801	0-1	2018.08.14
+Karjakin, Sergey	2773	So, W.	2780	0-1	2018.08.14
+Karjakin, Sergey	2773	Duda, J.	2737	0-1	2018.07.24
+Karjakin, Sergey	2773	Duda, J.	2737	0-1	2018.07.24
+Karjakin, Sergey	2773	Duda, J.	2737	0-1	2018.07.24
+Karjakin, Sergey	2753	Postny, Evgeny	2615	0-1	2018.12.29
+Karjakin, Sergey	2753	Praggnanandhaa, R	2530	0-1	2018.11.13
+Karjakin, Sergey	2753	So, Wesley	2765	0-1	2018.11.13
+Karjakin, Sergey	2753	Nakamura, Hikaru	2746	0-1	2018.11.13
+Karjakin, Sergey	2753	Vidit, Santosh Gujrathi	2702	0-1	2018.11.13
+Karjakin, Sergey	2782	Vachier Lagrave, M.	2789	1/2-1/2	2018.05.27
+Karjakin, Sergey	2782	Anand, V.	2760	1/2-1/2	2018.05.27
+Karjakin, Sergey	2782	Aronian, L.	2764	1/2-1/2	2018.05.28
+Karjakin, Sergey	2782	Nakamura, Hi	2769	1/2-1/2	2018.06.15
+Karjakin, Sergey	2782	Aronian, L.	2764	1/2-1/2	2018.06.15
+Karjakin, Sergey	2782	Grischuk, A.	2766	1/2-1/2	2018.06.15
+Karjakin, Sergey	2782	Anand, V.	2759	1/2-1/2	2018.06.12
+Karjakin, Sergey	2782	Giri, A.	2782	1/2-1/2	2018.06.12
+Karjakin, Sergey	2782	Caruana, F.	2816	1/2-1/2	2018.06.23
+Karjakin, Sergey	2782	Nakamura, Hi	2769	1/2-1/2	2018.06.23
+Karjakin, Sergey	2782	Aronian, L.	2764	1/2-1/2	2018.06.20
+Karjakin, Sergey	2782	So, W.	2778	1/2-1/2	2018.06.20
+Karjakin, Sergey	2782	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.20
+Karjakin, Sergey	2782	Nakamura, Hi	2769	1/2-1/2	2018.06.20
+Karjakin, Sergey	2782	Mamedyarov, S.	2808	1/2-1/2	2018.06.23
+Karjakin, Sergey	2773	Caruana, F.	2822	1/2-1/2	2018.08.11
+Karjakin, Sergey	2773	Nakamura, Hi	2777	1/2-1/2	2018.08.11
+Karjakin, Sergey	2773	Aronian, L.	2767	1/2-1/2	2018.08.11
+Karjakin, Sergey	2773	So, W.	2780	1/2-1/2	2018.08.11
+Karjakin, Sergey	2773	Vachier Lagrave, M.	2779	1/2-1/2	2018.08.14
+Karjakin, Sergey	2773	Dominguez Perez, L.	2739	1/2-1/2	2018.08.14
+Karjakin, Sergey	2773	Grischuk, A.	2766	1/2-1/2	2018.08.18
+Karjakin, Sergey	2773	Mamedyarov, S.	2801	1/2-1/2	2018.08.18
+Karjakin, Sergey	2773	Anand, V.	2768	1/2-1/2	2018.08.18
+Karjakin, Sergey	2773	Vachier Lagrave, M.	2779	1/2-1/2	2018.08.18
+Kramnik, V.	2800	Karjakin, Sergey	2763	1-0	2018.03.05
+Ding Liren	2791	Karjakin, Sergey	2782	1-0	2018.05.27
+Nakamura, Hi	2769	Karjakin, Sergey	2782	1-0	2018.05.27
+Caruana, F.	2822	Karjakin, Sergey	2782	1-0	2018.05.27
+Karjakin, Sergey	2773	Duda, J.	2737	1/2-1/2	2018.07.24
+Karjakin, Sergey	2773	Duda, J.	2737	1/2-1/2	2018.07.24
+Karjakin, Sergey	2753	Artemiev, Vladislav	2709	1/2-1/2	2018.12.26
+Karjakin, Sergey	2753	Mamedyarov, Shakhriyar	2817	1/2-1/2	2018.12.29
+Karjakin, Sergey	2760	Kovalev, Vladislav	2664	1/2-1/2	2018.09.24
+Karjakin, Sergey	2753	Sargissian, Gabriel	2689	1/2-1/2	2018.12.26
+Karjakin, Sergey	2782	Carlsen, Magnus	2843	1/2-1/2	2018.05.28
+Karjakin, Sergey	2753	Aronian, Levon	2765	1/2-1/2	2018.11.09
+Karjakin, Sergey	2753	Nakamura, Hikaru	2746	1/2-1/2	2018.11.09
+Karjakin, Sergey	2753	Salem, A R Saleh	2660	1/2-1/2	2018.12.26
+Karjakin, Sergey	2753	Harikrishna, Pendyala	2729	1/2-1/2	2018.11.13
+Karjakin, Sergey	2753	Aronian, Levon	2765	1/2-1/2	2018.11.13
+Karjakin, Sergey	2753	Ganguly, Surya Shekhar	2615	1/2-1/2	2018.11.13
+Karjakin, Sergey	2753	Mamedyarov, Shakhriyar	2817	1/2-1/2	2018.11.13
+Karjakin, Sergey	2760	Baburin, Alexander	2452	1/2-1/2	2018.09.24
+Karjakin, Sergey	2753	Anand, Viswanathan	2773	1/2-1/2	2018.11.09
+Karjakin, Sergey	2753	Duda, Jan-Krzysztof	2738	1/2-1/2	2018.12.29
+Karjakin, Sergey	2760	Adams, Michael	2712	1/2-1/2	2018.09.24
+Karjakin, Sergey	2753	Dreev, Aleksey	2670	1/2-1/2	2018.12.29
+Karjakin, Sergey	2753	Zubov, Alexander	2597	1/2-1/2	2018.12.26
+Karjakin, Sergey	2760	Sethuraman, S P	2673	1/2-1/2	2018.10.20
+Aronian, Levon	2781	Karjakin, Sergey	2757	1-0	Sat Mar 13 2021
+Carlsen, Magnus	2847	Karjakin, Sergey	2757	1-0	Sun Mar 14 2021
+Grandelius, Nils	2670	Karjakin, Sergey	2757	0-1	Mon Mar 15 2021
+Firouzja, Alireza	2759	Karjakin, Sergey	2757	1-0	Sat Apr 24 2021
+Praggnanandhaa, R	2608	Karjakin, Sergey	2757	1-0	Sat Apr 24 2021
+Jones, Gawain C B	2670	Karjakin, Sergey	2757	0-1	Sun Apr 25 2021
+Mamedyarov, Shakhriyar	2770	Karjakin, Sergey	2757	1-0	Sun Apr 25 2021
+Vokhidov, Shamsiddin	2530	Karjakin, Sergey	2757	0-1	2021.07.16
+Oparin, Grigoriy	2654	Karjakin, Sergey	2757	0-1	2021.07.18
+Artemiev, Vladislav	2757	Karjakin, Sergey	2709	1-0	2021.07.24
+Artemiev, Vladislav	2757	Karjakin, Sergey	2709	0-1	2021.07.24
+Vachier-Lagrave, Maxime	2831	Karjakin, Sergey	2709	0-1	2021.07.27
+Shankland, Sam	2709	Karjakin, Sergey	2757	1-0	2021.07.28
+Shankland, Sam	2609	Karjakin, Sergey	2709	1-0	2021.07.30
+Duda, Jan-Krzysztof	2738	Karjakin, Sergey	2757	1-0	2021.08.05
+Chigaev, Maksim	2579	Karjakin, Sergey	2765	1-0	2021.08.16
+Karpov, Anatoly	2607	Karjakin, Sergey	2765	1-0	2021.08.16
+Alekseenko, Kirill	2580	Karjakin, Sergey	2765	1-0	2021.08.16
+Najer, Evgeniy	2578	Karjakin, Sergey	2765	1-0	2021.08.16
+Potkin, Vladimir	2443	Karjakin, Sergey	2765	1-0	2021.08.16
+Nepomniachtchi, Ian	2792	Karjakin, Sergey	2758	1-0	2021.09.11
+Rapport, Richard	2760	Karjakin, Sergey	2758	1-0	2021.09.14
+Carlsen, Magnus	2855	Karjakin, Sergey	2758	1-0	2021.09.16
+Karjakin, Sergey	2757	Radjabov, Teimour	2747	1/2-1/2	2021.10.13
+Karjakin, Sergey	2757	Ding, Liren	2836	1/2-1/2	2021.10.14
+So, W.	2778	Karjakin, Sergey	2782	1-0	2018.05.27
+Caruana, F.	2822	Karjakin, Sergey	2782	1-0	2018.05.28
+Nakamura, Hi	2769	Karjakin, Sergey	2782	1-0	2018.05.28
+Mamedyarov, S.	2808	Karjakin, Sergey	2782	1-0	2018.06.15
+Grischuk, A.	2766	Karjakin, Sergey	2782	1-0	2018.06.15
+Vachier Lagrave, M.	2789	Karjakin, Sergey	2782	1-0	2018.06.15
+Vachier Lagrave, M.	2789	Karjakin, Sergey	2782	1-0	2018.06.23
+Mamedyarov, S.	2808	Karjakin, Sergey	2782	1-0	2018.06.23
+Anand, V.	2759	Karjakin, Sergey	2782	1-0	2018.06.23
+Mamedyarov, S.	2801	Karjakin, Sergey	2773	1-0	2018.08.11
+Mamedyarov, S.	2801	Karjakin, Sergey	2773	1-0	2018.08.14
+Caruana, F.	2822	Karjakin, Sergey	2773	1-0	2018.08.14
+Vachier Lagrave, M.	2779	Karjakin, Sergey	2773	1-0	2018.08.14
+Aronian, L.	2767	Karjakin, Sergey	2773	1-0	2018.08.18
+Carlsen, M.	2842	Karjakin, Sergey	2773	1-0	2018.08.18
+Caruana, F.	2822	Karjakin, Sergey	2773	1-0	2018.08.18
+Duda, J.	2737	Karjakin, Sergey	2773	1-0	2018.07.24
+Duda, J.	2737	Karjakin, Sergey	2773	1-0	2018.07.24
+Duda, J.	2737	Karjakin, Sergey	2773	1-0	2018.07.24
+Duda, J.	2737	Karjakin, Sergey	2773	1-0	2018.07.24
+Duda, J.	2737	Karjakin, Sergey	2773	1-0	2018.07.24
+Duda, J.	2737	Karjakin, Sergey	2773	1-0	2018.07.24
+Duda, J.	2737	Karjakin, Sergey	2773	1-0	2018.07.24
+Duda, J.	2737	Karjakin, Sergey	2773	1-0	2018.07.24
+Adly, Ahmed	2626	Karjakin, Sergey	2753	1-0	2018.12.29
+Dubov, Daniil	2701	Karjakin, Sergey	2763	0-1	2018.03.05
+Svidler, P.	2760	Karjakin, Sergey	2763	0-1	2018.03.05
+Morozevich, A.	2665	Karjakin, Sergey	2763	0-1	2018.03.05
+Aronian, L.	2794	Karjakin, Sergey	2763	0-1	2018.03.10
+Caruana, F.	2816	Karjakin, Sergey	2782	0-1	2018.06.15
+Anand, V.	2759	Karjakin, Sergey	2782	0-1	2018.06.15
+Aronian, L.	2764	Karjakin, Sergey	2782	0-1	2018.06.12
+Kramnik, V.	2792	Karjakin, Sergey	2782	0-1	2018.06.23
+Caruana, F.	2816	Karjakin, Sergey	2782	0-1	2018.06.23
+Kramnik, V.	2792	Karjakin, Sergey	2782	0-1	2018.06.20
+So, W.	2780	Karjakin, Sergey	2773	0-1	2018.08.14
+Nakamura, Hi	2777	Karjakin, Sergey	2773	0-1	2018.08.14
+Duda, J.	2737	Karjakin, Sergey	2773	0-1	2018.07.24
+Duda, J.	2737	Karjakin, Sergey	2773	0-1	2018.07.24
+Aronian, Levon	2765	Karjakin, Sergey	2753	1-0	2018.12.29
+Aronian, Levon	2765	Karjakin, Sergey	2753	1-0	2018.11.13
+Ganguly, Surya Shekhar	2615	Karjakin, Sergey	2753	1-0	2018.11.13
+Ganguly, Surya Shekhar	2615	Karjakin, Sergey	2753	0-1	2018.11.09
+Harikrishna, Pendyala	2729	Karjakin, Sergey	2753	0-1	2018.11.13
+Indjic, Aleksandar	2620	Karjakin, Sergey	2753	0-1	2018.12.29
+Levin, Ev	2516	Karjakin, Sergey	2753	0-1	2018.12.29
+Mamedyarov, Shakhriyar	2817	Karjakin, Sergey	2753	1-0	2018.11.09
+Praggnanandhaa, R	2530	Karjakin, Sergey	2753	0-1	2018.11.13
+Ssegwanyi, Arthur	2347	Karjakin, Sergey	2760	0-1	2018.09.24
+Vidit, Santosh Gujrathi	2702	Karjakin, Sergey	2753	1-0	2018.11.09
+So, W.	2792	Karjakin, Sergey	2753	1/2-1/2	2018.01.13
+Jones, G.	2640	Karjakin, Sergey	2753	1/2-1/2	2018.01.13
+Hou Yifan	2680	Karjakin, Sergey	2753	1/2-1/2	2018.01.13
+Adhiban, Baskaran	2655	Karjakin, Sergey	2753	1/2-1/2	2018.01.13
+Matlakov, M.	2718	Karjakin, Sergey	2753	1/2-1/2	2018.01.13
+Giri, A.	2752	Karjakin, Sergey	2753	1/2-1/2	2018.01.13
+Svidler, P.	2768	Karjakin, Sergey	2753	1/2-1/2	2018.01.13
+Andreikin, D.	2712	Karjakin, Sergey	2763	1/2-1/2	2018.03.05
+Fedoseev, Vl3	2724	Karjakin, Sergey	2763	1/2-1/2	2018.03.05
+Svidler, P.	2760	Karjakin, Sergey	2763	1/2-1/2	2018.03.02
+Nakamura, Hi	2787	Karjakin, Sergey	2763	1/2-1/2	2018.03.02
+Gelfand, B.	2695	Karjakin, Sergey	2763	1/2-1/2	2018.03.02
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2763	1/2-1/2	2018.03.02
+Kramnik, V.	2800	Karjakin, Sergey	2763	1/2-1/2	2018.03.10
+Sarana, A.	2577	Karjakin, Sergey	2763	1/2-1/2	2018.03.01
+Ding Liren	2769	Karjakin, Sergey	2763	1/2-1/2	2018.03.10
+Mamedyarov, S.	2809	Karjakin, Sergey	2763	1/2-1/2	2018.03.10
+Caruana, F.	2784	Karjakin, Sergey	2763	1/2-1/2	2018.03.10
+So, W.	2799	Karjakin, Sergey	2763	1/2-1/2	2018.03.10
+Grischuk, A.	2767	Karjakin, Sergey	2763	1/2-1/2	2018.03.10
+Mamedov, Rau	2704	Karjakin, Sergey	2778	1/2-1/2	2018.04.19
+Giri, A.	2777	Karjakin, Sergey	2778	1/2-1/2	2018.04.19
+Timofeev, Artyom	2589	Karjakin, Sergey	2753	0-1	2018.12.26
+Vocaturo, Daniele	2615	Karjakin, Sergey	2760	0-1	2018.09.24
+Zhigalko, Sergei	2604	Karjakin, Sergey	2753	0-1	2018.12.29
+Mamedyarov, S.	2814	Karjakin, Sergey	2778	1/2-1/2	2018.04.19
+Radjabov, T.	2748	Karjakin, Sergey	2778	1/2-1/2	2018.04.19
+Wojtaszek, R.	2744	Karjakin, Sergey	2778	1/2-1/2	2018.04.19
+So, W.	2778	Karjakin, Sergey	2782	1/2-1/2	2018.05.28
+Mamedyarov, S.	2808	Karjakin, Sergey	2782	1/2-1/2	2018.05.28
+Carlsen, M.	2843	Karjakin, Sergey	2782	1/2-1/2	2018.05.27
+Aronian, L.	2764	Karjakin, Sergey	2782	1/2-1/2	2018.06.15
+Giri, A.	2782	Karjakin, Sergey	2782	1/2-1/2	2018.06.15
+So, W.	2778	Karjakin, Sergey	2782	1/2-1/2	2018.06.12
+Nakamura, Hi	2769	Karjakin, Sergey	2782	1/2-1/2	2018.06.15
+So, W.	2778	Karjakin, Sergey	2782	1/2-1/2	2018.06.15
+Nakamura, Hi	2769	Karjakin, Sergey	2782	1/2-1/2	2018.06.12
+Mamedyarov, S.	2808	Karjakin, Sergey	2782	1/2-1/2	2018.06.12
+Vachier Lagrave, M.	2789	Karjakin, Sergey	2782	1/2-1/2	2018.06.12
+Grischuk, A.	2766	Karjakin, Sergey	2782	1/2-1/2	2018.06.23
+So, W.	2778	Karjakin, Sergey	2782	1/2-1/2	2018.06.23
+Nakamura, Hi	2769	Karjakin, Sergey	2782	1/2-1/2	2018.06.23
+Caruana, F.	2816	Karjakin, Sergey	2782	1/2-1/2	2018.06.20
+Grischuk, A.	2766	Karjakin, Sergey	2782	1/2-1/2	2018.06.20
+Anand, V.	2759	Karjakin, Sergey	2782	1/2-1/2	2018.06.20
+Aronian, L.	2764	Karjakin, Sergey	2782	1/2-1/2	2018.06.23
+Grischuk, A.	2766	Karjakin, Sergey	2773	1/2-1/2	2018.08.11
+Anand, V.	2768	Karjakin, Sergey	2773	1/2-1/2	2018.08.11
+Anand, V.	2768	Karjakin, Sergey	2773	1/2-1/2	2018.08.14
+Dominguez Perez, L.	2739	Karjakin, Sergey	2773	1/2-1/2	2018.08.14
+Grischuk, A.	2766	Karjakin, Sergey	2773	1/2-1/2	2018.08.14
+Aronian, L.	2767	Karjakin, Sergey	2773	1/2-1/2	2018.08.14
+Vachier Lagrave, M.	2779	Karjakin, Sergey	2773	1/2-1/2	2018.08.11
+So, W.	2780	Karjakin, Sergey	2773	1/2-1/2	2018.08.18
+Nakamura, Hi	2777	Karjakin, Sergey	2773	1/2-1/2	2018.08.18
+Duda, J.	2737	Karjakin, Sergey	2773	1/2-1/2	2018.07.24
+Duda, J.	2737	Karjakin, Sergey	2773	1/2-1/2	2018.07.24
+Anand, Viswanathan	2773	Karjakin, Sergey	2753	1/2-1/2	2018.11.13
+Andreikin, Dmitry	2719	Karjakin, Sergey	2753	1/2-1/2	2018.12.29
+Cheparinov, Ivan	2709	Karjakin, Sergey	2753	1/2-1/2	2018.12.29
+Duda, Jan-Krzysztof	2739	Karjakin, Sergey	2760	1/2-1/2	2018.09.24
+Esipenko, Andrey	2593	Karjakin, Sergey	2753	1/2-1/2	2018.12.26
+Fridman, Daniel	2600	Karjakin, Sergey	2760	1/2-1/2	2018.10.20
+Giri, Anish	2783	Karjakin, Sergey	2753	1/2-1/2	2018.12.29
+Inarkiev, Ernesto	2693	Karjakin, Sergey	2753	1/2-1/2	2018.12.26
+Kovalenko, Igor	2657	Karjakin, Sergey	2753	1/2-1/2	2018.12.29
+Mamedyarov, Shakhriyar	2817	Karjakin, Sergey	2753	1/2-1/2	2018.11.13
+Matlakov, Maxim	2700	Karjakin, Sergey	2753	1/2-1/2	2018.12.29
+Matlakov, Maxim	2700	Karjakin, Sergey	2753	1/2-1/2	2018.12.26
+Motylev, Alexander	2644	Karjakin, Sergey	2753	1/2-1/2	2018.12.26
+Nakamura, Hikaru	2746	Karjakin, Sergey	2753	1/2-1/2	2018.11.13
+Nihal, Sarin	2576	Karjakin, Sergey	2753	1/2-1/2	2018.11.09
+Paehtz, Elisabeth	2513	Karjakin, Sergey	2760	1/2-1/2	2018.10.20
+Paichadze, Luka	2564	Karjakin, Sergey	2760	1/2-1/2	2018.09.24
+Parligras, Mircea-Emilian	2623	Karjakin, Sergey	2760	1/2-1/2	2018.10.20
+Karjakin, Sergey	2785	Van Wely, L.	2695	1-0	2017.01.14
+Karjakin, Sergey	2785	Aronian, L.	2780	1-0	2017.01.14
+Karjakin, Sergey	2785	Andreikin, D.	2736	1-0	2017.01.14
+Karjakin, Sergey	2783	Topalov, V.	2741	1-0	2017.04.21
+Karjakin, Sergey	2783	Eljanov, P.	2751	1-0	2017.04.21
+Karjakin, Sergey	2783	Meier, Geo	2630	1-0	2017.05.03
+Karjakin, Sergey	2783	Meier, Geo	2630	1-0	2017.05.03
+Karjakin, Sergey	2783	Meier, Geo	2630	1-0	2017.05.03
+Karjakin, Sergey	2783	Meier, Geo	2630	1-0	2017.05.03
+Karjakin, Sergey	2783	Meier, Geo	2630	1-0	2017.05.03
+Karjakin, Sergey	2783	Meier, Geo	2630	1-0	2017.05.03
+Karjakin, Sergey	2783	Meier, Geo	2630	1-0	2017.05.03
+Karjakin, Sergey	2781	Giri, A.	2771	1-0	2017.06.05
+Karjakin, Sergey	2781	Vachier Lagrave, M.	2796	1-0	2017.06.05
+Karjakin, Sergey	2781	Caruana, F.	2808	1-0	2017.06.05
+Karjakin, Sergey	2781	Nakamura, Hi	2785	1-0	2017.06.05
+Karjakin, Sergey	2781	Carlsen, M.	2832	1-0	2017.06.24
+Ponkratov, Pavel	2630	Karjakin, Sergey	2753	1/2-1/2	2018.12.26
+Popovic, Dusan	2517	Karjakin, Sergey	2760	1/2-1/2	2018.09.24
+Shirov, Alexei	2643	Karjakin, Sergey	2753	1/2-1/2	2018.12.26
+Short, Nigel D	2652	Karjakin, Sergey	2760	1/2-1/2	2018.10.20
+So, Wesley	2765	Karjakin, Sergey	2753	1/2-1/2	2018.11.09
+So, Wesley	2765	Karjakin, Sergey	2753	1/2-1/2	2018.11.13
+Vachier-Lagrave, Maxime	2780	Karjakin, Sergey	2760	1/2-1/2	2018.09.24
+Vidit, Santosh Gujrathi	2702	Karjakin, Sergey	2753	1/2-1/2	2018.11.13
+Karjakin, Sergey	2781	Grischuk, A.	2761	1-0	2017.06.24
+Karjakin, Sergey	2781	Vachier Lagrave, M.	2796	1-0	2017.06.24
+Karjakin, Sergey	2781	Bacrot, E.	2708	1-0	2017.06.24
+Karjakin, Sergey	2781	So, W.	2812	1-0	2017.06.24
+Karjakin, Sergey	2780	Smirnov, Ant	2508	1-0	2017.09.03
+Karjakin, Sergey	2765	Johannesson, Oliver	2273	1-0	2017.10.08
+Karjakin, Sergey	2765	Ragger, M.	2659	1-0	2017.10.08
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1-0	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1-0	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1-0	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1-0	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1-0	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1-0	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1-0	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1-0	2017.05.03
+Karjakin, Sergey	2760	Wei Yi	2739	1-0	2017.11.26
+Karjakin, Sergey	2760	Deac, Bogdan-Daniel	2566	1-0	2017.11.26
+Karjakin, Sergey	2760	Ivanchuk, V.	2729	1-0	2017.11.28
+Karjakin, Sergey	2760	Deac, Bogdan-Daniel	2566	1-0	2017.11.28
+Karjakin, Sergey	2760	Deac, Bogdan-Daniel	2566	1-0	2017.11.28
+Karjakin, Sergey	2783	Nakamura, Hi	2786	1-0	2017.05.03
+Karjakin, Sergey	2783	Nakamura, Hi	2786	1-0	2017.05.03
+Karjakin, Sergey	2760	Ni Hua	2671	1-0	2017.12.26
+Karjakin, Sergey	2760	Vidit, S.	2715	1-0	2017.12.26
+Karjakin, Sergey	2760	Adnani, M.	2448	1-0	2017.12.26
+Karjakin, Sergey	2785	Adhiban, Baskaran	2653	0-1	2017.01.14
+Karjakin, Sergey	2783	Adams, Mi	2761	0-1	2017.04.21
+Karjakin, Sergey	2783	Meier, Geo	2630	0-1	2017.05.03
+Karjakin, Sergey	2783	Meier, Geo	2630	0-1	2017.05.03
+Karjakin, Sergey	2781	Carlsen, M.	2832	0-1	2017.06.05
+Karjakin, Sergey	2781	Aronian, L.	2793	0-1	2017.06.06
+Karjakin, Sergey	2760	Miton, K.	2584	1-0	2017.12.26
+Karjakin, Sergey	2760	Malakhov, V.	2686	1-0	2017.12.29
+Karjakin, Sergey	2760	Short, N.	2678	1-0	2017.12.29
+Karjakin, Sergey	2760	Amonatov, F.	2636	1-0	2017.12.29
+Karjakin, Sergey	2760	Andriasian, Z.	2585	1-0	2017.12.29
+Karjakin, Sergey	2760	Esipenko, Andrey	2564	1-0	2017.12.29
+Karjakin, Sergey	2760	Korobov, A.	2652	1-0	2017.12.29
+Karjakin, Sergey	2760	Mamedyarov, S.	2799	1-0	2017.12.29
+Karjakin, Sergey	2773	Svidler, Peter	2749	1-0	2017.08.02
+Karjakin, Sergey	2773	Le, Quang Liem	2739	1-0	2017.08.14
+Karjakin, Sergey	2773	Anand, Viswanathan	2783	1-0	2017.08.14
+Karjakin, Sergey	2773	Nakamura, Hikaru	2792	1-0	2017.08.17
+Karjakin, Sergey	2773	Le, Quang Liem	2739	1-0	2017.08.17
+Karjakin, Sergey	2773	Caruana, Fabiano	2807	1-0	2017.08.17
+Karjakin, Sergey	2773	Nepomniachtchi, Ian	2751	1-0	2017.08.17
+Karjakin, Sergey	2773	Dominguez Perez, Leinier	2739	1-0	2017.08.17
+Karjakin, Sergey	2773	Kasparov, Garry	2812	1-0	2017.08.17
+Karjakin, Sergey	2773	So, Wesley	2810	1-0	2017.08.02
+Karjakin, Sergey	2773	Anand, Viswanathan	2783	1-0	2017.08.17
+Karjakin, Sergey	2785	Giri, A.	2773	1/2-1/2	2017.01.14
+Karjakin, Sergey	2785	So, W.	2808	1/2-1/2	2017.01.14
+Karjakin, Sergey	2785	Nepomniachtchi, I.	2767	1/2-1/2	2017.01.14
+Karjakin, Sergey	2783	Harikrishna, P.	2755	1/2-1/2	2017.04.21
+Karjakin, Sergey	2783	Kramnik, V.	2811	1/2-1/2	2017.04.21
+Karjakin, Sergey	2783	Meier, Geo	2630	1/2-1/2	2017.05.03
+Karjakin, Sergey	2783	Meier, Geo	2630	1/2-1/2	2017.05.03
+Karjakin, Sergey	2783	Meier, Geo	2630	1/2-1/2	2017.05.03
+Karjakin, Sergey	2781	Nakamura, Hi	2785	0-1	2017.06.24
+Karjakin, Sergey	2781	Caruana, F.	2808	0-1	2017.06.24
+Karjakin, Sergey	2781	Grischuk, A.	2761	0-1	2017.06.21
+Karjakin, Sergey	2781	Vachier Lagrave, M.	2796	0-1	2017.06.21
+Karjakin, Sergey	2781	Mamedyarov, S.	2800	0-1	2017.06.21
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	0-1	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	0-1	2017.05.03
+Karjakin, Sergey	2760	Ivanchuk, V.	2729	0-1	2017.11.28
+Karjakin, Sergey	2760	Wei Yi	2739	0-1	2017.11.28
+Karjakin, Sergey	2760	Vachier Lagrave, M.	2789	0-1	2017.12.01
+Karjakin, Sergey	2760	Caruana, F.	2799	0-1	2017.12.01
+Karjakin, Sergey	2783	Nakamura, Hi	2786	0-1	2017.05.03
+Karjakin, Sergey	2783	Nakamura, Hi	2786	0-1	2017.05.03
+Karjakin, Sergey	2760	Eljanov, P.	2711	0-1	2017.12.26
+Karjakin, Sergey	2760	Esipenko, Andrey	2564	0-1	2017.12.26
+Karjakin, Sergey	2773	Aronian, Levon	2799	0-1	2017.08.14
+Karjakin, Sergey	2773	Navara, David	2737	0-1	2017.08.17
+Karjakin, Sergey	2783	Meier, Geo	2630	1/2-1/2	2017.05.03
+Karjakin, Sergey	2781	Anand, V.	2786	1/2-1/2	2017.06.06
+Karjakin, Sergey	2781	Caruana, F.	2808	1/2-1/2	2017.06.06
+Karjakin, Sergey	2781	Vachier Lagrave, M.	2796	1/2-1/2	2017.06.06
+Karjakin, Sergey	2781	Topalov, V.	2749	1/2-1/2	2017.06.24
+Karjakin, Sergey	2781	Mamedyarov, S.	2800	1/2-1/2	2017.06.24
+Karjakin, Sergey	2781	Topalov, V.	2749	1/2-1/2	2017.06.21
+Karjakin, Sergey	2781	Caruana, F.	2808	1/2-1/2	2017.06.21
+Karjakin, Sergey	2780	Smirnov, Ant	2508	1/2-1/2	2017.09.03
+Karjakin, Sergey	2780	Dubov, Daniil	2666	1/2-1/2	2017.09.03
+Karjakin, Sergey	2765	Yu Yangyi	2743	1/2-1/2	2017.10.08
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1/2-1/2	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1/2-1/2	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1/2-1/2	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1/2-1/2	2017.05.03
+Karjakin, Sergey	2760	Ivanchuk, V.	2729	1/2-1/2	2017.11.26
+Karjakin, Sergey	2760	Carlsen, M.	2837	1/2-1/2	2017.12.01
+Karjakin, Sergey	2760	Wei Yi	2739	1/2-1/2	2017.11.28
+Karjakin, Sergey	2760	Nakamura, Hi	2781	1/2-1/2	2017.12.01
+Karjakin, Sergey	2783	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Karjakin, Sergey	2783	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Karjakin, Sergey	2783	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Karjakin, Sergey	2783	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Karjakin, Sergey	2783	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Karjakin, Sergey	2783	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Karjakin, Sergey	2752	Esipenko, Andrey	2682	1/2-1/2	Sun Dec 06 2020
+Karjakin, Sergey	2752	Chigaev, Maksim	2598	1/2-1/2	Tue Dec 08 2020
+Karjakin, Sergey	2752	Matlakov, Maxim	2685	1-0	Thu Dec 10 2020
+Karjakin, Sergey	2752	Svidler, Peter	2723	1-0	Sun Dec 13 2020
+Nepomniachtchi, Ian	2784	Karjakin, Sergey	2752	1-0	Sat Dec 12 2020
+Karjakin, Sergey	2752	Artemiev, Vladislav	2716	1-0	Tue Dec 15 2020
+Pichot, Alan	2630	Karjakin, Sergey	2757	1/2-1/2	Sat Mar 13 2021
+Vachier-Lagrave, Maxime	2758	Karjakin, Sergey	2757	1/2-1/2	Sun Mar 14 2021
+Giri, Anish	2776	Karjakin, Sergey	2757	1/2-1/2	Mon Mar 15 2021
+Carlsen, Magnus	2847	Karjakin, Sergey	2757	1/2-1/2	Sat Apr 24 2021
+Aronian, Levon	2781	Karjakin, Sergey	2757	1/2-1/2	Mon Apr 26 2021
+Dominguez Perez, Leinier	2758	Karjakin, Sergey	2757	1/2-1/2	Sun Apr 25 2021
+Vachier-Lagrave, Maxime	2749	Karjakin, Sergey	2757	1/2-1/2	2021.07.25
+Artemiev, Vladislav	2704	Karjakin, Sergey	2757	1/2-1/2	2021.07.23
+Vachier-Lagrave, Maxime	2831	Karjakin, Sergey	2709	1/2-1/2	2021.07.27
+Shankland, Sam	2709	Karjakin, Sergey	2757	0-1	2021.07.30
+Fedoseev, Vladimir	2696	Karjakin, Sergey	2757	1/2-1/2	2021.08.01
+Esipenko, Andrey	2595	Karjakin, Sergey	2765	0-1	2021.08.16
+Predke, Alexandr	2642	Karjakin, Sergey	2765	0-1	2021.08.16
+Firouzja, Alireza	2754	Karjakin, Sergey	2758	1/2-1/2	Thu Sep 09 2021
+Firouzja, Alireza	2754	Karjakin, Sergey	2758	0-1	2021.09.09
+Tari, Aryan	2642	Karjakin, Sergey	2758	0-1	2021.09.10
+Tari, Aryan	2642	Karjakin, Sergey	2758	1/2-1/2	2021.09.10
+Vidit, Santosh Gujrathi	2639	Karjakin, Sergey	2757	1/2-1/2	2021.10.12
+Sethuraman, S.P.	2556	Karjakin, Sergey	2757	1/2-1/2	2021.10.15
+Wei Yi	2706	Karjakin, Sergey	2785	1-0	2017.01.14
+So, W.	2822	Karjakin, Sergey	2783	1-0	2017.04.21
+Aronian, L.	2793	Karjakin, Sergey	2781	1-0	2017.06.05
+Kramnik, V.	2808	Karjakin, Sergey	2781	1-0	2017.06.05
+So, W.	2812	Karjakin, Sergey	2781	1-0	2017.06.05
+Carlsen, M.	2832	Karjakin, Sergey	2781	1-0	2017.06.06
+Bacrot, E.	2708	Karjakin, Sergey	2781	1-0	2017.06.24
+Nakamura, Hi	2785	Karjakin, Sergey	2781	1-0	2017.06.24
+Caruana, F.	2808	Karjakin, Sergey	2781	1-0	2017.06.24
+Dubov, Daniil	2666	Karjakin, Sergey	2780	1-0	2017.09.03
+Grachev, B.	2645	Karjakin, Sergey	2765	1-0	2017.10.08
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	1-0	2017.05.03
+Karjakin, Sergey	2783	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Karjakin, Sergey	2783	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Karjakin, Sergey	2783	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Karjakin, Sergey	2783	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Karjakin, Sergey	2760	Pantsulaia, L.	2612	1/2-1/2	2017.12.26
+Karjakin, Sergey	2760	Onischuk, V.	2637	1/2-1/2	2017.12.29
+Karjakin, Sergey	2760	Nepomniachtchi, I.	2729	1/2-1/2	2017.12.29
+Karjakin, Sergey	2760	Yu Yangyi	2751	1/2-1/2	2017.12.29
+Karjakin, Sergey	2773	Aronian, Levon	2809	1/2-1/2	2017.08.02
+Karjakin, Sergey	2773	Nepomniachtchi, Ian	2742	1/2-1/2	2017.08.02
+Karjakin, Sergey	2773	Anand, Viswanathan	2783	1/2-1/2	2017.08.02
+Karjakin, Sergey	2773	Nakamura, Hikaru	2792	1/2-1/2	2017.08.14
+Karjakin, Sergey	2773	Aronian, Levon	2799	1/2-1/2	2017.08.17
+Meier, Geo	2630	Karjakin, Sergey	2783	0-1	2017.05.03
+Meier, Geo	2630	Karjakin, Sergey	2783	0-1	2017.05.03
+Meier, Geo	2630	Karjakin, Sergey	2783	0-1	2017.05.03
+Meier, Geo	2630	Karjakin, Sergey	2783	0-1	2017.05.03
+Meier, Geo	2630	Karjakin, Sergey	2783	0-1	2017.05.03
+Meier, Geo	2630	Karjakin, Sergey	2783	0-1	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	1-0	2017.05.03
+Ivanchuk, V.	2729	Karjakin, Sergey	2760	1-0	2017.11.26
+Wei Yi	2739	Karjakin, Sergey	2760	1-0	2017.11.26
+Ivanchuk, V.	2729	Karjakin, Sergey	2760	1-0	2017.11.28
+Ivanchuk, V.	2729	Karjakin, Sergey	2760	1-0	2017.11.28
+Nakamura, Hi	2786	Karjakin, Sergey	2783	1-0	2017.05.03
+Nakamura, Hi	2786	Karjakin, Sergey	2783	1-0	2017.05.03
+Nakamura, Hi	2786	Karjakin, Sergey	2783	1-0	2017.05.03
+Nakamura, Hi	2786	Karjakin, Sergey	2783	1-0	2017.05.03
+Nakamura, Hi	2786	Karjakin, Sergey	2783	1-0	2017.05.03
+Khader, Sam	2392	Karjakin, Sergey	2760	1-0	2017.12.26
+Savchenko, B.	2566	Karjakin, Sergey	2760	1-0	2017.12.26
+Alekseev, Evgeny	2616	Karjakin, Sergey	2760	1-0	2017.12.26
+Carlsen, M.	2837	Karjakin, Sergey	2760	1-0	2017.12.29
+Aronian, L.	2805	Karjakin, Sergey	2760	1-0	2017.12.29
+Carlsen, Magnus	2822	Karjakin, Sergey	2773	1-0	2017.08.02
+Caruana, Fabiano	2807	Karjakin, Sergey	2773	1-0	2017.08.14
+Nakamura, Hikaru	2792	Karjakin, Sergey	2773	1-0	2017.08.17
+Navara, David	2737	Karjakin, Sergey	2773	1-0	2017.08.14
+Meier, Geo	2630	Karjakin, Sergey	2783	0-1	2017.05.03
+Mamedyarov, S.	2800	Karjakin, Sergey	2781	0-1	2017.06.24
+So, W.	2812	Karjakin, Sergey	2781	0-1	2017.06.24
+So, W.	2812	Karjakin, Sergey	2781	0-1	2017.06.21
+Bacrot, E.	2708	Karjakin, Sergey	2781	0-1	2017.06.21
+Smirnov, Ant	2508	Karjakin, Sergey	2780	0-1	2017.09.03
+Nikolovski, Nikola	2420	Karjakin, Sergey	2765	0-1	2017.10.08
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	0-1	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	0-1	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	0-1	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	0-1	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	0-1	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	0-1	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	0-1	2017.05.03
+Deac, Bogdan-Daniel	2566	Karjakin, Sergey	2760	0-1	2017.11.26
+Deac, Bogdan-Daniel	2566	Karjakin, Sergey	2760	0-1	2017.11.28
+Wei Yi	2739	Karjakin, Sergey	2760	0-1	2017.11.28
+Deac, Bogdan-Daniel	2566	Karjakin, Sergey	2760	0-1	2017.11.28
+Wei Yi	2739	Karjakin, Sergey	2760	0-1	2017.11.28
+Nakamura, Hi	2786	Karjakin, Sergey	2783	0-1	2017.05.03
+Nakamura, Hi	2786	Karjakin, Sergey	2783	0-1	2017.05.03
+Salem, AR.	2638	Karjakin, Sergey	2760	0-1	2017.12.26
+Akobian, V.	2647	Karjakin, Sergey	2760	0-1	2017.12.26
+Araz, B.	2368	Karjakin, Sergey	2760	0-1	2017.12.26
+Moiseenko, A1.	2667	Karjakin, Sergey	2760	0-1	2017.12.26
+Rapport, R.	2702	Karjakin, Sergey	2785	1/2-1/2	2017.01.14
+Harikrishna, P.	2766	Karjakin, Sergey	2785	1/2-1/2	2017.01.14
+Eljanov, P.	2755	Karjakin, Sergey	2785	1/2-1/2	2017.01.14
+Carlsen, M.	2840	Karjakin, Sergey	2785	1/2-1/2	2017.01.14
+Wojtaszek, R.	2750	Karjakin, Sergey	2785	1/2-1/2	2017.01.14
+Mamedyarov, S.	2772	Karjakin, Sergey	2783	1/2-1/2	2017.04.21
+Wojtaszek, R.	2745	Karjakin, Sergey	2783	1/2-1/2	2017.04.21
+Radjabov, T.	2710	Karjakin, Sergey	2783	1/2-1/2	2017.04.21
+Meier, Geo	2630	Karjakin, Sergey	2783	1/2-1/2	2017.05.03
+Meier, Geo	2630	Karjakin, Sergey	2783	1/2-1/2	2017.05.03
+Meier, Geo	2630	Karjakin, Sergey	2783	1/2-1/2	2017.05.03
+Meier, Geo	2630	Karjakin, Sergey	2783	1/2-1/2	2017.05.03
+Anand, V.	2786	Karjakin, Sergey	2781	1/2-1/2	2017.06.05
+So, W.	2812	Karjakin, Sergey	2781	1/2-1/2	2017.06.06
+Nakamura, Hi	2785	Karjakin, Sergey	2781	1/2-1/2	2017.06.06
+Kramnik, V.	2808	Karjakin, Sergey	2781	1/2-1/2	2017.06.06
+Giri, A.	2771	Karjakin, Sergey	2781	1/2-1/2	2017.06.06
+Vachier Lagrave, M.	2796	Karjakin, Sergey	2781	1/2-1/2	2017.06.24
+Meier, Geo	2650	Karjakin, Sergey	2760	0-1	2017.12.29
+Ponkratov, P.	2613	Karjakin, Sergey	2760	0-1	2017.12.29
+Grischuk, A.	2772	Karjakin, Sergey	2760	0-1	2017.12.29
+Caruana, Fabiano	2807	Karjakin, Sergey	2773	0-1	2017.08.17
+Dominguez Perez, Leinier	2739	Karjakin, Sergey	2773	0-1	2017.08.17
+Le, Quang Liem	2739	Karjakin, Sergey	2773	0-1	2017.08.17
+Navara, David	2737	Karjakin, Sergey	2773	0-1	2017.08.17
+Grischuk, A.	2761	Karjakin, Sergey	2781	1/2-1/2	2017.06.24
+Topalov, V.	2749	Karjakin, Sergey	2781	1/2-1/2	2017.06.24
+Carlsen, M.	2832	Karjakin, Sergey	2781	1/2-1/2	2017.06.24
+Carlsen, M.	2832	Karjakin, Sergey	2781	1/2-1/2	2017.06.21
+Nakamura, Hi	2785	Karjakin, Sergey	2781	1/2-1/2	2017.06.21
+Smirnov, Ant	2508	Karjakin, Sergey	2780	1/2-1/2	2017.09.03
+Erdos, V.	2624	Karjakin, Sergey	2765	1/2-1/2	2017.10.08
+Guseinov, G.	2647	Karjakin, Sergey	2765	1/2-1/2	2017.10.08
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	1/2-1/2	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	1/2-1/2	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	1/2-1/2	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	1/2-1/2	2017.05.03
+Adams, Mi	2715	Karjakin, Sergey	2760	1/2-1/2	2017.12.01
+Aronian, L.	2805	Karjakin, Sergey	2760	1/2-1/2	2017.12.01
+So, W.	2788	Karjakin, Sergey	2760	1/2-1/2	2017.12.01
+Nepomniachtchi, I.	2729	Karjakin, Sergey	2760	1/2-1/2	2017.12.01
+Anand, V.	2782	Karjakin, Sergey	2760	1/2-1/2	2017.12.01
+Nakamura, Hi	2786	Karjakin, Sergey	2783	1/2-1/2	2017.05.03
+Nakamura, Hi	2786	Karjakin, Sergey	2783	1/2-1/2	2017.05.03
+Nakamura, Hi	2786	Karjakin, Sergey	2783	1/2-1/2	2017.05.03
+Nakamura, Hi	2786	Karjakin, Sergey	2783	1/2-1/2	2017.05.03
+Nakamura, Hi	2786	Karjakin, Sergey	2783	1/2-1/2	2017.05.03
+Nakamura, Hi	2786	Karjakin, Sergey	2783	1/2-1/2	2017.05.03
+Leko, P.	2691	Karjakin, Sergey	2760	1/2-1/2	2017.12.26
+Petrosian, TL.	2601	Karjakin, Sergey	2760	1/2-1/2	2017.12.29
+Karjakin, Sergey	2774	Jobava, Ba	2669	1-0	2016.06.18
+Karjakin, Sergey	2774	Amonatov, F.	2614	1-0	2016.06.18
+Karjakin, Sergey	2774	Mamedyarov, S.	2746	1-0	2016.06.18
+Karjakin, Sergey	2774	Onischuk, V.	2613	1-0	2016.06.18
+Karjakin, Sergey	2774	Arutinian, D.	2527	1-0	2016.06.18
+Karjakin, Sergey	2774	Pak, Y.	2401	1-0	2016.06.18
+Karjakin, Sergey	2779	Harikrishna, P.	2763	1-0	2016.05.26
+Karjakin, Sergey	2779	Hou Yifan	2663	1-0	2016.05.26
+Karjakin, Sergey	2769	Tomashevsky, E.	2728	1-0	2016.01.16
+Karjakin, Sergey	2760	Topalov, V.	2780	1-0	2016.03.11
+Vachier Lagrave, M.	2789	Karjakin, Sergey	2760	1/2-1/2	2017.12.29
+Ding Liren	2777	Karjakin, Sergey	2760	1/2-1/2	2017.12.29
+Wang Hao	2709	Karjakin, Sergey	2760	1/2-1/2	2017.12.29
+Svidler, P.	2765	Karjakin, Sergey	2760	1/2-1/2	2017.12.29
+Anand, V.	2782	Karjakin, Sergey	2760	1/2-1/2	2017.12.29
+Anand, Viswanathan	2783	Karjakin, Sergey	2773	1/2-1/2	2017.08.17
+Aronian, Levon	2799	Karjakin, Sergey	2773	1/2-1/2	2017.08.17
+Caruana, Fabiano	2807	Karjakin, Sergey	2773	1/2-1/2	2017.08.02
+Dominguez Perez, Leinier	2739	Karjakin, Sergey	2773	1/2-1/2	2017.08.14
+Kasparov, Garry	2812	Karjakin, Sergey	2773	1/2-1/2	2017.08.17
+Kasparov, Garry	2812	Karjakin, Sergey	2773	1/2-1/2	2017.08.14
+Nakamura, Hikaru	2792	Karjakin, Sergey	2773	1/2-1/2	2017.08.02
+Nepomniachtchi, Ian	2751	Karjakin, Sergey	2773	1/2-1/2	2017.08.14
+Nepomniachtchi, Ian	2751	Karjakin, Sergey	2773	1/2-1/2	2017.08.17
+Vachier-Lagrave, Maxime	2791	Karjakin, Sergey	2773	1/2-1/2	2017.08.02
+Karjakin, Sergey	2769	Adams, Mi	2744	0-1	2016.01.16
+Karjakin, Sergey	2774	Svidler, P.	2759	0-1	2016.06.18
+Karjakin, Sergey	2774	Grischuk, A.	2747	0-1	2016.06.18
+Karjakin, Sergey	2774	Shoker, S.	2489	0-1	2016.06.18
+Karjakin, Sergey	2779	Svidler, P.	2762	0-1	2016.05.01
+Karjakin, Sergey	2760	Caruana, F.	2794	1-0	2016.03.11
+Karjakin, Sergey	2760	Anand, V.	2762	1-0	2016.03.11
+Karjakin, Sergey	2760	Nakamura, Hi	2790	1-0	2016.03.11
+Karjakin, Sergey	2769	Atabayev, M.	2485	1-0	2016.09.02
+Karjakin, Sergey	2769	Amin, B.	2661	1-0	2016.09.02
+Karjakin, Sergey	2769	Navara, D.	2742	1-0	2016.09.02
+Karjakin, Sergey	2772	Carlsen, M.	2853	0-1	2016.11.30
+Karjakin, Sergey	2785	Nguyen Ngoc Truong Son	2629	0-1	2016.12.26
+Karjakin, Sergey	2785	Potapov, P.	2493	1-0	2016.12.26
+Karjakin, Sergey	2785	Matlakov, M.	2694	1-0	2016.12.26
+Karjakin, Sergey	2785	Pantsulaia, L.	2607	1-0	2016.12.26
+Karjakin, Sergey	2785	Lu Shanglei	2627	1-0	2016.12.26
+Karjakin, Sergey	2785	Fressinet, L.	2672	1-0	2016.12.26
+Karjakin, Sergey	2785	Adly, A.	2599	1-0	2016.12.29
+Karjakin, Sergey	2785	Grischuk, A.	2737	1-0	2016.12.29
+Karjakin, Sergey	2785	Li Chao2	2720	1-0	2016.12.29
+Karjakin, Sergey	2785	Leko, P.	2693	1-0	2016.12.29
+Karjakin, Sergey	2785	Ivanchuk, V.	2747	1-0	2016.12.29
+Karjakin, Sergey	2785	Salem, AR.	2656	1-0	2016.12.29
+Karjakin, Sergey	2785	Jobava, Ba	2702	1-0	2016.12.29
+Karjakin, Sergey	2779	Radjabov, T.	2726	1/2-1/2	2016.05.26
+Karjakin, Sergey	2779	Caruana, F.	2804	1/2-1/2	2016.05.26
+Karjakin, Sergey	2779	Grischuk, A.	2752	1/2-1/2	2016.05.01
+Karjakin, Sergey	2769	Carlsen, M.	2844	1/2-1/2	2016.01.16
+Karjakin, Sergey	2769	Eljanov, P.	2760	1/2-1/2	2016.01.16
+Karjakin, Sergey	2769	Van Wely, L.	2640	1/2-1/2	2016.01.16
+Karjakin, Sergey	2769	Giri, A.	2798	1/2-1/2	2016.01.16
+Karjakin, Sergey	2760	Giri, A.	2793	1/2-1/2	2016.03.11
+Karjakin, Sergey	2760	Aronian, L.	2786	1/2-1/2	2016.03.11
+Karjakin, Sergey	2760	Svidler, P.	2757	1/2-1/2	2016.03.11
+Karjakin, Sergey	2773	So, W.	2770	1/2-1/2	2016.07.13
+Karjakin, Sergey	2773	Giri, A.	2785	1/2-1/2	2016.07.13
+Karjakin, Sergey	2773	Nakamura, Hi	2787	1/2-1/2	2016.07.13
+Karjakin, Sergey	2773	Wei Yi	2696	1/2-1/2	2016.07.13
+Karjakin, Sergey	2773	Carlsen, M.	2855	1/2-1/2	2016.07.13
+Karjakin, Sergey	2769	Caruana, F.	2808	1/2-1/2	2016.09.02
+Karjakin, Sergey	2772	Carlsen, M.	2853	1/2-1/2	2016.11.11
+Karjakin, Sergey	2772	Carlsen, M.	2853	1/2-1/2	2016.11.11
+Karjakin, Sergey	2772	Carlsen, M.	2853	1/2-1/2	2016.11.11
+Karjakin, Sergey	2772	Carlsen, M.	2853	1/2-1/2	2016.11.11
+Karjakin, Sergey	2772	Carlsen, M.	2853	1/2-1/2	2016.11.11
+Karjakin, Sergey	2772	Carlsen, M.	2853	1/2-1/2	2016.11.11
+Karjakin, Sergey	2772	Carlsen, M.	2853	1/2-1/2	2016.11.30
+Karjakin, Sergey	2785	Mamedov, Rau	2688	0-1	2016.12.26
+Karjakin, Sergey	2785	Nakamura, Hi	2779	0-1	2016.12.29
+Jobava, Ba	2669	Karjakin, Sergey	2774	1-0	2016.06.18
+Amonatov, F.	2614	Karjakin, Sergey	2774	0-1	2016.06.18
+Mamedyarov, S.	2746	Karjakin, Sergey	2774	1-0	2016.06.18
+Onischuk, V.	2613	Karjakin, Sergey	2774	0-1	2016.06.18
+Arutinian, D.	2527	Karjakin, Sergey	2774	0-1	2016.06.18
+Grischuk, A.	2747	Karjakin, Sergey	2774	0-1	2016.06.18
+Shoker, S.	2489	Karjakin, Sergey	2774	0-1	2016.06.18
+Ponomariov, R.	2706	Karjakin, Sergey	2774	1-0	2016.06.18
+Giri, A.	2790	Karjakin, Sergey	2779	1-0	2016.05.26
+Ding Liren	2766	Karjakin, Sergey	2769	1-0	2016.01.16
+Anand, V.	2762	Karjakin, Sergey	2760	1-0	2016.03.11
+Carlsen, M.	2855	Karjakin, Sergey	2773	1-0	2016.07.13
+Bomo, K.	2340	Karjakin, Sergey	2769	0-1	2016.09.02
+Harikrishna, P.	2752	Karjakin, Sergey	2769	1-0	2016.09.02
+Carlsen, M.	2853	Karjakin, Sergey	2772	0-1	2016.11.11
+Carlsen, M.	2853	Karjakin, Sergey	2772	1-0	2016.11.11
+Carlsen, M.	2853	Karjakin, Sergey	2772	1-0	2016.11.30
+Grandelius, N.	2643	Karjakin, Sergey	2785	1-0	2016.12.26
+Karjakin, Sergey	2785	Salem, AR.	2656	1/2-1/2	2016.12.26
+Karjakin, Sergey	2785	Anand, V.	2779	1/2-1/2	2016.12.29
+Carlsen, M.	2840	Karjakin, Sergey	2785	0-1	2016.12.29
+Bosiocic, Mari	2591	Karjakin, Sergey	2785	0-1	2016.12.29
+Flores, Di	2579	Karjakin, Sergey	2785	0-1	2016.12.29
+Karjakin, Sergey	2785	Morozevich, A.	2676	1/2-1/2	2016.12.29
+Karjakin, Sergey	2785	Vachier Lagrave, M.	2804	1/2-1/2	2016.12.29
+Caruana, F.	2787	Karjakin, Sergey	2769	1/2-1/2	2016.01.16
+Safarli, E.	2664	Karjakin, Sergey	2779	1/2-1/2	2016.05.26
+Mamedov, Rau	2655	Karjakin, Sergey	2779	1/2-1/2	2016.05.26
+Svidler, P.	2759	Karjakin, Sergey	2774	1/2-1/2	2016.06.18
+Moiseenko, A1.	2648	Karjakin, Sergey	2774	1/2-1/2	2016.06.18
+Kramnik, V.	2801	Karjakin, Sergey	2779	1/2-1/2	2016.05.01
+Eljanov, P.	2765	Karjakin, Sergey	2779	1/2-1/2	2016.05.26
+Mamedyarov, S.	2748	Karjakin, Sergey	2779	1/2-1/2	2016.05.26
+Navara, D.	2730	Karjakin, Sergey	2769	1/2-1/2	2016.01.16
+Hou Yifan	2673	Karjakin, Sergey	2769	1/2-1/2	2016.01.16
+So, W.	2773	Karjakin, Sergey	2769	1/2-1/2	2016.01.16
+Wei Yi	2706	Karjakin, Sergey	2769	1/2-1/2	2016.01.16
+Mamedyarov, S.	2747	Karjakin, Sergey	2769	1/2-1/2	2016.01.16
+Aronian, L.	2786	Karjakin, Sergey	2760	1/2-1/2	2016.03.11
+Topalov, V.	2780	Karjakin, Sergey	2760	1/2-1/2	2016.03.11
+Caruana, F.	2794	Karjakin, Sergey	2760	1/2-1/2	2016.03.11
+Svidler, P.	2757	Karjakin, Sergey	2760	1/2-1/2	2016.03.11
+Nakamura, Hi	2790	Karjakin, Sergey	2760	1/2-1/2	2016.03.11
+Giri, A.	2793	Karjakin, Sergey	2760	1/2-1/2	2016.03.11
+Wei Yi	2696	Karjakin, Sergey	2773	1/2-1/2	2016.07.13
+So, W.	2770	Karjakin, Sergey	2773	1/2-1/2	2016.07.13
+Giri, A.	2785	Karjakin, Sergey	2773	1/2-1/2	2016.07.13
+Wojtaszek, R.	2749	Karjakin, Sergey	2785	0-1	2016.12.29
+Mamedyarov, S.	2768	Karjakin, Sergey	2785	0-1	2016.12.29
+Nepomniachtchi, I.	2767	Karjakin, Sergey	2785	0-1	2016.12.29
+Karjakin, Sergey	0	Anand, Viswanathan	0	1-0	Fri Nov 08 2019
+Karjakin, Sergey	0	Anand, Viswanathan	0	1-0	Sat Nov 09 2019
+Karjakin, Sergey	0	Caruana, Fabiano	0	1-0	Sun Nov 10 2019
+Karjakin, Sergey	0	Wei, Yi	0	1-0	Mon Dec 16 2019
+Karjakin, Sergey	0	Kovalev, Vladislav	0	1-0	Fri Dec 27 2019
+Karjakin, Sergey	0	Popov, Ivan	0	1-0	Fri Dec 27 2019
+Karjakin, Sergey	0	Sasikiran, Krishnan	0	1-0	Thu Dec 26 2019
+Karjakin, Sergey	0	Tomashevsky, Evgeny	0	1-0	Sun Dec 29 2019
+Karjakin, Sergey	0	Kramnik, Vladimir	0	1-0	Sun Dec 29 2019
+Karjakin, Sergey	0	Nozdrachev, Vladislav	0	1-0	Sun Dec 29 2019
+Karjakin, Sergey	0	Fridman, Daniel	0	1-0	Mon Dec 30 2019
+Karjakin, Sergey	0	Antipov, Mikhail Al.	0	1-0	Fri Dec 27 2019
+Karjakin, Sergey	0	Alekseev, Evgeny	0	1-0	Mon Dec 30 2019
+Karjakin, Sergey	0	Sychev, Klementy	0	1-0	Mon Dec 30 2019
+Karjakin,Sergey	2753	Amin,B	2709	1-0	2019.03.05
+Karjakin,Sergey	2753	Anand,V	2779	1-0	2019.03.31
+Karjakin,Sergey	2752	Nepomniachtchi,I	2773	1-0	2019.05.11
+Karjakin,Sergey	2752	Topalov,V	2740	1-0	2019.05.11
+Karjakin,Sergey	2752	Amin,B	2704	1-0	2019.05.11
+Karjakin,Sergey	2752	Wei Yi	2736	1-0	2019.05.11
+Vitiugov, Nikita	2722	Karjakin, Sergey	2752	0-1	Mon Dec 07 2020
+Antipov, Mikhail Al.	2591	Karjakin, Sergey	2752	0-1	Sat Dec 05 2020
+Goganov, Aleksey	2573	Karjakin, Sergey	2752	1/2-1/2	Wed Dec 09 2020
+Fedoseev, Vladimir	2674	Karjakin, Sergey	2752	1/2-1/2	Mon Dec 14 2020
+Dubov, Daniil	2699	Karjakin, Sergey	2752	1-0	Wed Dec 16 2020
+Karjakin, Sergey	2766	Zhang Zhong	2619	1-0	2015.12.20
+Karjakin, Sergey	2760	Kramnik, V.	2783	1-0	2015.02.13
+Karjakin, Sergey	2760	Kramnik, V.	2783	1-0	2015.02.19
+Karjakin, Sergey	2757	Khalifman, A.	2613	1-0	2015.03.07
+Karjakin, Sergey	2757	Krasenkow, M.	2614	1-0	2015.03.07
+Karjakin, Sergey	2757	Sakaev, K.	2594	1-0	2015.03.07
+Karjakin, Sergey	2757	Schlosser, P.	2571	1-0	2015.03.07
+Nakamura, Hi	2787	Karjakin, Sergey	2773	1/2-1/2	2016.07.13
+Bologan, V.	2648	Karjakin, Sergey	2769	1/2-1/2	2016.09.02
+Nisipeanu, LD.	2687	Karjakin, Sergey	2769	1/2-1/2	2016.09.02
+Mamedyarov, S.	2761	Karjakin, Sergey	2769	1/2-1/2	2016.09.02
+Carlsen, M.	2853	Karjakin, Sergey	2772	1/2-1/2	2016.11.11
+Carlsen, M.	2853	Karjakin, Sergey	2772	1/2-1/2	2016.11.11
+Carlsen, M.	2853	Karjakin, Sergey	2772	1/2-1/2	2016.11.11
+Carlsen, M.	2853	Karjakin, Sergey	2772	1/2-1/2	2016.11.11
+Carlsen, M.	2853	Karjakin, Sergey	2772	1/2-1/2	2016.11.30
+Debashis, D.	2472	Karjakin, Sergey	2785	1/2-1/2	2016.12.26
+Bortnyk, Olexandr	2581	Karjakin, Sergey	2785	1/2-1/2	2016.12.26
+Inarkiev, E.	2709	Karjakin, Sergey	2785	1/2-1/2	2016.12.26
+Quparadze, G.	2481	Karjakin, Sergey	2785	1/2-1/2	2016.12.26
+Vidit, S.	2689	Karjakin, Sergey	2785	1/2-1/2	2016.12.26
+Yu Yangyi	2729	Karjakin, Sergey	2785	1/2-1/2	2016.12.29
+Dubov, Daniil	2660	Karjakin, Sergey	2785	1/2-1/2	2016.12.29
+Korobov, A.	2692	Karjakin, Sergey	2785	1/2-1/2	2016.12.29
+Dominguez Perez, L.	2739	Karjakin, Sergey	2785	1/2-1/2	2016.12.29
+Karjakin, Sergey	2757	Sethuraman, S.	2623	1-0	2015.04.19
+Karjakin, Sergey	2757	Erdos, V.	2613	1-0	2015.04.19
+Karjakin, Sergey	2753	Tomashevsky, E.	2749	1-0	2015.05.14
+Karjakin, Sergey	2753	Ni Hua	2703	1-0	2015.07.29
+Karjakin, Sergey	2753	Yu Yangyi	2736	1-0	2015.07.29
+Karjakin, Sergey	2753	Wei Yi	2724	1-0	2015.07.29
+Karjakin, Sergey	2753	Khismatullin, D.	2642	1-0	2015.08.09
+Karjakin, Sergey	2753	Artemiev, V.	2671	1-0	2015.08.09
+Karjakin, Sergey	2753	Svidler, P.	2739	1-0	2015.08.09
+Karjakin, Sergey	2762	Gajewski, G.	2654	1-0	2015.10.10
+Karjakin, Sergey	2762	Eljanov, P.	2717	1-0	2015.09.11
+Karjakin, Sergey	2762	Svidler, P.	2727	1-0	2015.09.11
+Karjakin, Sergey	2762	Svidler, P.	2727	1-0	2015.09.11
+Karjakin, Sergey	2762	Svidler, P.	2727	1-0	2015.09.11
+Karjakin, Sergey	2762	Inarkiev, E.	2660	1-0	2015.10.18
+Karjakin, Sergey	2762	Bauer, Ch	2623	1-0	2015.10.18
+Karjakin, Sergey	2762	Korobov, A.	2700	1-0	2015.10.13
+Karjakin, Sergey	2762	Radjabov, T.	2738	1-0	2015.10.13
+Karjakin, Sergey	2762	Socko, B.	2599	1-0	2015.10.13
+Karjakin, Sergey	2762	Kravtsiv, M.	2621	1-0	2015.10.13
+Karjakin, Sergey	2762	Nguyen Ngoc Truong Son	2634	1-0	2015.10.13
+Karjakin, Sergey	2762	Safarli, E.	2657	1-0	2015.10.13
+Karjakin, Sergey	2762	Dubov, Daniil	2661	1-0	2015.10.10
+Karjakin, Sergey	2766	Dubov, Daniil	2655	1-0	2015.12.20
+Karjakin, Sergey	2766	Wang Yue	2724	1-0	2015.12.16
+Karjakin, Sergey	2760	Anand, V.	2797	0-1	2015.02.13
+Karjakin, Sergey	2760	Caruana, F.	2811	0-1	2015.02.13
+Karjakin, Sergey	2760	Caruana, F.	2811	1/2-1/2	2015.02.14
+Karjakin, Sergey	2760	Anand, V.	2797	1/2-1/2	2015.02.14
+Karjakin, Sergey	2760	Nakamura, Hi	2776	1/2-1/2	2015.02.19
+Karjakin, Sergey	2760	Aronian, L.	2777	0-1	2015.02.19
+Karjakin, Sergey	2757	Stocek, J.	2554	1/2-1/2	2015.03.07
+Karjakin, Sergey	2757	Ivanchuk, V.	2731	1/2-1/2	2015.04.19
+Karjakin, Sergey	2757	Yu Yangyi	2724	1/2-1/2	2015.04.19
+Karjakin, Sergey	2753	Ding Liren	2749	0-1	2015.07.29
+Karjakin, Sergey	2762	Radjabov, T.	2738	0-1	2015.10.10
+Karjakin, Sergey	2762	Svidler, P.	2727	0-1	2015.09.11
+Karjakin, Sergey	2762	Svidler, P.	2727	0-1	2015.09.11
+Karjakin, Sergey	2762	Kramnik, V.	2777	0-1	2015.10.13
+Karjakin, Sergey	2762	Aronian, L.	2784	0-1	2015.10.13
+Karjakin, Sergey	2762	Vachier Lagrave, M.	2758	0-1	2015.10.13
+Karjakin, Sergey	2762	Petrosian, TL.	2625	0-1	2015.10.13
+Karjakin, Sergey	2762	Kovalenko, I.	2700	0-1	2015.10.10
+Karjakin, Sergey	2766	Ezat, M.	2490	1-0	2015.12.20
+Karjakin, Sergey	2762	Onischuk, Alexander	2662	1-0	2015.09.11
+Karjakin, Sergey	2762	Espinosa Veloz, Ermes	2495	1-0	2015.09.11
+Karjakin, Sergey	2762	Yu, Yangyi	2721	1-0	2015.09.11
+Karjakin, Sergey	2762	Onischuk, Alexander	2662	1-0	2015.09.11
+Karjakin, Sergey	2762	Mamedyarov, Shakhriyar	2736	1-0	2015.09.11
+Karjakin, Sergey	2762	Andreikin, Dmitry	2720	1-0	2015.09.11
+Nakamura, Hi	2776	Karjakin, Sergey	2760	1-0	2015.02.13
+Nakamura, Hi	2776	Karjakin, Sergey	2760	1-0	2015.02.14
+Karjakin, Sergey	2753	Dominguez Perez, L.	2734	1/2-1/2	2015.05.14
+Karjakin, Sergey	2753	Nakamura, Hi	2799	1/2-1/2	2015.05.14
+Karjakin, Sergey	2753	Caruana, F.	2803	1/2-1/2	2015.05.14
+Karjakin, Sergey	2753	Jobava, Ba	2699	1/2-1/2	2015.05.14
+Karjakin, Sergey	2753	Gelfand, B.	2744	1/2-1/2	2015.05.14
+Karjakin, Sergey	2753	Wei Yi	2724	1/2-1/2	2015.07.29
+Karjakin, Sergey	2753	Motylev, A.	2658	1/2-1/2	2015.08.09
+Karjakin, Sergey	2753	Vitiugov, N.	2719	1/2-1/2	2015.08.09
+Karjakin, Sergey	2753	Tomashevsky, E.	2747	1/2-1/2	2015.08.09
+Karjakin, Sergey	2762	Nepomniachtchi, I.	2705	1/2-1/2	2015.10.10
+Karjakin, Sergey	2762	Kryvoruchko, Y.	2710	1/2-1/2	2015.10.10
+Karjakin, Sergey	2762	Eljanov, P.	2717	1/2-1/2	2015.09.11
+Karjakin, Sergey	2762	Aronian, L.	2784	1/2-1/2	2015.10.18
+Karjakin, Sergey	2762	Caruana, F.	2796	1/2-1/2	2015.10.18
+Karjakin, Sergey	2762	Safarli, E.	2657	1/2-1/2	2015.10.10
+Karjakin, Sergey	2766	Ni Hua	2693	1/2-1/2	2015.12.20
+Karjakin, Sergey	2766	Sasikiran, K.	2638	1/2-1/2	2015.12.20
+Karjakin, Sergey	2766	Wang Yue	2724	1/2-1/2	2015.12.16
+Karjakin, Sergey	2762	Andreikin, Dmitry	2720	1/2-1/2	2015.09.11
+Karjakin, Sergey	2762	Mamedyarov, Shakhriyar	2736	1/2-1/2	2015.09.11
+Karjakin, Sergey	2762	Eljanov, Pavel	2717	1/2-1/2	2015.09.11
+Karjakin, Sergey	2762	Mamedyarov, Shakhriyar	2736	1/2-1/2	2015.09.11
+Karjakin, Sergey	2762	Onischuk, Alexander	2662	1/2-1/2	2015.09.11
+Aronian, L.	2777	Karjakin, Sergey	2760	1-0	2015.02.13
+Caruana, F.	2811	Karjakin, Sergey	2760	1-0	2015.02.19
+Ivanchuk, V.	2731	Karjakin, Sergey	2757	1-0	2015.03.07
+Lysyj, I.	2691	Karjakin, Sergey	2757	0-1	2015.03.07
+Reizniece, D.	2245	Karjakin, Sergey	2757	0-1	2015.03.07
+Sargissian, G.	2668	Karjakin, Sergey	2757	1-0	2015.04.19
+Jakovenko, D.	2738	Karjakin, Sergey	2753	1-0	2015.05.14
+Grischuk, A.	2780	Karjakin, Sergey	2753	1-0	2015.05.14
+Vachier Lagrave, M.	2754	Karjakin, Sergey	2753	0-1	2015.05.14
+Ding Liren	2749	Karjakin, Sergey	2753	0-1	2015.07.29
+Yu Yangyi	2736	Karjakin, Sergey	2753	0-1	2015.07.29
+Wei Yi	2724	Karjakin, Sergey	2753	0-1	2015.07.29
+Malakhov, V.	2694	Karjakin, Sergey	2762	0-1	2015.10.10
+Meier, Geo	2654	Karjakin, Sergey	2762	0-1	2015.10.10
+Korobov, A.	2700	Karjakin, Sergey	2762	0-1	2015.10.10
+Borisek, J.	2565	Karjakin, Sergey	2762	0-1	2015.10.10
+Eljanov, P.	2717	Karjakin, Sergey	2762	1-0	2015.09.11
+Svidler, P.	2727	Karjakin, Sergey	2762	1-0	2015.09.11
+Svidler, P.	2727	Karjakin, Sergey	2762	1-0	2015.09.11
+Navara, D.	2734	Karjakin, Sergey	2762	1-0	2015.10.13
+Grischuk, A.	2774	Karjakin, Sergey	2762	1-0	2015.10.13
+Tomashevsky, E.	2758	Karjakin, Sergey	2762	1-0	2015.10.13
+Agdestein, S.	2606	Karjakin, Sergey	2762	1-0	2015.10.13
+Kasimdzhanov, R.	2704	Karjakin, Sergey	2762	1-0	2015.10.10
+Onischuk, Alexander	2662	Karjakin, Sergey	2762	1-0	2015.09.11
+Aronian, L.	2777	Karjakin, Sergey	2760	1/2-1/2	2015.02.14
+Anand, V.	2797	Karjakin, Sergey	2760	1/2-1/2	2015.02.19
+Kramnik, V.	2783	Karjakin, Sergey	2760	1/2-1/2	2015.02.14
+Gelfand, B.	2747	Karjakin, Sergey	2757	1/2-1/2	2015.03.07
+Mamedyarov, S.	2756	Karjakin, Sergey	2757	1/2-1/2	2015.03.07
+Bruzon Batista, L.	2691	Karjakin, Sergey	2757	1/2-1/2	2015.04.19
+Onischuk, Al	2665	Karjakin, Sergey	2757	1/2-1/2	2015.04.19
+Sutovsky, E.	2623	Karjakin, Sergey	2757	1/2-1/2	2015.04.19
+Svidler, P.	2734	Karjakin, Sergey	2753	1/2-1/2	2015.05.14
+Giri, A.	2776	Karjakin, Sergey	2753	1/2-1/2	2015.05.14
+Eljanov, P.	2717	Karjakin, Sergey	2762	0-1	2015.09.11
+Svidler, P.	2727	Karjakin, Sergey	2762	0-1	2015.09.11
+Svidler, P.	2727	Karjakin, Sergey	2762	0-1	2015.09.11
+Svidler, P.	2727	Karjakin, Sergey	2762	0-1	2015.09.11
+Dominguez Perez, L.	2732	Karjakin, Sergey	2762	0-1	2015.10.13
+Carlsen, M.	2850	Karjakin, Sergey	2762	0-1	2015.10.13
+Bocharov, D.	2560	Karjakin, Sergey	2762	0-1	2015.10.13
+Wojtaszek, R.	2734	Karjakin, Sergey	2762	0-1	2015.10.13
+Lagno, Kateryna	2523	Karjakin, Sergey	2762	0-1	2015.10.13
+Kovalev, Vl	2546	Karjakin, Sergey	2762	0-1	2015.10.10
+Piorun, K.	2637	Karjakin, Sergey	2766	0-1	2015.12.20
+Wang Yue	2724	Karjakin, Sergey	2766	0-1	2015.12.16
+Espinosa Veloz, Ermes	2495	Karjakin, Sergey	2762	0-1	2015.09.11
+Mamedyarov, Shakhriyar	2736	Karjakin, Sergey	2762	0-1	2015.09.11
+Onischuk, Alexander	2662	Karjakin, Sergey	2762	0-1	2015.09.11
+Karjakin, Sergey	2759	Gelfand, B.	2777	1-0	2014.01.11
+Yu Yangyi	2736	Karjakin, Sergey	2753	1/2-1/2	2015.07.29
+Ding Liren	2749	Karjakin, Sergey	2753	1/2-1/2	2015.07.29
+Ding Liren	2749	Karjakin, Sergey	2753	1/2-1/2	2015.07.29
+Lysyj, I.	2673	Karjakin, Sergey	2753	1/2-1/2	2015.08.09
+Bukavshin, I.	2655	Karjakin, Sergey	2753	1/2-1/2	2015.08.09
+Dubov, Daniil	2654	Karjakin, Sergey	2753	1/2-1/2	2015.08.09
+Khairullin, I.	2662	Karjakin, Sergey	2753	1/2-1/2	2015.08.09
+Jakovenko, D.	2759	Karjakin, Sergey	2753	1/2-1/2	2015.08.09
+Guseinov, G.	2634	Karjakin, Sergey	2762	1/2-1/2	2015.10.10
+Tomashevsky, E.	2758	Karjakin, Sergey	2762	1/2-1/2	2015.10.18
+Brunello, S.	2553	Karjakin, Sergey	2762	1/2-1/2	2015.10.18
+Gelfand, B.	2741	Karjakin, Sergey	2762	1/2-1/2	2015.10.13
+Perunovic, Mil	2622	Karjakin, Sergey	2762	1/2-1/2	2015.10.13
+Salem, AR.	2624	Karjakin, Sergey	2762	1/2-1/2	2015.10.10
+Nguyen Ngoc Truong Son	2642	Karjakin, Sergey	2766	1/2-1/2	2015.12.20
+Swiercz, D.	2646	Karjakin, Sergey	2766	1/2-1/2	2015.12.20
+Salem, AR.	2622	Karjakin, Sergey	2766	1/2-1/2	2015.12.20
+Andreikin, Dmitry	2720	Karjakin, Sergey	2762	1/2-1/2	2015.09.11
+Andreikin, Dmitry	2720	Karjakin, Sergey	2762	1/2-1/2	2015.09.11
+Eljanov, Pavel	2717	Karjakin, Sergey	2762	1/2-1/2	2015.09.11
+Mamedyarov, Shakhriyar	2736	Karjakin, Sergey	2762	1/2-1/2	2015.09.11
+Mamedyarov, Shakhriyar	2736	Karjakin, Sergey	2762	1/2-1/2	2015.09.11
+Onischuk, Alexander	2662	Karjakin, Sergey	2762	1/2-1/2	2015.09.11
+Yu, Yangyi	2721	Karjakin, Sergey	2762	1/2-1/2	2015.09.11
+Karjakin, Sergey	2759	Rapport, R.	2691	1-0	2014.01.11
+Karjakin, Sergey	2759	Naiditsch, A.	2718	1-0	2014.01.11
+Karjakin, Sergey	2766	Kramnik, V.	2787	1-0	2014.03.13
+Karjakin, Sergey	2771	Kramnik, V.	2783	1-0	2014.06.03
+Karjakin, Sergey	2771	Grischuk, A.	2792	1-0	2014.06.03
+Karjakin, Sergey	2771	Topalov, V.	2772	1-0	2014.06.02
+Karjakin, Sergey	2771	Tomashevsky, E.	2695	1-0	2014.06.16
+Karjakin, Sergey	2771	Yu Yangyi	2675	1-0	2014.06.16
+Karjakin, Sergey	2771	Adly, A.	2594	1-0	2014.06.16
+Karjakin, Sergey	2771	Fedoseev, Vl3	2662	1-0	2014.06.19
+Karjakin, Sergey	2771	Shyam, SM.	2468	1-0	2014.06.19
+Karjakin, Sergey	2786	Nezad, H.	2365	1-0	2014.08.02
+Karjakin, Sergey	2786	Salgado Lopez, I.	2620	1-0	2014.08.02
+Karjakin, Sergey	2786	Indjic, A.	2539	1-0	2014.08.02
+Karjakin, Sergey	2777	Fedoseev, Vl3	2677	1-0	2014.09.06
+Karjakin, Sergey	2777	Popov, Iv RUS	2627	1-0	2014.09.06
+Karjakin, Sergey	2777	Grischuk, A.	2789	1-0	2014.09.06
+Karjakin, Sergey	2777	Paravyan, D.	2428	1-0	2014.09.06
+Karjakin, Sergey	2777	Grachev, B.	2673	1-0	2014.09.06
+Karjakin, Sergey	2777	Moskalenko, A.	2460	1-0	2014.09.06
+Karjakin, Sergey	2777	Savchenko, B.	2608	1-0	2014.09.06
+Karjakin, Sergey	2767	Dominguez Perez, L.	2751	1-0	2014.10.02
+Karjakin, Sergey	2767	Jakovenko, D.	2747	1-0	2014.10.21
+Karjakin, Sergey	2767	Kasimdzhanov, R.	2706	1-0	2014.10.21
+Karjakin, Sergey	2767	Giri, A.	2768	1-0	2014.10.21
+Karjakin, Sergey	2766	Aronian, L.	2830	0-1	2014.03.13
+Karjakin, Sergey	2771	Carlsen, M.	2881	0-1	2014.06.02
+Karjakin, Sergey	2771	Grischuk, A.	2792	0-1	2014.06.02
+Karjakin, Sergey	2771	Morozevich, A.	2731	0-1	2014.06.16
+Karjakin, Sergey	2771	Aronian, L.	2815	0-1	2014.06.16
+Karjakin, Sergey	2771	Polgar, Ju	2685	0-1	2014.06.19
+Karjakin, Sergey	2771	Lenic, L.	2659	0-1	2014.06.19
+Karjakin, Sergey	2771	Meier, Geo	2632	0-1	2014.06.19
+Karjakin, Sergey	2771	Lu Shanglei	2546	0-1	2014.06.19
+Karjakin, Sergey	2786	Iotov, V.	2553	0-1	2014.08.02
+Karjakin, Sergey	2777	Mozharov, M.	2555	0-1	2014.09.06
+Karjakin, Sergey	2777	Malakhov, V.	2696	0-1	2014.09.06
+Karjakin, Sergey	2777	Mamedyarov, S.	2756	0-1	2014.09.14
+Karjakin, Sergey	2767	Caruana, F.	2844	0-1	2014.10.02
+Karjakin, Sergey	2767	Jobava, Ba	2717	0-1	2014.10.21
+Karjakin, Sergey	2770	Inarkiev, E.	2688	1-0	2014.11.13
+Karjakin, Sergey	2770	Mamedyarov, S.	2757	0-1	2014.11.13
+Karjakin, Sergey	2770	Gelfand, B.	2759	0-1	2014.11.13
+Karjakin, Sergey	2770	Kosteniuk, A.	2541	1-0	2014.11.13
+Karjakin, Sergey	2770	Tomashevsky, E.	2714	1-0	2014.11.13
+Karjakin, Sergey	2770	Kramnik, V.	2760	1-0	2014.11.13
+Karjakin, Sergey	2770	Nepomniachtchi, I.	2714	0-1	2014.11.13
+Karjakin, Sergey	2770	Morozevich, A.	2724	1-0	2014.11.13
+Karjakin, Sergey	2770	Grischuk, A.	2795	0-1	2014.11.13
+Karjakin, Sergey	2770	Zvjaginsev, V.	2655	1-0	2014.11.28
+Karjakin, Sergey	2759	Harikrishna, P.	2706	1/2-1/2	2014.01.11
+Karjakin, Sergey	2759	Dominguez Perez, L.	2754	1/2-1/2	2014.01.11
+Karjakin, Sergey	2766	Anand, V.	2770	1/2-1/2	2014.03.13
+Karjakin, Sergey	2766	Andreikin, D.	2709	1/2-1/2	2014.03.13
+Karjakin, Sergey	2766	Topalov, V.	2785	1/2-1/2	2014.03.13
+Karjakin, Sergey	2766	Mamedyarov, S.	2757	1/2-1/2	2014.03.13
+Karjakin, Sergey	2766	Svidler, P.	2758	1/2-1/2	2014.03.13
+Karjakin, Sergey	2772	Kamsky, G.	2714	1/2-1/2	2014.04.07
+Karjakin, Sergey	2772	Jobava, Ba	2706	1/2-1/2	2014.04.07
+Karjakin, Sergey	2772	Nepomniachtchi, I.	2732	1/2-1/2	2014.04.07
+Karjakin, Sergey	2772	Mamedyarov, S.	2760	1/2-1/2	2014.04.20
+Karjakin, Sergey	2772	Caruana, F.	2783	1/2-1/2	2014.04.20
+Karjakin, Sergey	2772	Nakamura, Hi	2772	1/2-1/2	2014.04.20
+Karjakin, Sergey	2772	Radjabov, T.	2713	1/2-1/2	2014.04.20
+Karjakin, Sergey	2772	Carlsen, M.	2881	1/2-1/2	2014.04.20
+Karjakin, Sergey	2771	Svidler, P.	2753	1/2-1/2	2014.06.02
+Karjakin, Sergey	2771	Carlsen, M.	2881	1/2-1/2	2014.06.03
+Karjakin, Sergey	2771	Topalov, V.	2772	1/2-1/2	2014.06.03
+Karjakin, Sergey	2771	Agdestein, S.	2628	1/2-1/2	2014.06.03
+Karjakin, Sergey	2771	Anand, V.	2785	1/2-1/2	2014.06.16
+Karjakin, Sergey	2771	Carlsen, M.	2881	1/2-1/2	2014.06.16
+Karjakin, Sergey	2771	Jobava, Ba	2713	1/2-1/2	2014.06.16
+Karjakin, Sergey	2771	Maletin, P.	2588	1/2-1/2	2014.06.19
+Karjakin, Sergey	2771	Adly, A.	2594	1/2-1/2	2014.06.19
+Karjakin, Sergey	2770	Lysyj, I.	2686	0-1	2014.11.28
+Karjakin, Sergey	0	Giri, Anish	0	0-1	Wed Nov 06 2019
+Karjakin,Sergey	2752	Vachier Lagrave,M	2780	1-0	2019.05.11
+Karjakin,Sergey	2752	Anand,V	2774	1-0	2019.05.25
+Karjakin,Sergey	2748	Wei Yi	2741	1-0	2019.06.10
+Karjakin,Sergey	2748	Nepomniachtchi,I	2775	1-0	2019.06.10
+Karjakin,Sergey	2748	Kramnik,V	2753	1-0	2019.06.10
+Karjakin,Sergey	2748	Giri,A	2779	1-0	2019.07.12
+Karjakin,Sergey	2748	Giri,A	2779	1-0	2019.07.12
+Karjakin,Sergey	2750	Inarkiev,E	2682	1-0	2019.08.04
+Karjakin,Sergey	2750	Inarkiev,E	2682	1-0	2019.08.04
+Karjakin,Sergey	2750	Inarkiev,E	2682	1-0	2019.08.04
+Karjakin,Sergey	2748	Harikrishna,P	2734	1-0	2019.07.31
+Karjakin,Sergey	2750	Carlsen,M	2882	1-0	2019.08.10
+Karjakin,Sergey	2750	Mamedyarov,S	2764	1-0	2019.08.10
+Karjakin,Sergey	2750	Carlsen,M	2882	1-0	2019.08.13
+Karjakin,Sergey	2750	Caruana,F	2818	1-0	2019.08.13
+Karjakin,Sergey	2750	Mamedyarov,S	2764	1-0	2019.08.13
+Karjakin,Sergey	2750	Dominguez Perez,L	2763	1-0	2019.08.13
+Karjakin,Sergey	2750	Aronian,L	2765	1-0	2019.08.13
+Karjakin,Sergey	2750	Vachier Lagrave,M	2778	1-0	2019.08.13
+Karjakin,Sergey	2750	Rapport,R	2747	1-0	2019.08.13
+Karjakin,Sergey	2750	Vachier Lagrave,M	2778	1-0	2019.08.17
+Karjakin,Sergey	2760	Sevian,Samuel	2654	1-0	2019.09.10
+Karjakin,Sergey	2760	Demchenko,A	2655	1-0	2019.10.10
+Karjakin,Sergey	2760	Dreev,A	2662	1-0	2019.10.10
+Karjakin, Sergey	0	Korobov, Anton	0	1/2-1/2	Sun Nov 10 2019
+Karjakin, Sergey	0	Korobov, Anton	0	1/2-1/2	Wed Nov 06 2019
+Karjakin, Sergey	0	So, Wesley	0	1/2-1/2	Thu Nov 07 2019
+Karjakin, Sergey	0	Le, Quang Liem	0	1/2-1/2	Thu Nov 07 2019
+Karjakin, Sergey	0	Le, Quang Liem	0	1/2-1/2	Sat Nov 09 2019
+Karjakin, Sergey	0	Aronian, Levon	0	1/2-1/2	Sat Nov 09 2019
+Karjakin, Sergey	0	Artemiev, Vladislav	0	1/2-1/2	Sat Nov 09 2019
+Karjakin, Sergey	0	Wei, Yi	0	0-1	Mon Dec 16 2019
+Karjakin, Sergey	0	Firouzja, Alireza	0	0-1	Thu Dec 26 2019
+Karjakin, Sergey	0	Savchenko, Boris	0	0-1	Sun Dec 29 2019
+Karjakin, Sergey	0	Quparadze, Giga	0	0-1	Sun Dec 29 2019
+Karjakin, Sergey	0	Vidit, Santosh Gujrathi	0	0-1	Sun Dec 29 2019
+Karjakin, Sergey	0	Smirin, Ilia	0	0-1	Sat Dec 28 2019
+Karjakin, Sergey	0	Salem, A.R. Saleh	0	0-1	Mon Dec 30 2019
+Karjakin,Sergey	2753	Naiditsch,A	2710	0-1	2019.03.05
+Karjakin,Sergey	2753	Carlsen,M	2845	0-1	2019.03.31
+Karjakin,Sergey	2752	Carlsen,M	2861	0-1	2019.05.08
+Karjakin,Sergey	2752	Carlsen,M	2861	0-1	2019.05.11
+Karjakin,Sergey	2752	Ding Liren	2805	0-1	2019.05.11
+Karjakin,Sergey	2748	Nepomniachtchi,I	2775	0-1	2019.06.10
+Karjakin,Sergey	2750	Inarkiev,E	2682	0-1	2019.08.02
+Karjakin,Sergey	2750	Inarkiev,E	2682	0-1	2019.08.04
+Karjakin,Sergey	2750	Ding Liren	2805	0-1	2019.08.13
+Karjakin,Sergey	2750	Yu Yangyi	2752	0-1	2019.08.13
+Karjakin,Sergey	2760	Alekseenko,K	2674	0-1	2019.10.10
+Karjakin, Sergey	0	So, Wesley	0	1/2-1/2	Sun Nov 10 2019
+Karjakin, Sergey	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Sun Nov 10 2019
+Karjakin, Sergey	0	Giri, Anish	0	1/2-1/2	Sun Nov 10 2019
+Karjakin, Sergey	0	Harikrishna, P.	0	1/2-1/2	Thu Dec 12 2019
+Karjakin, Sergey	0	Harikrishna, P.	0	1/2-1/2	Fri Dec 13 2019
+Karjakin, Sergey	0	Harikrishna, P.	0	1/2-1/2	Fri Dec 13 2019
+Karjakin, Sergey	0	Wei, Yi	0	1/2-1/2	Sat Dec 14 2019
+Karjakin, Sergey	0	Petrosian, Tigran L.	0	1/2-1/2	Sun Dec 29 2019
+Karjakin, Sergey	0	Shimanov, Aleksandr	0	1/2-1/2	Sat Dec 28 2019
+Karjakin, Sergey	0	Ponkratov, Pavel	0	1/2-1/2	Sat Dec 28 2019
+Karjakin,Sergey	2753	Adhiban,Baskaran	2683	1/2-1/2	2019.03.05
+Karjakin,Sergey	2753	Ding Liren	2812	1/2-1/2	2019.03.31
+Karjakin,Sergey	2753	Topalov,V	2740	1/2-1/2	2019.03.31
+Karjakin,Sergey	2753	Grischuk,A	2771	1/2-1/2	2019.03.31
+Karjakin,Sergey	2752	Nepomniachtchi,I	2773	1/2-1/2	2019.05.08
+Karjakin,Sergey	2752	Vachier Lagrave,M	2780	1/2-1/2	2019.05.08
+Karjakin,Sergey	2752	Wei Yi	2736	1/2-1/2	2019.05.08
+Karjakin,Sergey	2752	Amin,B	2704	1/2-1/2	2019.05.08
+Karjakin,Sergey	2752	So,W	2754	1/2-1/2	2019.05.11
+Karjakin,Sergey	2752	Nakamura,Hi	2761	1/2-1/2	2019.05.11
+Karjakin,Sergey	2752	Grischuk,A	2772	1/2-1/2	2019.05.17
+Karjakin,Sergey	2752	Carlsen,M	2861	1/2-1/2	2019.05.25
+Karjakin,Sergey	2752	Ding Liren	2805	1/2-1/2	2019.05.25
+Karjakin,Sergey	2748	Radjabov,T	2759	1/2-1/2	2019.06.10
+Karjakin,Sergey	2748	Nepomniachtchi,I	2775	1/2-1/2	2019.06.10
+Karjakin,Sergey	2748	Dubov,Daniil	2700	1/2-1/2	2019.06.10
+Karjakin,Sergey	2748	Nakamura,Hi	2754	1/2-1/2	2019.06.26
+Karjakin,Sergey	2748	Carlsen,M	2875	1/2-1/2	2019.06.26
+Karjakin,Sergey	2748	So,W	2754	1/2-1/2	2019.06.26
+Karjakin,Sergey	2748	Giri,A	2779	1/2-1/2	2019.06.26
+Karjakin,Sergey	2748	Caruana,F	2819	1/2-1/2	2019.06.26
+Karjakin,Sergey	2748	Giri,A	2779	1/2-1/2	2019.07.12
+Karjakin,Sergey	2748	Giri,A	2779	1/2-1/2	2019.07.12
+Karjakin,Sergey	2748	Giri,A	2779	1/2-1/2	2019.07.12
+Karjakin,Sergey	2748	So,W	2763	1/2-1/2	2019.07.12
+Karjakin,Sergey	2748	So,W	2763	1/2-1/2	2019.07.12
+Karjakin,Sergey	2748	So,W	2763	1/2-1/2	2019.07.12
+Karjakin,Sergey	2748	So,W	2763	1/2-1/2	2019.07.12
+Karjakin,Sergey	2750	Inarkiev,E	2682	1/2-1/2	2019.08.02
+Karjakin,Sergey	2750	Inarkiev,E	2682	1/2-1/2	2019.08.02
+Karjakin,Sergey	2748	Harikrishna,P	2734	1/2-1/2	2019.07.31
+Karjakin,Sergey	2748	Harikrishna,P	2734	1/2-1/2	2019.07.31
+Karjakin,Sergey	2750	Caruana,F	2818	1/2-1/2	2019.08.10
+Karjakin,Sergey	2750	Rapport,R	2747	1/2-1/2	2019.08.10
+Karjakin,Sergey	2750	Yu Yangyi	2752	1/2-1/2	2019.08.10
+Karjakin,Sergey	2750	Ding Liren	2805	1/2-1/2	2019.08.17
+Karjakin,Sergey	2750	Mamedyarov,S	2764	1/2-1/2	2019.08.17
+Karjakin,Sergey	2750	Aronian,L	2765	1/2-1/2	2019.08.17
+Karjakin,Sergey	2750	Nepomniachtchi,I	2774	1/2-1/2	2019.08.17
+Karjakin,Sergey	2750	Anand,V	2756	1/2-1/2	2019.08.17
+Caruana, Fabiano	0	Karjakin, Sergey	0	1-0	Thu Nov 07 2019
+So, Wesley	0	Karjakin, Sergey	0	1-0	Sat Nov 09 2019
+Caruana, Fabiano	0	Karjakin, Sergey	0	1-0	Sat Nov 09 2019
+Wei, Yi	0	Karjakin, Sergey	0	1-0	Mon Dec 16 2019
+Artemiev, Vladislav	0	Karjakin, Sergey	0	1-0	Sun Dec 29 2019
+Shimanov, Aleksandr	0	Karjakin, Sergey	0	1-0	Mon Dec 30 2019
+Aronian, Levon	0	Karjakin, Sergey	0	1-0	Mon Dec 30 2019
+Jumabayev,R	2609	Karjakin,Sergey	2753	1-0	2019.03.05
+Ding Liren	2805	Karjakin,Sergey	2752	1-0	2019.05.08
+So,W	2754	Karjakin,Sergey	2752	1-0	2019.05.08
+Topalov,V	2740	Karjakin,Sergey	2752	1-0	2019.05.11
+Carlsen,M	2861	Karjakin,Sergey	2752	1-0	2019.05.11
+Ding Liren	2805	Karjakin,Sergey	2752	1-0	2019.05.11
+Grischuk,A	2772	Karjakin,Sergey	2752	1-0	2019.05.17
+Ding Liren	2805	Karjakin,Sergey	2752	1-0	2019.05.25
+Aronian,L	2752	Karjakin,Sergey	2748	1-0	2019.06.26
+Karjakin,Sergey	2760	Megaranto,S	2550	1/2-1/2	2019.09.10
+Karjakin,Sergey	2760	Vitiugov,N	2732	1/2-1/2	2019.09.10
+Karjakin,Sergey	2760	Sadhwani,Raunak	2479	1/2-1/2	2019.10.10
+Karjakin,Sergey	2760	Kryvoruchko,Y	2669	1/2-1/2	2019.10.10
+Karjakin,Sergey	2754	Aronian,L	2772	1/2-1/2	2019.11.10
+Karjakin,Sergey	2754	Le,Quang Liem	2713	1/2-1/2	2019.11.06
+Karjakin,Sergey	2754	Giri,A	2776	1/2-1/2	2019.11.09
+Karjakin,Sergey	2754	Harikrishna,P	2724	1/2-1/2	2019.12.11
+Karjakin,Sergey	2754	Petrosian,TL	2601	1/2-1/2	2019.12.29
+Karjakin, Sergey	2757	Van Foreest, Jorden	2701	1-0	Sun Mar 14 2021
+Karjakin, Sergey	2757	Firouzja, Alireza	2759	1-0	Sun Mar 14 2021
+Karjakin, Sergey	2757	Anton Guijarro, David	2673	1-0	Sun Mar 14 2021
+Karjakin, Sergey	2757	Radjabov, Teimour	2765	1-0	Mon Mar 15 2021
+Karjakin, Sergey	2757	Christiansen, Johan-Sebastian	2618	1-0	Mon Apr 26 2021
+Karjakin, Sergey	2757	Vidit, Santosh Gujrathi	2726	1-0	Mon Apr 26 2021
+Karjakin, Sergey	2757	Vokhidov, Shamsiddin	2530	1-0	2021.07.15
+Karjakin, Sergey	2709	Artemiev, Vladislav	2757	1-0	2021.07.24
+Karjakin, Sergey	2757	Shankland, Sam	2709	1-0	2021.07.30
+Karjakin, Sergey	2757	Shankland, Sam	2709	1-0	2021.07.30
+Karjakin, Sergey	2757	Shankland, Sam	2709	1-0	2021.07.29
+Karjakin, Sergey	2757	Fedoseev, Vladimir	2696	1-0	2021.08.02
+Karjakin, Sergey	2765	Chigaev, Maksim	2579	1-0	2021.08.16
+Karjakin, Sergey	2765	Najer, Evgeniy	2578	1-0	2021.08.16
+Karjakin, Sergey	2758	Carlsen, Magnus	2855	1-0	2021.09.12
+Karjakin, Sergey	2758	Nepomniachtchi, Ian	2792	1-0	2021.09.13
+Karjakin, Sergey	2758	Tari, Aryan	2642	1-0	2021.09.17
+Karjakin, Sergey	2747	Grischuk, Alexander	2745	1/2-1/2	2022.07.17
+Grischuk, Alexander	2745	Karjakin, Sergey	2747	0-1	2022.07.17
+Karjakin, Sergey	2736	Lagno, Kateryna	2531	1-0	2022.09.30
+Karjakin, Sergey	2736	Kramnik, Vladimir	2756	1/2-1/2	2022.09.30
+Goryachkina, Aleksandra	2473	Karjakin, Sergey	2736	0-1	2022.09.30
+Inarkiev, Ernesto	2678	Karjakin, Sergey	2736	1/2-1/2	2022.10.01
+Karjakin, Sergey	2736	Sadhwani, Raunak	2533	1/2-1/2	2022.10.01
+Karjakin, Sergey	2736	Vallejo Pons, Francisco	2682	0-1	2022.10.01

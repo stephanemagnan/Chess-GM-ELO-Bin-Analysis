@@ -1,0 +1,1251 @@
+White	White ELO	Black	Black ELO	Result	Date
+Mamedyarov, Shakhriyar	2751	So, Wesley	2775	1/2-1/2	2022.06.05
+Mamedyarov, Shakhriyar	2770	Tari, Aryan	2654	1/2-1/2	2022.05.31
+Mamedyarov, Shakhriyar	2770	Topalov, Veselin	2730	1/2-1/2	2022.06.02
+Mamedyarov, Shakhriyar	2771	Khenkin, Igor	2506	1/2-1/2	2022.05.01
+Mamedyarov, Shakhriyar	2699	Shankland, Sam	2616	1/2-1/2	2022.07.11
+Mamedyarov, Shakhriyar	2699	Dominguez Perez, Leinier	2726	1/2-1/2	2022.07.11
+Mamedyarov, Shakhriyar	2699	Giri, Anish	2721	1/2-1/2	2022.07.12
+Mamedyarov, Shakhriyar	2699	Niemann, Hans Moke	2529	1/2-1/2	2022.07.12
+Mamedyarov, Shakhriyar	2758	Boruchovsky, Avital	2551	1/2-1/2	2022.08.05
+Mamedyarov, Shakhriyar	2758	Sargissian, Gabriel	2698	0-1	2022.08.08
+Mamedyarov, Shakhriyar	2710	Blanco Ronquillo, Humberto L.	2425	0-1	2022.08.23
+Mamedyarov, Shakhriyar	2695	Aronian, Levon	2728	1/2-1/2	2022.08.26
+Mamedyarov, Shakhriyar	2695	Nakamura, Hikaru	2837	1/2-1/2	2022.08.27
+Mamedyarov, Shakhriyar	2710	Nepomniachtchi, Ian	2791	0-1	2022.08.29
+Mamedyarov, Shakhriyar	2710	Nakamura, Hikaru	2850	1/2-1/2	2022.08.29
+Mamedyarov, Shakhriyar	2710	Firouzja, Alireza	2795	0-1	2022.08.29
+Mamedyarov, Shakhriyar	2710	Caruana, Fabiano	2847	1/2-1/2	2022.08.29
+Mamedyarov, Shakhriyar	2710	Xiong, Jeffery	2714	0-1	2022.08.30
+Mamedyarov, Shakhriyar	2710	Dominguez Perez, Leinier	2708	1/2-1/2	2022.08.30
+Mamedyarov, Shakhriyar	2758	So, Wesley	2773	1/2-1/2	2022.09.02
+Mamedyarov, Shakhriyar	2758	Vachier-Lagrave, Maxime	2757	1/2-1/2	2022.09.04
+Mamedyarov, Shakhriyar	2705	Kovalev, Vladislav	2505	0-1	2022.09.16
+Mamedyarov, Shakhriyar	2705	Sarana, Alexey	2631	0-1	2022.09.23
+Mamedyarov, Shakhriyar	2705	Yilmaz, Mustafa	2502	0-1	2022.09.24
+Mamedyarov, Shakhriyar	2705	Kasimdzhanov, Rustam	2698	0-1	2022.09.24
+Aronian, Levon	2781	Mamedyarov, Shakhriyar	2770	0-1	Sat Mar 13 2021
+Dubov, Daniil	2770	Mamedyarov, Shakhriyar	2761	1-0	Tue May 25 2021
+Onischuk, Vladimir	2603	Mamedyarov, Shakhriyar	2716	1-0	2021.06.22
+Nepomniachtchi, Ian	2791	Mamedyarov, Shakhriyar	2761	1-0	2021.07.07
+Duda, Jan-Krzysztof	2799	Mamedyarov, Shakhriyar	2716	1-0	2021.07.10
+Vachier-Lagrave, Maxime	2794	Mamedyarov, Shakhriyar	2716	1-0	2021.07.10
+Korobov, Anton	2668	Mamedyarov, Shakhriyar	2716	1-0	2021.07.10
+Giri, Anish	2744	Mamedyarov, Shakhriyar	2716	1-0	2021.07.11
+Martirosyan, Haik M.	2632	Mamedyarov, Shakhriyar	2782	1-0	2021.07.18
+Le, Quang Liem	2744	Mamedyarov, Shakhriyar	2761	1-0	2021.08.01
+Aronian, Levon	2761	Mamedyarov, Shakhriyar	2761	1-0	2021.08.03
+Caruana, Fabiano	2758	Mamedyarov, Shakhriyar	2756	1-0	2021.08.13
+So, Wesley	2861	Mamedyarov, Shakhriyar	2755	1-0	2021.08.14
+Dominguez Perez, Leinier	2654	Mamedyarov, Shakhriyar	2755	1-0	2021.08.14
+Shankland, Sam	2704	Mamedyarov, Shakhriyar	2755	1-0	2021.08.15
+Svidler, Peter	2743	Mamedyarov, Shakhriyar	2755	1-0	2021.08.15
+Nakamura, Hikaru	2900	Mamedyarov, Shakhriyar	2755	1-0	2021.08.15
+Shankland, Sam	2709	Mamedyarov, Shakhriyar	2782	1-0	2021.08.20
+Aronian, Levon	2761	Mamedyarov, Shakhriyar	2756	1-0	2021.08.31
+Aronian, Levon	2761	Mamedyarov, Shakhriyar	2756	1-0	2021.08.31
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1-0	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1-0	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1-0	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1-0	2021.11.09
+Firouzja, Alireza	2770	Mamedyarov, Shakhriyar	2765	1-0	2021.11.21
+Grandelius, Nils	2670	Mamedyarov, Shakhriyar	2770	0-1	Sun Mar 14 2021
+Karjakin, Sergey	2757	Mamedyarov, Shakhriyar	2770	0-1	Mon Mar 15 2021
+Duda, Jan-Krzysztof	2729	Mamedyarov, Shakhriyar	2770	0-1	Sat Apr 24 2021
+Christiansen, Johan-Sebastian	2618	Mamedyarov, Shakhriyar	2770	0-1	Mon Apr 26 2021
+Firouzja, Alireza	2759	Mamedyarov, Shakhriyar	2770	0-1	Tue Apr 27 2021
+Firouzja, Alireza	2759	Mamedyarov, Shakhriyar	2770	0-1	Wed Apr 28 2021
+Firouzja, Alireza	2759	Mamedyarov, Shakhriyar	2770	0-1	Wed Apr 28 2021
+Vidit, Santosh Gujrathi	2726	Mamedyarov, Shakhriyar	2770	0-1	Sun Apr 25 2021
+Tari, Aryan	2639	Mamedyarov, Shakhriyar	2770	0-1	Mon Apr 26 2021
+Nakamura, Hikaru	2736	Mamedyarov, Shakhriyar	2770	0-1	Fri Apr 30 2021
+Aronian, Levon	2781	Mamedyarov, Shakhriyar	2770	0-1	Sun May 02 2021
+Aronian, Levon	2781	Mamedyarov, Shakhriyar	2770	0-1	Sun May 02 2021
+Aronian, Levon	2781	Mamedyarov, Shakhriyar	2770	0-1	Sat May 01 2021
+Aronian, Levon	2781	Mamedyarov, Shakhriyar	2770	0-1	Sat May 01 2021
+Acor, Corey	2223	Mamedyarov, Shakhriyar	2770	0-1	Tue May 04 2021
+Pile, Richard	2443	Mamedyarov, Shakhriyar	2770	0-1	Tue May 04 2021
+Steven_Rojas	2464	Mamedyarov, Shakhriyar	2770	0-1	Tue May 11 2021
+Pichot, Alan	2533	Mamedyarov, Shakhriyar	2761	0-1	Tue May 25 2021
+Lupulescu, Constantin	2656	Mamedyarov, Shakhriyar	2770	0-1	2021.06.09
+Caruana, Fabiano	2820	Mamedyarov, Shakhriyar	2770	0-1	2021.06.12
+Stoleriu, George	2227	Mamedyarov, Shakhriyar	2716	0-1	2021.06.22
+Van Foreest, Jorden	2543	Mamedyarov, Shakhriyar	2761	0-1	2021.07.09
+Van Foreest, Jorden	2622	Mamedyarov, Shakhriyar	2716	0-1	2021.07.10
+Nepomniachtchi, Ian	2807	Mamedyarov, Shakhriyar	2716	0-1	2021.07.11
+Kasparov, Garry	2801	Mamedyarov, Shakhriyar	2716	0-1	2021.07.11
+Nakamura, Hikaru	2736	Mamedyarov, Shakhriyar	2770	1/2-1/2	Sat Mar 13 2021
+Pichot, Alan	2630	Mamedyarov, Shakhriyar	2770	1/2-1/2	Mon Mar 15 2021
+Firouzja, Alireza	2759	Mamedyarov, Shakhriyar	2770	1/2-1/2	Tue Apr 27 2021
+Jones, Gawain C B	2670	Mamedyarov, Shakhriyar	2770	1/2-1/2	Sun Apr 25 2021
+Nakamura, Hikaru	2736	Mamedyarov, Shakhriyar	2770	1/2-1/2	Fri Apr 30 2021
+Svidler, Peter	2714	Mamedyarov, Shakhriyar	2770	1/2-1/2	Sun May 23 2021
+Ding, Liren	2836	Mamedyarov, Shakhriyar	2761	1/2-1/2	Tue May 25 2021
+Deac, Bogdan-Daniel	2627	Mamedyarov, Shakhriyar	2770	1/2-1/2	2021.06.07
+Vachier-Lagrave, Maxime	2760	Mamedyarov, Shakhriyar	2770	1/2-1/2	2021.06.14
+Lagarde, Maxime	2630	Mamedyarov, Shakhriyar	2716	1/2-1/2	2021.06.22
+Grischuk, Alexander	2784	Mamedyarov, Shakhriyar	2761	1/2-1/2	2021.07.08
+Grischuk, Alexander	2765	Mamedyarov, Shakhriyar	2716	0-1	2021.07.11
+Mekhitarian, Krikor Sevag	2592	Mamedyarov, Shakhriyar	2761	0-1	2021.07.17
+Aronian, Levon	2761	Mamedyarov, Shakhriyar	2756	0-1	2021.08.04
+Svidler, Peter	2745	Mamedyarov, Shakhriyar	2756	0-1	2021.08.11
+Dominguez Perez, Leinier	2786	Mamedyarov, Shakhriyar	2756	0-1	2021.08.12
+Dominguez Perez, Leinier	2786	Mamedyarov, Shakhriyar	2756	0-1	2021.08.28
+Indjic, Aleksandar	2629	Mamedyarov, Shakhriyar	2762	0-1	2021.09.19
+Nakamura, Hikaru	2884	Mamedyarov, Shakhriyar	2754	0-1	2021.10.26
+Weichhold, Pawel	2309	Mamedyarov, Shakhriyar	2754	0-1	2021.10.26
+Abarca Gonzalez, Nicolas	2504	Mamedyarov, Shakhriyar	2754	0-1	2021.10.26
+Altarbosh, Ward	2296	Mamedyarov, Shakhriyar	2754	0-1	2021.10.26
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	0-1	2021.11.09
+Indjic, Aleksandar	2612	Mamedyarov, Shakhriyar	2765	0-1	2021.11.13
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	0-1	2021.11.09
+Saric, Ivan	2650	Mamedyarov, Shakhriyar	2761	1/2-1/2	2021.07.09
+Anand, Viswanathan	2785	Mamedyarov, Shakhriyar	2716	1/2-1/2	2021.07.10
+Mekhitarian, Krikor Sevag	2554	Mamedyarov, Shakhriyar	2782	1/2-1/2	2021.07.16
+Martirosyan, Haik M.	2340	Mamedyarov, Shakhriyar	2761	1/2-1/2	2021.07.20
+Harikrishna, Pentala	2705	Mamedyarov, Shakhriyar	2761	1/2-1/2	2021.07.31
+Ju, Wenjun	2610	Mamedyarov, Shakhriyar	2761	1/2-1/2	2021.07.31
+Nakamura, Hikaru	2829	Mamedyarov, Shakhriyar	2761	1/2-1/2	2021.08.01
+Tari, Aryan	2531	Mamedyarov, Shakhriyar	2761	1/2-1/2	2021.08.02
+Aronian, Levon	2761	Mamedyarov, Shakhriyar	2761	1/2-1/2	2021.08.03
+Van Foreest, Jorden	2543	Mamedyarov, Shakhriyar	2761	1/2-1/2	2021.08.02
+Xiong, Jeffery	2730	Mamedyarov, Shakhriyar	2756	1/2-1/2	2021.08.12
+Rapport, Richard	2776	Mamedyarov, Shakhriyar	2755	1/2-1/2	2021.08.14
+Xiong, Jeffery	2724	Mamedyarov, Shakhriyar	2755	1/2-1/2	2021.08.15
+Le, Quang Liem	2690	Mamedyarov, Shakhriyar	2755	1/2-1/2	2021.08.15
+Caruana, Fabiano	2734	Mamedyarov, Shakhriyar	2755	1/2-1/2	2021.08.15
+So, Wesley	2772	Mamedyarov, Shakhriyar	2782	1/2-1/2	2021.08.17
+Svidler, Peter	2714	Mamedyarov, Shakhriyar	2782	1/2-1/2	2021.08.18
+Swiercz, Dariusz	2655	Mamedyarov, Shakhriyar	2782	1/2-1/2	2021.08.23
+Xiong, Jeffery	2710	Mamedyarov, Shakhriyar	2782	1/2-1/2	2021.08.25
+Giri, Anish	2744	Mamedyarov, Shakhriyar	2756	1/2-1/2	2021.08.28
+Vidit, Santosh Gujrathi	2636	Mamedyarov, Shakhriyar	2756	1/2-1/2	2021.08.30
+Firouzja, Alireza	2696	Mamedyarov, Shakhriyar	2756	1/2-1/2	2021.08.30
+Hansen, Eric	2579	Mamedyarov, Shakhriyar	2756	1/2-1/2	2021.08.30
+Carlsen, Magnus	2881	Mamedyarov, Shakhriyar	2756	1/2-1/2	2021.08.29
+Aronian, Levon	2761	Mamedyarov, Shakhriyar	2756	1/2-1/2	2021.09.01
+Mamedyarov, Shakhriyar	0	Indjic, Aleksandar	0	1-0	Wed Nov 13 2019
+Mamedyarov, Shakhriyar	0	Giri, Anish	0	1-0	Fri Nov 08 2019
+Mullick, Raahil	0	Mamedyarov, Shakhriyar	0	0-1	Tue Jan 21 2020
+Mamedyarov, Shakhriyar	0	Gordon, Stephen J	0	1-0	Wed Jan 22 2020
+Moussard, Jules	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Thu Jan 23 2020
+Mamedyarov, Shakhriyar	0	Krysa, Leandro	0	1/2-1/2	Fri Jan 24 2020
+Peralta, Fernando	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Sat Jan 25 2020
+Mamedyarov, Shakhriyar	0	Aryan, Chopra	0	1/2-1/2	Sun Jan 26 2020
+Mamedyarov, Shakhriyar	0	Muzychuk, Anna	0	1-0	Mon Jan 27 2020
+Xu,Xiangyu	2580	Mamedyarov,S	2770	1-0	2020.01.06
+Mamedyarov,S	2770	Zhao Jun	2638	1/2-1/2	2020.01.06
+Mamedyarov,S	2770	Wei Yi	2732	0-1	2020.01.06
+Wang Yue	2669	Mamedyarov,S	2770	0-1	2020.01.06
+Vachier-Lagrave, Maxime	2763	Mamedyarov, Shakhriyar	2765	1/2-1/2	2021.10.14
+Navara, David	2691	Mamedyarov, Shakhriyar	2765	1/2-1/2	2021.10.15
+McShane, Luke J	2676	Mamedyarov, Shakhriyar	2765	1/2-1/2	2021.10.16
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1/2-1/2	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1/2-1/2	2021.11.09
+Erdos, Viktor	2615	Mamedyarov, Shakhriyar	2765	1/2-1/2	2021.11.15
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1/2-1/2	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1/2-1/2	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1/2-1/2	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1/2-1/2	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1/2-1/2	2021.11.09
+Giri, Anish	2774	Mamedyarov, Shakhriyar	2765	1/2-1/2	2021.11.19
+Mamedyarov, Shakhriyar	0	Caruana, Fabiano	0	1-0	Sun Nov 10 2019
+Mamedyarov, Shakhriyar	0	Ponomariov, Ruslan	0	1-0	Fri Nov 15 2019
+Mamedyarov, Shakhriyar	0	Duda, Jan-Krzysztof	0	1-0	Fri Dec 27 2019
+Mamedyarov, Shakhriyar	0	Predke, Alexandr	0	1-0	Thu Dec 26 2019
+Mamedyarov, Shakhriyar	0	Sychev, Klementy	0	1-0	Sun Dec 29 2019
+Mamedyarov, Shakhriyar	0	Gajewski, Grzegorz	0	1-0	Sun Dec 29 2019
+Mamedyarov, Shakhriyar	0	Alekseenko, Kirill	0	1-0	Sun Dec 29 2019
+Mamedyarov, Shakhriyar	0	Abdusattorov, Nodirbek	0	1-0	Sun Dec 29 2019
+Mamedyarov, Shakhriyar	0	Motylev, Alexander	0	1-0	Sun Dec 29 2019
+Mamedyarov, Shakhriyar	0	Gelfand, Boris	0	1-0	Sat Dec 28 2019
+Mamedyarov, Shakhriyar	0	Motylev, Alexander	0	1-0	Sat Dec 28 2019
+Mamedyarov, Shakhriyar	0	Paravyan, David	0	1-0	Mon Dec 30 2019
+Mamedyarov,S	2817	Bhat,V	2519	1-0	2019.01.08
+Mamedyarov,S	2817	Sarana,A	2630	1-0	2019.01.08
+Mamedyarov,S	2817	Demchenko,A	2679	1-0	2019.01.08
+Mamedyarov,S	2817	Bryant,J	2449	1-0	2019.01.08
+Mamedyarov,S	2817	Khachiyan,M	2509	1-0	2019.01.08
+Mamedyarov,S	2817	Corrales Jimenez,F	2559	1-0	2019.01.08
+Mamedyarov,S	2774	Grischuk,A	2775	1-0	2019.06.03
+Mamedyarov,S	2774	Caruana,F	2819	1-0	2019.06.04
+Mamedyarov,S	2774	Anand,V	2767	1-0	2019.06.26
+Mamedyarov,S	2765	So,W	2763	1-0	2019.07.12
+Mamedyarov,S	2765	Vachier Lagrave,M	2775	1-0	2019.07.12
+Mamedyarov,S	2765	Nepomniachtchi,I	2775	1-0	2019.07.27
+Mamedyarov,S	2765	Giri,A	2779	1-0	2019.07.27
+Mamedyarov, Shakhriyar	0	Le, Quang Liem	0	0-1	Sun Nov 10 2019
+Mamedyarov, Shakhriyar	0	Karjakin, Sergey	0	0-1	Sat Nov 09 2019
+Mamedyarov, Shakhriyar	0	Anand, Viswanathan	0	0-1	Sun Nov 10 2019
+Mamedyarov, Shakhriyar	0	Korobov, Anton	0	0-1	Sat Nov 09 2019
+Mamedyarov, Shakhriyar	0	Grigoriants, Sergey	0	0-1	Mon Dec 30 2019
+Mamedyarov,S	2817	Vidit,S	2695	0-1	2019.01.12
+Mamedyarov,S	2817	Sevian,Samuel	2647	0-1	2019.01.08
+Mamedyarov,S	2774	Vachier Lagrave,M	2779	0-1	2019.06.03
+Mamedyarov,S	2774	Ding Liren	2805	0-1	2019.06.03
+Mamedyarov,S	2774	Carlsen,M	2875	0-1	2019.06.03
+Mamedyarov,S	2765	Anand,V	2764	1-0	2019.07.31
+Mamedyarov,S	2765	Giri,A	2779	1-0	2019.07.31
+Mamedyarov,S	2765	Nakamura,Hi	2754	1-0	2019.07.31
+Mamedyarov,S	2764	Dominguez Perez,L	2763	1-0	2019.08.10
+Mamedyarov,S	2764	Dominguez Perez,L	2763	1-0	2019.08.13
+Mamedyarov,S	2764	Rapport,R	2747	1-0	2019.08.13
+Mamedyarov,S	2764	Karjakin,Sergey	2750	1-0	2019.08.13
+Mamedyarov,S	2767	Kasimdzhanov,R	2657	1-0	2019.09.10
+Mamedyarov,S	2767	Rakotomaharo,Fy Antenaina	2428	1-0	2019.09.10
+Mamedyarov,S	2767	So,W	2767	1-0	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1-0	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1-0	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1-0	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1-0	2019.09.02
+Mamedyarov,S	2772	Jakovenko,D	2698	1-0	2019.12.11
+Mamedyarov, Shakhriyar	0	Artemiev, Vladislav	0	1/2-1/2	Wed Nov 06 2019
+Mamedyarov, Shakhriyar	0	Karjakin, Sergey	0	1/2-1/2	Fri Nov 08 2019
+Mamedyarov, Shakhriyar	0	Aronian, Levon	0	1/2-1/2	Sat Nov 09 2019
+Mamedyarov, Shakhriyar	0	Korobov, Anton	0	1/2-1/2	Thu Nov 07 2019
+Mamedyarov,S	2774	Aronian,L	2752	0-1	2019.06.04
+Mamedyarov,S	2774	Grischuk,A	2775	0-1	2019.06.04
+Mamedyarov,S	2774	Nepomniachtchi,I	2775	0-1	2019.06.26
+Mamedyarov,S	2765	Vachier Lagrave,M	2775	0-1	2019.07.27
+Mamedyarov,S	2765	Caruana,F	2819	0-1	2019.07.27
+Mamedyarov,S	2765	Vachier Lagrave,M	2775	0-1	2019.07.12
+Mamedyarov,S	2765	Caruana,F	2819	0-1	2019.07.31
+Mamedyarov,S	2765	Vachier Lagrave,M	2775	0-1	2019.07.31
+Mamedyarov,S	2765	Nepomniachtchi,I	2775	0-1	2019.07.31
+Mamedyarov,S	2764	Rapport,R	2747	0-1	2019.08.10
+Mamedyarov,S	2764	Aronian,L	2765	0-1	2019.08.10
+Mamedyarov,S	2764	Vachier Lagrave,M	2778	0-1	2019.08.10
+Mamedyarov,S	2764	Aronian,L	2765	0-1	2019.08.13
+Mamedyarov,S	2764	Vachier Lagrave,M	2778	0-1	2019.08.13
+Mamedyarov,S	2764	Yu Yangyi	2752	0-1	2019.08.13
+Mamedyarov,S	2764	Carlsen,M	2882	0-1	2019.08.13
+Mamedyarov,S	2764	Caruana,F	2818	0-1	2019.08.13
+Mamedyarov,S	2767	Radjabov,T	2758	0-1	2019.09.10
+Mamedyarov,S	2767	So,W	2767	0-1	2019.09.02
+Mamedyarov,S	2767	So,W	2767	0-1	2019.09.02
+Mamedyarov,S	2767	So,W	2767	0-1	2019.09.02
+Mamedyarov, Shakhriyar	0	Artemiev, Vladislav	0	1/2-1/2	Sat Nov 09 2019
+Mamedyarov, Shakhriyar	0	Giri, Anish	0	1/2-1/2	Sat Nov 09 2019
+Mamedyarov, Shakhriyar	0	So, Wesley	0	1/2-1/2	Sun Nov 10 2019
+Mamedyarov, Shakhriyar	0	Bogner, Sebastian	0	1/2-1/2	Thu Oct 31 2019
+Mamedyarov, Shakhriyar	0	Aronian, Levon	0	1/2-1/2	Fri Nov 01 2019
+Mamedyarov, Shakhriyar	0	Lagarde, Maxime	0	1/2-1/2	Fri Oct 25 2019
+Mamedyarov, Shakhriyar	0	Navara, David	0	1/2-1/2	Sun Oct 27 2019
+Mamedyarov, Shakhriyar	0	Jakovenko, Dmitry	0	1/2-1/2	Wed Dec 11 2019
+Mamedyarov, Shakhriyar	0	Wang, Hao	0	1/2-1/2	Fri Dec 27 2019
+Mamedyarov, Shakhriyar	0	Alekseev, Evgeny	0	1/2-1/2	Thu Dec 26 2019
+Mamedyarov, Shakhriyar	0	Firouzja, Alireza	0	1/2-1/2	Sun Dec 29 2019
+Mamedyarov, Shakhriyar	0	Duda, Jan-Krzysztof	0	1/2-1/2	Sun Dec 29 2019
+Mamedyarov, Shakhriyar	0	Guseinov, Gadir	0	1/2-1/2	Fri Dec 27 2019
+Mamedyarov, Shakhriyar	0	Svidler, Peter	0	1/2-1/2	Mon Dec 30 2019
+Mamedyarov, Shakhriyar	0	Zvjaginsev, Vadim	0	1/2-1/2	Mon Dec 30 2019
+Mamedyarov,S	2817	Radjabov,T	2757	1/2-1/2	2019.01.12
+Mamedyarov,S	2817	Gozzoli,Y	2630	1/2-1/2	2019.01.08
+Mamedyarov,S	2817	Nepomniachtchi,I	2763	1/2-1/2	2019.01.12
+Mamedyarov,S	2817	Rapport,R	2731	1/2-1/2	2019.01.12
+Mamedyarov,S	2817	Duda,J	2738	1/2-1/2	2019.01.12
+Mamedyarov,S	2817	Fedoseev,Vl3	2724	1/2-1/2	2019.01.12
+Mamedyarov,S	2817	Sarana,A	2630	1/2-1/2	2019.01.08
+Mamedyarov,S	2817	Naroditsky,D	2616	1/2-1/2	2019.01.08
+Mamedyarov,S	2790	Radjabov,T	2756	1/2-1/2	2019.03.31
+Mamedyarov,S	2790	Navara,D	2739	1/2-1/2	2019.03.31
+Mamedyarov,S	2790	Ding Liren	2812	1/2-1/2	2019.03.31
+Mamedyarov,S	2790	Karjakin,Sergey	2753	1/2-1/2	2019.03.31
+Mamedyarov,S	2781	Wojtaszek,R	2724	1/2-1/2	2019.05.17
+Mamedyarov,S	2774	Caruana,F	2819	1/2-1/2	2019.06.04
+Mamedyarov,S	2774	Grischuk,A	2775	1/2-1/2	2019.06.04
+Mamedyarov,S	2774	Vachier Lagrave,M	2779	1/2-1/2	2019.06.04
+Mamedyarov,S	2774	Vachier Lagrave,M	2779	1/2-1/2	2019.06.04
+Mamedyarov,S	2774	So,W	2754	1/2-1/2	2019.06.04
+Mamedyarov,S	2774	So,W	2754	1/2-1/2	2019.06.04
+Mamedyarov,S	2774	Karjakin,Sergey	2748	1/2-1/2	2019.06.26
+Mamedyarov,S	2774	Aronian,L	2752	1/2-1/2	2019.06.26
+Mamedyarov,S	2774	Vachier Lagrave,M	2779	1/2-1/2	2019.06.26
+Mamedyarov,S	2774	Ding Liren	2805	1/2-1/2	2019.06.26
+Mamedyarov,S	2765	Dubov,Daniil	2700	1/2-1/2	2019.07.12
+Mamedyarov,S	2765	Duda,J	2729	1/2-1/2	2019.07.12
+Mamedyarov,S	2765	Duda,J	2729	1/2-1/2	2019.07.12
+Mamedyarov,S	2765	Vachier Lagrave,M	2775	1/2-1/2	2019.07.12
+Mamedyarov,S	2765	Vachier Lagrave,M	2775	1/2-1/2	2019.07.12
+Mamedyarov,S	2765	Dubov,Daniil	2700	1/2-1/2	2019.07.31
+Mamedyarov,S	2765	Duda,J	2729	1/2-1/2	2019.07.31
+Mamedyarov,S	2765	Grischuk,A	2766	1/2-1/2	2019.07.31
+Mamedyarov,S	2764	Ding Liren	2805	1/2-1/2	2019.08.10
+Mamedyarov,S	2764	Nakamura,Hi	2743	1/2-1/2	2019.08.17
+Mamedyarov,S	2764	Ding Liren	2805	1/2-1/2	2019.08.13
+Mamedyarov,S	2764	Carlsen,M	2882	1/2-1/2	2019.08.17
+Carlsen, Magnus	2864	Mamedyarov, Shakhriyar	2751	1-0	2022.06.06
+Vachier-Lagrave, Maxime	2750	Mamedyarov, Shakhriyar	2770	1-0	2022.06.01
+Nihal, Sarin	2648	Mamedyarov, Shakhriyar	2771	1-0	2022.04.30
+Wei, Yi	2752	Mamedyarov, Shakhriyar	2699	1-0	2022.07.11
+Xiong, Jeffery	2725	Mamedyarov, Shakhriyar	2699	1-0	2022.07.13
+Sevian, Samuel	2569	Mamedyarov, Shakhriyar	2699	1-0	2022.07.13
+Di Nicolantonio, Lucas	2381	Mamedyarov, Shakhriyar	2710	1-0	2022.08.23
+Firouzja, Alireza	2704	Mamedyarov, Shakhriyar	2695	1-0	2022.08.26
+Vachier-Lagrave, Maxime	2763	Mamedyarov, Shakhriyar	2695	1-0	2022.08.26
+Nepomniachtchi, Ian	2795	Mamedyarov, Shakhriyar	2695	1-0	2022.08.27
+Xiong, Jeffery	2714	Mamedyarov, Shakhriyar	2710	1-0	2022.08.29
+Aronian, Levon	2850	Mamedyarov, Shakhriyar	2710	1-0	2022.08.29
+Firouzja, Alireza	2795	Mamedyarov, Shakhriyar	2710	1-0	2022.08.30
+Caruana, Fabiano	2847	Mamedyarov, Shakhriyar	2710	1-0	2022.08.30
+Niemann, Hans Moke	2687	Mamedyarov, Shakhriyar	2758	1-0	2022.09.03
+Mamedyarov, Shakhriyar	2757	Caruana, Fabiano	2758	1/2-1/2	2022.09.06
+Firouzja, Alireza	2778	Mamedyarov, Shakhriyar	2757	1-0	2022.09.08
+Mamedyarov, Shakhriyar	2757	Nepomniachtchi, Ian	2792	1/2-1/2	2022.09.09
+Mamedyarov, Shakhriyar	2757	Aronian, Levon	2759	1/2-1/2	2022.09.11
+Mamedyarov, Shakhriyar	2705	Sarana, Alexey	2631	1/2-1/2	2022.09.23
+Sarana, Alexey	2631	Mamedyarov, Shakhriyar	2705	1-0	2022.09.23
+Guseinov, Gadir	2692	Mamedyarov, Shakhriyar	2705	1-0	2022.09.24
+Mamedyarov, Shakhriyar	2705	Wang, Hao	2750	1/2-1/2	2022.09.24
+Mamedyarov, Shakhriyar	2705	Durarbayli, Vasif	2458	1/2-1/2	2022.09.24
+Mamedyarov, Shakhriyar	2705	Vidit, Santosh Gujrathi	2617	1/2-1/2	2022.09.24
+Korobov, Anton	0	Mamedyarov, Shakhriyar	0	1-0	Sun Nov 10 2019
+So, Wesley	0	Mamedyarov, Shakhriyar	0	1-0	Thu Nov 07 2019
+Anand, Viswanathan	0	Mamedyarov, Shakhriyar	0	1-0	Sat Nov 09 2019
+Aronian, Levon	0	Mamedyarov, Shakhriyar	0	1-0	Sun Nov 10 2019
+Jakovenko, Dmitry	0	Mamedyarov, Shakhriyar	0	1-0	Fri Dec 13 2019
+Sarana, Alexey	0	Mamedyarov, Shakhriyar	0	1-0	Mon Dec 30 2019
+Artemiev, Vladislav	0	Mamedyarov, Shakhriyar	0	1-0	Mon Dec 30 2019
+Carlsen, Magnus	0	Mamedyarov, Shakhriyar	0	1-0	Sun Dec 29 2019
+Firouzja, Alireza	0	Mamedyarov, Shakhriyar	0	1-0	Sat Dec 28 2019
+Vachier-Lagrave, Maxime	0	Mamedyarov, Shakhriyar	0	1-0	Fri Dec 27 2019
+Mamedyarov,S	2764	So,W	2776	1/2-1/2	2019.08.17
+Mamedyarov,S	2764	Giri,A	2779	1/2-1/2	2019.08.17
+Mamedyarov,S	2764	Caruana,F	2818	1/2-1/2	2019.08.17
+Mamedyarov,S	2767	Radjabov,T	2758	1/2-1/2	2019.09.10
+Mamedyarov,S	2767	Radjabov,T	2758	1/2-1/2	2019.09.10
+Mamedyarov,S	2767	Safarli,E	2593	1/2-1/2	2019.09.10
+Mamedyarov,S	2767	So,W	2767	1/2-1/2	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1/2-1/2	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1/2-1/2	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1/2-1/2	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1/2-1/2	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1/2-1/2	2019.09.02
+Mamedyarov,S	2767	So,W	2767	1/2-1/2	2019.09.02
+Mamedyarov,S	2767	Navara,D	2717	1/2-1/2	2019.10.24
+Mamedyarov,S	2772	Jakovenko,D	2698	1/2-1/2	2019.12.11
+Carlsen, Magnus	0	Mamedyarov, Shakhriyar	0	1-0	Sat Dec 28 2019
+Matlakov, Maxim	0	Mamedyarov, Shakhriyar	0	1-0	Mon Dec 30 2019
+Giri, Anish	0	Mamedyarov, Shakhriyar	0	1-0	Mon Dec 30 2019
+Carlsen,M	2835	Mamedyarov,S	2817	1-0	2019.01.12
+Anand,V	2773	Mamedyarov,S	2817	1-0	2019.01.12
+Robson,R	2667	Mamedyarov,S	2817	1-0	2019.01.08
+Moradiabadi,E	2546	Mamedyarov,S	2817	1-0	2019.01.08
+Xiong,Jeffery	2672	Mamedyarov,S	2817	1-0	2019.01.08
+Anand,V	2779	Mamedyarov,S	2790	1-0	2019.03.31
+Topalov,V	2740	Mamedyarov,S	2790	1-0	2019.03.31
+Wojtaszek,R	2724	Mamedyarov,S	2781	1-0	2019.05.17
+Carlsen,M	2875	Mamedyarov,S	2774	1-0	2019.06.04
+Ding Liren	2805	Mamedyarov,S	2774	1-0	2019.06.04
+Yu Yangyi	2738	Mamedyarov,S	2774	1-0	2019.06.04
+So,W	2754	Mamedyarov,S	2774	1-0	2019.06.26
+Giri,A	2779	Mamedyarov,S	2774	1-0	2019.06.26
+Nakamura,Hi	2754	Mamedyarov,S	2765	1-0	2019.07.27
+Duda,J	2729	Mamedyarov,S	2765	1-0	2019.07.27
+Dubov,Daniil	2700	Mamedyarov,S	2765	1-0	2019.07.27
+Vachier Lagrave,M	2775	Mamedyarov,S	2765	1-0	2019.07.12
+Giri,A	2779	Mamedyarov,S	2765	1-0	2019.07.31
+Duda,J	2729	Mamedyarov,S	2765	1-0	2019.07.31
+Nakamura,Hi	2754	Mamedyarov,S	2765	1-0	2019.07.31
+Caruana,F	2819	Mamedyarov,S	2765	1-0	2019.07.31
+Yu Yangyi	2752	Mamedyarov,S	2764	1-0	2019.08.10
+Bauer, Christian	0	Mamedyarov, Shakhriyar	0	0-1	Thu Nov 14 2019
+Caruana, Fabiano	0	Mamedyarov, Shakhriyar	0	0-1	Fri Nov 08 2019
+Caruana, Fabiano	0	Mamedyarov, Shakhriyar	0	0-1	Sat Nov 09 2019
+Sanal, Vahap	0	Mamedyarov, Shakhriyar	0	0-1	Thu Dec 26 2019
+Ponkratov, Pavel	0	Mamedyarov, Shakhriyar	0	0-1	Thu Dec 26 2019
+Carlsson, Pontus	0	Mamedyarov, Shakhriyar	0	0-1	Sun Dec 29 2019
+Gareyev, Timur	0	Mamedyarov, Shakhriyar	0	0-1	Mon Dec 30 2019
+Ezra,Paul Chambers	2360	Mamedyarov,S	2817	0-1	2019.01.08
+Dreev,A	2670	Mamedyarov,S	2817	0-1	2019.01.08
+Karjakin,Sergey	2750	Mamedyarov,S	2764	1-0	2019.08.10
+Carlsen,M	2882	Mamedyarov,S	2764	1-0	2019.08.13
+Rapport,R	2747	Mamedyarov,S	2764	1-0	2019.08.13
+Karjakin,Sergey	2750	Mamedyarov,S	2764	1-0	2019.08.13
+Aronian,L	2765	Mamedyarov,S	2764	1-0	2019.08.13
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1-0	2019.09.02
+Jakovenko,D	2698	Mamedyarov,S	2772	1-0	2019.12.11
+Dominguez Perez, Leinier	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Tue Nov 12 2019
+Anand, Viswanathan	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Wed Nov 06 2019
+Erenburg,S	2589	Mamedyarov,S	2817	0-1	2019.01.08
+Zhao Jun	2610	Mamedyarov,S	2817	0-1	2019.01.08
+Hilby,Craig	2445	Mamedyarov,S	2817	0-1	2019.01.08
+Wang Yue	2684	Mamedyarov,S	2817	0-1	2019.01.08
+Brown,Michael William	2524	Mamedyarov,S	2817	0-1	2019.01.08
+Caruana,F	2819	Mamedyarov,S	2774	0-1	2019.06.03
+Yu Yangyi	2738	Mamedyarov,S	2774	0-1	2019.06.03
+So,W	2754	Mamedyarov,S	2774	0-1	2019.06.03
+Anand,V	2767	Mamedyarov,S	2774	0-1	2019.06.04
+Dubov,Daniil	2700	Mamedyarov,S	2765	0-1	2019.07.12
+Duda,J	2729	Mamedyarov,S	2765	0-1	2019.07.12
+Anand,V	2764	Mamedyarov,S	2765	0-1	2019.07.27
+Vachier Lagrave,M	2775	Mamedyarov,S	2765	0-1	2019.07.12
+Vachier Lagrave,M	2775	Mamedyarov,S	2765	0-1	2019.07.12
+Nepomniachtchi,I	2775	Mamedyarov,S	2765	0-1	2019.07.31
+Grischuk,A	2766	Mamedyarov,S	2765	0-1	2019.07.31
+Dominguez Perez,L	2763	Mamedyarov,S	2764	0-1	2019.08.13
+Caruana,F	2818	Mamedyarov,S	2764	0-1	2019.08.13
+Safarli,E	2593	Mamedyarov,S	2767	0-1	2019.09.10
+Rakotomaharo,Fy Antenaina	2428	Mamedyarov,S	2767	0-1	2019.09.10
+So,W	2767	Mamedyarov,S	2767	0-1	2019.09.02
+So,W	2767	Mamedyarov,S	2767	0-1	2019.09.02
+Ruck,R1	2530	Mamedyarov,S	2772	0-1	2019.12.26
+Aronian, Levon	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Thu Nov 07 2019
+Le, Quang Liem	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Wed Nov 06 2019
+So, Wesley	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Sat Nov 09 2019
+Le, Quang Liem	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Sat Nov 09 2019
+Karjakin, Sergey	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Sun Nov 10 2019
+Giri, Anish	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Sun Nov 10 2019
+Artemiev, Vladislav	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Sun Nov 10 2019
+Nisipeanu, Liviu-Dieter	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Wed Oct 30 2019
+Indjic, Aleksandar	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Thu Oct 24 2019
+Ivanchuk, Vassily	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Sat Oct 26 2019
+Rapport, Richard	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Sat Nov 16 2019
+Jakovenko, Dmitry	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Thu Dec 12 2019
+Dominguez Perez, Leinier	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Fri Dec 27 2019
+Petrosian, Tigran L.	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Sun Dec 29 2019
+Castellanos Rodriguez, Renier	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Sun Dec 29 2019
+Dreev, Aleksey	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Sun Dec 29 2019
+Svidler, Peter	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Sat Dec 28 2019
+Shankland,S	2725	Mamedyarov,S	2817	1/2-1/2	2019.01.12
+Giri,A	2783	Mamedyarov,S	2817	1/2-1/2	2019.01.12
+Naroditsky,D	2616	Mamedyarov,S	2817	1/2-1/2	2019.01.08
+Kramnik,V	2777	Mamedyarov,S	2817	1/2-1/2	2019.01.12
+Van Foreest,Jorden	2612	Mamedyarov,S	2817	1/2-1/2	2019.01.12
+Ding Liren	2813	Mamedyarov,S	2817	1/2-1/2	2019.01.12
+Nakamura,Hi	2749	Mamedyarov,S	2817	1/2-1/2	2019.01.08
+Grischuk,A	2771	Mamedyarov,S	2790	1/2-1/2	2019.03.31
+Carlsen,M	2845	Mamedyarov,S	2790	1/2-1/2	2019.03.31
+Giri,A	2797	Mamedyarov,S	2790	1/2-1/2	2019.03.31
+Aronian,L	2752	Mamedyarov,S	2774	1/2-1/2	2019.06.03
+Anand,V	2767	Mamedyarov,S	2774	1/2-1/2	2019.06.03
+Carlsen,M	2875	Mamedyarov,S	2774	1/2-1/2	2019.06.04
+Nakamura,Hi	2754	Mamedyarov,S	2774	1/2-1/2	2019.06.26
+Carlsen,M	2875	Mamedyarov,S	2774	1/2-1/2	2019.06.26
+Caruana,F	2819	Mamedyarov,S	2774	1/2-1/2	2019.06.26
+Duda,J	2729	Mamedyarov,S	2765	1/2-1/2	2019.07.12
+So,W	2763	Mamedyarov,S	2765	1/2-1/2	2019.07.12
+Grischuk,A	2766	Mamedyarov,S	2765	1/2-1/2	2019.07.27
+Vachier Lagrave,M	2775	Mamedyarov,S	2765	1/2-1/2	2019.07.12
+Vachier Lagrave,M	2775	Mamedyarov,S	2765	1/2-1/2	2019.07.12
+Anand,V	2764	Mamedyarov,S	2765	1/2-1/2	2019.07.31
+Dubov,Daniil	2700	Mamedyarov,S	2765	1/2-1/2	2019.07.31
+Vachier Lagrave,M	2775	Mamedyarov,S	2765	1/2-1/2	2019.07.31
+Carlsen,M	2882	Mamedyarov,S	2764	1/2-1/2	2019.08.10
+Caruana,F	2818	Mamedyarov,S	2764	1/2-1/2	2019.08.10
+Karjakin,Sergey	2750	Mamedyarov,S	2764	1/2-1/2	2019.08.17
+Vachier Lagrave,M	2778	Mamedyarov,S	2764	1/2-1/2	2019.08.13
+Ding Liren	2805	Mamedyarov,S	2764	1/2-1/2	2019.08.13
+Yu Yangyi	2752	Mamedyarov,S	2764	1/2-1/2	2019.08.13
+Nepomniachtchi,I	2774	Mamedyarov,S	2764	1/2-1/2	2019.08.17
+Aronian,L	2765	Mamedyarov,S	2764	1/2-1/2	2019.08.17
+Vachier Lagrave,M	2778	Mamedyarov,S	2764	1/2-1/2	2019.08.17
+Mamedyarov, S.	2804	Caruana, F.	2811	1-0	2018.01.13
+Mamedyarov, S.	2804	Wei Yi	2743	1-0	2018.01.13
+Mamedyarov, S.	2804	Lenderman, A.	2611	1-0	2018.01.18
+Mamedyarov, S.	2804	Tang, Andrew	2513	1-0	2018.01.18
+Mamedyarov, S.	2804	Ju Wenjun	2572	1-0	2018.01.18
+Mamedyarov, S.	2804	Xu, Xiangyu	2545	1-0	2018.01.18
+Mamedyarov, S.	2809	Svidler, P.	2760	1-0	2018.03.05
+Mamedyarov, S.	2809	Svidler, P.	2760	1-0	2018.03.02
+Mamedyarov, S.	2809	Nakamura, Hi	2787	1-0	2018.03.01
+Mamedyarov, S.	2809	Kramnik, V.	2800	1-0	2018.03.10
+Mamedyarov, S.	2809	Grischuk, A.	2767	1-0	2018.03.10
+Mamedyarov, S.	2814	Navara, D.	2745	1-0	2018.04.19
+Mamedyarov, S.	2808	Ding Liren	2791	1-0	2018.05.27
+Mamedyarov, S.	2808	Karjakin, Sergey	2782	1-0	2018.06.15
+Mamedyarov, S.	2808	So, W.	2778	1-0	2018.06.15
+Mamedyarov, S.	2808	Vachier Lagrave, M.	2789	1-0	2018.06.23
+Anand,V	2756	Mamedyarov,S	2764	1/2-1/2	2019.08.17
+Ding Liren	2805	Mamedyarov,S	2764	1/2-1/2	2019.08.17
+Kasimdzhanov,R	2657	Mamedyarov,S	2767	1/2-1/2	2019.09.10
+Radjabov,T	2758	Mamedyarov,S	2767	1/2-1/2	2019.09.10
+Radjabov,T	2758	Mamedyarov,S	2767	1/2-1/2	2019.09.10
+Radjabov,T	2758	Mamedyarov,S	2767	1/2-1/2	2019.09.10
+So,W	2767	Mamedyarov,S	2767	1/2-1/2	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1/2-1/2	2019.09.02
+So,W	2767	Mamedyarov,S	2767	1/2-1/2	2019.09.02
+Mamedyarov, S.	2808	Karjakin, Sergey	2782	1-0	2018.06.23
+Mamedyarov, S.	2808	Grischuk, A.	2766	1-0	2018.06.20
+Mamedyarov, S.	2808	So, W.	2778	1-0	2018.06.20
+Mamedyarov, S.	2801	Georgiadis, N.	2526	1-0	2018.07.22
+Mamedyarov, S.	2801	Navara, D.	2741	1-0	2018.07.22
+Mamedyarov, S.	2801	Vachier Lagrave, M.	2779	1-0	2018.07.22
+Mamedyarov, S.	2801	Carlsen, M.	2842	1-0	2018.07.22
+Mamedyarov, S.	2801	Karjakin, Sergey	2773	1-0	2018.08.11
+Mamedyarov, S.	2801	Caruana, F.	2822	1-0	2018.08.14
+Mamedyarov, S.	2801	Aronian, L.	2767	1-0	2018.08.14
+Mamedyarov, S.	2801	Karjakin, Sergey	2773	1-0	2018.08.14
+Mamedyarov, S.	2801	So, W.	2780	1-0	2018.08.14
+Mamedyarov, S.	2801	Anand, V.	2768	1-0	2018.08.14
+Mamedyarov, S.	2801	So, W.	2780	1-0	2018.08.18
+Mamedyarov, S.	2801	Anand, V.	2768	1-0	2018.08.11
+Mamedyarov, S.	2801	Giri, A.	2782	1-0	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	1-0	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	1-0	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	1-0	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	1-0	2018.07.24
+Mamedyarov, Shakhriyar	2817	Vidit, Santosh Gujrathi	2702	1-0	2018.11.13
+Mamedyarov, Shakhriyar	2817	Hovhannisyan, Robert	2637	1-0	2018.12.29
+Mamedyarov, Shakhriyar	2817	Praggnanandhaa, R	2530	1-0	2018.11.13
+Mamedyarov, Shakhriyar	2817	Amin, Bassem	2710	1-0	2018.12.29
+Mamedyarov, Shakhriyar	2820	Adams, Michael	2712	1-0	2018.09.24
+Mamedyarov, S.	2804	Ostrovskiy, And	2448	0-1	2018.01.18
+Mamedyarov, S.	2809	Kramnik, V.	2800	0-1	2018.03.05
+Mamedyarov, S.	2809	Andreikin, D.	2712	0-1	2018.03.05
+Mamedyarov, S.	2809	Dubov, Daniil	2701	0-1	2018.03.02
+Mamedyarov, S.	2809	Dubov, Daniil	2701	0-1	2018.03.05
+Mamedyarov, S.	2804	Dreev, A.	2653	0-1	2018.01.18
+Mamedyarov, S.	2809	Ding Liren	2769	0-1	2018.03.10
+Mamedyarov, S.	2808	So, W.	2778	0-1	2018.05.27
+Mamedyarov, S.	2808	Nakamura, Hi	2769	0-1	2018.06.15
+Mamedyarov, S.	2808	Nakamura, Hi	2769	0-1	2018.06.12
+Mamedyarov, S.	2808	Aronian, L.	2764	0-1	2018.06.15
+Mamedyarov, Shakhriyar	2817	Oparin, Grigoriy	2613	1-0	2018.12.26
+Mamedyarov, Shakhriyar	2817	Vidit, Santosh Gujrathi	2702	1-0	2018.11.09
+Mamedyarov, Shakhriyar	2817	Ganguly, Surya Shekhar	2615	1-0	2018.11.09
+Mamedyarov, Shakhriyar	2817	Karjakin, Sergey	2753	1-0	2018.11.09
+Mamedyarov, Shakhriyar	2817	Anton Guijarro, David	2642	1-0	2018.12.26
+Mamedyarov, Shakhriyar	2817	Gasanov, Eldar	2499	1-0	2018.12.26
+Mamedyarov, Shakhriyar	2817	Maslak, Konstantin	2555	1-0	2018.12.29
+Mamedyarov, Shakhriyar	2817	Adly, Ahmed	2626	1-0	2018.12.29
+Mamedyarov, Shakhriyar	2820	Sammalvuo, Tapani	2414	1-0	2018.10.12
+Mamedyarov, Shakhriyar	2817	Timofeev, Artyom	2589	1-0	2018.12.26
+Mamedyarov, Shakhriyar	2817	Cheparinov, Ivan	2709	1-0	2018.12.29
+Mamedyarov, Shakhriyar	2820	Navara, David	2740	1-0	2018.09.24
+Mamedyarov, Shakhriyar	2817	Korobov, Anton	2698	1-0	2018.12.29
+Mamedyarov,S	2817	Shankland,S	2724	1-0	2018.11.24
+Mamedyarov, S.	2804	Matlakov, M.	2718	1/2-1/2	2018.01.13
+Mamedyarov, S.	2804	Anand, V.	2767	1/2-1/2	2018.01.13
+Mamedyarov, S.	2804	Kramnik, V.	2787	1/2-1/2	2018.01.13
+Mamedyarov, S.	2804	Carlsen, M.	2834	1/2-1/2	2018.01.13
+Mamedyarov, S.	2804	Khachiyan, M.	2522	1/2-1/2	2018.01.18
+Mamedyarov, S.	2808	Kramnik, V.	2792	0-1	2018.06.23
+Mamedyarov, S.	2808	Caruana, F.	2816	0-1	2018.06.23
+Mamedyarov, S.	2808	Aronian, L.	2764	0-1	2018.06.20
+Mamedyarov, S.	2808	Aronian, L.	2764	0-1	2018.06.23
+Mamedyarov, S.	2808	Nakamura, Hi	2769	0-1	2018.06.23
+Mamedyarov, S.	2801	Nakamura, Hi	2777	0-1	2018.08.14
+Mamedyarov, S.	2801	Vachier Lagrave, M.	2779	0-1	2018.08.14
+Mamedyarov, S.	2801	Giri, A.	2782	0-1	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	0-1	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	0-1	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	0-1	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	0-1	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	0-1	2018.07.24
+Mamedyarov, Shakhriyar	2817	Nakamura, Hikaru	2746	0-1	2018.11.13
+Mamedyarov, Shakhriyar	2817	Ganguly, Surya Shekhar	2615	0-1	2018.11.13
+Mamedyarov, Shakhriyar	2817	So, Wesley	2765	0-1	2018.11.13
+Mamedyarov, Shakhriyar	2817	Anand, Viswanathan	2773	0-1	2018.11.13
+Mamedyarov, Shakhriyar	2817	Nakamura, Hikaru	2746	0-1	2018.11.09
+Mamedyarov, Shakhriyar	2817	Carlsen, Magnus	2835	0-1	2018.12.29
+Mamedyarov, Shakhriyar	2817	Maghsoodloo, Parham	2688	0-1	2018.12.29
+Wang, Hao	2744	Mamedyarov, Shakhriyar	2770	0-1	2022.06.03
+Anand, Viswanathan	2751	Mamedyarov, Shakhriyar	2751	0-1	2022.06.09
+Vachier-Lagrave, Maxime	2750	Mamedyarov, Shakhriyar	2770	1/2-1/2	2022.06.01
+Maghsoodloo, Parham	2699	Mamedyarov, Shakhriyar	2771	1/2-1/2	2022.04.10
+Wojtaszek, Radoslaw	2636	Mamedyarov, Shakhriyar	2699	1/2-1/2	2022.07.10
+Duda, Jan-Krzysztof	2808	Mamedyarov, Shakhriyar	2699	1/2-1/2	2022.07.11
+Ju, Wenjun	2610	Mamedyarov, Shakhriyar	2699	0-1	2022.07.12
+Yilmaz, Mustafa	2634	Mamedyarov, Shakhriyar	2759	1/2-1/2	2022.08.01
+Gazik, Viktor	2544	Mamedyarov, Shakhriyar	2759	0-1	2022.08.03
+Gukesh, D	2699	Mamedyarov, Shakhriyar	2758	1/2-1/2	2022.08.07
+Shankland, Sam	2616	Mamedyarov, Shakhriyar	2695	1/2-1/2	2022.08.27
+Caruana, Fabiano	2766	Mamedyarov, Shakhriyar	2695	0-1	2022.08.28
+Dominguez Perez, Leinier	2708	Mamedyarov, Shakhriyar	2710	0-1	2022.08.29
+Shankland, Sam	2645	Mamedyarov, Shakhriyar	2710	0-1	2022.08.29
+Vachier-Lagrave, Maxime	2812	Mamedyarov, Shakhriyar	2710	1/2-1/2	2022.08.30
+Nepomniachtchi, Ian	2791	Mamedyarov, Shakhriyar	2710	1/2-1/2	2022.08.30
+Kovalev, Vladislav	2505	Mamedyarov, Shakhriyar	2705	0-1	2022.09.16
+Kovalev, Vladislav	2505	Mamedyarov, Shakhriyar	2705	0-1	2022.09.16
+Mamedov, Rauf	2584	Mamedyarov, Shakhriyar	2705	0-1	2022.09.22
+Maghsoodloo, Parham	2589	Mamedyarov, Shakhriyar	2705	0-1	2022.09.22
+Sarana, Alexey	2631	Mamedyarov, Shakhriyar	2705	0-1	2022.09.23
+Mamedov, Rauf	2584	Mamedyarov, Shakhriyar	2705	0-1	2022.09.24
+Maghsoodloo, Parham	2589	Mamedyarov, Shakhriyar	2705	0-1	2022.09.24
+Vidit, Santosh Gujrathi	2617	Mamedyarov, Shakhriyar	2705	1-0	2022.09.24
+Kasimdzhanov, Rustam	2698	Mamedyarov, Shakhriyar	2705	0-1	2022.09.24
+Mamedyarov, S.	2804	Caruana, F.	2811	1/2-1/2	2018.01.18
+Mamedyarov, S.	2804	Pichot, A.	2552	1/2-1/2	2018.01.18
+Mamedyarov, S.	2809	Nakamura, Hi	2787	1/2-1/2	2018.03.05
+Mamedyarov, S.	2809	Nepomniachtchi, I.	2751	1/2-1/2	2018.03.05
+Mamedyarov, S.	2809	Morozevich, A.	2665	1/2-1/2	2018.03.05
+Mamedyarov, S.	2809	Grischuk, A.	2767	1/2-1/2	2018.03.02
+Mamedyarov, S.	2809	Nakamura, Hi	2787	1/2-1/2	2018.03.02
+Mamedyarov, S.	2809	Aronian, L.	2794	1/2-1/2	2018.03.10
+Mamedyarov, S.	2804	Kiewra, K.	2382	1/2-1/2	2018.01.18
+Mamedyarov, S.	2809	Karjakin, Sergey	2763	1/2-1/2	2018.03.10
+Mamedyarov, S.	2809	So, W.	2799	1/2-1/2	2018.03.10
+Mamedyarov, S.	2809	Caruana, F.	2784	1/2-1/2	2018.03.10
+Mamedyarov, S.	2814	Giri, A.	2777	1/2-1/2	2018.04.19
+Mamedyarov, S.	2814	Carlsen, M.	2843	1/2-1/2	2018.04.19
+Mamedyarov, S.	2814	Karjakin, Sergey	2778	1/2-1/2	2018.04.19
+Mamedyarov, S.	2791	Rausis, I.	2632	1/2-1/2	2017.10.21
+Mamedyarov, S.	2814	Radjabov, T.	2748	1/2-1/2	2018.04.19
+Mamedyarov, S.	2808	Vachier Lagrave, M.	2789	1/2-1/2	2018.05.28
+Mamedyarov, S.	2808	Carlsen, M.	2843	1/2-1/2	2018.05.27
+Mamedyarov, S.	2808	Nakamura, Hi	2769	1/2-1/2	2018.05.27
+Mamedyarov, S.	2808	Karjakin, Sergey	2782	1/2-1/2	2018.05.28
+Mamedyarov, S.	2808	Nakamura, Hi	2769	1/2-1/2	2018.05.28
+Mamedyarov, S.	2808	So, W.	2778	1/2-1/2	2018.05.28
+Mamedyarov, S.	2808	Giri, A.	2782	1/2-1/2	2018.06.15
+Mamedyarov, S.	2808	Caruana, F.	2816	1/2-1/2	2018.06.15
+Mamedyarov, S.	2808	Anand, V.	2759	1/2-1/2	2018.06.15
+Mamedyarov, S.	2808	Grischuk, A.	2766	1/2-1/2	2018.06.15
+Mamedyarov, S.	2808	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.15
+Mamedyarov, S.	2808	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.12
+Mamedyarov, S.	2808	Giri, A.	2782	1/2-1/2	2018.06.12
+Mamedyarov, S.	2808	Karjakin, Sergey	2782	1/2-1/2	2018.06.12
+Mamedyarov, S.	2808	So, W.	2778	1/2-1/2	2018.06.23
+Mamedyarov, S.	2808	Anand, V.	2759	1/2-1/2	2018.06.23
+Mamedyarov, S.	2808	Grischuk, A.	2766	1/2-1/2	2018.06.23
+Mamedyarov, S.	2808	Caruana, F.	2816	1/2-1/2	2018.06.20
+Mamedyarov, S.	2808	Anand, V.	2759	1/2-1/2	2018.06.20
+Mamedyarov, S.	2801	Svidler, P.	2753	1/2-1/2	2018.07.22
+Mamedyarov, S.	2801	Nakamura, Hi	2777	1/2-1/2	2018.08.11
+Mamedyarov, S.	2801	Grischuk, A.	2766	1/2-1/2	2018.08.11
+Mamedyarov, S.	2801	Grischuk, A.	2766	1/2-1/2	2018.08.14
+Mamedyarov, S.	2801	Dominguez Perez, L.	2739	1/2-1/2	2018.08.14
+Mamedyarov, S.	2801	Aronian, L.	2767	1/2-1/2	2018.08.18
+Mamedyarov, S.	2801	Vachier Lagrave, M.	2779	1/2-1/2	2018.08.18
+Mamedyarov, S.	2801	Carlsen, M.	2842	1/2-1/2	2018.08.18
+Mamedyarov, S.	2801	Caruana, F.	2822	1/2-1/2	2018.08.18
+Mamedyarov, S.	2801	Giri, A.	2782	1/2-1/2	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	1/2-1/2	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	1/2-1/2	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	1/2-1/2	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	1/2-1/2	2018.07.24
+Giri, A.	2752	Mamedyarov, S.	2804	1-0	2018.01.13
+Shimanov, A.	2641	Mamedyarov, S.	2804	1-0	2018.01.18
+Xiao, Junyuan	2077	Mamedyarov, S.	2804	1-0	2018.01.18
+Fedoseev, Vl3	2724	Mamedyarov, S.	2809	1-0	2018.03.05
+Anand, V.	2776	Mamedyarov, S.	2809	1-0	2018.03.05
+Topalov, V.	2749	Mamedyarov, S.	2814	1-0	2018.04.19
+Aronian, L.	2764	Mamedyarov, S.	2808	1-0	2018.05.27
+Mamedyarov, Shakhriyar	2817	Karjakin, Sergey	2753	1/2-1/2	2018.11.13
+Mamedyarov, Shakhriyar	2817	Harikrishna, Pendyala	2729	1/2-1/2	2018.11.13
+Mamedyarov, Shakhriyar	2817	Aronian, Levon	2765	1/2-1/2	2018.11.13
+Mamedyarov, Shakhriyar	2820	Borisek, Jure	2578	1/2-1/2	2018.09.24
+Mamedyarov, Shakhriyar	2817	Dubov, Daniil	2703	1/2-1/2	2018.12.26
+Mamedyarov, Shakhriyar	2817	Anand, Viswanathan	2773	1/2-1/2	2018.11.09
+Mamedyarov, Shakhriyar	2817	Jakovenko, Dmitry	2735	1/2-1/2	2018.12.29
+Mamedyarov, Shakhriyar	2817	Petrosian, Tigran L	2598	1/2-1/2	2018.12.26
+Mamedyarov, Shakhriyar	2817	Korobov, Anton	2698	1/2-1/2	2018.12.26
+Mamedyarov, Shakhriyar	2817	Giri, Anish	2783	1/2-1/2	2018.12.26
+Mamedyarov, Shakhriyar	2820	Ding, Liren	2804	1/2-1/2	2018.09.24
+Mamedyarov, Shakhriyar	2817	Wang, Hao	2730	1/2-1/2	2018.12.29
+Mamedyarov, Shakhriyar	2820	Wojtaszek, Radoslaw	2727	1/2-1/2	2018.10.12
+Mamedyarov, Shakhriyar	2809	Kramnik, Vladimir	2800	1/2-1/2	2018.03.02
+Mamedyarov, Shakhriyar	2820	Carlsen, Magnus	2839	1/2-1/2	2018.10.12
+Mamedyarov, Shakhriyar	2820	Ivanchuk, Vassily	2710	1/2-1/2	2018.09.24
+Mamedyarov, Shakhriyar	2817	Sarana, Alexey	2618	1/2-1/2	2018.12.29
+Mamedyarov,S	2817	Caruana,F	2832	1/2-1/2	2018.11.24
+Karjakin, Sergey	2782	Mamedyarov, S.	2808	1-0	2018.05.27
+Aronian, L.	2764	Mamedyarov, S.	2808	1-0	2018.05.28
+Nakamura, Hi	2769	Mamedyarov, S.	2808	1-0	2018.06.15
+Karjakin, Sergey	2782	Mamedyarov, S.	2808	1-0	2018.06.15
+Grischuk, A.	2766	Mamedyarov, S.	2808	1-0	2018.06.15
+Giri, A.	2782	Mamedyarov, S.	2808	1-0	2018.06.15
+So, W.	2778	Mamedyarov, S.	2808	1-0	2018.06.12
+So, W.	2778	Mamedyarov, S.	2808	1-0	2018.06.23
+Karjakin, Sergey	2782	Mamedyarov, S.	2808	1-0	2018.06.20
+Vachier Lagrave, M.	2789	Mamedyarov, S.	2808	1-0	2018.06.20
+Kramnik, V.	2792	Mamedyarov, S.	2808	1-0	2018.06.20
+Vachier Lagrave, M.	2789	Mamedyarov, S.	2808	1-0	2018.06.23
+Caruana, F.	2822	Mamedyarov, S.	2801	1-0	2018.08.11
+So, W.	2780	Mamedyarov, S.	2801	1-0	2018.08.14
+Dominguez Perez, L.	2739	Mamedyarov, S.	2801	1-0	2018.08.14
+Vachier Lagrave, M.	2779	Mamedyarov, S.	2801	1-0	2018.08.14
+Nakamura, Hi	2777	Mamedyarov, S.	2801	1-0	2018.08.14
+Aronian, L.	2767	Mamedyarov, S.	2801	1-0	2018.08.14
+Giri, A.	2782	Mamedyarov, S.	2801	1-0	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1-0	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1-0	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1-0	2018.07.24
+Aronian, Levon	2765	Mamedyarov, Shakhriyar	2817	1-0	2018.11.13
+Artemiev, Vladislav	2709	Mamedyarov, Shakhriyar	2817	1-0	2018.12.29
+Caruana, Fabiano	2827	Mamedyarov, Shakhriyar	2820	1-0	2018.09.24
+Hou Yifan	2680	Mamedyarov, S.	2804	0-1	2018.01.13
+Adhiban, Baskaran	2655	Mamedyarov, S.	2804	0-1	2018.01.13
+Svidler, P.	2768	Mamedyarov, S.	2804	0-1	2018.01.13
+Pakleza, Z.	2496	Mamedyarov, S.	2804	0-1	2018.01.18
+Hansen, Eric	2629	Mamedyarov, S.	2804	0-1	2018.01.18
+Liang, Awonder	2572	Mamedyarov, S.	2804	0-1	2018.01.18
+Iturrizaga, E.	2650	Mamedyarov, S.	2804	0-1	2018.01.18
+Stopa, Ja	2427	Mamedyarov, S.	2804	0-1	2018.01.18
+Gelfand, B.	2695	Mamedyarov, S.	2809	0-1	2018.03.05
+Anand, V.	2776	Mamedyarov, S.	2809	0-1	2018.03.02
+Karjakin, Sergey	2763	Mamedyarov, S.	2809	0-1	2018.03.10
+Sheng, Joshua	2392	Mamedyarov, S.	2804	0-1	2018.01.18
+Brown, Michael William	2506	Mamedyarov, S.	2804	0-1	2018.01.18
+Caruana, F.	2822	Mamedyarov, S.	2808	0-1	2018.05.27
+Vachier Lagrave, M.	2789	Mamedyarov, S.	2808	0-1	2018.05.27
+Vachier Lagrave, M.	2789	Mamedyarov, S.	2808	0-1	2018.06.15
+So, W.	2778	Mamedyarov, S.	2808	0-1	2018.06.15
+Caruana, F.	2816	Mamedyarov, S.	2808	0-1	2018.06.12
+Anand, V.	2759	Mamedyarov, S.	2808	0-1	2018.06.12
+Kramnik, V.	2792	Mamedyarov, S.	2808	0-1	2018.06.23
+Harikrishna, Pendyala	2729	Mamedyarov, Shakhriyar	2817	1-0	2018.11.09
+Matlakov, Maxim	2700	Mamedyarov, Shakhriyar	2817	1-0	2018.12.26
+Nakamura, Hikaru	2746	Mamedyarov, Shakhriyar	2817	1-0	2018.11.13
+So, Wesley	2765	Mamedyarov, Shakhriyar	2817	1-0	2018.11.13
+Tsydypov, Zhamsaran	2529	Mamedyarov, Shakhriyar	2817	1-0	2018.12.29
+So, W.	2792	Mamedyarov, S.	2804	1/2-1/2	2018.01.13
+Karjakin, Sergey	2753	Mamedyarov, S.	2804	1/2-1/2	2018.01.13
+Jones, G.	2640	Mamedyarov, S.	2804	1/2-1/2	2018.01.13
+Caruana, F.	2816	Mamedyarov, S.	2808	0-1	2018.06.23
+Nakamura, Hi	2769	Mamedyarov, S.	2808	0-1	2018.06.23
+Georgiadis, N.	2526	Mamedyarov, S.	2801	0-1	2018.07.22
+Vachier Lagrave, M.	2779	Mamedyarov, S.	2801	0-1	2018.08.11
+So, W.	2780	Mamedyarov, S.	2801	0-1	2018.08.11
+Karjakin, Sergey	2773	Mamedyarov, S.	2801	0-1	2018.08.14
+Caruana, F.	2822	Mamedyarov, S.	2801	0-1	2018.08.14
+Giri, A.	2782	Mamedyarov, S.	2801	0-1	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	0-1	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	0-1	2018.07.24
+Amin, Bassem	2710	Mamedyarov, Shakhriyar	2817	0-1	2018.12.26
+Aronian, Levon	2780	Mamedyarov, Shakhriyar	2820	0-1	2018.09.24
+Ganguly, Surya Shekhar	2615	Mamedyarov, Shakhriyar	2817	0-1	2018.11.13
+Golubov, Saveliy	2482	Mamedyarov, Shakhriyar	2817	0-1	2018.12.29
+Khusnutdinov, Rustam	2470	Mamedyarov, Shakhriyar	2817	0-1	2018.12.29
+Morozevich, Alexander	2656	Mamedyarov, Shakhriyar	2817	0-1	2018.12.26
+Pantsulaia, Levan	2597	Mamedyarov, Shakhriyar	2817	0-1	2018.12.29
+Petenyi, Tamas	2444	Mamedyarov, Shakhriyar	2820	0-1	2018.10.12
+Praggnanandhaa, R	2530	Mamedyarov, Shakhriyar	2817	0-1	2018.11.13
+Salem, A R Saleh	2660	Mamedyarov, Shakhriyar	2817	0-1	2018.12.26
+Timofeev, Artyom	2589	Mamedyarov, Shakhriyar	2817	0-1	2018.12.29
+Vidit, Santosh Gujrathi	2702	Mamedyarov, Shakhriyar	2817	0-1	2018.11.13
+Wang Yue	2690	Mamedyarov, S.	2804	1/2-1/2	2018.01.18
+Karjakin, Sergey	2763	Mamedyarov, S.	2809	1/2-1/2	2018.03.05
+Artemiev, V.	2697	Mamedyarov, S.	2809	1/2-1/2	2018.03.05
+Grischuk, A.	2767	Mamedyarov, S.	2809	1/2-1/2	2018.03.05
+Gelfand, B.	2695	Mamedyarov, S.	2809	1/2-1/2	2018.03.02
+Nepomniachtchi, I.	2751	Mamedyarov, S.	2809	1/2-1/2	2018.03.02
+Karjakin, Sergey	2763	Mamedyarov, S.	2809	1/2-1/2	2018.03.02
+Caruana, F.	2784	Mamedyarov, S.	2809	1/2-1/2	2018.03.10
+Nakamura, Hi	2787	Mamedyarov, S.	2809	1/2-1/2	2018.03.01
+Grischuk, A.	2767	Mamedyarov, S.	2809	1/2-1/2	2018.03.10
+Ding Liren	2769	Mamedyarov, S.	2809	1/2-1/2	2018.03.10
+Aronian, L.	2794	Mamedyarov, S.	2809	1/2-1/2	2018.03.10
+So, W.	2799	Mamedyarov, S.	2809	1/2-1/2	2018.03.10
+Kramnik, V.	2800	Mamedyarov, S.	2809	1/2-1/2	2018.03.10
+Wojtaszek, R.	2744	Mamedyarov, S.	2814	1/2-1/2	2018.04.19
+Gozzoli, Y.	2569	Mamedyarov, S.	2791	1/2-1/2	2017.10.21
+Mamedov, Rau	2704	Mamedyarov, S.	2814	1/2-1/2	2018.04.19
+Ding Liren	2778	Mamedyarov, S.	2814	1/2-1/2	2018.04.19
+Anand, V.	2760	Mamedyarov, S.	2808	1/2-1/2	2018.05.27
+Caruana, F.	2822	Mamedyarov, S.	2808	1/2-1/2	2018.05.28
+Anand, V.	2760	Mamedyarov, S.	2808	1/2-1/2	2018.05.28
+Carlsen, M.	2843	Mamedyarov, S.	2808	1/2-1/2	2018.05.28
+Aronian, L.	2764	Mamedyarov, S.	2808	1/2-1/2	2018.06.15
+Caruana, F.	2816	Mamedyarov, S.	2808	1/2-1/2	2018.06.15
+Grischuk, A.	2766	Mamedyarov, S.	2808	1/2-1/2	2018.06.12
+Anand, V.	2759	Mamedyarov, S.	2808	1/2-1/2	2018.06.15
+Aronian, L.	2764	Mamedyarov, S.	2808	1/2-1/2	2018.06.12
+Aronian, L.	2764	Mamedyarov, S.	2808	1/2-1/2	2018.06.23
+Grischuk, A.	2766	Mamedyarov, S.	2808	1/2-1/2	2018.06.23
+Anand, V.	2759	Mamedyarov, S.	2808	1/2-1/2	2018.06.23
+Nakamura, Hi	2769	Mamedyarov, S.	2808	1/2-1/2	2018.06.20
+Karjakin, Sergey	2782	Mamedyarov, S.	2808	1/2-1/2	2018.06.23
+Navara, D.	2741	Mamedyarov, S.	2801	1/2-1/2	2018.07.22
+Carlsen, M.	2842	Mamedyarov, S.	2801	1/2-1/2	2018.07.22
+Vachier Lagrave, M.	2779	Mamedyarov, S.	2801	1/2-1/2	2018.07.22
+Svidler, P.	2753	Mamedyarov, S.	2801	1/2-1/2	2018.07.22
+Dominguez Perez, L.	2739	Mamedyarov, S.	2801	1/2-1/2	2018.08.11
+Aronian, L.	2767	Mamedyarov, S.	2801	1/2-1/2	2018.08.11
+Anand, V.	2768	Mamedyarov, S.	2801	1/2-1/2	2018.08.14
+Grischuk, A.	2766	Mamedyarov, S.	2801	1/2-1/2	2018.08.14
+Grischuk, A.	2766	Mamedyarov, S.	2801	1/2-1/2	2018.08.18
+Nakamura, Hi	2777	Mamedyarov, S.	2801	1/2-1/2	2018.08.18
+Karjakin, Sergey	2773	Mamedyarov, S.	2801	1/2-1/2	2018.08.18
+Anand, V.	2768	Mamedyarov, S.	2801	1/2-1/2	2018.08.18
+Giri, A.	2782	Mamedyarov, S.	2801	1/2-1/2	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1/2-1/2	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1/2-1/2	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1/2-1/2	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1/2-1/2	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1/2-1/2	2018.07.24
+Mamedyarov, S.	2766	Ashwin, J.	2490	1-0	2017.01.11
+Mamedyarov, S.	2766	Bhat, V.	2519	1-0	2017.01.11
+Mamedyarov, S.	2766	Tomashevsky, E.	2711	1-0	2017.02.18
+Mamedyarov, S.	2766	Stopa, Ja	2479	1-0	2017.01.11
+Mamedyarov, S.	2766	Hou Yifan	2651	1-0	2017.02.18
+Mamedyarov, S.	2766	Adams, Mi	2751	1-0	2017.02.18
+Mamedyarov, S.	2766	So, W.	2808	1-0	2017.01.11
+Giri, A.	2782	Mamedyarov, S.	2801	1/2-1/2	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1/2-1/2	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1/2-1/2	2018.07.24
+Anand, Viswanathan	2773	Mamedyarov, Shakhriyar	2817	1/2-1/2	2018.11.13
+Andreikin, Dmitry	2719	Mamedyarov, Shakhriyar	2817	1/2-1/2	2018.12.26
+Aronian, Levon	2765	Mamedyarov, Shakhriyar	2817	1/2-1/2	2018.11.09
+Duda, Jan-Krzysztof	2739	Mamedyarov, Shakhriyar	2820	1/2-1/2	2018.09.24
+Efimenko, Zahar	2641	Mamedyarov, Shakhriyar	2820	1/2-1/2	2018.10.12
+Harikrishna, Pendyala	2729	Mamedyarov, Shakhriyar	2817	1/2-1/2	2018.11.13
+Karjakin, Sergey	2753	Mamedyarov, Shakhriyar	2817	1/2-1/2	2018.12.29
+Karjakin, Sergey	2753	Mamedyarov, Shakhriyar	2817	1/2-1/2	2018.11.13
+Matlakov, Maxim	2700	Mamedyarov, Shakhriyar	2817	1/2-1/2	2018.12.29
+Nepomniachtchi, Ian	2763	Mamedyarov, Shakhriyar	2817	1/2-1/2	2018.12.26
+Nihal, Sarin	2576	Mamedyarov, Shakhriyar	2817	1/2-1/2	2018.11.09
+Popov, Ivan RUS	2592	Mamedyarov, Shakhriyar	2817	1/2-1/2	2018.12.29
+So, Wesley	2765	Mamedyarov, Shakhriyar	2817	1/2-1/2	2018.11.09
+Vocaturo, Daniele	2615	Mamedyarov, Shakhriyar	2820	1/2-1/2	2018.09.24
+Leko,P	2679	Mamedyarov,S	2817	1/2-1/2	2018.11.24
+Mamedyarov, S.	2772	Li, Ruifeng	2577	1-0	2017.03.01
+Mamedyarov, S.	2772	Holt, C.	2555	1-0	2017.03.01
+Mamedyarov, S.	2772	Vitiugov, N.	2731	1-0	2017.05.01
+Mamedyarov, S.	2772	Shomoev, A.	2550	1-0	2017.05.01
+Mamedyarov, S.	2772	Adams, Mi	2747	1-0	2017.05.12
+Mamedyarov, S.	2800	Caruana, F.	2808	1-0	2017.06.24
+Mamedyarov, S.	2800	Nakamura, Hi	2785	1-0	2017.06.24
+Mamedyarov, S.	2800	Topalov, V.	2749	1-0	2017.06.24
+Mamedyarov, S.	2800	Topalov, V.	2749	1-0	2017.06.21
+Mamedyarov, S.	2800	Bacrot, E.	2708	1-0	2017.06.24
+Mamedyarov, S.	2800	Vachier Lagrave, M.	2796	1-0	2017.06.21
+Mamedyarov, S.	2800	Inarkiev, E.	2707	1-0	2017.07.06
+Mamedyarov, S.	2791	Nisipeanu, LD.	2672	1-0	2017.10.08
+Mamedyarov, S.	2791	Rakhmanov, Ale	2654	1-0	2017.10.03
+Mamedyarov, S.	2791	Dubov, Daniil	2677	1-0	2017.10.03
+Mamedyarov, S.	2791	Kurbedinov, R.	2309	1-0	2017.10.03
+Mamedyarov, S.	2791	Goryachkina, A.	2478	1-0	2017.10.05
+Mamedyarov, S.	2791	Kezin, R.	2455	1-0	2017.10.05
+Mamedyarov, S.	2791	Moskalenko, A.	2522	1-0	2017.10.05
+Mamedyarov, S.	2791	Ragger, M.	2659	1-0	2017.10.28
+Mamedyarov, S.	2791	Navara, D.	2726	1-0	2017.10.28
+Mamedyarov, S.	2791	Svetushkin, D.	2556	1-0	2017.10.28
+Mamedyarov, S.	2799	Le Quang Liem	2737	1-0	2017.12.10
+Mamedyarov, S.	2799	Ivanchuk, V.	2726	1-0	2017.12.10
+Mamedyarov, S.	2799	Le Quang Liem	2737	1-0	2017.12.14
+Mamedyarov, Shakhriyar	2770	Van Foreest, Jorden	2701	1-0	Sat Mar 13 2021
+Mamedyarov, Shakhriyar	2770	Firouzja, Alireza	2759	1-0	Sat Apr 24 2021
+Mamedyarov, Shakhriyar	2770	Firouzja, Alireza	2759	1-0	Tue Apr 27 2021
+Mamedyarov, Shakhriyar	2770	Dominguez Perez, Leinier	2758	1-0	Sun Apr 25 2021
+Mamedyarov, Shakhriyar	2770	Karjakin, Sergey	2757	1-0	Sun Apr 25 2021
+Mamedyarov, Shakhriyar	2770	Nakamura, Hikaru	2736	1-0	Thu Apr 29 2021
+Mamedyarov, Shakhriyar	2770	Nakamura, Hikaru	2736	1-0	Fri Apr 30 2021
+Mamedyarov, Shakhriyar	2770	Nakamura, Hikaru	2736	1-0	Fri Apr 30 2021
+Mamedyarov, Shakhriyar	2770	Manukyan, Artyom	2148	1-0	Tue May 04 2021
+Mamedyarov, Shakhriyar	2770	Navalgund, Niranjan	2289	1-0	Tue May 04 2021
+Mamedyarov, Shakhriyar	2770	Vlassov, Nikolai	2306	1-0	Tue May 04 2021
+Mamedyarov, Shakhriyar	2770	Karacsonyi, Gellert	2327	1-0	Tue May 11 2021
+Mamedyarov, Shakhriyar	2770	Caruana, Fabiano	2820	1-0	Sun May 23 2021
+Mamedyarov, Shakhriyar	2770	Aronian, Levon	2781	1-0	Mon May 24 2021
+Mamedyarov, Shakhriyar	2770	Vachier-Lagrave, Maxime	2760	1-0	Mon May 24 2021
+Mamedyarov, Shakhriyar	2770	Aronian, Levon	2781	1-0	2021.06.11
+Mamedyarov, Shakhriyar	2716	Saravana, Krishnan P.	2245	1-0	2021.06.22
+Mamedyarov, Shakhriyar	2716	Krivonosov, Oleg	2469	1-0	2021.06.22
+Mamedyarov, Shakhriyar	2716	Deepan, Chakkravarthy J.	2490	1-0	2021.06.22
+Nakamura, Hikaru	2850	Mamedyarov, Shakhriyar	2710	1/2-1/2	2022.08.30
+Dominguez Perez, Leinier	2745	Mamedyarov, Shakhriyar	2757	1/2-1/2	2022.09.10
+Kasimdzhanov, Rustam	2698	Mamedyarov, Shakhriyar	2705	1/2-1/2	2022.09.23
+Wang, Hao	2750	Mamedyarov, Shakhriyar	2705	1/2-1/2	2022.09.24
+Yilmaz, Mustafa	2502	Mamedyarov, Shakhriyar	2705	1/2-1/2	2022.09.24
+Durarbayli, Vasif	2458	Mamedyarov, Shakhriyar	2705	1/2-1/2	2022.09.24
+Mamedyarov, S.	2766	Finegold, B.	2483	0-1	2017.01.11
+Mamedyarov, S.	2772	Shimanov, A.	2642	0-1	2017.03.01
+Mamedyarov, S.	2800	Karjakin, Sergey	2781	0-1	2017.06.24
+Mamedyarov, S.	2800	Carlsen, M.	2832	0-1	2017.06.24
+Mamedyarov, S.	2800	Vachier Lagrave, M.	2796	0-1	2017.06.24
+Mamedyarov, S.	2800	Carlsen, M.	2832	0-1	2017.06.21
+Mamedyarov, S.	2797	Kuzubov, Y.	2688	0-1	2017.09.03
+Mamedyarov, S.	2791	Grachev, B.	2645	0-1	2017.10.05
+Mamedyarov, S.	2799	Korobov, A.	2652	0-1	2017.12.14
+Mamedyarov, S.	2799	Yu Yangyi	2751	0-1	2017.12.14
+Mamedyarov, S.	2799	Yu Yangyi	2751	1-0	2017.12.12
+Mamedyarov, S.	2799	Korobov, A.	2652	0-1	2017.12.12
+Mamedyarov, S.	2799	Grischuk, A.	2772	0-1	2017.12.12
+Mamedyarov, S.	2799	Artemiev, V.	2691	0-1	2017.12.12
+Mamedyarov, S.	2799	Wang Hao	2709	0-1	2017.12.12
+Mamedyarov, S.	2799	Esipenko, Andrey	2564	1-0	2017.12.23
+Mamedyarov, S.	2799	Yuffa, D.	2522	1-0	2017.12.23
+Mamedyarov, S.	2799	Yuffa, D.	2522	1-0	2017.12.19
+Mamedyarov, S.	2799	Yu Yangyi	2751	1-0	2017.12.26
+Mamedyarov, S.	2799	Sanal, V.	2551	1-0	2017.12.29
+Mamedyarov, S.	2799	Haddouche, M.	2505	1-0	2017.12.29
+Mamedyarov, S.	2799	Bocharov, D.	2583	1-0	2017.12.29
+Mamedyarov, S.	2799	Cheparinov, I.	2710	1-0	2017.12.29
+Mamedyarov, S.	2799	Nepomniachtchi, I.	2729	1-0	2017.12.29
+Mamedyarov, S.	2799	Wang Yue	2690	1-0	2017.12.29
+Mamedyarov, S.	2766	Wheeler, Cameron	2398	1/2-1/2	2017.01.11
+Mamedyarov, S.	2766	Kovalyov, A.	2647	1/2-1/2	2017.01.11
+Mamedyarov, S.	2766	Szabo, Ben	2378	1/2-1/2	2017.01.11
+Mamedyarov, S.	2766	Mihok, O.	2505	1/2-1/2	2017.01.11
+Mamedyarov, S.	2766	Troff, Kayden W	2511	1/2-1/2	2017.01.11
+Mamedyarov, S.	2766	Nepomniachtchi, I.	2749	1/2-1/2	2017.02.18
+Mamedyarov, S.	2766	Nakamura, Hi	2785	1/2-1/2	2017.02.18
+Mamedyarov, S.	2772	Karjakin, Sergey	2783	1/2-1/2	2017.04.21
+Mamedyarov, S.	2772	Radjabov, T.	2710	1/2-1/2	2017.04.21
+Mamedyarov, S.	2772	Adams, Mi	2761	1/2-1/2	2017.04.21
+Mamedyarov, S.	2772	Topalov, V.	2741	1/2-1/2	2017.04.21
+Mamedyarov, S.	2772	Vallejo Pons, F.	2710	1/2-1/2	2017.05.12
+Mamedyarov, S.	2772	Vachier Lagrave, M.	2795	1/2-1/2	2017.05.12
+Mamedyarov, S.	2772	Grischuk, A.	2750	1/2-1/2	2017.05.12
+Mamedyarov, S.	2772	Ding Liren	2773	1/2-1/2	2017.05.12
+Mamedyarov, S.	2800	So, W.	2812	1/2-1/2	2017.06.24
+Mamedyarov, S.	2800	Grischuk, A.	2761	1/2-1/2	2017.06.24
+Mamedyarov, S.	2800	So, W.	2812	1/2-1/2	2017.06.21
+Mamedyarov, S.	2800	Eljanov, P.	2739	1/2-1/2	2017.07.06
+Mamedyarov, S.	2800	Radjabov, T.	2724	1/2-1/2	2017.07.06
+Mamedyarov, S.	2800	Li Chao2	2735	1/2-1/2	2017.07.06
+Mamedyarov, S.	2799	Ivanchuk, V.	2726	0-1	2017.12.12
+Mamedyarov, S.	2799	Artemiev, V.	2691	0-1	2017.12.23
+Mamedyarov, S.	2799	Bu Xiangzhi	2730	0-1	2017.12.26
+Mamedyarov, S.	2799	Carlsen, M.	2837	0-1	2017.12.29
+Mamedyarov, S.	2800	Nepomniachtchi, I.	2742	1/2-1/2	2017.07.06
+Mamedyarov, S.	2797	Liu Guanchu	2455	1/2-1/2	2017.09.03
+Mamedyarov, S.	2797	Kuzubov, Y.	2688	1/2-1/2	2017.09.03
+Mamedyarov, S.	2791	Khismatullin, D.	2628	1/2-1/2	2017.10.05
+Mamedyarov, S.	2791	Kamsky, G.	2676	1/2-1/2	2017.10.03
+Mamedyarov, S.	2791	Rakhmanov, Ale	2654	1/2-1/2	2017.10.05
+Mamedyarov, S.	2791	Eljanov, P.	2720	1/2-1/2	2017.10.08
+Mamedyarov, S.	2791	Harikrishna, P.	2733	1/2-1/2	2017.10.08
+Mamedyarov, S.	2791	Leko, P.	2679	1/2-1/2	2017.10.28
+Mamedyarov, S.	2791	Eljanov, P.	2720	1/2-1/2	2017.10.28
+Mamedyarov, S.	2799	Korobov, A.	2652	1/2-1/2	2017.12.10
+Mamedyarov, S.	2799	Grischuk, A.	2772	1/2-1/2	2017.12.10
+Mamedyarov, S.	2799	Ivanchuk, V.	2726	1/2-1/2	2017.12.14
+Mamedyarov, S.	2799	Ding Liren	2777	1/2-1/2	2017.12.14
+Mamedyarov, S.	2799	Le Quang Liem	2737	1/2-1/2	2017.12.12
+Mamedyarov, S.	2799	Harikrishna, P.	2744	1/2-1/2	2017.12.12
+Mamedyarov, S.	2799	Mamedov, Rau	2709	1/2-1/2	2017.12.12
+Mamedyarov, S.	2799	Andreikin, D.	2712	1/2-1/2	2017.12.12
+Mamedyarov, S.	2799	Ding Liren	2777	1/2-1/2	2017.12.12
+Mamedyarov, S.	2799	Oparin, G.	2602	1/2-1/2	2017.12.23
+Mamedyarov, S.	2799	Artemiev, V.	2691	1/2-1/2	2017.12.19
+Mamedyarov, S.	2799	Demchenko, A.	2660	1/2-1/2	2017.12.26
+Mamedyarov, S.	2799	Bocharov, D.	2583	1/2-1/2	2017.12.26
+Mamedyarov, S.	2799	Artemiev, V.	2691	1/2-1/2	2017.12.26
+Mamedyarov, S.	2799	Amin, B.	2689	1/2-1/2	2017.12.26
+Grischuk, A.	2742	Mamedyarov, S.	2766	1-0	2017.02.18
+Wojtaszek, R.	2745	Mamedyarov, S.	2772	1-0	2017.04.21
+Vachier Lagrave, M.	2796	Mamedyarov, S.	2800	1-0	2017.06.24
+Nakamura, Hi	2785	Mamedyarov, S.	2800	1-0	2017.06.24
+Caruana, F.	2808	Mamedyarov, S.	2800	1-0	2017.06.24
+Grischuk, A.	2761	Mamedyarov, S.	2800	1-0	2017.06.21
+Kuzubov, Y.	2688	Mamedyarov, S.	2797	1-0	2017.09.03
+Alekseenko, K.	2563	Mamedyarov, S.	2791	1-0	2017.10.05
+Fedoseev, Vl3	2733	Mamedyarov, S.	2791	1-0	2017.10.03
+Anton Guijarro, D.	2651	Mamedyarov, S.	2791	1-0	2017.10.28
+Aronian, L.	2801	Mamedyarov, S.	2791	1-0	2017.10.28
+Andreikin, D.	2712	Mamedyarov, S.	2799	1-0	2017.12.10
+Artemiev, V.	2691	Mamedyarov, S.	2799	1-0	2017.12.12
+Ivanchuk, V.	2726	Mamedyarov, S.	2799	1-0	2017.12.12
+Yu Yangyi	2751	Mamedyarov, S.	2799	1-0	2017.12.12
+Korobov, A.	2652	Mamedyarov, S.	2799	1-0	2017.12.12
+Ding Liren	2777	Mamedyarov, S.	2799	1-0	2017.12.12
+Grischuk, A.	2772	Mamedyarov, S.	2799	1-0	2017.12.12
+Artemiev, V.	2691	Mamedyarov, S.	2799	1-0	2017.12.23
+Mamedyarov, S.	2799	Duda, J.	2717	1/2-1/2	2017.12.26
+Mamedyarov, S.	2799	Jobava, Ba	2690	1/2-1/2	2017.12.29
+Mamedyarov, S.	2799	Svidler, P.	2765	1/2-1/2	2017.12.29
+Mamedyarov, S.	2799	Petrosian, TL.	2601	1/2-1/2	2017.12.29
+Mamedyarov, S.	2799	Vidit, S.	2715	1/2-1/2	2017.12.29
+Shakhriyar Mamedyarov	0	Viswanathan Anand	0	1/2-1/2	2017.01.14
+Rosen, E.	2364	Mamedyarov, S.	2766	0-1	2017.01.11
+Priyadharshan, K.	2527	Mamedyarov, S.	2766	0-1	2017.01.11
+Taghizadeh, Rayan	2317	Mamedyarov, S.	2766	0-1	2017.01.11
+Shankland, S.	2674	Mamedyarov, S.	2766	0-1	2017.01.11
+Vertetics, A.	2416	Mamedyarov, S.	2766	0-1	2017.01.11
+Orosz, Andras	2323	Mamedyarov, S.	2766	0-1	2017.01.11
+Gareev, T.	2617	Mamedyarov, S.	2766	0-1	2017.01.11
+Liu, E.	2284	Mamedyarov, S.	2766	0-1	2017.01.11
+Rosenthal, Nicholas	2156	Mamedyarov, S.	2766	0-1	2017.01.11
+Toolin, C.	2189	Mamedyarov, S.	2772	0-1	2017.03.01
+So, W.	2822	Mamedyarov, S.	2772	0-1	2017.04.21
+Eljanov, P.	2751	Mamedyarov, S.	2772	0-1	2017.04.21
+Kramnik, V.	2811	Mamedyarov, S.	2772	0-1	2017.04.21
+Najer, E.	2682	Mamedyarov, S.	2772	0-1	2017.05.01
+Riazantsev, A.	2659	Mamedyarov, S.	2772	0-1	2017.05.01
+Salem, AR.	2633	Mamedyarov, S.	2772	0-1	2017.05.12
+Grischuk, A.	2761	Mamedyarov, S.	2800	0-1	2017.06.24
+Bacrot, E.	2708	Mamedyarov, S.	2800	0-1	2017.06.24
+Karjakin, Sergey	2781	Mamedyarov, S.	2800	0-1	2017.06.21
+Caruana, F.	2808	Mamedyarov, S.	2800	0-1	2017.06.21
+Liu Guanchu	2455	Mamedyarov, S.	2797	0-1	2017.09.03
+Steingrimsson, H.	2576	Mamedyarov, S.	2791	0-1	2017.10.08
+Kryvoruchko, Y.	2689	Mamedyarov, S.	2799	1-0	2017.12.29
+Salgado Lopez, I.	2644	Mamedyarov, S.	2799	1-0	2017.12.29
+Karjakin, Sergey	2760	Mamedyarov, S.	2799	1-0	2017.12.29
+Belous, V.	2564	Mamedyarov, S.	2766	1/2-1/2	2017.01.11
+Sarana, A.	2543	Mamedyarov, S.	2791	0-1	2017.10.05
+Trjapishko, A.	2508	Mamedyarov, S.	2791	0-1	2017.10.03
+Jakovenko, D.	2710	Mamedyarov, S.	2791	0-1	2017.10.03
+Sarana, A.	2543	Mamedyarov, S.	2791	0-1	2017.10.03
+Terzyan, Nazar	1717	Mamedyarov, S.	2791	0-1	2017.10.05
+Tekeyev, Z.	2380	Mamedyarov, S.	2791	0-1	2017.10.05
+Trjapishko, A.	2508	Mamedyarov, S.	2791	0-1	2017.10.05
+Fedoseev, Vl3	2733	Mamedyarov, S.	2791	0-1	2017.10.05
+Najer, E.	2699	Mamedyarov, S.	2791	0-1	2017.10.08
+Grischuk, A.	2785	Mamedyarov, S.	2791	0-1	2017.10.28
+Ding Liren	2777	Mamedyarov, S.	2799	0-1	2017.12.10
+Le Quang Liem	2737	Mamedyarov, S.	2799	0-1	2017.12.14
+Ivanchuk, V.	2726	Mamedyarov, S.	2799	0-1	2017.12.14
+Wang Hao	2709	Mamedyarov, S.	2799	0-1	2017.12.12
+Harikrishna, P.	2744	Mamedyarov, S.	2799	0-1	2017.12.12
+Oparin, G.	2602	Mamedyarov, S.	2799	0-1	2017.12.19
+Esipenko, Andrey	2564	Mamedyarov, S.	2799	0-1	2017.12.19
+Rakhmanov, Ale	2653	Mamedyarov, S.	2799	0-1	2017.12.26
+Jobava, Ba	2690	Mamedyarov, S.	2799	0-1	2017.12.26
+Fressinet, L.	2662	Mamedyarov, S.	2799	0-1	2017.12.26
+Volokitin, And	2628	Mamedyarov, S.	2799	0-1	2017.12.29
+Kravtsiv, M.	2672	Mamedyarov, S.	2799	0-1	2017.12.29
+Fedoseev, Vl3	2718	Mamedyarov, S.	2799	0-1	2017.12.29
+Melkumyan, H.	2633	Mamedyarov, S.	2799	0-1	2017.12.29
+Vachier Lagrave, M.	2796	Mamedyarov, S.	2766	1/2-1/2	2017.02.18
+Vallejo Pons, F.	2709	Mamedyarov, S.	2766	1/2-1/2	2017.02.18
+Jakovenko, D.	2709	Mamedyarov, S.	2766	1/2-1/2	2017.02.18
+Akobian, V.	2633	Mamedyarov, S.	2766	1/2-1/2	2017.01.11
+Xiong, Jeffery	2674	Mamedyarov, S.	2772	1/2-1/2	2017.03.01
+Durarbayli, V.	2627	Mamedyarov, S.	2772	1/2-1/2	2017.03.01
+Harikrishna, P.	2755	Mamedyarov, S.	2772	1/2-1/2	2017.04.21
+Gelfand, B.	2724	Mamedyarov, S.	2772	1/2-1/2	2017.05.12
+Radjabov, T.	2710	Mamedyarov, S.	2772	1/2-1/2	2017.05.12
+Svidler, P.	2755	Mamedyarov, S.	2772	1/2-1/2	2017.05.12
+So, W.	2812	Mamedyarov, S.	2800	1/2-1/2	2017.06.24
+Carlsen, M.	2832	Mamedyarov, S.	2800	1/2-1/2	2017.06.24
+Topalov, V.	2749	Mamedyarov, S.	2800	1/2-1/2	2017.06.24
+Karjakin, Sergey	2781	Mamedyarov, S.	2800	1/2-1/2	2017.06.24
+Bacrot, E.	2708	Mamedyarov, S.	2800	1/2-1/2	2017.06.21
+Nakamura, Hi	2785	Mamedyarov, S.	2800	1/2-1/2	2017.06.21
+Harikrishna, P.	2737	Mamedyarov, S.	2800	1/2-1/2	2017.07.06
+Gelfand, B.	2728	Mamedyarov, S.	2800	1/2-1/2	2017.07.06
+Grischuk, A.	2761	Mamedyarov, S.	2800	1/2-1/2	2017.07.06
+Svidler, P.	2749	Mamedyarov, S.	2800	1/2-1/2	2017.07.06
+Kuzubov, Y.	2688	Mamedyarov, S.	2797	1/2-1/2	2017.09.03
+Dubov, Daniil	2677	Mamedyarov, S.	2791	1/2-1/2	2017.10.05
+Motylev, A.	2675	Mamedyarov, S.	2791	1/2-1/2	2017.10.03
+Artemiev, V.	2696	Mamedyarov, S.	2791	1/2-1/2	2017.10.05
+Wang Hao	2709	Mamedyarov, S.	2799	1/2-1/2	2017.12.10
+Mamedyarov, S.	2748	Safarli, E.	2664	1-0	2016.05.26
+Mamedyarov, S.	2748	Giri, A.	2790	1-0	2016.05.26
+Mamedyarov, S.	2746	Artemiev, V.	2653	1-0	2016.06.18
+Mamedyarov, S.	2746	Karjakin, Sergey	2774	1-0	2016.06.18
+Mamedyarov, S.	2746	Wang Hao	2734	1-0	2016.06.18
+Mamedyarov, S.	2746	Annageldyev, O.	2385	1-0	2016.06.18
+Mamedyarov, S.	2750	Li, Yankai	2206	1-0	2016.04.12
+Mamedyarov, S.	2748	Malakhatko, V.	2501	1-0	2016.05.10
+Korobov, A.	2652	Mamedyarov, S.	2799	1/2-1/2	2017.12.14
+Ding Liren	2777	Mamedyarov, S.	2799	1/2-1/2	2017.12.14
+Yu Yangyi	2751	Mamedyarov, S.	2799	1/2-1/2	2017.12.14
+Andreikin, D.	2712	Mamedyarov, S.	2799	1/2-1/2	2017.12.12
+Mamedov, Rau	2709	Mamedyarov, S.	2799	1/2-1/2	2017.12.12
+Le Quang Liem	2737	Mamedyarov, S.	2799	1/2-1/2	2017.12.12
+Yuffa, D.	2522	Mamedyarov, S.	2799	1/2-1/2	2017.12.23
+Oparin, G.	2602	Mamedyarov, S.	2799	1/2-1/2	2017.12.23
+Esipenko, Andrey	2564	Mamedyarov, S.	2799	1/2-1/2	2017.12.23
+Savchenko, B.	2566	Mamedyarov, S.	2799	1/2-1/2	2017.12.26
+Kasimdzhanov, R.	2683	Mamedyarov, S.	2799	1/2-1/2	2017.12.26
+Kokarev, Dm	2615	Mamedyarov, S.	2799	1/2-1/2	2017.12.26
+Harikrishna, P.	2744	Mamedyarov, S.	2799	1/2-1/2	2017.12.26
+Safarli, E.	2639	Mamedyarov, S.	2799	1/2-1/2	2017.12.26
+Esipenko, Andrey	2564	Mamedyarov, S.	2799	1/2-1/2	2017.12.29
+Vachier Lagrave, M.	2789	Mamedyarov, S.	2799	1/2-1/2	2017.12.29
+Grischuk, A.	2772	Mamedyarov, S.	2799	1/2-1/2	2017.12.29
+Mamedyarov, S.	2748	Hasanzade, Toghrul	2326	1-0	2016.05.10
+Mamedyarov, S.	2748	Eljanov, P.	2765	1-0	2016.05.26
+Mamedyarov, S.	2748	Beradze, I.	2425	1-0	2016.05.10
+Mamedyarov, S.	2747	Hou Yifan	2673	1-0	2016.01.16
+Mamedyarov, S.	2747	Adams, Mi	2744	1-0	2016.01.16
+Mamedyarov, S.	2747	Beliavsky, A.	2630	1-0	2016.03.08
+Mamedyarov, S.	2747	Sarkar, J.	2426	1-0	2016.03.08
+Mamedyarov, S.	2747	Hardarson, Jon Trausti	2058	1-0	2016.03.08
+Mamedyarov, S.	2747	Navara, D.	2734	1-0	2016.03.02
+Mamedyarov, S.	2747	Sargissian, G.	2702	1-0	2016.03.02
+Mamedyarov, S.	2747	Fressinet, L.	2700	1-0	2016.02.28
+Mamedyarov, S.	2747	Ding Liren	2766	1-0	2016.02.28
+Mamedyarov, S.	2747	Ponomariov, R.	2712	1-0	2016.02.28
+Mamedyarov, S.	2747	Dominguez Perez, L.	2732	1-0	2016.02.28
+Mamedyarov, S.	2747	Wang Yue	2718	1-0	2016.02.28
+Mamedyarov, S.	2747	Fressinet, L.	2700	1-0	2016.02.26
+Mamedyarov, S.	2747	Wojtaszek, R.	2727	1-0	2016.02.26
+Mamedyarov, S.	2764	Annaberdiyev, B.	2242	1-0	2016.07.25
+Mamedyarov, S.	2764	Savchenko, B.	2633	1-0	2016.07.25
+Mamedyarov, S.	2761	Makoto, R.	2405	1-0	2016.09.02
+Mamedyarov, S.	2761	Rapport, R.	2752	1-0	2016.09.02
+Mamedyarov, S.	2761	Nepomniachtchi, I.	2740	1-0	2016.09.25
+Mamedyarov, S.	2761	Aronian, L.	2795	1-0	2016.09.25
+Mamedyarov, S.	2761	Tomashevsky, E.	2731	1-0	2016.09.25
+Mamedyarov, S.	2761	Gelfand, B.	2743	1-0	2016.09.26
+Mamedyarov, S.	2746	Amonatov, F.	2614	0-1	2016.06.18
+Mamedyarov, S.	2746	Jobava, Ba	2669	0-1	2016.06.18
+Mamedyarov, S.	2747	Eljanov, P.	2760	0-1	2016.01.16
+Mamedyarov, S.	2747	Wojtaszek, R.	2727	0-1	2016.02.28
+Mamedyarov, S.	2747	Movsesian, S.	2653	0-1	2016.02.28
+Mamedyarov, S.	2747	Wang Hao	2717	0-1	2016.02.28
+Mamedyarov, S.	2761	Harikrishna, P.	2752	0-1	2016.09.02
+Mamedyarov, S.	2761	Kramnik, V.	2808	1-0	2016.09.26
+Mamedyarov, S.	2762	Gelfand, B.	2743	1-0	2016.10.18
+Mamedyarov, S.	2762	Ponomariov, R.	2709	1-0	2016.10.18
+Mamedyarov, S.	2762	Ponomariov, R.	2709	1-0	2016.10.18
+Mamedyarov, S.	2762	Korsunsky, Y.	2411	1-0	2016.11.06
+Mamedyarov, S.	2762	Vachier Lagrave, M.	2811	1-0	2016.11.06
+Mamedyarov, S.	2768	Amonatov, F.	2620	1-0	2016.12.26
+Mamedyarov, S.	2768	Lu Shanglei	2627	1-0	2016.12.26
+Mamedyarov, S.	2768	Jakovenko, D.	2704	1-0	2016.12.26
+Mamedyarov, S.	2768	Korobov, A.	2692	1-0	2016.12.26
+Mamedyarov, S.	2768	Melkumyan, H.	2633	1-0	2016.12.26
+Mamedyarov, S.	2768	Cheparinov, I.	2689	1-0	2016.12.29
+Mamedyarov, S.	2768	Jumabayev, R.	2611	1-0	2016.12.29
+Mamedyarov, S.	2768	Bosiocic, Mari	2591	1-0	2016.12.29
+Mamedyarov, S.	2768	Inarkiev, E.	2709	1-0	2016.12.29
+Mamedyarov, S.	2768	Pichot, A.	2544	1-0	2016.12.29
+Mamedyarov, S.	2762	Ivanisevic, I.	2641	1-0	2016.10.16
+Mamedyarov, Shakhriyar	2791	Ponomariov, Ruslan	2712	1-0	2016.??.??
+Mamedyarov, Shakhriyar	2761	Vachier-Lagrave, Maxime	2831	1-0	2021.07.07
+Mamedyarov, Shakhriyar	2716	Nepomniachtchi, Ian	2807	1-0	2021.07.10
+Mamedyarov, Shakhriyar	2716	Kasparov, Garry	2801	1-0	2021.07.10
+Mamedyarov, Shakhriyar	2716	Van Foreest, Jorden	2622	1-0	2021.07.11
+Mamedyarov, Shakhriyar	2716	Duda, Jan-Krzysztof	2799	1-0	2021.07.11
+Mamedyarov, Shakhriyar	2782	Martirosyan, Haik M.	2632	1-0	2021.07.19
+Mamedyarov, Shakhriyar	2761	Mekhitarian, Krikor Sevag	2592	1-0	2021.07.17
+Mamedyarov, Shakhriyar	2761	Koneru, Humpy	2483	1-0	2021.08.01
+Mamedyarov, Shakhriyar	2761	Mishra, Abhimanyu	2504	1-0	2021.08.01
+Mamedyarov, Shakhriyar	2761	Adhiban, B.	2624	1-0	2021.08.01
+Mamedyarov, Shakhriyar	2761	Anton Guijarro, David	2674	1-0	2021.07.31
+Mamedyarov, Shakhriyar	2755	Caruana, Fabiano	2734	1-0	2021.08.14
+Mamedyarov, Shakhriyar	2756	Shankland, Sam	2609	1-0	2021.08.14
+Mamedyarov, Shakhriyar	2755	So, Wesley	2861	1-0	2021.08.15
+Mamedyarov, Shakhriyar	2755	Dominguez Perez, Leinier	2654	1-0	2021.08.15
+Mamedyarov, Shakhriyar	2755	Xiong, Jeffery	2724	1-0	2021.08.16
+Mamedyarov, Shakhriyar	2782	Rapport, Richard	2763	1-0	2021.08.19
+Mamedyarov, Shakhriyar	2756	Naroditsky, Daniel	2639	1-0	2021.08.30
+Mamedyarov, Shakhriyar	2756	Liang, Awonder	2397	1-0	2021.08.29
+Mamedyarov, Shakhriyar	2756	Van Foreest, Jorden	2563	1-0	2021.08.29
+Mamedyarov, Shakhriyar	2756	Aronian, Levon	2761	1-0	2021.08.31
+Mamedyarov, Shakhriyar	2727	Maze, Sebastien	2574	1-0	2021.09.10
+Mamedyarov, Shakhriyar	2727	Bologan, Victor	2564	1-0	2021.09.09
+Mamedyarov, Shakhriyar	2762	Smith, Axel	2451	1-0	2021.09.18
+Mamedyarov, Shakhriyar	2765	Kamsky, Gata	2662	1-0	2021.10.15
+Mamedyarov, Shakhriyar	2770	Firouzja, Alireza	2759	0-1	Sun Mar 14 2021
+Mamedyarov, Shakhriyar	2770	Anton Guijarro, David	2673	0-1	Sun Mar 14 2021
+Mamedyarov, Shakhriyar	2770	Nepomniachtchi, Ian	2789	0-1	Mon Mar 15 2021
+Mamedyarov, Shakhriyar	2770	Nakamura, Hikaru	2736	0-1	Thu Apr 29 2021
+Mamedyarov, Shakhriyar	2770	Nakamura, Hikaru	2736	0-1	Fri Apr 30 2021
+Mamedyarov, Shakhriyar	2770	Aronian, Levon	2781	0-1	Sat May 01 2021
+Mamedyarov, Shakhriyar	2770	Aronian, Levon	2781	0-1	Sat May 01 2021
+Mamedyarov, Shakhriyar	2770	Dobrov, Vladimir	2478	0-1	Tue May 04 2021
+Mamedyarov, Shakhriyar	2770	Carlsen, Magnus	2847	0-1	Sun May 23 2021
+Mamedyarov, Shakhriyar	2770	Firouzja, Alireza	2759	0-1	Sun May 23 2021
+Mamedyarov, Shakhriyar	2761	Duda, Jan-Krzysztof	2774	0-1	2021.07.08
+Mamedyarov, Shakhriyar	2716	Grischuk, Alexander	2765	0-1	2021.07.10
+Mamedyarov, Shakhriyar	2716	Korobov, Anton	2668	0-1	2021.07.11
+Mamedyarov, Shakhriyar	2754	Zierk, Steven	2494	1-0	2021.10.26
+Mamedyarov, Shakhriyar	2754	Sviridov, Valery	2454	1-0	2021.10.26
+Mamedyarov, Shakhriyar	2754	Tologontegin, Semetey	2224	1-0	2021.10.26
+Mamedyarov, Shakhriyar	2754	Kobalia, Mikhail	2590	1-0	2021.10.26
+Mamedyarov, Shakhriyar	2754	Martinez Alcantara, Jose Eduardo	2690	1-0	2021.10.26
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	1-0	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	1-0	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	1-0	2021.11.09
+Mamedyarov, Shakhriyar	2765	Nisipeanu, Liviu-Dieter	2651	1-0	2021.11.14
+Mamedyarov, Shakhriyar	2765	Vocaturo, Daniele	2632	1-0	2021.11.12
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	1-0	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	1-0	2021.11.09
+Mamedyarov, Shakhriyar	2770	Dubov, Daniil	2710	1/2-1/2	Sat Mar 13 2021
+Mamedyarov, Shakhriyar	2770	Radjabov, Teimour	2765	1/2-1/2	Mon Mar 15 2021
+Mamedyarov, Shakhriyar	2770	Praggnanandhaa, R	2608	1/2-1/2	Sat Apr 24 2021
+Mamedyarov, Shakhriyar	2770	Carlsen, Magnus	2847	1/2-1/2	Mon Apr 26 2021
+Mamedyarov, Shakhriyar	2770	Firouzja, Alireza	2759	1/2-1/2	Tue Apr 27 2021
+Mamedyarov, Shakhriyar	2770	Firouzja, Alireza	2759	1/2-1/2	Wed Apr 28 2021
+Mamedyarov, Shakhriyar	2770	Radjabov, Teimour	2765	1/2-1/2	Mon Apr 26 2021
+Mamedyarov, Shakhriyar	2761	Martirosyan, Haik M.	2340	0-1	2021.07.20
+Mamedyarov, Shakhriyar	2761	Aronian, Levon	2761	0-1	2021.08.03
+Mamedyarov, Shakhriyar	2756	Aronian, Levon	2761	0-1	2021.08.04
+Mamedyarov, Shakhriyar	2756	Aronian, Levon	2761	0-1	2021.08.04
+Mamedyarov, Shakhriyar	2756	Shankland, Sam	2609	0-1	2021.08.12
+Mamedyarov, Shakhriyar	2756	Le, Quang Liem	2744	0-1	2021.08.11
+Mamedyarov, Shakhriyar	2755	Svidler, Peter	2743	0-1	2021.08.14
+Mamedyarov, Shakhriyar	2755	Rapport, Richard	2776	0-1	2021.08.15
+Mamedyarov, Shakhriyar	2782	Caruana, Fabiano	2806	0-1	2021.08.24
+Mamedyarov, Shakhriyar	2756	Le, Quang Liem	2744	0-1	2021.08.30
+Mamedyarov, Shakhriyar	2756	Aronian, Levon	2761	0-1	2021.08.31
+Mamedyarov, Shakhriyar	2756	Aronian, Levon	2761	0-1	2021.09.01
+Mamedyarov, Shakhriyar	2727	Adly, Ahmed	2597	0-1	2021.09.10
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	0-1	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	0-1	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	0-1	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	0-1	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	0-1	2021.11.09
+Mamedyarov, Shakhriyar	2770	Aronian, Levon	2781	1/2-1/2	Mon Apr 26 2021
+Mamedyarov, Shakhriyar	2770	Nakamura, Hikaru	2736	1/2-1/2	Fri Apr 30 2021
+Mamedyarov, Shakhriyar	2761	Giri, Anish	2731	1/2-1/2	Tue May 25 2021
+Mamedyarov, Shakhriyar	2770	Nepomniachtchi, Ian	2792	1/2-1/2	Mon May 24 2021
+Mamedyarov, Shakhriyar	2761	Grischuk, Alexander	2784	1/2-1/2	Tue May 25 2021
+Mamedyarov, Shakhriyar	2761	So, Wesley	2741	1/2-1/2	2021.06.05
+Mamedyarov, Shakhriyar	2761	Grischuk, Alexander	2784	1/2-1/2	2021.06.06
+Mamedyarov, Shakhriyar	2770	Radjabov, Teimour	2765	1/2-1/2	2021.06.08
+Mamedyarov, Shakhriyar	2761	Anand, Viswanathan	2751	1/2-1/2	2021.07.08
+Mamedyarov, Shakhriyar	2761	Korobov, Anton	2781	1/2-1/2	2021.07.07
+Mamedyarov, Shakhriyar	2761	Giri, Anish	2731	1/2-1/2	2021.07.09
+Mamedyarov, Shakhriyar	2716	Giri, Anish	2744	1/2-1/2	2021.07.10
+Mamedyarov, Shakhriyar	2716	Vachier-Lagrave, Maxime	2794	1/2-1/2	2021.07.11
+Mamedyarov, Shakhriyar	2716	Anand, Viswanathan	2785	1/2-1/2	2021.07.11
+Mamedyarov, Shakhriyar	2782	Mekhitarian, Krikor Sevag	2554	1/2-1/2	2021.07.15
+Mamedyarov, Shakhriyar	2761	Artemiev, Vladislav	2757	1/2-1/2	2021.07.31
+Mamedyarov, Shakhriyar	2761	Iturrizaga Bonelli, Eduardo	2647	1/2-1/2	2021.07.31
+Mamedyarov, Shakhriyar	2761	Firouzja, Alireza	2696	1/2-1/2	2021.08.02
+Mamedyarov, Shakhriyar	2756	Nakamura, Hikaru	2829	1/2-1/2	2021.08.11
+Mamedyarov, Shakhriyar	2756	So, Wesley	2774	1/2-1/2	2021.08.13
+Mamedyarov, Shakhriyar	2756	Rapport, Richard	2724	1/2-1/2	2021.08.13
+Mamedyarov, Shakhriyar	2755	Le, Quang Liem	2690	1/2-1/2	2021.08.14
+Mamedyarov, Shakhriyar	2755	Nakamura, Hikaru	2900	1/2-1/2	2021.08.14
+Mamedyarov, Shakhriyar	2782	Dominguez Perez, Leinier	2758	1/2-1/2	2021.08.21
+Mamedyarov, Shakhriyar	2756	Duda, Jan-Krzysztof	2775	1/2-1/2	2021.08.28
+Vachier-Lagrave, Maxime	2758	Mamedyarov, Shakhriyar	2770	1-0	Sat Mar 13 2021
+Carlsen, Magnus	2847	Mamedyarov, Shakhriyar	2770	1-0	Sun Mar 14 2021
+Giri, Anish	2776	Mamedyarov, Shakhriyar	2770	1-0	Sun Mar 14 2021
+Nakamura, Hikaru	2736	Mamedyarov, Shakhriyar	2770	1-0	Sat Apr 24 2021
+So, Wesley	2770	Mamedyarov, Shakhriyar	2770	1-0	Sat Apr 24 2021
+Le, Quang Liem	2709	Mamedyarov, Shakhriyar	2770	1-0	Sun Apr 25 2021
+Nakamura, Hikaru	2736	Mamedyarov, Shakhriyar	2770	1-0	Thu Apr 29 2021
+Nakamura, Hikaru	2736	Mamedyarov, Shakhriyar	2770	1-0	Thu Apr 29 2021
+Bernadskiy, Vitaliy	2603	Mamedyarov, Shakhriyar	2770	1-0	Tue May 04 2021
+Nakamura, Hikaru	2736	Mamedyarov, Shakhriyar	2770	1-0	Sun May 23 2021
+Mamedyarov, Shakhriyar	2756	Artemiev, Vladislav	2757	1/2-1/2	2021.08.28
+Mamedyarov, Shakhriyar	2756	Vachier-Lagrave, Maxime	2817	1/2-1/2	2021.08.28
+Mamedyarov, Shakhriyar	2756	Aronian, Levon	2761	1/2-1/2	2021.09.01
+Mamedyarov, Shakhriyar	2727	Vidit, Santosh Gujrathi	2639	1/2-1/2	2021.09.09
+Mamedyarov, Shakhriyar	2727	Erdos, Viktor	2601	1/2-1/2	2021.09.08
+Mamedyarov, Shakhriyar	2762	Korobov, Anton	2685	1/2-1/2	2021.09.20
+Mamedyarov, Shakhriyar	2762	Harikrishna, Pentala	2725	1/2-1/2	2021.09.23
+Mamedyarov, Shakhriyar	2762	Carlsen, Magnus	2855	1/2-1/2	2021.09.22
+Mamedyarov, Shakhriyar	2765	Ragger, Markus	2664	1/2-1/2	2021.10.15
+Mamedyarov, Shakhriyar	2754	Bluebaum, Matthias	2681	1/2-1/2	2021.10.26
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	1/2-1/2	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	1/2-1/2	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	1/2-1/2	2021.11.09
+Mamedyarov, Shakhriyar	2765	Sargissian, Gabriel	2664	1/2-1/2	2021.11.18
+Mamedyarov, Shakhriyar	2765	Grischuk, Alexander	2773	1/2-1/2	2021.11.16
+Mamedyarov, Shakhriyar	2778	Topalov, Veselin	2667	1-0	2022.06.02
+Mamedyarov, Shakhriyar	2778	So, Wesley	2742	1-0	2022.06.05
+Mamedyarov, Shakhriyar	2751	Giri, Anish	2761	1-0	2022.06.07
+Mamedyarov, Shakhriyar	2770	Tari, Aryan	2654	1-0	2022.05.31
+Mamedyarov, Shakhriyar	2771	Santos Latasa, Jaime	2656	1-0	2022.04.09
+Mamedyarov, Shakhriyar	2699	Rapport, Richard	2802	1-0	2022.07.10
+Mamedyarov, Shakhriyar	2699	Aronian, Levon	2728	1-0	2022.07.10
+Mamedyarov, Shakhriyar	2699	Erigaisi, Arjun	2450	0-1	2022.07.12
+Mamedyarov, Shakhriyar	2699	Tari, Aryan	2531	0-1	2022.07.13
+Mamedyarov, Shakhriyar	2759	Peralta, Fernando	2591	1-0	2022.07.31
+Mamedyarov, Shakhriyar	2758	Indjic, Aleksandar	2613	1-0	2022.08.09
+Mamedyarov, Shakhriyar	2759	Quesada Perez, Yasser	2568	1-0	2022.08.02
+Mamedyarov, Shakhriyar	2695	Xiong, Jeffery	2725	1-0	2022.08.28
+Mamedyarov, Shakhriyar	2695	Dominguez Perez, Leinier	2705	1-0	2022.08.28
+Mamedyarov, Shakhriyar	2710	Vachier-Lagrave, Maxime	2812	1-0	2022.08.29
+Mamedyarov, Shakhriyar	2710	Aronian, Levon	2850	1-0	2022.08.30
+Mamedyarov, Shakhriyar	2710	Shankland, Sam	2645	1-0	2022.08.30
+Mamedyarov, Shakhriyar	2705	Kovalev, Vladislav	2505	1-0	2022.09.16
+Mamedyarov, Shakhriyar	2705	Guseinov, Gadir	2692	1-0	2022.09.21
+Mamedyarov, Shakhriyar	2705	Wang, Hao	2750	1-0	2022.09.22
+Mamedyarov, Shakhriyar	2705	Yilmaz, Mustafa	2502	1-0	2022.09.22
+Mamedyarov, Shakhriyar	2705	Durarbayli, Vasif	2458	1-0	2022.09.23
+Mamedyarov, Shakhriyar	2705	Guseinov, Gadir	2692	1-0	2022.09.24
+Mamedyarov, Shakhriyar	2705	Mamedov, Rauf	2584	1-0	2022.09.24
+Mamedyarov, Shakhriyar	2705	Maghsoodloo, Parham	2589	1-0	2022.09.24

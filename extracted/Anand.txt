@@ -1,0 +1,1251 @@
+White	White ELO	Black	Black ELO	Result	Date
+Anand, Viswanathan	2751	Korobov, Anton	2781	1-0	2021.07.08
+Anand, Viswanathan	2751	Grischuk, Alexander	2784	1/2-1/2	2021.07.08
+Anand, Viswanathan	2751	Nepomniachtchi, Ian	2791	1/2-1/2	2021.07.07
+Anand, Viswanathan	2751	Van Foreest, Jorden	2543	1-0	2021.07.07
+Anand, Viswanathan	2751	Saric, Ivan	2650	1/2-1/2	2021.07.09
+Anand, Viswanathan	2785	Duda, Jan-Krzysztof	2799	1-0	2021.07.10
+Anand, Viswanathan	2785	Kasparov, Garry	2801	1-0	2021.07.10
+Anand, Viswanathan	2785	Mamedyarov, Shakhriyar	2716	1/2-1/2	2021.07.10
+Anand, Viswanathan	2785	Korobov, Anton	2668	1-0	2021.07.10
+Anand, Viswanathan	2785	Giri, Anish	2744	1/2-1/2	2021.07.11
+Anand, Viswanathan	2785	Nepomniachtchi, Ian	2807	1-0	2021.07.11
+Anand, Viswanathan	2785	Vachier-Lagrave, Maxime	2794	1/2-1/2	2021.07.11
+Anand, Viswanathan	2785	Van Foreest, Jorden	2622	1-0	2021.07.11
+Anand, Viswanathan	2785	Grischuk, Alexander	2765	1/2-1/2	2021.07.11
+Anand, Viswanathan	2753	Kramnik, Vladimir	2753	1-0	2021.07.14
+Anand, Viswanathan	2753	Kramnik, Vladimir	2753	1/2-1/2	2021.07.17
+Anand, Viswanathan	2748	Erdos, Viktor	2601	1-0	2021.09.10
+Anand, Viswanathan	2748	Adly, Ahmed	2597	1-0	2021.09.08
+Anand, Viswanathan	2748	Xiong, Jeffery	2729	1-0	2021.09.14
+Anand, Viswanathan	2770	Touzane, Olivier	2368	0-1	2021.10.06
+Anand, Viswanathan	2753	Nestorovic, Nikola	2467	1-0	2021.10.15
+Anand, Viswanathan	2753	Heimann, Andreas	2585	1-0	2021.10.16
+Giri, Anish	2766	Anand, Viswanathan	2728	1/2-1/2	2022.06.06
+Giri, Anish	2761	Anand, Viswanathan	2751	1/2-1/2	2022.06.06
+Santos Latasa, Jaime	2593	Anand, Viswanathan	2731	1/2-1/2	2022.07.08
+Carlsen,M	2875	Anand,V	2767	1/2-1/2	2019.06.26
+So,W	2754	Anand,V	2767	1/2-1/2	2019.06.26
+Giri,A	2779	Anand,V	2767	1/2-1/2	2019.06.26
+Nakamura,Hi	2754	Anand,V	2767	1/2-1/2	2019.06.26
+Grischuk,A	2766	Anand,V	2764	1/2-1/2	2019.07.27
+Duda,J	2729	Anand,V	2764	1/2-1/2	2019.07.27
+Vachier Lagrave,M	2775	Anand,V	2764	1/2-1/2	2019.07.27
+Grischuk,A	2766	Anand,V	2764	1/2-1/2	2019.07.31
+Nakamura,Hi	2754	Anand,V	2764	1/2-1/2	2019.07.31
+Duda,J	2729	Anand,V	2764	1/2-1/2	2019.07.31
+Vachier Lagrave,M	2775	Anand,V	2764	1/2-1/2	2019.07.31
+Gelfand,B	2686	Anand,V	2756	1/2-1/2	2019.08.03
+Bareev,E	2643	Anand,V	2756	1/2-1/2	2019.08.03
+Aronian,L	2765	Anand,V	2756	1/2-1/2	2019.08.17
+Vachier Lagrave,M	2778	Anand,V	2756	1/2-1/2	2019.08.17
+Ding Liren	2805	Anand,V	2756	1/2-1/2	2019.08.17
+Caruana,F	2818	Anand,V	2756	1/2-1/2	2019.08.17
+Karjakin,Sergey	2750	Anand,V	2756	1/2-1/2	2019.08.17
+Abasov,N	2632	Anand,V	2765	1/2-1/2	2019.10.10
+Alekseenko,K	2674	Anand,V	2765	1/2-1/2	2019.10.10
+Robson,R	2670	Anand,V	2765	1/2-1/2	2019.10.10
+Kryvoruchko,Y	2669	Anand,V	2765	1/2-1/2	2019.10.10
+Giri,A	2776	Anand,V	2757	1/2-1/2	2019.11.09
+So,W	2760	Anand,V	2757	1/2-1/2	2019.11.06
+Giri,A	2776	Anand,V	2757	1/2-1/2	2019.11.06
+Anand, V.	2767	Caruana, F.	2811	1-0	2018.01.13
+Anand, V.	2767	Matlakov, M.	2718	1-0	2018.01.13
+Anand, V.	2767	Hou Yifan	2680	1-0	2018.01.13
+Anand, V.	2767	Gledura, B.	2612	1-0	2018.01.18
+Anand, V.	2767	Abdusattorov, Nodirbek	2516	1-0	2018.01.18
+Anand, V.	2767	Demidov, M.	2523	1-0	2018.01.18
+Anand, V.	2776	Mamedyarov, S.	2809	1-0	2018.03.05
+Anand, V.	2776	Nakamura, Hi	2787	1-0	2018.03.02
+Anand, V.	2776	Grischuk, A.	2767	1-0	2018.03.02
+Anand, V.	2776	Artemiev, V.	2697	1-0	2018.03.05
+Anand, V.	2776	Dubov, Daniil	2701	1-0	2018.03.02
+Anand, V.	2783	Levin, F.	2474	1-0	2017.10.21
+Anand, V.	2776	Sachdev, T.	2407	1-0	2018.03.13
+Anand, V.	2760	Vachier Lagrave, M.	2789	1-0	2018.05.27
+Anand, V.	2759	Giri, A.	2782	1-0	2018.06.15
+Anand, V.	2759	Vachier Lagrave, M.	2789	1-0	2018.06.15
+Anand, V.	2759	Caruana, F.	2816	1-0	2018.06.15
+Anand, V.	2759	Caruana, F.	2816	1-0	2018.06.12
+Anand, V.	2759	Grischuk, A.	2766	1-0	2018.06.23
+Anand, V.	2759	Caruana, F.	2816	1-0	2018.06.23
+Anand, V.	2759	Kramnik, V.	2792	1-0	2018.06.20
+Aronian,L	2772	Anand,V	2757	1/2-1/2	2019.11.09
+So,W	2760	Anand,V	2757	1/2-1/2	2019.11.09
+Le,Quang Liem	2713	Anand,V	2757	1/2-1/2	2019.11.09
+Artemiev,V	2731	Anand,V	2757	1/2-1/2	2019.11.09
+Anand, V.	2759	Karjakin, Sergey	2782	1-0	2018.06.23
+Anand, V.	2768	Nakamura, Hi	2777	1-0	2018.08.11
+Anand, V.	2768	Grischuk, A.	2766	1-0	2018.08.14
+Anand, Viswanathan	2771	Ragger, Markus	2686	1-0	2018.09.24
+Anand, Viswanathan	2773	Levin, Ev	2516	1-0	2018.12.26
+Anand, Viswanathan	2773	Vidit, Santosh Gujrathi	2702	1-0	2018.11.13
+Anand, Viswanathan	2773	Hovhannisyan, Robert	2637	1-0	2018.12.29
+Anand, Viswanathan	2773	Yudin, Sergei	2507	1-0	2018.12.29
+Anand, Viswanathan	2773	Nakamura, Hikaru	2746	1-0	2018.11.14
+Anand, Viswanathan	2773	Potkin, Vladimir	2597	1-0	2018.12.26
+Anand, Viswanathan	2773	So, Wesley	2765	1-0	2018.11.13
+Anand, Viswanathan	2773	Grachev, Boris	2626	1-0	2018.12.29
+Anand, Viswanathan	2773	Baron, Tal	2532	1-0	2018.12.26
+Anand, Viswanathan	2773	Christiansen, Johan-Sebastian	2555	1-0	2018.12.29
+Anand, Viswanathan	2771	Shyam, SM	2505	1-0	2018.10.20
+Anand, Viswanathan	2773	Maghsoodloo, Parham	2688	1-0	2018.12.29
+Anand, Viswanathan	2773	Harikrishna, Pendyala	2729	1-0	2018.11.13
+Anand, Viswanathan	2773	Kovalev, Vladislav	2683	1-0	2018.12.29
+Anand, Viswanathan	2773	Ganguly, Surya Shekhar	2615	1-0	2018.11.13
+Anand, Viswanathan	2773	Praggnanandhaa, R	2530	1-0	2018.11.13
+Anand, Viswanathan	2771	Fridman, Daniel	2600	1-0	2018.10.20
+Anand, Viswanathan	2773	Mchedlishvili, Mikheil	2610	1-0	2018.12.26
+Anand, Viswanathan	2773	Salem, A R Saleh	2660	1-0	2018.12.29
+Anand, Viswanathan	2771	Delgado Ramirez, Neuris	2619	1-0	2018.09.24
+Anand, Viswanathan	2773	Alekseev, Evgeny	2639	1-0	2018.12.29
+Anand, V.	2767	Wei Yi	2743	1/2-1/2	2018.01.13
+Anand, V.	2767	Kramnik, V.	2787	0-1	2018.01.13
+Anand, V.	2767	So, W.	2792	1/2-1/2	2018.01.13
+Anand, V.	2767	Carlsen, M.	2834	1/2-1/2	2018.01.13
+Anand, V.	2767	Hauge, Lars Oskar	2436	1/2-1/2	2018.01.18
+Anand, V.	2783	Rapport, R.	2686	1/2-1/2	2017.10.21
+Anand, V.	2776	Gelfand, B.	2695	1/2-1/2	2018.03.05
+Anand, V.	2776	Nepomniachtchi, I.	2751	0-1	2018.03.05
+Anand, V.	2776	Mamedyarov, S.	2809	0-1	2018.03.02
+Anand, V.	2760	Caruana, F.	2822	0-1	2018.05.27
+Anand, V.	2760	Caruana, F.	2822	0-1	2018.05.28
+Anand, V.	2759	Nakamura, Hi	2769	0-1	2018.06.15
+Anand, V.	2759	Karjakin, Sergey	2782	0-1	2018.06.15
+Anand, V.	2759	Grischuk, A.	2766	0-1	2018.06.12
+Anand, V.	2759	Mamedyarov, S.	2808	0-1	2018.06.12
+Anand, V.	2759	Nakamura, Hi	2769	0-1	2018.06.23
+Anand, V.	2759	Vachier Lagrave, M.	2789	0-1	2018.06.23
+Anand, V.	2759	Nakamura, Hi	2769	0-1	2018.06.20
+Anand, V.	2768	Aronian, L.	2767	0-1	2018.08.11
+Anand, V.	2768	So, W.	2780	0-1	2018.08.11
+Anand, V.	2768	Vachier Lagrave, M.	2779	0-1	2018.08.14
+Anand, Viswanathan	2773	Kamsky, Gata	2666	0-1	2018.12.29
+Anand, Viswanathan	2773	Tsydypov, Zhamsaran	2529	0-1	2018.12.29
+Anand, Viswanathan	2773	Ganguly, Surya Shekhar	2615	0-1	2018.11.09
+Anand, Viswanathan	2773	Aronian, Levon	2765	0-1	2018.11.13
+Anand, V.	2776	Grischuk, A.	2767	1/2-1/2	2018.03.05
+Anand, V.	2776	Nakamura, Hi	2787	1/2-1/2	2018.03.05
+Anand, V.	2776	Svidler, P.	2760	1/2-1/2	2018.03.05
+Anand, V.	2776	Kramnik, V.	2800	1/2-1/2	2018.03.02
+Anand, V.	2776	Harikrishna, P.	2731	1/2-1/2	2018.03.13
+Anand, V.	2776	Hou Yifan	2654	1/2-1/2	2018.03.31
+Anand, V.	2776	Aronian, L.	2794	1/2-1/2	2018.03.31
+Anand, V.	2776	Carlsen, M.	2843	1/2-1/2	2018.03.31
+Anand, V.	2776	Caruana, F.	2784	1/2-1/2	2018.03.31
+Anand, V.	2776	Meier, Geo	2648	1/2-1/2	2018.03.31
+Anand, V.	2760	Aronian, L.	2764	1/2-1/2	2018.05.28
+Anand, V.	2760	Nakamura, Hi	2769	1/2-1/2	2018.05.27
+Anand, V.	2760	Mamedyarov, S.	2808	1/2-1/2	2018.05.27
+Anand, V.	2760	Carlsen, M.	2843	1/2-1/2	2018.05.27
+Anand, V.	2760	Ding Liren	2791	1/2-1/2	2018.05.28
+Anand, V.	2760	So, W.	2778	1/2-1/2	2018.05.28
+Anand, V.	2760	Mamedyarov, S.	2808	1/2-1/2	2018.05.28
+Anand, V.	2759	Aronian, L.	2764	1/2-1/2	2018.06.15
+Anand, V.	2759	So, W.	2778	1/2-1/2	2018.06.15
+Anand, V.	2759	Grischuk, A.	2766	1/2-1/2	2018.06.15
+Anand, V.	2759	So, W.	2778	1/2-1/2	2018.06.12
+Anand, V.	2759	Mamedyarov, S.	2808	1/2-1/2	2018.06.15
+Anand, V.	2759	Aronian, L.	2764	1/2-1/2	2018.06.12
+Anand, V.	2759	Aronian, L.	2764	1/2-1/2	2018.06.23
+Anand, V.	2759	So, W.	2778	1/2-1/2	2018.06.23
+Anand, V.	2759	Mamedyarov, S.	2808	1/2-1/2	2018.06.23
+Anand, V.	2759	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.20
+Anand, V.	2759	Karjakin, Sergey	2782	1/2-1/2	2018.06.20
+Anand, V.	2759	Kramnik, V.	2792	1/2-1/2	2018.06.23
+Anand, V.	2768	Caruana, F.	2822	1/2-1/2	2018.08.11
+Anand, V.	2768	Karjakin, Sergey	2773	1/2-1/2	2018.08.11
+Anand, V.	2768	Dominguez Perez, L.	2739	1/2-1/2	2018.08.14
+Anand, V.	2768	Mamedyarov, S.	2801	1/2-1/2	2018.08.14
+Anand, V.	2768	Karjakin, Sergey	2773	1/2-1/2	2018.08.14
+Anand, V.	2768	Nakamura, Hi	2777	1/2-1/2	2018.08.14
+Anand, V.	2768	Aronian, L.	2767	1/2-1/2	2018.08.14
+Anand, V.	2768	So, W.	2780	1/2-1/2	2018.08.14
+Anand, V.	2768	Caruana, F.	2822	1/2-1/2	2018.08.14
+Anand, V.	2768	Vachier Lagrave, M.	2779	1/2-1/2	2018.08.18
+Anand, V.	2768	Carlsen, M.	2842	1/2-1/2	2018.08.18
+Anand, V.	2768	Grischuk, A.	2766	1/2-1/2	2018.08.18
+Anand, V.	2768	Mamedyarov, S.	2801	1/2-1/2	2018.08.18
+Anand, Viswanathan	2773	Aronian, Levon	2765	1/2-1/2	2018.11.09
+Anand, Viswanathan	2771	Aronian, Levon	2780	1/2-1/2	2018.09.24
+Anand, Viswanathan	2773	Fridman, Daniel	2633	1/2-1/2	2018.12.26
+Anand, Viswanathan	2771	Amin, Bassem	2686	1/2-1/2	2018.09.24
+Anand, Viswanathan	2771	Artemiev, Vladislav	2706	1/2-1/2	2018.10.20
+Anand, Viswanathan	2773	So, Wesley	2765	1/2-1/2	2018.11.09
+Anand, Viswanathan	2773	Harikrishna, Pendyala	2729	1/2-1/2	2018.11.09
+Anand, Viswanathan	2771	Hess, Robert L	2574	1/2-1/2	2018.10.20
+Kramnik, V.	2800	Anand, V.	2776	1-0	2018.03.05
+Dubov, Daniil	2701	Anand, V.	2776	1-0	2018.03.05
+Fedoseev, Vl3	2724	Anand, V.	2776	1-0	2018.03.05
+Vachier Lagrave, M.	2789	Anand, V.	2776	1-0	2018.03.31
+Bluebaum, M.	2631	Anand, V.	2776	1-0	2018.03.31
+Karjakin, Sergey	2782	Anand, V.	2759	1-0	2018.06.15
+Grischuk, A.	2766	Anand, V.	2759	1-0	2018.06.15
+Aronian, L.	2764	Anand, V.	2759	1-0	2018.06.15
+Nakamura, Hi	2769	Anand, V.	2759	1-0	2018.06.12
+Giri, A.	2782	Anand, V.	2759	1-0	2018.06.12
+Vachier Lagrave, M.	2789	Anand, V.	2759	1-0	2018.06.12
+Karjakin, Sergey	2782	Anand, V.	2759	1-0	2018.06.23
+Aronian, L.	2764	Anand, V.	2759	1-0	2018.06.23
+Grischuk, A.	2766	Anand, V.	2759	1-0	2018.06.23
+Vachier Lagrave, M.	2779	Anand, V.	2768	1-0	2018.08.11
+Anand, Viswanathan	2773	Nakamura, Hikaru	2746	1/2-1/2	2018.11.13
+Anand, Viswanathan	2773	Firouzja, Alireza	2607	1/2-1/2	2018.12.26
+Anand, Viswanathan	2773	Mamedyarov, Shakhriyar	2817	1/2-1/2	2018.11.13
+Anand, Viswanathan	2773	Zhigalko, Sergei	2604	1/2-1/2	2018.12.29
+Anand, Viswanathan	2773	Nakamura, Hikaru	2746	1/2-1/2	2018.11.09
+Anand, Viswanathan	2773	Sakaev, Konstantin	2584	1/2-1/2	2018.12.26
+Anand, Viswanathan	2773	Korobov, Anton	2698	1/2-1/2	2018.12.26
+Anand, Viswanathan	2773	Karjakin, Sergey	2753	1/2-1/2	2018.11.13
+Anand, Viswanathan	2771	Duda, Jan-Krzysztof	2739	1/2-1/2	2018.09.24
+Anand,V	2773	Cheparinov,I	2711	1/2-1/2	2018.11.24
+Jones, G.	2640	Anand, V.	2767	0-1	2018.01.13
+Ivlev, Aleksey	2300	Anand, V.	2767	0-1	2018.01.18
+Morozevich, A.	2665	Anand, V.	2776	0-1	2018.03.05
+Nepomniachtchi, I.	2751	Anand, V.	2776	0-1	2018.03.02
+Hemant, S2.	2393	Anand, V.	2776	0-1	2018.03.13
+Aronian, L.	2764	Anand, V.	2760	0-1	2018.05.27
+Ding Liren	2791	Anand, V.	2760	0-1	2018.05.27
+Karjakin, Sergey	2782	Anand, V.	2760	0-1	2018.05.28
+Vachier Lagrave, M.	2789	Anand, V.	2760	0-1	2018.05.28
+Vachier Lagrave, M.	2789	Anand, V.	2759	0-1	2018.06.15
+Nakamura, Hi	2769	Anand, V.	2759	0-1	2018.06.15
+Caruana, F.	2816	Anand, V.	2759	0-1	2018.06.15
+Aronian, L.	2767	Anand, V.	2768	1-0	2018.08.14
+Caruana, F.	2822	Anand, V.	2768	1-0	2018.08.14
+Mamedyarov, S.	2801	Anand, V.	2768	1-0	2018.08.14
+Karjakin, Sergey	2773	Anand, V.	2768	1-0	2018.08.14
+Mamedyarov, S.	2801	Anand, V.	2768	1-0	2018.08.11
+Caruana, Fabiano	2827	Anand, Viswanathan	2771	1-0	2018.09.24
+Karjakin, Sergey	2753	Anand, Viswanathan	2773	1-0	2018.11.13
+Korobov, Anton	2698	Anand, Viswanathan	2773	1-0	2018.12.29
+Kovalenko, Igor	2657	Anand, Viswanathan	2773	1-0	2018.12.29
+Najer, Evgeniy	2670	Anand, Viswanathan	2773	1-0	2018.12.29
+Saric, Ivan	2695	Anand, Viswanathan	2773	1-0	2018.12.26
+Smirin, Ilia	2609	Anand, Viswanathan	2773	1-0	2018.12.29
+Korobov,A	2703	Anand,V	2773	1-0	2018.11.24
+Karjakin, Sergey	2753	Anand, V.	2767	1/2-1/2	2018.01.13
+Giri, A.	2752	Anand, V.	2767	1/2-1/2	2018.01.13
+Svidler, P.	2768	Anand, V.	2767	1/2-1/2	2018.01.13
+Adhiban, Baskaran	2655	Anand, V.	2767	1/2-1/2	2018.01.13
+Mamedyarov, S.	2804	Anand, V.	2767	1/2-1/2	2018.01.13
+Urkedal, F.	2572	Anand, V.	2767	1/2-1/2	2018.01.18
+Haug, J.	2357	Anand, V.	2767	1/2-1/2	2018.01.18
+Andreikin, D.	2712	Anand, V.	2767	1/2-1/2	2018.01.18
+Van Foreest, Jorden	2609	Anand, V.	2783	1/2-1/2	2017.10.21
+Andreikin, D.	2712	Anand, V.	2776	1/2-1/2	2018.03.05
+Karjakin, Sergey	2763	Anand, V.	2776	1/2-1/2	2018.03.05
+Karjakin, Sergey	2763	Anand, V.	2776	1/2-1/2	2018.03.02
+Gelfand, B.	2695	Anand, V.	2776	1/2-1/2	2018.03.02
+Svidler, P.	2760	Anand, V.	2776	1/2-1/2	2018.03.02
+McShane, L.	2647	Anand, V.	2783	1/2-1/2	2017.10.21
+So, W.	2780	Anand, V.	2768	0-1	2018.08.14
+Ganguly, Surya Shekhar	2615	Anand, Viswanathan	2773	0-1	2018.11.13
+Hansen, Eric	2629	Anand, Viswanathan	2771	0-1	2018.09.24
+Khanin, Semen	2514	Anand, Viswanathan	2773	0-1	2018.12.26
+Mamedyarov, Shakhriyar	2817	Anand, Viswanathan	2773	0-1	2018.11.13
+Popov, Valerij	2532	Anand, Viswanathan	2773	0-1	2018.12.29
+Praggnanandhaa, R	2530	Anand, Viswanathan	2773	0-1	2018.11.13
+Sadhwani, Raunak	2438	Anand, Viswanathan	2771	0-1	2018.10.20
+Vidit, Santosh Gujrathi	2702	Anand, Viswanathan	2773	0-1	2018.11.13
+Bluebaum,M	2620	Anand,V	2773	0-1	2018.11.24
+Gupta, Ab	2615	Anand, V.	2776	1/2-1/2	2018.03.13
+Naiditsch, A.	2701	Anand, V.	2776	1/2-1/2	2018.03.31
+Vitiugov, N.	2735	Anand, V.	2776	1/2-1/2	2018.03.31
+Karjakin, Sergey	2782	Anand, V.	2760	1/2-1/2	2018.05.27
+So, W.	2778	Anand, V.	2760	1/2-1/2	2018.05.27
+Nakamura, Hi	2769	Anand, V.	2760	1/2-1/2	2018.05.28
+Carlsen, M.	2843	Anand, V.	2760	1/2-1/2	2018.05.28
+Van Wely, L.	2667	Anand, V.	2760	1/2-1/2	2018.05.24
+Giri, A.	2782	Anand, V.	2759	1/2-1/2	2018.06.15
+Mamedyarov, S.	2808	Anand, V.	2759	1/2-1/2	2018.06.15
+So, W.	2778	Anand, V.	2759	1/2-1/2	2018.06.15
+Karjakin, Sergey	2782	Anand, V.	2759	1/2-1/2	2018.06.12
+Vachier Lagrave, M.	2789	Anand, V.	2759	1/2-1/2	2018.06.23
+Mamedyarov, S.	2808	Anand, V.	2759	1/2-1/2	2018.06.23
+Kramnik, V.	2792	Anand, V.	2759	1/2-1/2	2018.06.23
+Caruana, F.	2816	Anand, V.	2759	1/2-1/2	2018.06.23
+Nakamura, Hi	2769	Anand, V.	2759	1/2-1/2	2018.06.23
+Caruana, F.	2816	Anand, V.	2759	1/2-1/2	2018.06.20
+Grischuk, A.	2766	Anand, V.	2759	1/2-1/2	2018.06.20
+So, W.	2778	Anand, V.	2759	1/2-1/2	2018.06.20
+Mamedyarov, S.	2808	Anand, V.	2759	1/2-1/2	2018.06.20
+Aronian, L.	2764	Anand, V.	2759	1/2-1/2	2018.06.20
+So, W.	2778	Anand, V.	2759	1/2-1/2	2018.06.23
+Grischuk, A.	2766	Anand, V.	2768	1/2-1/2	2018.08.11
+Dominguez Perez, L.	2739	Anand, V.	2768	1/2-1/2	2018.08.11
+Anand, Viswanathan	0	Artemiev, Vladislav	0	1/2-1/2	Sat Jan 11 2020
+Anand, Viswanathan	0	Xiong, Jeffery	0	1-0	Thu Jan 16 2020
+Mamedyarov, Shakhriyar	2761	Anand, Viswanathan	2751	1/2-1/2	2021.07.08
+Vachier-Lagrave, Maxime	2831	Anand, Viswanathan	2751	1-0	2021.07.07
+Duda, Jan-Krzysztof	2774	Anand, Viswanathan	2751	1/2-1/2	2021.07.09
+Giri, Anish	2731	Anand, Viswanathan	2751	1-0	2021.07.09
+Vachier-Lagrave, Maxime	2794	Anand, Viswanathan	2785	1/2-1/2	2021.07.10
+Giri, Anish	2744	Anand, Viswanathan	2785	1-0	2021.07.10
+Nepomniachtchi, Ian	2807	Anand, Viswanathan	2785	1-0	2021.07.10
+Grischuk, Alexander	2765	Anand, Viswanathan	2785	1/2-1/2	2021.07.10
+Van Foreest, Jorden	2622	Anand, Viswanathan	2785	0-1	2021.07.10
+Duda, Jan-Krzysztof	2799	Anand, Viswanathan	2785	1/2-1/2	2021.07.11
+Kasparov, Garry	2801	Anand, Viswanathan	2785	0-1	2021.07.11
+Korobov, Anton	2668	Anand, Viswanathan	2785	0-1	2021.07.11
+Mamedyarov, Shakhriyar	2716	Anand, Viswanathan	2785	1/2-1/2	2021.07.11
+Kramnik, Vladimir	2753	Anand, Viswanathan	2753	1/2-1/2	2021.07.15
+Kramnik, Vladimir	2753	Anand, Viswanathan	2753	1/2-1/2	2021.07.18
+Anand, Viswanathan	2748	Radjabov, Teimour	2747	1/2-1/2	2021.09.09
+Aleksandrov, Aleksej	2494	Anand, Viswanathan	2748	0-1	2021.09.09
+Bacrot, Etienne	2712	Anand, Viswanathan	2748	1/2-1/2	2021.09.08
+Anand, Viswanathan	2748	Ivanchuk, Vasyl	2686	1/2-1/2	2021.09.13
+Ivanchuk, Vasyl	2686	Anand, Viswanathan	2748	1/2-1/2	2021.09.13
+Xiong, Jeffery	2729	Anand, Viswanathan	2748	1-0	2021.09.14
+Malakhov, Vladimir	2658	Anand, Viswanathan	2753	1/2-1/2	2021.10.14
+Anand, Viswanathan	2753	Ponomariov, Ruslan	2631	1/2-1/2	2021.10.16
+Grischuk, A.	2766	Anand, V.	2768	1/2-1/2	2018.08.14
+Dominguez Perez, L.	2739	Anand, V.	2768	1/2-1/2	2018.08.14
+Vachier Lagrave, M.	2779	Anand, V.	2768	1/2-1/2	2018.08.14
+Nakamura, Hi	2777	Anand, V.	2768	1/2-1/2	2018.08.14
+Nakamura, Hi	2777	Anand, V.	2768	1/2-1/2	2018.08.18
+Aronian, L.	2767	Anand, V.	2768	1/2-1/2	2018.08.18
+So, W.	2780	Anand, V.	2768	1/2-1/2	2018.08.18
+Caruana, F.	2822	Anand, V.	2768	1/2-1/2	2018.08.18
+Karjakin, Sergey	2773	Anand, V.	2768	1/2-1/2	2018.08.18
+Amin, Bassem	2710	Anand, Viswanathan	2773	1/2-1/2	2018.12.29
+Anton Guijarro, David	2642	Anand, Viswanathan	2773	1/2-1/2	2018.12.26
+Aronian, Levon	2765	Anand, Viswanathan	2773	1/2-1/2	2018.11.13
+Carlsen, Magnus	2835	Anand, Viswanathan	2773	1/2-1/2	2018.12.26
+Cheparinov, Ivan	2709	Anand, Viswanathan	2773	1/2-1/2	2018.12.29
+Demidov, Mikhail	2520	Anand, Viswanathan	2773	1/2-1/2	2018.12.26
+Ghaem Maghami, Ehsan	2537	Anand, Viswanathan	2773	1/2-1/2	2018.12.29
+Harikrishna, Pendyala	2729	Anand, Viswanathan	2773	1/2-1/2	2018.11.13
+Karjakin, Sergey	2753	Anand, Viswanathan	2773	1/2-1/2	2018.11.09
+Mamedyarov, Shakhriyar	2817	Anand, Viswanathan	2773	1/2-1/2	2018.11.09
+Nakamura, Hikaru	2746	Anand, Viswanathan	2773	1/2-1/2	2018.11.14
+Nakamura, Hikaru	2746	Anand, Viswanathan	2773	1/2-1/2	2018.11.13
+Navara, David	2740	Anand, Viswanathan	2771	1/2-1/2	2018.09.24
+Nepomniachtchi, Ian	2768	Anand, Viswanathan	2771	1/2-1/2	2018.09.24
+Nihal, Sarin	2576	Anand, Viswanathan	2773	1/2-1/2	2018.11.09
+Postny, Evgeny	2615	Anand, Viswanathan	2773	1/2-1/2	2018.12.29
+Anand, V.	2786	Gelfand, B.	2724	1-0	2017.04.17
+Anand, V.	2786	Oparin, G.	2604	1-0	2017.04.13
+Anand, V.	2786	Svidler, P.	2747	1-0	2017.04.13
+Anand, V.	2786	Pelletier, Y.	2541	1-0	2017.04.13
+Anand, V.	2786	Kramnik, V.	2811	1-0	2017.04.12
+Anand, V.	2776	L'Ami, E.	2605	1-0	2016.10.15
+Anand, V.	2786	Jobava, Ba	2707	1-0	2017.06.28
+Anand, V.	2786	Nepomniachtchi, I.	2732	1-0	2017.06.28
+Anand, V.	2786	Ivanchuk, V.	2738	1-0	2017.06.28
+Anand, V.	2786	Aronian, L.	2793	1-0	2017.07.01
+Anand, V.	2786	So, W.	2812	1-0	2017.07.01
+Anand, V.	2786	Jobava, Ba	2707	1-0	2017.07.01
+Anand, V.	2783	Santos Latasa, J.	2542	1-0	2017.07.07
+Anand, V.	2783	Santos Latasa, J.	2542	1-0	2017.07.07
+Anand, V.	2794	Esserman, M.	2453	1-0	2017.09.23
+Anand, V.	2794	Lubbe, N.	2515	1-0	2017.09.23
+Anand, V.	2794	Hou Yifan	2670	1-0	2017.09.23
+Anand, V.	2794	Sethuraman, S.	2617	1-0	2017.09.23
+Sethuraman, S P	2673	Anand, Viswanathan	2771	1/2-1/2	2018.10.20
+So, Wesley	2765	Anand, Viswanathan	2773	1/2-1/2	2018.11.13
+Svane, Rasmus	2595	Anand, Viswanathan	2771	1/2-1/2	2018.10.20
+Timofeev, Artyom	2589	Anand, Viswanathan	2773	1/2-1/2	2018.12.26
+Tomashevsky, Evgeny	2705	Anand, Viswanathan	2773	1/2-1/2	2018.12.29
+Vidit, Santosh Gujrathi	2702	Anand, Viswanathan	2773	1/2-1/2	2018.11.09
+Wang, Hao	2722	Anand, Viswanathan	2771	1/2-1/2	2018.10.20
+Anand, V.	2786	Nepomniachtchi, I.	2751	0-1	2017.04.12
+Anand, V.	2786	Kramnik, V.	2808	0-1	2017.06.05
+Anand, V.	2786	Kramnik, V.	2808	0-1	2017.06.06
+Anand, V.	2786	Carlsen, M.	2832	0-1	2017.07.01
+Anand, V.	2786	Vachier Lagrave, M.	2796	0-1	2017.06.28
+Anand, V.	2786	Vachier Lagrave, M.	2796	0-1	2017.07.01
+Anand, V.	2786	Nepomniachtchi, I.	2732	0-1	2017.07.01
+Anand, V.	2794	Kovalyov, A.	2649	0-1	2017.09.03
+Anand, V.	2782	So, W.	2788	0-1	2017.12.01
+Anand, V.	2782	Leko, P.	2691	1-0	2017.12.26
+Anand, V.	2782	Demchenko, A.	2660	1-0	2017.12.26
+Anand, V.	2782	Grischuk, A.	2772	1-0	2017.12.26
+Anand, V.	2782	Kovalev, Vl	2639	1-0	2017.12.29
+Anand, V.	2782	Bacrot, E.	2725	1-0	2017.12.29
+Anand, V.	2782	Fedoseev, Vl3	2718	1-0	2017.12.29
+Anand, V.	2782	Petrosian, TL.	2601	1-0	2017.12.29
+Anand, Viswanathan	2783	Navara, David	2737	1-0	2017.08.14
+Anand, Viswanathan	2783	Caruana, Fabiano	2807	0-1	2017.08.17
+Anand, Viswanathan	2783	Nakamura, Hikaru	2792	0-1	2017.08.14
+Anand, Viswanathan	2783	Aronian, Levon	2799	0-1	2017.08.17
+Anand, Viswanathan	2783	Caruana, Fabiano	2807	1-0	2017.08.02
+Anand, Viswanathan	2783	Nepomniachtchi, Ian	2742	1-0	2017.08.02
+Anand, Viswanathan	2783	Aronian, Levon	2799	0-1	2017.08.14
+Anand, Viswanathan	2783	Dominguez Perez, Leinier	2739	0-1	2017.08.17
+Viswanathan Anand	2782	Vladimir Fedoseev	2718	1-0	2017.12.28
+Anand, V.	2786	Nakamura, Hi	2793	1/2-1/2	2017.04.17
+Anand, V.	2786	Kramnik, V.	2811	1/2-1/2	2017.04.17
+Anand, V.	2786	Nepomniachtchi, I.	2751	1/2-1/2	2017.04.17
+Anand, V.	2786	Nakamura, Hi	2793	1/2-1/2	2017.04.12
+Anand, V.	2776	Ruck, R1.	2566	1/2-1/2	2016.10.15
+Anand, V.	2786	So, W.	2812	1/2-1/2	2017.06.05
+Anand, V.	2786	Carlsen, M.	2832	1/2-1/2	2017.06.05
+Anand, V.	2786	Giri, A.	2771	1/2-1/2	2017.06.05
+Anand, V.	2786	Karjakin, Sergey	2781	1/2-1/2	2017.06.05
+Anand, V.	2786	So, W.	2812	1/2-1/2	2017.06.06
+Anand, V.	2786	Nakamura, Hi	2785	1/2-1/2	2017.06.06
+Anand, V.	2786	Carlsen, M.	2832	1/2-1/2	2017.06.06
+Anand, V.	2786	Giri, A.	2771	1/2-1/2	2017.07.01
+Anand, V.	2786	Kramnik, V.	2808	1/2-1/2	2017.07.01
+Anand, V.	2786	Ivanchuk, V.	2738	1/2-1/2	2017.07.01
+Anand, V.	2783	So, W.	2810	1/2-1/2	2017.07.07
+Anand, V.	2783	So, W.	2810	1/2-1/2	2017.07.07
+Anand, V.	2783	So, W.	2810	1/2-1/2	2017.07.07
+Anand, V.	2783	Santos Latasa, J.	2542	1/2-1/2	2017.07.07
+Anand, V.	2794	Yeoh, L.	2478	1/2-1/2	2017.09.03
+Anand, V.	2794	Grandelius, N.	2653	1/2-1/2	2017.09.23
+Anand, V.	2783	Li Chao2	2739	1/2-1/2	2017.10.21
+Anand, V.	2782	Adams, Mi	2715	1/2-1/2	2017.12.01
+Anand, V.	2782	Aronian, L.	2805	1/2-1/2	2017.12.01
+Anand, V.	2782	Karjakin, Sergey	2760	1/2-1/2	2017.12.01
+Kramnik, V.	2811	Anand, V.	2786	1-0	2017.04.13
+Nepomniachtchi, I.	2751	Anand, V.	2786	1-0	2017.04.13
+Gelfand, B.	2724	Anand, V.	2786	1-0	2017.04.12
+Vachier Lagrave, M.	2796	Anand, V.	2786	1-0	2017.06.05
+Anand, V.	2782	Wang Hao	2709	1/2-1/2	2017.12.26
+Anand, V.	2782	Fedoseev, Vl3	2718	1/2-1/2	2017.12.26
+Anand, V.	2782	Ponkratov, P.	2613	1/2-1/2	2017.12.26
+Anand, V.	2782	Nepomniachtchi, I.	2729	1/2-1/2	2017.12.26
+Anand, V.	2782	Sargissian, G.	2672	1/2-1/2	2017.12.29
+Anand, V.	2782	Short, N.	2678	1/2-1/2	2017.12.29
+Anand, V.	2782	Carlsen, M.	2837	1/2-1/2	2017.12.29
+Anand, V.	2782	Artemiev, V.	2691	1/2-1/2	2017.12.29
+Anand, V.	2782	Ding Liren	2777	1/2-1/2	2017.12.29
+Anand, V.	2782	Karjakin, Sergey	2760	1/2-1/2	2017.12.29
+Anand, Viswanathan	2783	Karjakin, Sergey	2773	1/2-1/2	2017.08.17
+Anand, Viswanathan	2783	Nepomniachtchi, Ian	2751	1/2-1/2	2017.08.17
+Anand, Viswanathan	2783	Nakamura, Hikaru	2792	1/2-1/2	2017.08.17
+Anand, Viswanathan	2783	Vachier-Lagrave, Maxime	2791	1/2-1/2	2017.08.02
+Anand, Viswanathan	2783	Nakamura, Hikaru	2792	1/2-1/2	2017.08.02
+Anand, Viswanathan	2783	Caruana, Fabiano	2807	1/2-1/2	2017.08.14
+Anand, Viswanathan	2783	Navara, David	2737	1/2-1/2	2017.08.17
+Anand, Viswanathan	2783	Kasparov, Garry	2812	1/2-1/2	2017.08.14
+Anand, Viswanathan	2783	Le, Quang Liem	2739	1/2-1/2	2017.08.17
+Anand, Viswanathan	2783	Kasparov, Garry	2812	1/2-1/2	2017.08.17
+Anand, Viswanathan	2783	Carlsen, Magnus	2822	1/2-1/2	2017.08.02
+Skvortsov, Oleg	0	Anand, V.	2786	0-1	2017.04.12
+Pelletier, Y.	2541	Anand, V.	2786	0-1	2017.04.17
+Gelfand, B.	2724	Anand, V.	2786	0-1	2017.04.13
+Pelletier, Y.	2541	Anand, V.	2786	0-1	2017.04.12
+Caruana, F.	2808	Anand, V.	2786	0-1	2017.06.05
+Giri, A.	2771	Anand, V.	2786	1-0	2017.06.06
+Caruana, F.	2808	Anand, V.	2786	0-1	2017.06.06
+So, W.	2812	Anand, V.	2786	1-0	2017.07.01
+Aronian, L.	2793	Anand, V.	2786	1-0	2017.06.28
+So, W.	2812	Anand, V.	2786	1-0	2017.06.28
+Kramnik, V.	2808	Anand, V.	2786	1-0	2017.06.28
+Ivanchuk, V.	2738	Anand, V.	2786	1-0	2017.07.01
+Aronian, L.	2793	Anand, V.	2786	1-0	2017.07.01
+Vachier Lagrave, M.	2796	Anand, V.	2786	0-1	2017.07.01
+Santos Latasa, J.	2542	Anand, V.	2783	0-1	2017.07.07
+So, W.	2810	Anand, V.	2783	1-0	2017.07.07
+Santos Latasa, J.	2542	Anand, V.	2783	1-0	2017.07.07
+Yeoh, L.	2478	Anand, V.	2794	0-1	2017.09.03
+Fressinet, L.	2657	Anand, V.	2794	0-1	2017.09.23
+Caruana, F.	2799	Anand, V.	2782	1-0	2017.12.01
+Nepomniachtchi, I.	2729	Anand, V.	2782	1-0	2017.12.01
+Nepomniachtchi, I.	2729	Anand, V.	2782	1-0	2017.12.29
+Karjakin, Sergey	2773	Anand, Viswanathan	2783	1-0	2017.08.14
+Karjakin, Sergey	2773	Anand, Viswanathan	2783	1-0	2017.08.17
+Nakamura, Hikaru	2792	Anand, Viswanathan	2783	1-0	2017.08.17
+Svidler, P.	2747	Anand, V.	2786	1/2-1/2	2017.04.17
+Oparin, G.	2604	Anand, V.	2786	1/2-1/2	2017.04.17
+Nakamura, Hi	2793	Anand, V.	2786	1/2-1/2	2017.04.13
+Svidler, P.	2747	Anand, V.	2786	1/2-1/2	2017.04.12
+Oparin, G.	2604	Anand, V.	2786	1/2-1/2	2017.04.12
+Nakamura, Hi	2785	Anand, V.	2786	1/2-1/2	2017.06.05
+Aronian, L.	2793	Anand, V.	2786	1/2-1/2	2017.06.05
+Karjakin, Sergey	2781	Anand, V.	2786	1/2-1/2	2017.06.06
+Vachier Lagrave, M.	2796	Anand, V.	2786	1/2-1/2	2017.06.06
+Aronian, L.	2793	Anand, V.	2786	1/2-1/2	2017.06.06
+Carlsen, M.	2832	Anand, V.	2786	1/2-1/2	2017.06.28
+Giri, A.	2771	Anand, V.	2786	1/2-1/2	2017.06.28
+Giri, A.	2771	Anand, V.	2786	1/2-1/2	2017.07.01
+Carlsen, M.	2832	Anand, V.	2786	1/2-1/2	2017.07.01
+Jobava, Ba	2707	Anand, V.	2786	1/2-1/2	2017.07.01
+Akobian, V.	2647	Anand, V.	2782	0-1	2017.12.26
+Carlsen, M.	2837	Anand, V.	2782	0-1	2017.12.26
+McShane, L.	2640	Anand, V.	2782	0-1	2017.12.26
+Salgado Lopez, I.	2644	Anand, V.	2782	0-1	2017.12.29
+Zhigalko, S.	2641	Anand, V.	2782	0-1	2017.12.29
+Demchenko, A.	2660	Anand, V.	2782	0-1	2017.12.29
+Vachier Lagrave, M.	2789	Anand, V.	2782	0-1	2017.12.29
+Jobava, Ba	2690	Anand, V.	2782	0-1	2017.12.29
+Nepomniachtchi, Ian	2751	Anand, Viswanathan	2783	0-1	2017.08.17
+Oleg Skvortsov	0	Viswanathan Anand	0	0-1	2017.??.??
+Kramnik, V.	2808	Anand, V.	2786	1/2-1/2	2017.07.01
+Nepomniachtchi, I.	2732	Anand, V.	2786	1/2-1/2	2017.07.01
+So, W.	2810	Anand, V.	2783	1/2-1/2	2017.07.07
+So, W.	2810	Anand, V.	2783	1/2-1/2	2017.07.07
+Santos Latasa, J.	2542	Anand, V.	2783	1/2-1/2	2017.07.07
+Kovalyov, A.	2649	Anand, V.	2794	1/2-1/2	2017.09.03
+Lampert, J.	2514	Anand, V.	2794	1/2-1/2	2017.09.23
+Lenderman, A.	2565	Anand, V.	2794	1/2-1/2	2017.09.23
+Shirov, A.	2630	Anand, V.	2794	1/2-1/2	2017.09.23
+Bluebaum, M.	2643	Anand, V.	2783	1/2-1/2	2017.10.21
+Nakamura, Hi	2781	Anand, V.	2782	1/2-1/2	2017.12.01
+Carlsen, M.	2837	Anand, V.	2782	1/2-1/2	2017.12.01
+Vachier Lagrave, M.	2789	Anand, V.	2782	1/2-1/2	2017.12.01
+Sargissian, G.	2672	Anand, V.	2782	1/2-1/2	2017.12.26
+Svidler, P.	2765	Anand, V.	2782	1/2-1/2	2017.12.26
+Cheparinov, I.	2710	Anand, V.	2782	1/2-1/2	2017.12.26
+Bu Xiangzhi	2730	Anand, V.	2782	1/2-1/2	2017.12.26
+Onischuk, V.	2637	Anand, V.	2782	1/2-1/2	2017.12.26
+Moiseenko, A1.	2667	Anand, V.	2782	1/2-1/2	2017.12.29
+Zhao Jun	2604	Anand, V.	2782	1/2-1/2	2017.12.29
+Korobov, A.	2652	Anand, V.	2782	1/2-1/2	2017.12.29
+Svidler, P.	2765	Anand, V.	2782	1/2-1/2	2017.12.29
+Wang Hao	2709	Anand, V.	2782	1/2-1/2	2017.12.29
+Aronian, Levon	2809	Anand, Viswanathan	2783	1/2-1/2	2017.08.02
+Aronian, Levon	2799	Anand, Viswanathan	2783	1/2-1/2	2017.08.17
+Anand, V.	2770	Anton Guijarro, D.	2627	1-0	2016.06.10
+Anand, V.	2770	Anton Guijarro, D.	2627	1-0	2016.06.10
+Anand, V.	2770	Wei Yi	2694	1-0	2016.06.10
+Anand, V.	2770	Vachier Lagrave, M.	2789	1-0	2016.06.19
+Anand, V.	2770	Topalov, V.	2761	1-0	2016.06.19
+Anand, V.	2770	Giri, A.	2782	1-0	2016.06.17
+Anand, V.	2784	Fiala, Va	2217	1-0	2016.01.26
+Anand, V.	2784	Xu, Xiangyu	2466	1-0	2016.01.26
+Anand, V.	2762	Karjakin, Sergey	2760	1-0	2016.03.11
+Anand, V.	2762	Svidler, P.	2757	1-0	2016.03.11
+Anand, V.	2762	Aronian, L.	2786	1-0	2016.03.11
+Anand, V.	2762	Topalov, V.	2780	1-0	2016.03.11
+Caruana, Fabiano	2807	Anand, Viswanathan	2783	1/2-1/2	2017.08.17
+Dominguez Perez, Leinier	2739	Anand, Viswanathan	2783	1/2-1/2	2017.08.14
+Dominguez Perez, Leinier	2739	Anand, Viswanathan	2783	1/2-1/2	2017.08.17
+Karjakin, Sergey	2773	Anand, Viswanathan	2783	1/2-1/2	2017.08.02
+Kasparov, Garry	2812	Anand, Viswanathan	2783	1/2-1/2	2017.08.17
+Le, Quang Liem	2739	Anand, Viswanathan	2783	1/2-1/2	2017.08.17
+Le, Quang Liem	2739	Anand, Viswanathan	2783	1/2-1/2	2017.08.14
+Navara, David	2737	Anand, Viswanathan	2783	1/2-1/2	2017.08.17
+Nepomniachtchi, Ian	2751	Anand, Viswanathan	2783	1/2-1/2	2017.08.14
+So, Wesley	2810	Anand, Viswanathan	2783	1/2-1/2	2017.08.02
+Svidler, Peter	2749	Anand, Viswanathan	2783	1/2-1/2	2017.08.02
+Vladimir Fedoseev	2718	Viswanathan Anand	2782	1/2-1/2	2017.12.28
+Shakhriyar Mamedyarov	0	Viswanathan Anand	0	1/2-1/2	2017.01.14
+Anand, V.	2770	Carlsen, M.	2855	0-1	2016.06.19
+Anand, V.	2784	Demuth, A.	2535	0-1	2016.01.26
+Anand, V.	2784	Nakamura, Hi	2787	1-0	2016.02.12
+Anand, V.	2784	Aronian, L.	2792	1-0	2016.02.13
+Anand, V.	2784	Kollars, Dmitrij	2436	1-0	2016.01.26
+Anand, V.	2776	Mamedyarov, S.	2761	1-0	2016.09.26
+Anand, V.	2776	Gelfand, B.	2743	1-0	2016.09.26
+Anand, V.	2776	Gharamian, T.	2626	1-0	2016.10.27
+Anand, V.	2776	Radjabov, T.	2710	1-0	2016.10.27
+Anand, V.	2776	Leenhouts, K.	2499	1-0	2016.10.27
+Anand, V.	2779	Nakamura, Hi	2779	1-0	2016.11.13
+Anand, V.	2779	Topalov, V.	2760	1-0	2016.11.13
+Anand, V.	2779	Topalov, V.	2760	1-0	2016.11.14
+Anand, V.	2779	Nakamura, Hi	2779	1-0	2016.11.14
+Anand, V.	2779	Caruana, F.	2823	1-0	2016.11.14
+Anand, V.	2779	Vachier Lagrave, M.	2804	1-0	2016.12.09
+Anand, V.	2779	Vallejo Pons, F.	2711	1-0	2016.12.26
+Anand, V.	2779	Jumabayev, R.	2611	1-0	2016.12.26
+Anand, V.	2779	Li Chao2	2720	1-0	2016.12.26
+Anand, V.	2779	Wei Yi	2707	1-0	2016.12.29
+Anand, V.	2779	Bologan, V.	2640	1-0	2016.12.29
+Anand, V.	2779	Melkumyan, H.	2633	1-0	2016.12.29
+Anand, V.	2779	Naiditsch, A.	2687	1-0	2016.12.29
+Anand, V.	2779	Salem, AR.	2656	1-0	2016.12.29
+Anand, V.	2779	Mamedyarov, S.	2768	1-0	2016.12.29
+Anand, Viswanathan	0	Mamedyarov, Shakhriyar	0	1-0	Sat Nov 09 2019
+Anand, Viswanathan	0	So, Wesley	0	1-0	Fri Nov 22 2019
+Anand, Viswanathan	0	Aronian, Levon	0	1-0	Sat Nov 23 2019
+Anand, Viswanathan	0	So, Wesley	0	1-0	Mon Nov 25 2019
+Anand, Viswanathan	0	Beerdsen, Thomas	0	1-0	Sun Dec 08 2019
+So, Wesley	0	Anand, Viswanathan	0	1-0	Sun Jan 12 2020
+Anand, Viswanathan	0	Giri, Anish	0	1/2-1/2	Mon Jan 13 2020
+Yu, Yangyi	0	Anand, Viswanathan	0	1/2-1/2	Tue Jan 14 2020
+Van Foreest, Jorden	0	Anand, Viswanathan	0	1/2-1/2	Fri Jan 17 2020
+Anand, Viswanathan	0	Carlsen, Magnus	0	1/2-1/2	Sat Jan 18 2020
+Caruana, Fabiano	0	Anand, Viswanathan	0	1-0	Sun Jan 19 2020
+Anand, Viswanathan	0	Dubov, Daniil	0	1/2-1/2	Tue Jan 21 2020
+Anand, Viswanathan	0	Vitiugov, Nikita	0	1/2-1/2	Wed Jan 22 2020
+Firouzja, Alireza	0	Anand, Viswanathan	0	0-1	Fri Jan 24 2020
+Anand, Viswanathan	0	Kovalev, Vladislav	0	1/2-1/2	Sat Jan 25 2020
+Duda, Jan-Krzysztof	0	Anand, Viswanathan	0	1/2-1/2	Sun Jan 26 2020
+Fressinet, Laurent	0	Anand, Viswanathan	0	1/2-1/2	Sun Feb 23 2020
+Anand,V	2773	Mamedyarov,S	2817	1-0	2019.01.12
+Anand,V	2779	Mamedyarov,S	2790	1-0	2019.03.31
+Anand,V	2779	Giri,A	2797	1-0	2019.03.31
+Anand,V	2774	Keymer,Vincent	2516	1-0	2019.04.20
+Anand,V	2767	Ding Liren	2805	1-0	2019.06.04
+Anand,V	2764	Nepomniachtchi,I	2775	1-0	2019.07.27
+Anand,V	2764	Duda,J	2729	1-0	2019.07.31
+Anand,V	2764	Caruana,F	2819	1-0	2019.07.31
+Anand, V.	2770	Wei Yi	2694	1/2-1/2	2016.06.10
+Anand, V.	2770	Caruana, F.	2804	1/2-1/2	2016.06.19
+Anand, V.	2770	Kramnik, V.	2812	1/2-1/2	2016.06.19
+Anand, V.	2770	Aronian, L.	2792	1/2-1/2	2016.06.19
+Anand, V.	2770	Nakamura, Hi	2787	1/2-1/2	2016.06.19
+Anand, V.	2770	Giri, A.	2782	1/2-1/2	2016.06.19
+Anand, V.	2770	So, W.	2770	1/2-1/2	2016.06.19
+Anand, V.	2770	So, W.	2770	1/2-1/2	2016.06.17
+Anand, V.	2770	Nakamura, Hi	2787	1/2-1/2	2016.06.17
+Anand, V.	2770	Aronian, L.	2792	1/2-1/2	2016.06.17
+Anand, V.	2784	Vajda, S.	2359	1/2-1/2	2016.01.26
+Anand, V.	2762	Giri, A.	2793	1/2-1/2	2016.03.11
+Anand, V.	2762	Nakamura, Hi	2790	1/2-1/2	2016.03.11
+Anand, V.	2762	Caruana, F.	2794	1/2-1/2	2016.03.11
+Anand, V.	2816	Harikrishna, P.	2737	1/2-1/2	2015.09.18
+Anand, V.	2784	Aronian, L.	2792	0-1	2016.02.12
+Anand, V.	2784	Kramnik, V.	2801	1/2-1/2	2016.02.13
+Anand, V.	2784	Shirov, A.	2684	1/2-1/2	2016.02.13
+Anand, V.	2784	Giri, A.	2798	1/2-1/2	2016.02.15
+Anand, V.	2784	Nakamura, Hi	2787	1/2-1/2	2016.02.15
+Anand, V.	2770	Nakamura, Hi	2791	1/2-1/2	2016.08.05
+Anand, V.	2776	Li Chao2	2746	0-1	2016.09.25
+Anand, V.	2776	Vachier Lagrave, M.	2811	0-1	2016.10.27
+Anand, V.	2779	Ivanchuk, V.	2747	0-1	2016.12.26
+Anand, V.	2779	Dubov, Daniil	2660	0-1	2016.12.29
+Anand, V.	2770	Caruana, F.	2807	1/2-1/2	2016.08.05
+Anand, V.	2770	Aronian, L.	2792	1/2-1/2	2016.08.05
+Anand, V.	2770	Topalov, V.	2761	1/2-1/2	2016.08.05
+Anand, V.	2770	So, W.	2771	1/2-1/2	2016.08.05
+Anand, V.	2776	Gelfand, B.	2743	1/2-1/2	2016.09.25
+Anand, V.	2776	Kramnik, V.	2808	1/2-1/2	2016.09.25
+Anand, V.	2776	Tomashevsky, E.	2731	1/2-1/2	2016.09.25
+Anand, V.	2776	Mamedyarov, S.	2761	1/2-1/2	2016.09.25
+Anand, V.	2776	Aronian, L.	2795	1/2-1/2	2016.09.26
+Anand, V.	2776	Svidler, P.	2745	1/2-1/2	2016.09.26
+Anand, V.	2779	Topalov, V.	2760	1/2-1/2	2016.11.10
+Anand, V.	2779	Caruana, F.	2823	1/2-1/2	2016.11.13
+Anand, V.	2779	Caruana, F.	2823	1/2-1/2	2016.11.10
+Anand, V.	2779	Nakamura, Hi	2779	1/2-1/2	2016.11.10
+Anand, V.	2779	Topalov, V.	2760	1/2-1/2	2016.11.14
+Anand, V.	2779	Nakamura, Hi	2779	1/2-1/2	2016.11.14
+Anand, V.	2779	Caruana, F.	2823	1/2-1/2	2016.11.14
+Anand, V.	2776	Jobava, Ba	2698	1/2-1/2	2015.09.18
+Anand, V.	2779	Adams, Mi	2748	1/2-1/2	2016.12.09
+Anand, V.	2779	Kramnik, V.	2809	1/2-1/2	2016.12.09
+Anand, V.	2779	Giri, A.	2771	1/2-1/2	2016.12.09
+Anand, V.	2779	Howell, D.	2644	1/2-1/2	2016.12.26
+Anand, V.	2779	Riazantsev, A.	2671	1/2-1/2	2016.12.26
+Anand, V.	2779	Mamedyarov, S.	2768	1/2-1/2	2016.12.26
+Anand, V.	2779	Grischuk, A.	2737	1/2-1/2	2016.12.26
+Anton Guijarro, D.	2627	Anand, V.	2770	1-0	2016.06.10
+Nakamura, Hi	2787	Anand, V.	2770	0-1	2016.06.19
+Aronian, L.	2792	Anand, V.	2770	1-0	2016.06.19
+Caruana, F.	2804	Anand, V.	2770	1-0	2016.06.19
+Vachier Lagrave, M.	2789	Anand, V.	2770	0-1	2016.06.19
+Kramnik, V.	2812	Anand, V.	2770	1-0	2016.06.17
+Carlsen, M.	2855	Anand, V.	2770	1-0	2016.06.17
+Topalov, V.	2761	Anand, V.	2770	0-1	2016.06.17
+Vachier Lagrave, M.	2789	Anand, V.	2770	0-1	2016.06.17
+Gledura, B.	2515	Anand, V.	2784	1-0	2016.01.26
+Bach, Mat	2301	Anand, V.	2784	0-1	2016.01.26
+Caruana, F.	2794	Anand, V.	2762	1-0	2016.03.11
+Nakamura, Hi	2790	Anand, V.	2762	1-0	2016.03.11
+Karjakin, Sergey	2760	Anand, V.	2762	1-0	2016.03.11
+Giri, A.	2755	Anand, V.	2776	1-0	2016.09.25
+Kramnik, V.	2808	Anand, V.	2776	1-0	2016.09.26
+Nakamura, Hi	2779	Anand, V.	2779	1-0	2016.11.14
+Nakamura, Hi	2779	Anand, V.	2779	1-0	2016.12.09
+Morozevich, A.	2676	Anand, V.	2779	1-0	2016.12.29
+Anand, V.	2779	Jobava, Ba	2702	1/2-1/2	2016.12.29
+Anand, V.	2779	Vidit, S.	2689	1/2-1/2	2016.12.29
+Carlsen, M.	2840	Anand, V.	2779	1-0	2016.12.29
+Anand, V.	2779	Mchedlishvili, M.	2601	1/2-1/2	2016.12.29
+Ivanchuk, V.	2747	Anand, V.	2779	1-0	2016.12.29
+Anand, V.	2779	Wojtaszek, R.	2749	1/2-1/2	2016.12.29
+Anton Guijarro, D.	2627	Anand, V.	2770	1/2-1/2	2016.06.10
+Wei Yi	2694	Anand, V.	2770	1/2-1/2	2016.06.10
+Wei Yi	2694	Anand, V.	2770	1/2-1/2	2016.06.10
+Giri, A.	2782	Anand, V.	2770	1/2-1/2	2016.06.19
+So, W.	2770	Anand, V.	2770	1/2-1/2	2016.06.19
+Kramnik, V.	2812	Anand, V.	2770	1/2-1/2	2016.06.19
+Topalov, V.	2761	Anand, V.	2770	1/2-1/2	2016.06.19
+Carlsen, M.	2855	Anand, V.	2770	1/2-1/2	2016.06.19
+Caruana, F.	2804	Anand, V.	2770	1/2-1/2	2016.06.17
+Oparin, G.	2565	Anand, V.	2784	1/2-1/2	2016.01.26
+Giri, A.	2798	Anand, V.	2784	0-1	2016.02.12
+Giri, A.	2798	Anand, V.	2784	0-1	2016.02.13
+Aronian, L.	2792	Anand, V.	2784	0-1	2016.02.15
+Shirov, A.	2684	Anand, V.	2784	0-1	2016.02.15
+Blomqvist, E.	2492	Anand, V.	2784	0-1	2016.01.26
+Vachier Lagrave, M.	2819	Anand, V.	2770	0-1	2016.08.05
+Leenhouts, K.	2499	Anand, V.	2776	0-1	2016.10.27
+Nakamura, Hi	2779	Anand, V.	2779	0-1	2016.11.10
+Topalov, V.	2760	Anand, V.	2779	0-1	2016.11.13
+Tazbir, M.	2521	Anand, V.	2776	0-1	2015.09.18
+Topalov, V.	2760	Anand, V.	2779	0-1	2016.12.09
+Atabayev, Y.	2473	Anand, V.	2779	0-1	2016.12.26
+Matlakov, M.	2694	Anand, V.	2779	0-1	2016.12.29
+Mareco, S.	2635	Anand, V.	2779	0-1	2016.12.29
+Jakovenko, D.	2704	Anand, V.	2779	0-1	2016.12.29
+Svidler, P.	2757	Anand, V.	2762	1/2-1/2	2016.03.11
+Giri, A.	2793	Anand, V.	2762	1/2-1/2	2016.03.11
+Topalov, V.	2780	Anand, V.	2762	1/2-1/2	2016.03.11
+Aronian, L.	2786	Anand, V.	2762	1/2-1/2	2016.03.11
+Shirov, A.	2684	Anand, V.	2784	1/2-1/2	2016.02.12
+Kramnik, V.	2801	Anand, V.	2784	1/2-1/2	2016.02.12
+Nakamura, Hi	2787	Anand, V.	2784	1/2-1/2	2016.02.13
+Kramnik, V.	2801	Anand, V.	2784	1/2-1/2	2016.02.15
+Esserman, M.	2419	Anand, V.	2784	1/2-1/2	2016.01.26
+Giri, A.	2769	Anand, V.	2770	1/2-1/2	2016.08.05
+Svidler, P.	2751	Anand, V.	2770	1/2-1/2	2016.08.05
+Ding Liren	2755	Anand, V.	2770	1/2-1/2	2016.08.05
+Giri, A.	2755	Anand, V.	2776	1/2-1/2	2016.09.26
+Svidler, P.	2745	Anand, V.	2776	1/2-1/2	2016.09.25
+Nepomniachtchi, I.	2740	Anand, V.	2776	1/2-1/2	2016.09.25
+Aronian, L.	2795	Anand, V.	2776	1/2-1/2	2016.09.25
+Li Chao2	2746	Anand, V.	2776	1/2-1/2	2016.09.26
+Tomashevsky, E.	2731	Anand, V.	2776	1/2-1/2	2016.09.26
+Nepomniachtchi, I.	2740	Anand, V.	2776	1/2-1/2	2016.09.26
+Gharamian, T.	2626	Anand, V.	2776	1/2-1/2	2016.10.27
+Radjabov, T.	2710	Anand, V.	2776	1/2-1/2	2016.10.27
+Vachier Lagrave, M.	2811	Anand, V.	2776	1/2-1/2	2016.10.27
+Caruana, F.	2823	Anand, V.	2779	1/2-1/2	2016.11.10
+Nakamura, Hi	2779	Anand, V.	2779	1/2-1/2	2016.11.13
+Caruana, F.	2823	Anand, V.	2779	1/2-1/2	2016.11.13
+Anand, V.	2797	Baramidze, D.	2594	1-0	2015.02.02
+Anand, V.	2797	Kramnik, V.	2783	1-0	2015.02.13
+Anand, V.	2797	Nakamura, Hi	2776	1-0	2015.02.13
+Anand, V.	2797	Aronian, L.	2777	1-0	2015.02.14
+Anand, V.	2797	Caruana, F.	2811	1-0	2015.02.19
+Anand, V.	2797	Nakamura, Hi	2776	1-0	2015.02.14
+Topalov, V.	2760	Anand, V.	2779	1/2-1/2	2016.11.10
+Caruana, F.	2823	Anand, V.	2779	1/2-1/2	2016.11.14
+Nakamura, Hi	2779	Anand, V.	2779	1/2-1/2	2016.11.14
+Caruana, F.	2823	Anand, V.	2779	1/2-1/2	2016.11.14
+Topalov, V.	2760	Anand, V.	2779	1/2-1/2	2016.11.14
+Topalov, V.	2760	Anand, V.	2779	1/2-1/2	2016.11.14
+Caruana, F.	2823	Anand, V.	2779	1/2-1/2	2016.12.09
+Aronian, L.	2785	Anand, V.	2779	1/2-1/2	2016.12.09
+So, W.	2794	Anand, V.	2779	1/2-1/2	2016.12.09
+Fressinet, L.	2672	Anand, V.	2779	1/2-1/2	2016.12.26
+Bu Xiangzhi	2705	Anand, V.	2779	1/2-1/2	2016.12.26
+Jakovenko, D.	2704	Anand, V.	2779	1/2-1/2	2016.12.26
+Aronian, L.	2785	Anand, V.	2779	1/2-1/2	2016.12.26
+Korobov, A.	2692	Anand, V.	2779	1/2-1/2	2016.12.26
+Yu Yangyi	2729	Anand, V.	2779	1/2-1/2	2016.12.26
+Karjakin, Sergey	2785	Anand, V.	2779	1/2-1/2	2016.12.29
+Korobov, A.	2692	Anand, V.	2779	1/2-1/2	2016.12.29
+Vallejo Pons, F.	2711	Anand, V.	2779	1/2-1/2	2016.12.29
+Nepomniachtchi, I.	2767	Anand, V.	2779	1/2-1/2	2016.12.29
+Anand, V.	2816	Carlsen, M.	2853	1/2-1/2	2015.08.23
+Anand, V.	2796	Carlsen, M.	2834	1/2-1/2	2015.12.04
+Anand, V.	2797	Carlsen, M.	2865	0-1	2015.02.02
+Anand, V.	2797	Nakamura, Hi	2776	0-1	2015.02.19
+Anand, V.	2791	Adams, Mi	2745	1-0	2015.04.17
+Anand, V.	2791	Mamedyarov, S.	2756	1-0	2015.04.17
+Anand, V.	2791	So, W.	2788	1-0	2015.04.17
+Anand, V.	2804	Carlsen, M.	2876	0-1	2015.06.15
+Anand, V.	2804	Hammer, J.	2677	1-0	2015.06.15
+Anand, V.	2804	Vachier Lagrave, M.	2723	1-0	2015.06.16
+Anand, V.	2804	Carlsen, M.	2876	1-0	2015.06.16
+Anand, V.	2804	Hammer, J.	2677	1-0	2015.06.16
+Anand, V.	2803	Bologan, V.	2607	1-0	2015.10.10
+Anand, V.	2803	Volokitin, And	2639	1-0	2015.10.10
+Anand, V.	2803	Ponkratov, P.	2604	0-1	2015.10.10
+Anand, V.	2803	Lagno, Kateryna	2523	1-0	2015.10.10
+Anand, V.	2803	Socko, B.	2599	1-0	2015.10.13
+Anand, V.	2803	Nguyen Ngoc Truong Son	2634	1-0	2015.10.13
+Anand, V.	2803	Zvjaginsev, V.	2660	1-0	2015.10.13
+Anand, V.	2803	Riazantsev, A.	2646	1-0	2015.10.13
+Anand, V.	2803	Jumabayev, R.	2606	1-0	2015.10.13
+Anand, V.	2803	Roiz, M.	2600	1-0	2015.10.13
+Anand, V.	2803	Bartel, Mat	2622	1-0	2015.10.10
+Anand, V.	2796	Topalov, V.	2803	1-0	2015.12.04
+Anand, V.	2796	Vachier Lagrave, M.	2773	0-1	2015.12.04
+Nakamura, Hi	2793	Anand, V.	2796	1-0	2015.12.04
+Anand, V.	2796	Adams, Mi	2737	1/2-1/2	2015.12.04
+Anand, V.	2803	Ding Liren	2782	1/2-1/2	2015.10.26
+Anand, V.	2803	So, W.	2760	1/2-1/2	2015.10.26
+Anand, V.	2797	Naiditsch, A.	2706	1/2-1/2	2015.02.02
+Anand, V.	2797	Kramnik, V.	2783	1/2-1/2	2015.02.14
+Anand, V.	2797	Karjakin, Sergey	2760	1/2-1/2	2015.02.19
+Anand, V.	2791	Giri, A.	2790	1/2-1/2	2015.04.17
+Anand, V.	2791	Carlsen, M.	2863	1/2-1/2	2015.04.17
+Anand, V.	2804	Nakamura, Hi	2802	1/2-1/2	2015.06.15
+Anand, V.	2804	Vachier Lagrave, M.	2723	1/2-1/2	2015.06.15
+Anand, V.	2804	Grischuk, A.	2781	1/2-1/2	2015.06.16
+Anand, V.	2804	Caruana, F.	2805	1/2-1/2	2015.06.16
+Anand, V.	2816	Vachier Lagrave, M.	2731	1/2-1/2	2015.08.23
+Anand, V.	2816	So, W.	2779	1/2-1/2	2015.08.23
+Anand, V.	2816	Topalov, V.	2816	1/2-1/2	2015.08.23
+Anand, V.	2803	Salem, AR.	2624	1/2-1/2	2015.10.10
+Anand, V.	2803	Giri, A.	2798	1/2-1/2	2015.10.26
+Anand, V.	2803	Mamedyarov, S.	2736	1/2-1/2	2015.10.13
+Anand, V.	2803	Kravtsiv, M.	2621	1/2-1/2	2015.10.13
+Anand, V.	2803	Gajewski, G.	2654	1/2-1/2	2015.10.13
+Anand, V.	2803	Ivanisevic, I.	2653	1/2-1/2	2015.10.13
+Anand, V.	2803	Kryvoruchko, Y.	2710	1/2-1/2	2015.10.10
+Anand, V.	2803	Khairullin, I.	2652	1/2-1/2	2015.10.10
+Anand, V.	2796	Giri, A.	2784	1/2-1/2	2015.12.04
+Aronian, L.	2765	Anand, V.	2816	1/2-1/2	2015.08.23
+Giri, A.	2798	Anand, V.	2803	1-0	2015.10.26
+Aronian, L.	2777	Anand, V.	2797	1-0	2015.02.02
+Adams, Mi	2738	Anand, V.	2797	1-0	2015.02.02
+Karjakin, Sergey	2760	Anand, V.	2797	0-1	2015.02.13
+Aronian, L.	2777	Anand, V.	2797	1-0	2015.02.13
+Aronian, L.	2777	Anand, V.	2797	1-0	2015.02.19
+Nakamura, Hi	2776	Anand, V.	2797	1-0	2015.02.19
+Aronian, L.	2780	Anand, V.	2804	0-1	2015.06.15
+Giri, A.	2773	Anand, V.	2804	1-0	2015.06.15
+Caruana, F.	2805	Anand, V.	2804	0-1	2015.06.15
+Grischuk, A.	2781	Anand, V.	2804	0-1	2015.06.15
+Nakamura, Hi	2814	Anand, V.	2816	1-0	2015.08.23
+Grischuk, A.	2771	Anand, V.	2816	1-0	2015.08.23
+Mamedov, Rau	2657	Anand, V.	2803	1-0	2015.10.10
+Belov, Vl	2614	Anand, V.	2803	0-1	2015.10.10
+Dubov, Daniil	2661	Anand, V.	2803	1-0	2015.10.10
+Onischuk, Al	2662	Anand, V.	2803	0-1	2015.10.10
+Bocharov, D.	2560	Anand, V.	2803	1-0	2015.10.13
+Kryvoruchko, Y.	2710	Anand, V.	2803	0-1	2015.10.13
+Dubov, Daniil	2661	Anand, V.	2803	1-0	2015.10.13
+Petrosian, TL.	2625	Anand, V.	2803	0-1	2015.10.10
+Socko, B.	2599	Anand, V.	2803	0-1	2015.10.10
+Khismatullin, D.	2651	Anand, V.	2803	1-0	2015.10.10
+Grischuk, A.	2747	Anand, V.	2796	1-0	2015.12.04
+Aronian, L.	2788	Anand, V.	2796	1/2-1/2	2015.12.04
+Ding Liren	2782	Anand, V.	2803	1/2-1/2	2015.10.26
+So, W.	2760	Anand, V.	2803	1/2-1/2	2015.10.26
+Caruana, F.	2811	Anand, V.	2797	1/2-1/2	2015.02.02
+Bacrot, E.	2711	Anand, V.	2797	1/2-1/2	2015.02.02
+Caruana, F.	2811	Anand, V.	2797	1/2-1/2	2015.02.14
+Caruana, F.	2811	Anand, V.	2797	1/2-1/2	2015.02.13
+Kramnik, V.	2783	Anand, V.	2797	1/2-1/2	2015.02.19
+Karjakin, Sergey	2760	Anand, V.	2797	1/2-1/2	2015.02.14
+Kramnik, V.	2783	Anand, V.	2791	1/2-1/2	2015.04.17
+Vachier Lagrave, M.	2765	Anand, V.	2791	1/2-1/2	2015.04.17
+Mamedov, Rau	2658	Anand, V.	2791	1/2-1/2	2015.04.17
+Caruana, F.	2802	Anand, V.	2791	1/2-1/2	2015.04.17
+Topalov, V.	2798	Anand, V.	2804	1/2-1/2	2015.06.15
+Nakamura, Hi	2802	Anand, V.	2804	1/2-1/2	2015.06.16
+Giri, A.	2773	Anand, V.	2804	1/2-1/2	2015.06.16
+Aronian, L.	2780	Anand, V.	2804	1/2-1/2	2015.06.16
+Topalov, V.	2798	Anand, V.	2804	1/2-1/2	2015.06.16
+Caruana, F.	2808	Anand, V.	2816	1/2-1/2	2015.08.23
+Giri, A.	2793	Anand, V.	2816	1/2-1/2	2015.08.23
+Aronian, L.	2784	Anand, V.	2803	1/2-1/2	2015.10.13
+Dominguez Perez, L.	2732	Anand, V.	2803	1/2-1/2	2015.10.13
+Guseinov, G.	2634	Anand, V.	2803	1/2-1/2	2015.10.13
+Petrosian, TL.	2625	Anand, V.	2803	1/2-1/2	2015.10.13
+Sasikiran, K.	2639	Anand, V.	2803	1/2-1/2	2015.10.13
+Anand, Viswanathan	0	Giri, Anish	0	0-1	Sat Nov 23 2019
+Anand, Viswanathan	0	Carlsen, Magnus	0	0-1	Mon Nov 25 2019
+Anand, Viswanathan	0	Nepomniachtchi, Ian	0	0-1	Mon Nov 25 2019
+Anand, Viswanathan	0	Vidit, Santosh Gujrathi	0	0-1	Tue Nov 26 2019
+Anand,V	2774	Meier,Geo	2628	0-1	2019.04.20
+Anand,V	2767	Yu Yangyi	2738	0-1	2019.06.03
+Anand,V	2767	Carlsen,M	2875	0-1	2019.06.03
+Anand,V	2767	Mamedyarov,S	2774	0-1	2019.06.04
+Anand,V	2767	Yu Yangyi	2738	0-1	2019.06.04
+Anand,V	2764	Grischuk,A	2766	1-0	2019.07.31
+Anand,V	2764	Nakamura,Hi	2754	1-0	2019.07.31
+Anand,V	2756	Svidler,P	2729	1-0	2019.08.03
+Anand,V	2756	Giri,A	2779	1-0	2019.08.03
+Anand,V	2756	Grischuk,A	2759	1-0	2019.08.03
+Anand,V	2756	Nepomniachtchi,I	2774	1-0	2019.08.03
+Anand,V	2756	Gelfand,B	2686	1-0	2019.08.04
+Anand,V	2756	Kramnik,V	2753	1-0	2019.08.04
+Anand,V	2765	Baron,Ta	2531	1-0	2019.10.10
+Anand,V	2765	Fedoseev,Vl3	2664	1-0	2019.10.10
+Anand,V	2765	Abdusattorov,Nodirbek	2608	1-0	2019.10.10
+Anand,V	2757	Aronian,L	2772	1-0	2019.11.06
+Anand,V	2757	Caruana,F	2822	1-0	2019.11.06
+Anand,V	2757	Artemiev,V	2731	1-0	2019.11.09
+Anand,V	2757	Caruana,F	2822	1-0	2019.11.09
+Anand,V	2757	Korobov,A	2670	1-0	2019.11.09
+Anand, V.	2773	Gelfand, B.	2777	1-0	2014.01.29
+Anand, V.	2770	Topalov, V.	2785	1-0	2014.03.13
+Anand, V.	2770	Aronian, L.	2830	1-0	2014.03.13
+Anand, V.	2785	Massoni, M.	2338	1-0	2014.05.19
+Anand, V.	2785	Piscopo, P.	2409	1-0	2014.05.19
+Anand, V.	2785	Nepomniachtchi, I.	2730	1-0	2014.06.16
+Anand, V.	2785	Harikrishna, P.	2726	1-0	2014.06.16
+Anand, V.	2785	Efimenko, Z.	2648	1-0	2014.06.16
+Anand, V.	2785	Fedoseev, Vl3	2662	1-0	2014.06.16
+Anand, V.	2785	Mamedyarov, S.	2743	1-0	2014.06.19
+Anand, V.	2785	Meier, Geo	2632	1-0	2014.06.19
+Anand, V.	2785	Harikrishna, P.	2726	1-0	2014.06.19
+Anand, V.	2785	Dreev, A.	2667	1-0	2014.06.19
+Anand, V.	2785	Kasimdzhanov, R.	2700	1-0	2014.06.19
+Anand, V.	2785	Salem, AR.	2581	1-0	2014.06.19
+Anand, V.	2785	Aleksandrov, A.	2554	1-0	2014.06.19
+Anand, V.	2785	Radjabov, T.	2724	1-0	2014.06.19
+Anand, V.	2785	Ponomariov, R.	2717	1-0	2014.09.14
+Anand, V.	2785	Vallejo Pons, F.	2712	1-0	2014.09.14
+Anand, V.	2785	Tregubov, P.	2607	1-0	2014.10.19
+Anand, V.	2785	Skomorokhin, R.	2364	1-0	2014.10.19
+Akopian, Vl	2648	Anand, V.	2803	1/2-1/2	2015.10.13
+Safarli, E.	2657	Anand, V.	2803	1/2-1/2	2015.10.13
+Schneider, Il	2481	Anand, V.	2803	1/2-1/2	2015.10.13
+Caruana, F.	2787	Anand, V.	2796	1/2-1/2	2015.12.04
+Anand, V.	2773	Nakamura, Hi	2789	1/2-1/2	2014.01.29
+Anand, V.	2773	Nakamura, Hi	2789	0-1	2014.01.30
+Anand, V.	2773	Carlsen, M.	2872	1/2-1/2	2014.01.30
+Anand, V.	2773	Aronian, L.	2826	0-1	2014.02.04
+Anand, V.	2773	Caruana, F.	2781	0-1	2014.02.04
+Anand, V.	2773	Gelfand, B.	2761	1/2-1/2	2014.02.04
+Anand, V.	2770	Svidler, P.	2758	1/2-1/2	2014.03.13
+Anand, V.	2770	Andreikin, D.	2709	1/2-1/2	2014.03.13
+Anand, V.	2770	Mamedyarov, S.	2757	1/2-1/2	2014.03.13
+Anand, V.	2770	Kramnik, V.	2787	1/2-1/2	2014.03.13
+Anand, V.	2770	Karjakin, Sergey	2766	1/2-1/2	2014.03.13
+Anand, V.	2785	Aronian, L.	2815	1/2-1/2	2014.06.16
+Anand, V.	2785	Nepomniachtchi, I.	2730	0-1	2014.06.19
+Anand, V.	2785	Ragger, M.	2632	0-1	2014.06.19
+Anand, V.	2785	Fedorchuk, S.	2673	0-1	2014.10.19
+Anand, V.	2792	Carlsen, M.	2863	1-0	2014.11.08
+Anand, V.	2793	Caruana, F.	2829	0-1	2014.12.08
+Anand, V.	2793	Kramnik, V.	2769	0-1	2014.12.08
+Anand, V.	2793	Adams, Mi	2745	1-0	2014.12.08
+Anand, V.	2793	Giri, A.	2768	0-1	2014.12.08
+Anand, V.	2793	Nakamura, Hi	2775	1-0	2014.12.08
+Anand, V.	2793	Howell, D.	2670	1-0	2014.12.06
+Anand, V.	2793	Dale, Ari	2252	1-0	2014.12.06
+Anand, V.	2793	Hamitevici, V.	2446	1-0	2014.12.06
+Anand, V.	2793	Karia, Rishul	1646	1-0	2014.12.06
+Aronian, L.	2812	Anand, V.	2773	1-0	2014.01.29
+Carlsen, M.	2872	Anand, V.	2773	1-0	2014.01.29
+Aronian, L.	2812	Anand, V.	2773	1-0	2014.01.30
+Nakamura, Hi	2776	Anand, V.	2773	1-0	2014.02.04
+Anand, V.	2785	Caruana, F.	2791	1/2-1/2	2014.06.16
+Anand, V.	2785	Movsesian, S.	2672	1/2-1/2	2014.06.16
+Fedoseev, Vl3	2662	Anand, V.	2785	1-0	2014.06.19
+Kryvoruchko, Y.	2707	Anand, V.	2785	1-0	2014.06.19
+Le Quang Liem	2712	Anand, V.	2785	1-0	2014.06.19
+Anand, V.	2785	Yudin, S.	2546	1/2-1/2	2014.06.19
+Nakamura, Hi	2775	Anand, V.	2785	1-0	2014.06.19
+Anand, V.	2785	Aronian, L.	2804	1/2-1/2	2014.09.14
+Aronian, L.	2804	Anand, V.	2785	1-0	2014.09.14
+Anand, V.	2792	Carlsen, M.	2863	1/2-1/2	2014.11.08
+Carlsen, M.	2863	Anand, V.	2792	1-0	2014.11.08
+Anand, V.	2792	Carlsen, M.	2863	1/2-1/2	2014.11.08
+Carlsen, M.	2863	Anand, V.	2792	1-0	2014.11.08
+Anand, V.	2792	Carlsen, M.	2863	1/2-1/2	2014.11.08
+Carlsen, M.	2863	Anand, V.	2792	1-0	2014.11.08
+Anand, V.	2792	Carlsen, M.	2863	1/2-1/2	2014.11.08
+Nakamura, Hi	2775	Anand, V.	2793	1-0	2014.12.08
+Kramnik, V.	2769	Anand, V.	2793	1-0	2014.12.08
+Anand, V.	2793	Sadler, M.	2658	1/2-1/2	2014.12.06
+Anand, V.	2793	Caruana, F.	2829	1/2-1/2	2014.12.10
+Anand, V.	2793	Giri, A.	2768	1/2-1/2	2014.12.10
+Caruana, F.	2782	Anand, V.	2773	0-1	2014.01.29
+Gelfand, B.	2777	Anand, V.	2773	0-1	2014.01.30
+Caruana, F.	2782	Anand, V.	2773	1/2-1/2	2014.01.30
+Carlsen, M.	2872	Anand, V.	2773	1/2-1/2	2014.02.04
+Karjakin, Sergey	2766	Anand, V.	2770	1/2-1/2	2014.03.13
+Kramnik, V.	2787	Anand, V.	2770	1/2-1/2	2014.03.13
+Andreikin, D.	2709	Anand, V.	2770	1/2-1/2	2014.03.13
+Svidler, P.	2758	Anand, V.	2770	1/2-1/2	2014.03.13
+Mamedyarov, S.	2757	Anand, V.	2770	0-1	2014.03.13
+Massoni, M.	2338	Anand, V.	2785	0-1	2014.05.19
+Carlsen, M.	2881	Anand, V.	2785	0-1	2014.06.16
+Polgar, Ju	2685	Anand, V.	2785	0-1	2014.06.19
+Vitiugov, N.	2742	Anand, V.	2785	0-1	2014.06.19
+Amin, B.	2635	Anand, V.	2785	0-1	2014.06.19
+Bologan, V.	2661	Anand, V.	2785	0-1	2014.06.19
+Vallejo Pons, F.	2712	Anand, V.	2785	0-1	2014.09.14
+Tregubov, P.	2607	Anand, V.	2785	0-1	2014.10.19
+Skomorokhin, R.	2364	Anand, V.	2785	0-1	2014.10.19
+Caruana, F.	2829	Anand, V.	2793	0-1	2014.12.08
+Nakamura, Hi	2775	Anand, V.	2793	1-0	2014.12.06
+Giri, A.	2768	Anand, V.	2793	1-0	2014.12.08
+Hebden, M.	2523	Anand, V.	2793	0-1	2014.12.06
+Pert, N.	2562	Anand, V.	2793	0-1	2014.12.06
+Prill, D.	2193	Anand, V.	2793	0-1	2014.12.06
+Adams, Mi	2745	Anand, V.	2793	0-1	2014.12.10
+Anand, V.	2773	McShane, L.	2684	1-0	2013.12.11
+Anand, V.	2783	Radjabov, T.	2745	1-0	2013.05.07
+Anand, V.	2783	Aronian, L.	2813	1-0	2013.05.07
+Anand, V.	2783	Karjakin, Sergey	2767	1-0	2013.05.07
+Anand, V.	2783	Topalov, V.	2793	1-0	2013.05.08
+Aronian, L.	2830	Anand, V.	2770	1/2-1/2	2014.03.13
+Topalov, V.	2785	Anand, V.	2770	1/2-1/2	2014.03.13
+Piscopo, P.	2409	Anand, V.	2785	1/2-1/2	2014.05.19
+Radjabov, T.	2724	Anand, V.	2785	1/2-1/2	2014.06.16
+Karjakin, Sergey	2771	Anand, V.	2785	1/2-1/2	2014.06.16
+Nguyen Ngoc Truong Son	2621	Anand, V.	2785	1/2-1/2	2014.06.16
+Laznicka, V.	2679	Anand, V.	2785	1/2-1/2	2014.06.16
+Salgado Lopez, I.	2622	Anand, V.	2785	1/2-1/2	2014.06.16
+Carlsen, M.	2881	Anand, V.	2785	1/2-1/2	2014.06.19
+Caruana, F.	2791	Anand, V.	2785	1/2-1/2	2014.06.19
+Ponomariov, R.	2717	Anand, V.	2785	1/2-1/2	2014.09.14
+Fedorchuk, S.	2673	Anand, V.	2785	1/2-1/2	2014.10.19
+Carlsen, M.	2863	Anand, V.	2792	1/2-1/2	2014.11.08
+Carlsen, M.	2863	Anand, V.	2792	1/2-1/2	2014.11.08
+Carlsen, M.	2863	Anand, V.	2792	1/2-1/2	2014.11.08
+Adams, Mi	2745	Anand, V.	2793	1/2-1/2	2014.12.08
+Stopa, Ja	2521	Anand, V.	2793	1/2-1/2	2014.12.06
+Giri, A.	2768	Anand, V.	2793	1/2-1/2	2014.12.09
+Nakamura, Hi	2775	Anand, V.	2793	1/2-1/2	2014.12.10
+Kramnik, V.	2769	Anand, V.	2793	1/2-1/2	2014.12.10
+Anand, V.	2775	Carlsen, M.	2870	0-1	2013.11.09
+Anand, V.	2775	Carlsen, M.	2870	0-1	2013.11.09
+Anand, V.	2773	Kramnik, V.	2793	0-1	2013.12.14
+Anand, V.	2783	Hammer, J.	2608	0-1	2013.05.07
+Anand, V.	2783	Nakamura, Hi	2775	0-1	2013.05.08
+Anand, V.	2783	Hammer, J.	2608	1-0	2013.05.08
+Anand, V.	2786	Karjakin, Sergey	2782	1-0	2013.06.12
+Anand, V.	2786	Andreikin, D.	2713	1-0	2013.06.12
+Anand, V.	2786	Caruana, F.	2774	0-1	2013.06.13
+Anand, V.	2786	Morozevich, A.	2760	1-0	2013.06.13
+Anand, V.	2786	Nakamura, Hi	2784	0-1	2013.06.13
+Anand, V.	2772	Caruana, F.	2781	1-0	2013.01.12
+Anand, V.	2772	Van Wely, L.	2679	1-0	2013.01.12
+Anand, V.	2772	L'Ami, E.	2627	1-0	2013.01.12
+Anand, V.	2780	Naiditsch, A.	2716	1-0	2013.02.07
+Anand, V.	2780	Fridman, D.	2667	1-0	2013.02.07
+Anand, V.	2780	Gelfand, B.	2740	1-0	2013.02.22
+Anand, V.	2780	Kramnik, V.	2810	0-1	2013.02.22
+Anand, V.	2780	Caruana, F.	2757	0-1	2013.02.22
+Anand, V.	2780	Kramnik, V.	2810	1-0	2013.02.23
+Anand, V.	2780	Caruana, F.	2757	0-1	2013.02.23
+Anand, V.	2783	Adams, Mi	2727	0-1	2013.04.21
+Anand, V.	2783	Ding Liren	2707	1-0	2013.04.21
+Anand, V.	2783	Fressinet, L.	2706	1-0	2013.04.21
+Anand, Viswanathan	2775	Ragger, Markus	2668	1-0	2013.10.12
+Anand, V.	2775	Carlsen, M.	2870	1/2-1/2	2013.11.09
+Carlsen, M.	2870	Anand, V.	2775	1-0	2013.11.09
+Anand, V.	2775	Carlsen, M.	2870	1/2-1/2	2013.11.09
+Anand, V.	2775	Carlsen, M.	2870	1/2-1/2	2013.11.09
+Anand, V.	2773	Adams, Mi	2754	1/2-1/2	2013.12.11
+Anand, V.	2773	Istratescu, A.	2670	1/2-1/2	2013.12.11
+Anand, V.	2783	Carlsen, M.	2868	1/2-1/2	2013.05.07
+Anand, V.	2783	Aronian, L.	2813	1/2-1/2	2013.05.08
+Anand, V.	2783	Karjakin, Sergey	2767	1/2-1/2	2013.05.08
+Anand, V.	2786	Nakamura, Hi	2784	1/2-1/2	2013.06.12
+Anand, V.	2786	Carlsen, M.	2864	1/2-1/2	2013.06.12
+Anand, V.	2786	Gelfand, B.	2755	1/2-1/2	2013.06.13
+Anand, V.	2786	Gelfand, B.	2755	1/2-1/2	2013.06.12
+Anand, V.	2786	Kramnik, V.	2803	1/2-1/2	2013.06.13
+Anand, V.	2772	Nakamura, Hi	2769	1/2-1/2	2013.01.12
+Anand, V.	2772	Carlsen, M.	2861	1/2-1/2	2013.01.12
+Anand, V.	2772	Sokolov, Ivan	2663	1/2-1/2	2013.01.12
+Anand, V.	2772	Karjakin, Sergey	2780	1/2-1/2	2013.01.12
+Anand, V.	2780	Caruana, F.	2757	1/2-1/2	2013.02.07
+Anand, V.	2780	Meier, Geo	2640	1/2-1/2	2013.02.07
+Anand, V.	2780	Adams, Mi	2725	1/2-1/2	2013.02.07
+Anand, V.	2780	Gelfand, B.	2740	1/2-1/2	2013.02.23
+Anand, V.	2783	Aronian, L.	2809	1/2-1/2	2013.04.21
+Anand, V.	2783	Svidler, P.	2747	1/2-1/2	2013.04.21
+Viswanathan Anand	2786	Fabiano Caruana	2774	0-1	2013.06.13
+Carlsen, M.	2870	Anand, V.	2775	1/2-1/2	2013.11.09
+Carlsen, M.	2870	Anand, V.	2775	1/2-1/2	2013.11.09
+Carlsen, M.	2870	Anand, V.	2775	1/2-1/2	2013.11.09
+Carlsen, M.	2870	Anand, V.	2775	1/2-1/2	2013.11.09
+Kramnik, V.	2793	Anand, V.	2773	1/2-1/2	2013.12.14
+McShane, L.	2684	Anand, V.	2773	0-1	2013.12.11
+Istratescu, A.	2670	Anand, V.	2773	0-1	2013.12.11
+Adams, Mi	2754	Anand, V.	2773	1/2-1/2	2013.12.11
+Svidler, P.	2769	Anand, V.	2783	0-1	2013.05.07
+Topalov, V.	2793	Anand, V.	2783	1/2-1/2	2013.05.07
+Nakamura, Hi	2775	Anand, V.	2783	1-0	2013.05.07
+Svidler, P.	2769	Anand, V.	2783	1/2-1/2	2013.05.08
+Wang Hao	2743	Anand, V.	2783	0-1	2013.05.07
+Carlsen, M.	2868	Anand, V.	2783	1/2-1/2	2013.05.08
+Radjabov, T.	2745	Anand, V.	2783	0-1	2013.05.08
+Wang Hao	2743	Anand, V.	2783	1-0	2013.05.08
+Caruana, F.	2774	Anand, V.	2786	1/2-1/2	2013.06.12
+Morozevich, A.	2760	Anand, V.	2786	0-1	2013.06.12
+Mamedyarov, S.	2753	Anand, V.	2786	0-1	2013.06.12
+Carlsen, M.	2864	Anand, V.	2786	1-0	2013.06.13
+Aronian, L.	2802	Anand, V.	2772	0-1	2013.01.12
+Wang Hao	2752	Anand, V.	2772	1-0	2013.01.12
+Naiditsch, A.	2716	Anand, V.	2780	0-1	2013.02.07
+Caruana, F.	2757	Anand, V.	2780	1-0	2013.02.22
+Kramnik, V.	2810	Anand, V.	2780	1-0	2013.02.22
+Anand, V.	2817	Buhmann, R.	2606	1-0	2011.10.14
+Anand, V.	2791	Gelfand, B.	2727	1-0	2012.05.11
+Anand, V.	2791	Gelfand, B.	2727	1-0	2012.05.11
+Anand, V.	2775	Adams, Mi	2710	0-1	2012.12.01
+Kramnik, V.	2803	Anand, V.	2786	1/2-1/2	2013.06.12
+Andreikin, D.	2713	Anand, V.	2786	1/2-1/2	2013.06.13
+Mamedyarov, S.	2753	Anand, V.	2786	1/2-1/2	2013.06.13
+Karjakin, Sergey	2782	Anand, V.	2786	1/2-1/2	2013.06.13
+Giri, A.	2720	Anand, V.	2772	1/2-1/2	2013.01.12
+Harikrishna, P.	2698	Anand, V.	2772	1/2-1/2	2013.01.12
+Hou Yifan	2603	Anand, V.	2772	1/2-1/2	2013.01.12
+Leko, P.	2735	Anand, V.	2772	1/2-1/2	2013.01.12
+Adams, Mi	2725	Anand, V.	2780	1/2-1/2	2013.02.07
+Meier, Geo	2640	Anand, V.	2780	1/2-1/2	2013.02.07
+Fridman, D.	2667	Anand, V.	2780	1/2-1/2	2013.02.07
+Caruana, F.	2757	Anand, V.	2780	1/2-1/2	2013.02.07
+Gelfand, B.	2740	Anand, V.	2780	1/2-1/2	2013.02.22
+Caruana, F.	2757	Anand, V.	2780	1/2-1/2	2013.02.23
+Kramnik, V.	2810	Anand, V.	2780	1/2-1/2	2013.02.23
+Gelfand, B.	2740	Anand, V.	2780	1/2-1/2	2013.02.23
+Vitiugov, N.	2712	Anand, V.	2783	1/2-1/2	2013.04.21
+Kramnik, V.	2801	Anand, V.	2783	1/2-1/2	2013.04.21
+Vachier Lagrave, M.	2722	Anand, V.	2783	1/2-1/2	2013.04.21
+Gelfand, B.	2739	Anand, V.	2783	1/2-1/2	2013.04.21
+Bobras, Piotr	2518	Anand, Viswanathan	2775	1/2-1/2	2013.10.12
+Anand, V.	2817	Eljanov, P.	2683	1/2-1/2	2011.10.14
+Giri, A.	2722	Anand, V.	2817	1/2-1/2	2011.10.14
+Tiviakov, S.	2647	Anand, V.	2817	1-0	2011.10.14
+Anand, V.	2791	Gelfand, B.	2727	1/2-1/2	2012.05.11
+Gelfand, B.	2727	Anand, V.	2791	1/2-1/2	2012.05.11
+Anand, V.	2791	Gelfand, B.	2727	1/2-1/2	2012.05.11
+Gelfand, B.	2727	Anand, V.	2791	1/2-1/2	2012.05.11
+Anand, V.	2791	Gelfand, B.	2727	1/2-1/2	2012.05.11
+Gelfand, B.	2727	Anand, V.	2791	1/2-1/2	2012.05.11
+Gelfand, B.	2727	Anand, V.	2791	1-0	2012.05.11
+Anand, V.	2791	Gelfand, B.	2727	1/2-1/2	2012.05.11
+Anand, V.	2791	Gelfand, B.	2727	1/2-1/2	2012.05.11
+Anand, V.	2791	Gelfand, B.	2727	1/2-1/2	2012.05.11
+Anand, V.	2780	Caruana, F.	2773	1/2-1/2	2012.09.24
+Carlsen, M.	2843	Anand, V.	2780	1-0	2012.09.24
+Anand, V.	2780	Karjakin, Sergey	2778	1/2-1/2	2012.09.24
+Anand, V.	2780	Vallejo Pons, F.	2697	1/2-1/2	2012.09.24
+Anand, V.	2780	Aronian, L.	2816	1/2-1/2	2012.09.24
+Anand, V.	2780	Carlsen, M.	2843	1/2-1/2	2012.09.24
+Anand, V.	2775	McShane, L.	2713	1/2-1/2	2012.12.01
+Anand, V.	2775	Kramnik, V.	2795	1/2-1/2	2012.12.01
+Jones, G.	2644	Anand, V.	2775	0-1	2012.12.01
+Anand, V.	2775	Nakamura, Hi	2760	1/2-1/2	2012.12.01
+Anand,V	2780	The World	0	1/2-1/2	2012.08.13
+Viswanathan Anand	0	Boris Gelfand	0	1/2-1/2	2012.05.10
+Anand, Viswanathan	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Wed Nov 06 2019
+Anand, Viswanathan	0	Karjakin, Sergey	0	1/2-1/2	Sun Nov 10 2019
+Anand, Viswanathan	0	Harikrishna, P.	0	1/2-1/2	Sun Nov 24 2019
+Anand, Viswanathan	0	Harikrishna, P.	0	1/2-1/2	Mon Nov 25 2019
+Anand, Viswanathan	0	Giri, Anish	0	1/2-1/2	Mon Nov 25 2019
+Anand, Viswanathan	0	Aronian, Levon	0	1/2-1/2	Tue Nov 26 2019
+Anand, Viswanathan	0	Nakamura, Hikaru	0	1/2-1/2	Tue Nov 26 2019
+Anand, Viswanathan	0	Ding, Liren	0	1/2-1/2	Tue Nov 26 2019
+Anand,V	2773	Fedoseev,Vl3	2724	1/2-1/2	2019.01.12
+Anand,V	2773	Radjabov,T	2757	1/2-1/2	2019.01.12
+Anand,V	2773	Nepomniachtchi,I	2763	1/2-1/2	2019.01.12
+Anand,V	2773	Duda,J	2738	1/2-1/2	2019.01.12
+Anand,V	2773	Vidit,S	2695	1/2-1/2	2019.01.12
+Anand,V	2779	Navara,D	2739	1/2-1/2	2019.03.31
+Anand,V	2779	Grischuk,A	2771	1/2-1/2	2019.03.31
+Anand,V	2779	Topalov,V	2740	1/2-1/2	2019.03.31
+Anand,V	2774	Caruana,F	2819	1/2-1/2	2019.04.20
+Anand,V	2767	Nepomniachtchi,I	2775	0-1	2019.06.26
+Anand,V	2764	Mamedyarov,S	2765	0-1	2019.07.27
+Anand,V	2764	Dubov,Daniil	2700	0-1	2019.07.31
+Anand,V	2764	Vachier Lagrave,M	2775	0-1	2019.07.31
+Anand,V	2756	Svidler,P	2729	0-1	2019.08.04
+Anand,V	2765	Wang Hao	2726	0-1	2019.10.10
+Anand,V	2757	Le,Quang Liem	2713	0-1	2019.11.06
+Anand,V	2757	Le,Quang Liem	2713	0-1	2019.11.09
+Anand,V	2774	Svidler,P	2735	1/2-1/2	2019.04.20
+Anand,V	2774	Carlsen,M	2861	1/2-1/2	2019.05.25
+Anand,V	2774	Ding Liren	2805	1/2-1/2	2019.05.25
+Anand,V	2774	Karjakin,Sergey	2752	1/2-1/2	2019.05.25
+Anand,V	2767	So,W	2754	1/2-1/2	2019.06.03
+Anand,V	2767	Mamedyarov,S	2774	1/2-1/2	2019.06.03
+Anand,V	2767	Ding Liren	2805	1/2-1/2	2019.06.04
+Anand,V	2767	Yu Yangyi	2738	1/2-1/2	2019.06.04
+Anand,V	2767	Aronian,L	2752	1/2-1/2	2019.06.04
+Anand,V	2767	Aronian,L	2752	1/2-1/2	2019.06.04
+Anand,V	2767	Aronian,L	2752	1/2-1/2	2019.06.26
+Anand,V	2767	Vachier Lagrave,M	2779	1/2-1/2	2019.06.26
+Anand,V	2767	Ding Liren	2805	1/2-1/2	2019.06.26
+Anand,V	2767	Caruana,F	2819	1/2-1/2	2019.06.26
+Anand,V	2767	Karjakin,Sergey	2748	1/2-1/2	2019.06.26
+Anand,V	2764	Caruana,F	2819	1/2-1/2	2019.07.27
+Anand,V	2764	Nakamura,Hi	2754	1/2-1/2	2019.07.27
+Anand,V	2764	Dubov,Daniil	2700	1/2-1/2	2019.07.27
+Anand,V	2764	Nepomniachtchi,I	2775	1/2-1/2	2019.07.31
+Anand,V	2764	Mamedyarov,S	2765	1/2-1/2	2019.07.31
+Anand,V	2764	Giri,A	2779	1/2-1/2	2019.07.31
+Anand,V	2756	Giri,A	2779	1/2-1/2	2019.08.04
+Anand,V	2756	Carlsen,M	2882	1/2-1/2	2019.08.17
+Anand,V	2756	So,W	2776	1/2-1/2	2019.08.17
+Anand,V	2756	Giri,A	2779	1/2-1/2	2019.08.17
+Karjakin, Sergey	0	Anand, Viswanathan	0	1-0	Fri Nov 08 2019
+Karjakin, Sergey	0	Anand, Viswanathan	0	1-0	Sat Nov 09 2019
+Nepomniachtchi, Ian	0	Anand, Viswanathan	0	1-0	Fri Nov 22 2019
+Carlsen, Magnus	0	Anand, Viswanathan	0	1-0	Sun Nov 24 2019
+Nepomniachtchi, Ian	0	Anand, Viswanathan	0	1-0	Tue Nov 26 2019
+Giri, Anish	0	Anand, Viswanathan	0	1-0	Tue Nov 26 2019
+Carlsen, Magnus	0	Anand, Viswanathan	0	1-0	Tue Nov 26 2019
+Carlsen,M	2835	Anand,V	2773	1-0	2019.01.12
+Carlsen,M	2845	Anand,V	2779	1-0	2019.03.31
+Karjakin,Sergey	2753	Anand,V	2779	1-0	2019.03.31
+Naiditsch,A	2695	Anand,V	2774	1-0	2019.04.20
+Carlsen,M	2861	Anand,V	2774	1-0	2019.05.25
+Karjakin,Sergey	2752	Anand,V	2774	1-0	2019.05.25
+Caruana,F	2819	Anand,V	2767	1-0	2019.06.03
+Carlsen,M	2875	Anand,V	2767	1-0	2019.06.04
+Caruana,F	2819	Anand,V	2767	1-0	2019.06.04
+Mamedyarov,S	2774	Anand,V	2767	1-0	2019.06.26
+Mamedyarov,S	2765	Anand,V	2764	1-0	2019.07.31
+Dubov,Daniil	2700	Anand,V	2764	1-0	2019.07.31
+Anand,V	2756	Mamedyarov,S	2764	1/2-1/2	2019.08.17
+Anand,V	2756	Nakamura,Hi	2743	1/2-1/2	2019.08.17
+Anand,V	2765	Parligras,M	2629	1/2-1/2	2019.10.10
+Anand,V	2757	So,W	2760	1/2-1/2	2019.11.09
+Anand,V	2757	Giri,A	2776	1/2-1/2	2019.11.09
+Anand,V	2757	Aronian,L	2772	1/2-1/2	2019.11.09
+Mamedyarov, Shakhriyar	0	Anand, Viswanathan	0	0-1	Sun Nov 10 2019
+Ding, Liren	0	Anand, Viswanathan	0	1/2-1/2	Fri Nov 22 2019
+Aronian, Levon	0	Anand, Viswanathan	0	0-1	Mon Nov 25 2019
+Harikrishna, P.	0	Anand, Viswanathan	0	0-1	Tue Nov 26 2019
+So, Wesley	0	Anand, Viswanathan	0	0-1	Tue Nov 26 2019
+Van Foreest,Jorden	2612	Anand,V	2773	0-1	2019.01.12
+Kramnik,V	2777	Anand,V	2773	0-1	2019.01.12
+Vallejo Pons,F	2693	Anand,V	2774	0-1	2019.04.20
+Ding Liren	2805	Anand,V	2774	0-1	2019.05.25
+Grischuk,A	2775	Anand,V	2767	0-1	2019.06.04
+Giri,A	2779	Anand,V	2764	0-1	2019.07.27
+Giri,A	2779	Anand,V	2764	0-1	2019.07.31
+Caruana,F	2819	Anand,V	2764	0-1	2019.07.31
+Nepomniachtchi,I	2775	Anand,V	2764	0-1	2019.07.31
+Kramnik,V	2753	Anand,V	2756	1-0	2019.08.03
+Bareev,E	2643	Anand,V	2756	0-1	2019.08.04
+Nepomniachtchi,I	2774	Anand,V	2756	1-0	2019.08.04
+Grischuk,A	2759	Anand,V	2756	1-0	2019.08.04
+Nepomniachtchi,I	2774	Anand,V	2756	0-1	2019.08.17
+Najer,E	2635	Anand,V	2765	1-0	2019.10.10
+Bachmann,Ax	2629	Anand,V	2765	0-1	2019.10.10
+Artemiev,V	2731	Anand,V	2757	0-1	2019.11.06
+Korobov,A	2670	Anand,V	2757	1-0	2019.11.06
+Caruana,F	2822	Anand,V	2757	1-0	2019.11.09
+Korobov,A	2670	Anand,V	2757	0-1	2019.11.09
+Nakamura, Hikaru	0	Anand, Viswanathan	0	1/2-1/2	Sat Nov 23 2019
+Vidit, Santosh Gujrathi	0	Anand, Viswanathan	0	1/2-1/2	Sun Nov 24 2019
+Vidit, Santosh Gujrathi	0	Anand, Viswanathan	0	1/2-1/2	Mon Nov 25 2019
+Nakamura, Hikaru	0	Anand, Viswanathan	0	1/2-1/2	Mon Nov 25 2019
+Ding, Liren	0	Anand, Viswanathan	0	1/2-1/2	Mon Nov 25 2019
+Ragger, Markus	0	Anand, Viswanathan	0	1/2-1/2	Sat Dec 07 2019
+Shankland,S	2725	Anand,V	2773	1/2-1/2	2019.01.12
+Giri,A	2783	Anand,V	2773	1/2-1/2	2019.01.12
+Rapport,R	2731	Anand,V	2773	1/2-1/2	2019.01.12
+Ding Liren	2813	Anand,V	2773	1/2-1/2	2019.01.12
+Ding Liren	2812	Anand,V	2779	1/2-1/2	2019.03.31
+Radjabov,T	2756	Anand,V	2779	1/2-1/2	2019.03.31
+Carlsen,M	2845	Anand,V	2774	1/2-1/2	2019.04.20
+Aronian,L	2763	Anand,V	2774	1/2-1/2	2019.04.20
+Grischuk,A	2775	Anand,V	2767	1/2-1/2	2019.06.03
+Vachier Lagrave,M	2779	Anand,V	2767	1/2-1/2	2019.06.03
+Aronian,L	2752	Anand,V	2767	1/2-1/2	2019.06.03
+Ding Liren	2805	Anand,V	2767	1/2-1/2	2019.06.03
+Carlsen,M	2875	Anand,V	2767	1/2-1/2	2019.06.04
+Vachier Lagrave,M	2779	Anand,V	2767	1/2-1/2	2019.06.04
+So,W	2754	Anand,V	2767	1/2-1/2	2019.06.04
+Vachier Lagrave,M	2779	Anand,V	2767	1/2-1/2	2019.06.04
+So,W	2754	Anand,V	2767	1/2-1/2	2019.06.04
+Grischuk,A	2775	Anand,V	2767	1/2-1/2	2019.06.04
+Caruana,F	2819	Anand,V	2767	1/2-1/2	2019.06.04
+Anand, Viswanathan	2758	Wang, Hao	2712	1-0	2022.06.02
+So, Wesley	2766	Anand, Viswanathan	2751	1/2-1/2	2022.06.03
+Anand, Viswanathan	2751	Mamedyarov, Shakhriyar	2751	0-1	2022.06.09
+Anand, Viswanathan	2751	Radjabov, Teimour	2753	1/2-1/2	2022.06.07
+Anand, Viswanathan	2728	Radjabov, Teimour	2705	1-0	2022.06.07
+Anand, Viswanathan	2728	Carlsen, Magnus	2832	1-0	2022.06.05
+Anand, Viswanathan	2751	Carlsen, Magnus	2864	1/2-1/2	2022.06.05
+So, Wesley	2814	Anand, Viswanathan	2758	1-0	2022.06.03
+Anand, Viswanathan	2751	Vachier-Lagrave, Maxime	2750	1-0	2022.05.31
+Anand, Viswanathan	2751	Wang, Hao	2744	1/2-1/2	2022.06.02
+Topalov, Veselin	2730	Anand, Viswanathan	2751	0-1	2022.06.01
+Anand, Viswanathan	2734	Gelfand, Boris	2619	0-1	2022.07.10
+Anand, Viswanathan	2731	Gelfand, Boris	2635	1-0	2022.07.10
+Gelfand, Boris	2635	Anand, Viswanathan	2731	0-1	2022.07.10
+Anand, Viswanathan	2731	Santos Latasa, Jaime	2593	1-0	2022.07.08
+Anand, Viswanathan	2731	Gelfand, Boris	2635	0-1	2022.07.10
+Gelfand, Boris	2635	Anand, Viswanathan	2731	1-0	2022.07.10
+Anand, Viswanathan	2731	Santos Latasa, Jaime	2593	1-0	2022.07.08
+Santos Latasa, Jaime	2593	Anand, Viswanathan	2731	1-0	2022.07.08
+Gelfand, Boris	2619	Anand, Viswanathan	2734	1-0	2022.07.10
+Anand, Viswanathan	2731	Ponkratov, Pavel	2493	1/2-1/2	2022.09.15
+Ponkratov, Pavel	2493	Anand, Viswanathan	2731	1-0	2022.09.15
+Ponkratov, Pavel	2493	Anand, Viswanathan	2731	1-0	2022.09.15
+Ponkratov, Pavel	2493	Anand, Viswanathan	2731	0-1	2022.09.15
+Anand, Viswanathan	2731	Ponkratov, Pavel	2493	1/2-1/2	2022.09.15

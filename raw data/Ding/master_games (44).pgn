@@ -1,0 +1,728 @@
+[Event "Cappelle-la-Grande Open 2014"]
+[Site "Cappelle-la-Grande FRA"]
+[Date "2014.03.05"]
+[Round "6.16"]
+[White "Haub, TM."]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "A07"]
+[WhiteElo "2449"]
+[BlackElo "2717"]
+[PlyCount "70"]
+[EventDate "2014.03.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "Mark Crowther"]
+[SourceDate "2014.03.10"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. d3 Nd7 5. O-O e6 6. Qe1 Bc5 7. h3 Bh5 8. e4
+Ne7 9. b4 Bb6 10. Bb2 O-O 11. Nbd2 Re8 12. Nb3 f6 13. exd5 exd5 14. Qd2 a5 15.
+bxa5 Bxa5 16. Nxa5 Qxa5 17. Qxa5 Rxa5 18. Rfb1 Ra4 19. Bc3 Bxf3 20. Bxf3 b5 21.
+Bb4 Kf7 22. a3 Rea8 23. c4 c5 24. cxd5 cxb4 25. d6 R8a7 26. dxe7 Rxa3 27. Re1
+Ne5 28. e8=Q+ Kxe8 29. Rab1 Kf8 30. Be4 f5 31. d4 Nc4 32. Bc6 b3 33. Bxb5 Nd2
+34. Re8+ Kf7 35. Rb2 Ra2 0-1
+
+
+[Event "Cappelle-la-Grande Open 2014"]
+[Site "Cappelle-la-Grande FRA"]
+[Date "2014.03.03"]
+[Round "4.4"]
+[White "Maiorov, N1."]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "E32"]
+[WhiteElo "2520"]
+[BlackElo "2717"]
+[PlyCount "176"]
+[EventDate "2014.03.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "Mark Crowther"]
+[SourceDate "2014.03.03"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 b6 5. a3 Bxc3+ 6. Qxc3 Bb7 7. Nf3 O-O 8.
+Bg5 h6 9. Bh4 g5 10. Bg3 Ne4 11. Qc2 f5 12. e3 d6 13. Nd2 Qf6 14. f3 Nxg3 15.
+hxg3 c5 16. dxc5 dxc5 17. O-O-O Nc6 18. Be2 Kg7 19. Nb1 Rad8 20. Rxd8 Rxd8 21.
+Rd1 Qe5 22. Rxd8 Nxd8 23. Qd2 Nf7 24. f4 Qd6 25. Bf1 Qxd2+ 26. Nxd2 Kf6 27. Kd1
+e5 28. Ke1 Nd8 29. Kf2 Ne6 30. fxe5+ Kxe5 31. Be2 Be4 32. Nf1 g4 33. Nd2 Bc2
+34. Ke1 Ng5 35. Bf1 Nf7 36. Be2 Nd6 37. Bf1 Kf6 38. Be2 Ke6 39. Kf2 Kd7 40. Ke1
+h5 41. Kf2 Kc6 42. Ke1 Kb7 43. Bf1 Ka6 44. Be2 Ka5 45. Bd1 Bd3 46. Bb3 Ka6 47.
+Kf2 Kb7 48. Ke1 Kc7 49. Kf2 Kd8 50. Ke1 Ke7 51. Kf2 Kf6 52. Ke1 Ke5 53. Kf2 Kf6
+54. Ke1 Kg5 55. Kf2 h4 56. gxh4+ Kxh4 57. Ba2 Bc2 58. b4 Ne4+ 59. Nxe4 Bxe4 60.
+g3+ Kh3 61. Bb3 Bd3 62. bxc5 bxc5 63. Ba4 Bxc4 64. Bd7 Bd3 65. Bc8 a5 66. Bb7
+Bc2 67. Bg2+ Kh2 68. Bd5 a4 69. Be6 Kh3 70. Bc4 Bb3 71. Bd3 c4 72. Bxf5 c3 73.
+Ke2 Kxg3 74. Bc8 Kh4 75. Bb7 Kg5 76. Kd3 c2 77. Kd2 g3 78. Bf3 Kf5 79. Bg2 Ke5
+80. Bf1 Bc4 81. Bh3 Bd3 82. Bg2 Be4 83. Bf1 Kf5 84. Bh3+ Kg5 85. Kc1 Kh4 86.
+Bf1 Kg4 87. Kd2 Kf3 88. Bh3 g2 0-1
+
+
+[Event "Cappelle-la-Grande Open 2014"]
+[Site "Cappelle-la-Grande FRA"]
+[Date "2014.03.01"]
+[Round "1.1"]
+[White "Vul, A."]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "E63"]
+[WhiteElo "2346"]
+[BlackElo "2717"]
+[PlyCount "68"]
+[EventDate "2014.03.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "Mark Crowther"]
+[SourceDate "2014.03.03"]
+
+1. Nf3 Nf6 2. c4 g6 3. g3 Bg7 4. d4 O-O 5. Bg2 d6 6. O-O Nc6 7. Nc3 a6 8. h3
+Rb8 9. e4 b5 10. e5 dxe5 11. dxe5 Nd7 12. e6 fxe6 13. cxb5 axb5 14. Ng5 Nd4 15.
+Be3 Nb6 16. Bxd4 Qxd4 17. Qxd4 Bxd4 18. Nxb5 Bxb2 19. Rab1 Nc4 20. a4 h6 21.
+Ne4 Bb7 22. Rfd1 Bd5 23. Nd2 Be5 24. Nxc4 Bxc4 25. Rbc1 Bxb5 26. axb5 Rxb5 27.
+h4 Rb2 28. f4 Bd6 29. Re1 g5 30. hxg5 hxg5 31. Rxe6 gxf4 32. Bd5 Kg7 33. Rc4
+Rf5 34. Be4 Rg5 0-1
+
+
+[Event "Cappelle-la-Grande Open 2014"]
+[Site "Cappelle-la-Grande FRA"]
+[Date "2014.03.07"]
+[Round "8.3"]
+[White "Manolache, M."]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "D45"]
+[WhiteElo "2495"]
+[BlackElo "2717"]
+[PlyCount "48"]
+[EventDate "2014.03.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "Mark Crowther"]
+[SourceDate "2014.03.10"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c6 5. e3 Nbd7 6. Be2 dxc4 7. a4 Qa5 8. Bd2
+Bb4 9. Bxc4 O-O 10. O-O c5 11. Qe2 b6 12. Rfd1 Bb7 13. e4 cxd4 14. Nxd4 Qc5 15.
+Nb3 Qe7 16. e5 Bxc3 17. Bxc3 Nd5 18. Bd2 Rfc8 19. Rac1 Rab8 20. Nd4 Nc5 21. Nb5
+Nxa4 22. Nd6 Rxc4 23. Nxc4 Ba6 24. b3 Nc5 1/2-1/2
+
+
+[Event "ch-CHN 2014"]
+[Site "Xinghua CHN"]
+[Date "2014.03.21"]
+[Round "10.2"]
+[White "Wei Yi"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[WhiteElo "2625"]
+[BlackElo "2717"]
+[PlyCount "85"]
+[EventDate "2014.03.11"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "14"]
+[Source "Mark Crowther"]
+[SourceDate "2014.03.24"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. c3 Bg4
+8. h3 Bxf3 9. Qxf3 Qd5 10. Be2 Qxf3 11. Bxf3 e6 12. O-O Be7 13. Bg5 Nd5 14.
+Bxe7 Kxe7 15. a4 a5 16. Rfe1 Ra6 17. Rad1 Rd8 18. Be2 Raa8 19. g3 Rab8 20. Ra1
+b6 21. Red1 g5 22. Kf1 Rh8 23. Bf3 Kd6 24. Re1 h5 25. Re5 g4 26. hxg4 hxg4 27.
+Bg2 f6 28. Re2 f5 29. Rae1 Rh6 30. Re5 Rf6 31. c4 Nb4 32. c5+ Kd7 33. cxb6 Nd3
+34. Rd1 Nxb2 35. Rc1 Nd3 36. Rxc6 Nxe5 37. dxe5 Rff8 38. b7 f4 39. Rd6+ Kc7 40.
+gxf4 Rxf4 41. Rc6+ Kd7 42. Rd6+ Kc7 43. Rc6+ 1/2-1/2
+
+
+[Event "ch-CHN 2014"]
+[Site "Xinghua CHN"]
+[Date "2014.03.19"]
+[Round "8.1"]
+[White "Xiu Deshun"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2571"]
+[BlackElo "2717"]
+[PlyCount "69"]
+[EventDate "2014.03.11"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "14"]
+[Source "Mark Crowther"]
+[SourceDate "2014.03.24"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Bg5 dxc4 5. Qa4+ c6 6. Qxc4 b5 7. Qc2 Bb7 8. e4
+Nbd7 9. Nbd2 Rc8 10. Bd3 Qb6 11. a4 a6 12. axb5 cxb5 13. Qb1 h6 14. Be3 Ng4 15.
+e5 Bb4 16. O-O O-O 17. Ne4 f5 18. exf6 Ndxf6 19. Ne5 Nxe4 20. Bxe4 Nxe5 21.
+dxe5 Bc5 22. Bxb7 Qxb7 23. Qg6 Qf7 24. Qxf7+ Rxf7 25. Rxa6 Bxe3 26. fxe3 Rxf1+
+27. Kxf1 Kf7 28. Rd6 Rc2 29. b4 Rb2 30. Rd4 g5 31. h4 Kg6 32. hxg5 Kxg5 33. Rf4
+h5 34. Rf6 Rxb4 35. Rxe6 1/2-1/2
+
+
+[Event "ch-CHN 2014"]
+[Site "Xinghua CHN"]
+[Date "2014.03.18"]
+[Round "7.6"]
+[White "Zhou Jianchao"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[WhiteElo "2565"]
+[BlackElo "2717"]
+[PlyCount "78"]
+[EventDate "2014.03.11"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "14"]
+[Source "Mark Crowther"]
+[SourceDate "2014.03.24"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. Re1 f5 11. a4 Nf6 12. Bd3 h6 13. Ba3 f4 14. c5 g5 15. b5 Ng6
+16. b6 cxb6 17. cxd6 a6 18. Rb1 g4 19. Nd2 Bd7 20. Nc4 Rc8 21. Qd2 b5 22. axb5
+Nh5 23. bxa6 b5 24. Nxb5 Qh4 25. f3 gxf3 26. gxf3 Ng3 27. Nb6 Qg5 28. hxg3 Nh4
+29. Rf1 Qxg3+ 30. Kh1 Nxf3 31. Rxf3 Qxf3+ 32. Qg2 Qh5+ 33. Qh2 Qf3+ 34. Qg2
+Qxd3 35. Rg1 Rf7 36. Nxc8 Bh3 37. Ne7+ Rxe7 38. dxe7 Bxg2+ 39. Rxg2 Qd1+
+1/2-1/2
+
+
+[Event "ch-CHN 2014"]
+[Site "Xinghua CHN"]
+[Date "2014.03.13"]
+[Round "3.4"]
+[White "Ma Qun"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2606"]
+[BlackElo "2717"]
+[PlyCount "61"]
+[EventDate "2014.03.11"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "14"]
+[Source "Mark Crowther"]
+[SourceDate "2014.03.17"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 Nf6 5. Qd3 b6 6. cxd5 cxd5 7. Bf4 Bd6 8.
+Bxd6 Qxd6 9. Nb5 Qb4+ 10. Nd2 Na6 11. a3 Qe7 12. Qg3 O-O 13. e3 Bd7 14. Be2
+Bxb5 15. Bxb5 Nc7 16. Bd3 Rfc8 17. O-O Nce8 18. Rfc1 a5 19. Qf3 Qd8 20. Qd1
+Rxc1 21. Rxc1 Rc8 22. Rc2 Rxc2 23. Qxc2 Qc7 24. Qxc7 Nxc7 25. f3 Nfe8 26. Kf2
+Nd6 27. e4 f5 28. e5 Ndb5 29. Ke3 g5 30. g3 Kg7 31. f4 1/2-1/2
+
+
+[Event "ch-CHN 2014"]
+[Site "Xinghua CHN"]
+[Date "2014.03.11"]
+[Round "1.3"]
+[White "Yu Yangyi"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[WhiteElo "2664"]
+[BlackElo "2717"]
+[PlyCount "96"]
+[EventDate "2014.03.11"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "14"]
+[Source "Mark Crowther"]
+[SourceDate "2014.03.17"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bd3 Ndf6 6. Ng5 Bg4 7. N1f3 Bh5 8.
+c3 e6 9. Qb3 Qc7 10. Ne5 Bd6 11. O-O Ne7 12. Re1 O-O 13. Bf4 Rad8 14. Bg3 b6
+15. a4 c5 16. Rac1 Qc8 17. Bc4 Ned5 18. Bb5 h6 19. Ngf3 Bxf3 20. Nxf3 Bxg3 21.
+hxg3 Ng4 22. Qc4 Ndf6 23. dxc5 Qxc5 24. Qxc5 bxc5 25. b4 cxb4 26. cxb4 Nd5 27.
+Rc4 h5 28. Bc6 Rd6 29. b5 Nb6 30. Rc2 Nxa4 31. Ra2 Nc5 32. Rxa7 Rfd8 33. Ng5
+Rd1 34. Ra1 Rxa1 35. Rxa1 Ne5 36. f4 Nxc6 37. bxc6 Rc8 38. Ra5 Nd3 39. Ra7 f6
+40. Nxe6 Rxc6 41. Ra8+ Kh7 42. Nf8+ Kh6 43. Kf1 Nc5 44. Re8 f5 45. Kg1 Ne4 46.
+Kh2 Nf6 47. Re6 Rc7 48. Ra6 Rb7 1/2-1/2
+
+
+[Event "TCh-CHN Division A 2014"]
+[Site "Jinan CHN"]
+[Date "2014.06.05"]
+[Round "7.2"]
+[White "Zhou Weiqi"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "E70"]
+[WhiteElo "2606"]
+[BlackElo "2710"]
+[PlyCount "70"]
+[EventDate "2014.04.12"]
+[EventType "team"]
+[EventRounds "22"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2014.06.09"]
+[WhiteTeam "Chongqing"]
+[BlackTeam "Zhejiang"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. Nge2 c5 7. d5 e6 8. Bg5 h6
+9. Bh4 g5 10. Bg3 Nh5 11. Qd2 Na6 12. O-O Nc7 13. f4 Nxg3 14. Nxg3 gxf4 15.
+Qxf4 Ne8 16. Nh5 Bd4+ 17. Kh1 Qg5 18. Qxg5+ hxg5 19. h4 gxh4 20. Rf4 Ng7 21.
+Rxh4 Nxh5 22. Rxh5 Bd7 23. Rf1 Kg7 24. Rg5+ Kh6 25. Rg3 Be5 26. Rgf3 Kg7 27.
+Ne2 exd5 28. Nf4 Bg4 29. Rg3 Rh8+ 30. Kg1 Bd4+ 31. Rf2 Rh4 32. Be2 Kh6 33. Bxg4
+Rg8 34. Ne2 Bxf2+ 35. Kf1 Bxg3 0-1
+
+
+[Event "TCh-CHN Division A 2014"]
+[Site "Jiangmen CHN"]
+[Date "2014.04.15"]
+[Round "4.6"]
+[White "Bu Xiangzhi"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "A15"]
+[WhiteElo "2699"]
+[BlackElo "2710"]
+[PlyCount "83"]
+[EventDate "2014.04.12"]
+[EventType "team"]
+[EventRounds "22"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2014.04.21"]
+[WhiteTeam "Shandong"]
+[BlackTeam "Zhejiang"]
+
+1. Nf3 Nf6 2. c4 g6 3. b3 Bg7 4. Bb2 O-O 5. e3 d6 6. d4 e5 7. dxe5 dxe5 8. Qxd8
+Rxd8 9. Bxe5 Nc6 10. Bc3 Ne4 11. Bxg7 Kxg7 12. a3 a5 13. Nbd2 Nc5 14. Be2 Bf5
+15. O-O g5 16. h3 h5 17. b4 axb4 18. axb4 Rxa1 19. Rxa1 Nxb4 20. Nd4 Bg6 21.
+N4b3 Nxb3 22. Nxb3 b6 23. c5 bxc5 24. Rc1 Bd3 25. Bxd3 Nxd3 26. Rc2 Rd5 27. Kf1
+Rf5 28. g4 hxg4 29. hxg4 Rf6 30. Nc1 Nxc1 31. Rxc1 Rc6 32. Ke2 c4 33. f4 c3 34.
+Rc2 Kf6 35. Kd1 gxf4 36. exf4 Rc4 37. Rf2 Re4 38. Rf3 Ra4 39. Kc2 Ra2+ 40. Kd1
+Rd2+ 41. Ke1 Rc2 42. Kd1 1/2-1/2
+
+
+[Event "TCh-CHN Division A 2014"]
+[Site "Jiangmen CHN"]
+[Date "2014.04.13"]
+[Round "2.5"]
+[White "Lin Chen"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "C47"]
+[WhiteElo "2483"]
+[BlackElo "2710"]
+[PlyCount "98"]
+[EventDate "2014.04.12"]
+[EventType "team"]
+[EventRounds "22"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2014.04.14"]
+[WhiteTeam "Jiangsu"]
+[BlackTeam "Zhejiang"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O
+8. O-O Re8 9. Qf3 Bd6 10. Bf4 Bxf4 11. Qxf4 d6 12. Rae1 Nd7 13. Qd2 Qf6 14. f4
+Qd4+ 15. Qf2 Qb6 16. b3 Nc5 17. Bc4 Be6 18. Bd3 Qb4 19. Ne2 Nxe4 20. Qd4 Qxd4+
+21. Nxd4 Nc3 22. Nxc6 Bd7 23. Nd4 c5 24. Nf3 Bc6 25. Nd2 d5 26. a4 a5 27. Kf2
+Kf8 28. Nf3 Reb8 29. Bxh7 g6 30. f5 Ne4+ 31. Rxe4 dxe4 32. Ne5 Be8 33. fxg6 f6
+34. Ke3 Kg7 35. Nc4 Bd7 36. Nd6 Rb4 37. h4 Ra6 38. Nf5+ Bxf5 39. Rxf5 c4 40.
+Rc5 cxb3 41. cxb3 Rxb3+ 42. Kf4 Ra7 43. Rc8 Re7 44. Bg8 Rb4 45. Bf7 e3+ 46. Kf3
+f5 47. Rg8+ Kf6 48. Rf8 e2 49. Bc4+ Kxg6 0-1
+
+
+[Event "Asian Nations Cup 2014"]
+[Site "Tabriz IRI"]
+[Date "2014.05.23"]
+[Round "2.3"]
+[White "Kalugampitiya, R."]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "B42"]
+[WhiteElo "2145"]
+[BlackElo "2714"]
+[PlyCount "46"]
+[EventDate "2014.05.22"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "IRI"]
+[Source "Mark Crowther"]
+[SourceDate "2014.05.26"]
+[WhiteTeam "Sri Lanka"]
+[BlackTeam "CHINA"]
+[WhiteTeamCountry "SRI"]
+[BlackTeamCountry "CHN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Nc3 d6 8. a4
+Nc6 9. O-O Nf6 10. Kh1 e5 11. Bg5 h6 12. Bxf6 Qxf6 13. Nd5 Qd8 14. c3 O-O 15.
+Qh5 Be6 16. Nd2 Rc8 17. f4 exf4 18. Nxf4 Ne5 19. Nxe6 fxe6 20. Bc2 Qb6 21. Bb3
+Nd3 22. Bxe6+ Kh8 23. Bxc8 Qg1+ 0-1
+
+
+[Event "Asian Nations Cup 2014"]
+[Site "Tabriz IRI"]
+[Date "2014.05.26"]
+[Round "6.5"]
+[White "Al Ansi, Amin Hassan"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "B20"]
+[BlackElo "2714"]
+[PlyCount "78"]
+[EventDate "2014.05.22"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "IRI"]
+[Source "Mark Crowther"]
+[SourceDate "2014.05.26"]
+[WhiteTeam "Oman"]
+[BlackTeam "CHINA"]
+[WhiteTeamCountry "OMN"]
+[BlackTeamCountry "CHN"]
+
+1. e4 c5 2. b3 b6 3. Bb2 Bb7 4. d3 e6 5. Nf3 Nc6 6. g3 d5 7. exd5 Qxd5 8. Nbd2
+Nf6 9. Bg2 Be7 10. a3 O-O 11. O-O Nd4 12. Nh4 Qd7 13. Bxb7 Qxb7 14. Nhf3 Nf5
+15. Re1 Rad8 16. Qe2 Rfe8 17. Ne4 Nd4 18. Nxd4 cxd4 19. a4 Rd5 20. Ba3 Rc8 21.
+Bxe7 Qxe7 22. Ra2 Nxe4 23. Qxe4 Qd6 24. f4 g6 25. h3 Rcc5 26. b4 Rc3 27. Rb1
+Qc7 28. Rbb2 g5 29. a5 b5 30. Kg2 h5 31. Qf3 gxf4 32. Qxf4 Re5 33. Qf2 Re3 34.
+h4 Qe5 35. Qf4 Qd5+ 36. Kf2 Re5 37. Kg1 Kf8 38. Ra1 Re2 39. Qh6+ Ke8 0-1
+
+
+[Event "5th Hainan Danzhou 2014"]
+[Site "Danzhou CHN"]
+[Date "2014.07.04"]
+[Round "9.5"]
+[White "Xiu Deshun"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "D45"]
+[WhiteElo "2550"]
+[BlackElo "2714"]
+[PlyCount "118"]
+[EventDate "2014.06.25"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "CHN"]
+[EventCategory "16"]
+[Source "Mark Crowther"]
+[SourceDate "2014.07.07"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 dxc4 8.
+Bxc4 b5 9. Bd3 Bb7 10. O-O a6 11. Ng5 Qc7 12. h3 c5 13. Nge4 Be7 14. Nxf6+ Nxf6
+15. dxc5 Qxc5 16. e4 Rc8 17. a3 O-O 18. Qe2 Qe5 19. f4 Qb8 20. e5 Nd5 21. Nxd5
+Bxd5 22. Be3 g6 23. a4 Bc4 24. Rfc1 Bxd3 25. Qxd3 Rxc1+ 26. Rxc1 bxa4 27. Qxa6
+Qb3 28. Qe2 Rb8 29. Rc2 h5 30. Bc1 Rd8 31. Kh2 Rd3 32. Rd2 Rxd2 33. Qxd2 h4 34.
+Qf2 Kf8 35. Be3 Ke8 36. Qd2 Bb4 37. Qd4 Be7 38. Bf2 Qc2 39. Be3 Qb3 40. Bf2 Qb4
+41. Kg1 Qxd4 42. Bxd4 Kd7 43. Kf2 Kc6 44. Ke3 Bc5 45. Kd3 Bxd4 46. Kxd4 Kb5 47.
+Kc3 Kc5 48. Kd3 Kb4 49. Kc2 Kc4 50. Kb1 Kd3 51. Ka2 Ke3 52. Ka3 Kf2 53. Kxa4
+Kxg2 54. b4 Kxh3 55. b5 Kg4 56. b6 h3 57. b7 h2 58. b8=Q h1=Q 59. Qf8 Qe4+ 0-1
+
+
+[Event "5th Hainan Danzhou 2014"]
+[Site "Danzhou CHN"]
+[Date "2014.07.02"]
+[Round "7.4"]
+[White "Yu Yangyi"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "B18"]
+[WhiteElo "2675"]
+[BlackElo "2714"]
+[PlyCount "237"]
+[EventDate "2014.06.25"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "CHN"]
+[EventCategory "16"]
+[Source "Mark Crowther"]
+[SourceDate "2014.07.07"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 e6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Nf6 11. Bd2 Be7 12. O-O-O O-O 13. Kb1 c5 14. Ne4 Nc6
+15. Bc3 Nb4 16. Nxf6+ Bxf6 17. Bxb4 cxb4 18. Qe4 Qb6 19. Ne5 Rad8 20. f4 Rd5
+21. Rd2 Rfd8 22. Rhd1 a5 23. g4 a4 24. Rd3 Bxe5 25. fxe5 R8d7 26. Qf4 Qd8 27.
+Qd2 Rb5 28. Rg1 b3 29. g5 hxg5 30. Rxg5 bxc2+ 31. Kxc2 Kh8 32. Rg4 a3 33. Rxa3
+Rxe5 34. Rag3 Rc5+ 35. Kb1 Qf6 36. a3 Rxh5 37. Rxg7 Qxg7 38. Rxg7 Kxg7 39. a4
+Rhd5 40. a5 Rxd4 41. Qg5+ Kf8 42. Qf6 R7d5 43. Qh8+ Ke7 44. Qb8 Rb5 45. Qc7+
+Kf6 46. Qc3 e5 47. a6 bxa6 48. Qc6+ Kg5 49. Qxa6 Rdb4 50. Qa8 Rxb2+ 51. Kc1 Rb8
+52. Qe4 R2b5 53. Qe3+ Kg6 54. Qg3+ Kf6 55. Qh4+ Ke6 56. Qh6+ Ke7 57. Qh4+ Kd7
+58. Qf6 Rc5+ 59. Kd2 Rb2+ 60. Kd3 Rb3+ 61. Kd2 Ke8 62. Qd6 Rbc3 63. Qf6 Rc2+
+64. Kd1 R2c4 65. Kd2 Rf4 66. Qb6 Rd5+ 67. Ke3 Kf8 68. Qc6 Rfd4 69. Qf6 Rc5 70.
+Ke2 Rb5 71. Ke3 Rbd5 72. Qh6+ Ke7 73. Qg5+ Ke6 74. Qh6+ Kd7 75. Qf6 Rf4 76. Qb6
+Rdd4 77. Qb5+ Kd6 78. Qe8 Rc4 79. Kd3 Rfd4+ 80. Ke3 Rc3+ 81. Ke2 Rc7 82. Ke3
+Re7 83. Qc8 Rd7 84. Qe8 Rf4 85. Qb8+ Ke6 86. Qe8+ Re7 87. Qh8 f6 88. Qg8+ Kf5
+89. Qc8+ Kg6 90. Qg8+ Rg7 91. Qe8+ Kg5 92. Qd8 Rg6 93. Qe8 Rd4 94. Kf3 Rd3+ 95.
+Ke4 Rg3 96. Qc8 Rg4+ 97. Kf3 Rf4+ 98. Ke3 f5 99. Qd8+ Kg4 100. Qd1+ Kh4 101.
+Qh1+ Kg5 102. Qh8 e4 103. Kd4 Rf3 104. Qh2 Rh6 105. Qb2 Re6 106. Kd5 Re7 107.
+Kd6 Rh7 108. Ke5 Rhh3 109. Qd2+ Kg4 110. Qe2 Rhg3 111. Qh2 e3 112. Qe2 Kh3 113.
+Kd4 Rf2 114. Qe1 Kg2 115. Kd3 e2+ 116. Kd4 f4 117. Ke4 Re3+ 118. Kf5 Rf1 119.
+Qd2 0-1
+
+
+[Event "41st Olympiad Open 2014"]
+[Site "Tromso NOR"]
+[Date "2014.08.02"]
+[Round "1.8"]
+[White "Juarez Flores, C."]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "B46"]
+[WhiteElo "2425"]
+[BlackElo "2742"]
+[PlyCount "58"]
+[EventDate "2014.08.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "NOR"]
+[Source "Mark Crowther"]
+[SourceDate "2014.08.04"]
+[WhiteTeam "Guatemala"]
+[BlackTeam "China"]
+[WhiteTeamCountry "GUA"]
+[BlackTeamCountry "CHN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. g3 d6 7. Bg2 Bd7 8. O-O
+Nf6 9. a4 Be7 10. Nxc6 Bxc6 11. Bf4 Qc7 12. Qd2 O-O 13. Rfd1 Rfd8 14. a5 b5 15.
+axb6 Qxb6 16. Ra3 a5 17. Rb3 Qa6 18. Qe3 Qc8 19. Nb5 a4 20. Rc3 Qb7 21. Nxd6
+Bxd6 22. Rxd6 Rxd6 23. Bxd6 Rd8 24. Qc5 Bxe4 25. Qc7 Qa8 26. Bxe4 Nxe4 27. Rc6
+h6 28. c4 Nd2 29. c5 Nf3+ 0-1
+
+
+[Event "TCh-CHN 2014"]
+[Site "Beijing CHN"]
+[Date "2014.07.25"]
+[Round "9.3"]
+[White "Zhou, Jiangnan"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "E20"]
+[WhiteElo "1938"]
+[BlackElo "2710"]
+[PlyCount "88"]
+[EventDate "2014.04.12"]
+[EventType "team"]
+[EventRounds "22"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2014.07.28"]
+[WhiteTeam "Qingdao Qingwei"]
+[BlackTeam "Zhejiang"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 O-O 5. a3 Bxc3+ 6. bxc3 Nh5 7. Nh3 f5 8. g3
+b6 9. e4 Bb7 10. Bd3 fxe4 11. fxe4 Qe8 12. Ra2 e5 13. Re2 d6 14. Rf1 Nf6 15. c5
+Nbd7 16. Ng5 Rc8 17. Bc4+ Kh8 18. Qb3 dxc5 19. Nf7+ Rxf7 20. Bxf7 Qe7 21. Qe6
+Qd6 22. Rf5 cxd4 23. cxd4 Qxd4 24. Bb2 Qg1+ 25. Rf1 Qc5 26. Qc4 Qa5+ 27. Bc3
+Qxa3 28. Bb4 Qa1+ 29. Kf2 Qd4+ 30. Qxd4 exd4 31. Be6 Re8 32. Bxd7 Nxd7 33. Rfe1
+Ne5 34. Kg2 c5 35. Bd2 Ba6 36. Rf2 Nd3 37. Ra1 Nxf2 38. Kxf2 Bd3 39. Rxa7 h6
+40. Rb7 Rf8+ 41. Kg1 c4 42. e5 c3 43. Bf4 g5 44. Bc1 Rf1+ 0-1
+
+
+[Event "41st Olympiad Open 2014"]
+[Site "Tromso NOR"]
+[Date "2014.08.09"]
+[Round "7.4"]
+[White "Perunovic, Mil"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "2602"]
+[BlackElo "2742"]
+[PlyCount "52"]
+[EventDate "2014.08.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "NOR"]
+[Source "Mark Crowther"]
+[SourceDate "2014.08.11"]
+[WhiteTeam "Serbia"]
+[BlackTeam "China"]
+[WhiteTeamCountry "SRB"]
+[BlackTeamCountry "CHN"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nd2 e6 5. Nb3 Nd7 6. Nf3 Ne7 7. Be2 Bg4 8. O-O
+Nf5 9. h3 Bxf3 10. Bxf3 g6 11. Re1 h5 12. Be2 f6 13. exf6 Qxf6 14. c4 O-O-O 15.
+cxd5 exd5 16. Bf4 Bb4 17. Bd2 Bd6 18. Rc1 Rhf8 19. Rf1 Nxd4 20. Nxd4 Qxd4 21.
+Be3 Qe5 22. g3 Kb8 23. h4 Rde8 24. Bd3 Qe6 25. Re1 Qf6 26. Qa4 Rxe3 0-1
+
+
+[Event "41st Olympiad Open 2014"]
+[Site "Tromso NOR"]
+[Date "2014.08.08"]
+[Round "6.8"]
+[White "Ezat, M."]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "E94"]
+[WhiteElo "2466"]
+[BlackElo "2742"]
+[PlyCount "120"]
+[EventDate "2014.08.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "NOR"]
+[Source "Mark Crowther"]
+[SourceDate "2014.08.11"]
+[WhiteTeam "Egypt"]
+[BlackTeam "China"]
+[WhiteTeamCountry "EGY"]
+[BlackTeamCountry "CHN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. O-O Na6 8. Be3
+c6 9. Rb1 exd4 10. Nxd4 Re8 11. b4 Nc7 12. Bf3 h5 13. Bg5 Be6 14. Be2 Qc8 15.
+b5 c5 16. Nc2 Nd7 17. Qd2 Nb6 18. Nd5 Bxd5 19. exd5 a6 20. bxa6 Rxa6 21. a3 Na4
+22. Rb3 Rb6 23. Rxb6 Nxb6 24. h3 Na4 25. Bd3 Bc3 26. Qf4 Nb2 27. Qf3 Be5 28.
+Rb1 Na8 29. Bc1 Na4 30. Bg5 N8b6 31. g4 hxg4 32. hxg4 Nb2 33. Ne3 Qa8 34. Nf5
+gxf5 35. Rxb2 Bxb2 36. Qxf5 Bg7 37. Bf4 Qd8 38. Bg5 Qd7 39. Qh7+ Kf8 40. Bf5
+Qc7 41. Kf1 Nxc4 42. Bh6 Bxh6 43. Qxh6+ Ke7 44. Qh4+ f6 45. g5 Nd2+ 46. Ke2
+Kd8+ 47. Be6 fxg5 48. Qxg5+ Qe7 49. Qxd2 Kc7 50. Qh6 Rf8 51. a4 Qf6 52. Qh7+
+Kb8 53. Qh2 Qf4 54. Qg3 c4 55. a5 c3 56. Qxf4 Rxf4 57. Kd3 Rf3+ 58. Kc2 Ka7 59.
+Bg4 Rxf2+ 60. Kxc3 Ka6 0-1
+
+
+[Event "TCh-TUR Super League 2014"]
+[Site "Kocaeli TUR"]
+[Date "2014.08.20"]
+[Round "3.5"]
+[White "Dubov, Daniil"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "B11"]
+[WhiteElo "2614"]
+[BlackElo "2742"]
+[PlyCount "78"]
+[EventDate "2014.08.18"]
+[EventType "team"]
+[EventRounds "13"]
+[EventCountry "TUR"]
+[Source "Mark Crowther"]
+[SourceDate "2014.08.25"]
+[WhiteTeam "Ankara Demirspor Kulubu"]
+[BlackTeam "T.S. Alyans Satranc Spor Kulubu"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 Nf6 6. e5 Nfd7 7. Qg3 e6 8.
+Be2 c5 9. O-O Nc6 10. f4 Nd4 11. Bd1 Nf5 12. Qf3 c4 13. b3 Rc8 14. bxc4 Rxc4
+15. Ne2 Qb6+ 16. Kh2 g5 17. c3 h5 18. d4 g4 19. Qd3 Qd8 20. Ng3 Nxg3 21. Qxg3
+f5 22. exf6 Nxf6 23. Re1 Ne4 24. Rxe4 dxe4 25. Bb3 Rc7 26. f5 Bd6 27. Bf4 Bxf4
+28. Qxf4 Rxc3 29. d5 Rf8 30. Qe5 Qc7 31. d6 g3+ 32. Kh1 Rc1+ 33. Bd1 Qc4 34.
+Qxg3 Rxa1 35. Qg6+ Kd8 36. Qg5+ Kc8 37. d7+ Kxd7 38. Qg7+ Kc6 39. Qxa1 Rxf5 0-1
+
+
+[Event "TCh-CHN Division A"]
+[Site "Taizhou CHN"]
+[Date "2014.11.15"]
+[Round "17.6"]
+[White "Wang Rui"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "A13"]
+[WhiteElo "2394"]
+[BlackElo "2730"]
+[PlyCount "110"]
+[EventDate "2014.04.12"]
+[EventType "team"]
+[EventRounds "22"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2014.11.17"]
+[WhiteTeam "Hebei"]
+[BlackTeam "Zhejiang"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 d4 5. d3 Nc6 6. O-O e5 7. e3 Be7 8. exd4
+exd4 9. a3 a5 10. Bg5 O-O 11. Bxf6 Bxf6 12. Nbd2 Bf5 13. Qc2 g5 14. h3 a4 15.
+Rfe1 Ra5 16. Re2 h5 17. Rae1 g4 18. hxg4 hxg4 19. Nh2 Ne5 20. Ne4 Bg7 21. Qd2
+b6 22. f3 gxf3 23. Bxf3 Bc8 24. Bh1 f5 25. Nf2 Qd6 26. Bd5+ Rxd5 27. cxd5 Bb7
+28. Rxe5 Bxe5 29. Qg5+ Bg7 30. Re7 Qf6 31. Qxf6 Bxf6 32. Rxc7 Bxd5 33. g4 f4
+34. Rd7 Rd8 35. Rxd8+ Bxd8 36. Nh3 f3 37. Nf4 Bb7 38. Ne6 Be7 39. Kf1 Bd6 40.
+Nxf3 Bxf3 41. Nxd4 Bxg4 42. Nb5 Be5 43. Nc3 Bd7 44. Ke2 Bd4 45. Kd2 Kf7 46. Kc2
+Ke6 47. b3 Bxc3 48. Kxc3 Kd5 49. Kb4 axb3 50. Kxb3 Bb5 51. Kc3 Ke5 52. d4+ Kd5
+53. Kb4 Ba6 54. Kc3 Ke4 55. a4 Kd5 0-1
+
+
+[Event "4th Chinese Rapid Masters"]
+[Site "Shenzhen CHN"]
+[Date "2014.11.19"]
+[Round "5.4"]
+[White "Ni Hua"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "C47"]
+[WhiteElo "2677"]
+[BlackElo "2730"]
+[PlyCount "92"]
+[EventDate "2014.11.18"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "CHN"]
+[EventCategory "18"]
+[Source "Mark Crowther"]
+[SourceDate "2014.11.24"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O
+8. O-O Re8 9. Qf3 Rb8 10. Bf4 d6 11. Na4 c5 12. Nc3 Bxc3 13. bxc3 h6 14. Rfe1
+Bb7 15. h3 Bc6 16. Bd2 Re6 17. Qf4 g5 18. Qg3 Nxe4 19. Bxe4 Rxe4 20. Rxe4 Bxe4
+21. h4 Bxc2 22. hxg5 h5 23. c4 Qd7 24. Re1 Qg4 25. Qxg4 hxg4 26. Re7 Rb7 27.
+Ba5 Kf8 28. Rxc7 Rxc7 29. Bxc7 Ke7 30. Kh2 Bd3 31. Kg3 Bxc4 32. a3 Be6 33. Kf4
+Kd7 34. Bb8 Kc6 35. Ke4 a5 36. f4 Bd5+ 37. Kf5 g3 38. Kg4 Bxg2 39. Kxg3 Be4 40.
+Kg4 Kd5 41. f5 Ke5 42. f6 c4 43. g6 Bxg6 44. Kf3 c3 45. Ke3 Kd5 46. Bc7 a4 0-1
+
+
+[Event "Qatar Masters Open 2014"]
+[Site "Doha QAT"]
+[Date "2014.12.03"]
+[Round "8.11"]
+[White "Dubov, Daniil"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "A05"]
+[WhiteElo "2629"]
+[BlackElo "2730"]
+[PlyCount "118"]
+[EventDate "2014.11.26"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "QAT"]
+[Source "Mark Crowther"]
+[SourceDate "2014.12.08"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d6 6. d4 c5 7. c4 Qa5+ 8. Bc3
+Qc7 9. Nbd2 Re8 10. d5 e6 11. dxe6 Bxe6 12. O-O Nc6 13. Qc1 d5 14. cxd5 Bxd5
+15. Re1 Rad8 16. Qb2 Qe7 17. Rac1 b5 18. Qa1 a6 19. Bb2 Nh5 20. Bxg7 Nxg7 21.
+Qc3 Nd4 22. Nxd4 cxd4 23. Qc5 Qe6 24. e4 Ba8 25. Bf1 Qf6 26. Bd3 Ne6 27. Qa7
+Qg5 28. Nf3 Qh5 29. Nd2 Qg5 30. Nf3 Qh5 31. Nd2 Ng5 32. h4 Nf3+ 33. Nxf3 Qxf3
+34. Rcd1 Rxe4 35. Bxe4 Bxe4 36. Rxe4 Qxe4 37. Qb6 Qd5 38. Qxa6 Qf3 39. Rf1 d3
+40. Qa5 Ra8 41. Qxb5 d2 42. Qd7 Qe2 43. h5 gxh5 44. Qd5 Ra6 45. Qg5+ Kh8 46.
+Qd8+ Kg7 47. Qd4+ Kg6 48. f4 h6 49. f5+ Kh7 50. Qd5 Rf6 51. Qd7 h4 52. gxh4
+Qg4+ 53. Kh2 Qxh4+ 54. Kg2 Qg4+ 55. Kh2 Qe2+ 56. Kg1 h5 57. Qd5 h4 58. Qd4 h3
+59. Qh4+ Rh6 0-1
+
+
+[Event "TCh-CHN Division A 2014"]
+[Site "Jiangmen CHN"]
+[Date "2014.12.08"]
+[Round "21.4"]
+[White "Xu, Xiangyu CHN"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "B18"]
+[WhiteElo "2277"]
+[BlackElo "2730"]
+[PlyCount "94"]
+[EventDate "2014.04.12"]
+[EventType "team"]
+[EventRounds "22"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2014.12.08"]
+[WhiteTeam "Chengdu"]
+[BlackTeam "Zhejiang"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 e6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Nf6 11. Bd2 Be7 12. O-O-O O-O 13. Ne4 Nxe4 14. Qxe4
+Qd5 15. Qxd5 cxd5 16. g4 Nc6 17. Rdg1 b5 18. g5 f6 19. Be3 Kf7 20. Nh4 Rh8 21.
+Ng6 Rh7 22. Rh3 b4 23. f4 Bd6 24. Rf1 Ne7 25. Nxe7 Kxe7 26. f5 exf5 27. Rxf5
+Ke6 28. Rf1 Rah8 29. Re1 Kd7 30. Rg1 hxg5 31. Rgh1 Ke6 32. Bd2 Kf7 33. Kd1 Rg8
+34. Rf3 g4 35. Rf2 g3 36. Rg2 Re8 37. Be1 Reh8 38. Ke2 Rxh5 39. Rxh5 Rxh5 40.
+Bxg3 Rg5 41. Kf3 Rxg3+ 42. Rxg3 Bxg3 43. Kxg3 f5 44. Kf3 Kf6 45. Kf4 Kg6 46.
+Ke5 Kg5 47. Kxd5 f4 0-1

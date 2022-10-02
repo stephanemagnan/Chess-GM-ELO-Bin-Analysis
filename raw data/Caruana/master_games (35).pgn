@@ -1,0 +1,681 @@
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.28"]
+[Round "1.1"]
+[White "Carlsen, M."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C24"]
+[WhiteElo "2843"]
+[BlackElo "2822"]
+[PlyCount "153"]
+[EventDate "2018.05.28"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[EventCategory "22"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bb4+ 6. Bd2 Bxd2+ 7. Nbxd2 a5 8.
+c3 Nbd7 9. exd5 cxd5 10. O-O O-O 11. Re1 Re8 12. Nf1 b5 13. a4 b4 14. cxb4 axb4
+15. Ne3 Bb7 16. d4 e4 17. Ne5 Nxe5 18. dxe5 Rxe5 19. Qd4 Re7 20. Rac1 Rd7 21.
+Red1 h6 22. Rc5 Ra5 23. Rxa5 Qxa5 24. h3 Kh7 25. Rc1 Rc7 26. Rxc7 Qxc7 27. Qxb4
+Qc1+ 28. Bd1 Ba6 29. Qd4 Be2 30. Kh2 Bxd1 31. Nxd1 Qc7+ 32. Kg1 Qc1 33. b4 e3
+34. fxe3 Ne4 35. Qxd5 Nd2 36. Qf5+ Kh8 37. Qg4 f5 38. Qe2 Ne4 39. Qe1 Qa1 40.
+a5 Nd6 41. Qd2 Nc4 42. Qd4 Qc1 43. Kf1 Nxe3+ 44. Qxe3 Qxd1+ 45. Kf2 Qc2+ 46.
+Kg3 g5 47. Qe5+ Kh7 48. Kh2 f4 49. Qd5 Qa4 50. Qf7+ Kh8 51. Qg6 Qxb4 52. Qxh6+
+Kg8 53. Qxg5+ Kh7 54. Qh5+ Kg7 55. Qg5+ Kh7 56. h4 Qd6 57. Qh5+ Kg7 58. Qg5+
+Kh7 59. h5 f3+ 60. g3 f2 61. Qg6+ Kh8 62. Qxd6 f1=Q 63. Qh6+ Kg8 64. Qe6+ Kh8
+65. Qe3 Qb5 66. Qc3+ Kh7 67. g4 Qd5 68. Qc7+ Kg8 69. Kg3 Qe6 70. Qd8+ Kh7 71.
+Qd3+ Kh8 72. a6 Qe5+ 73. Kh3 Qa1 74. Qd8+ Kh7 75. Qe7+ Kh6 76. Qe3+ Kh7 77. a7
+1-0
+
+
+[Event "6th Norway Blitz 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.27"]
+[Round "7.1"]
+[White "Carlsen, M."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "E47"]
+[WhiteElo "2843"]
+[BlackElo "2822"]
+[PlyCount "105"]
+[EventDate "2018.05.27"]
+[EventType "tourn (blitz)"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[EventCategory "22"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nge2 d5 7. cxd5 Nxd5 8. a3
+Ba5 9. O-O cxd4 10. exd4 Nc6 11. Bc2 Nce7 12. Qd3 Ng6 13. Nxd5 exd5 14. Bd2 Bc7
+15. Bf4 Re8 16. Bxc7 Qxc7 17. Rae1 Bd7 18. Nc3 Qd6 19. Qg3 Qxg3 20. hxg3 Bc6
+21. Bxg6 hxg6 22. f3 f6 23. Rxe8+ Rxe8 24. Kf2 Kf7 25. Rc1 g5 26. g4 Rd8 27.
+Nd1 g6 28. Ne3 Rh8 29. a4 Ke6 30. a5 Kd6 31. Nc2 Bb5 32. Nb4 b6 33. axb6 axb6
+34. Na2 Bd7 35. Nc3 Rc8 36. Ra1 Rc4 37. Ke3 Rb4 38. Rb1 f5 39. b3 fxg4 40. Na2
+Rb5 41. b4 gxf3 42. Kxf3 Bf5 43. Rb2 Kd7 44. Nc3 Kc6 45. Ke3 Be6 46. Kd2 Bf5
+47. Rb3 Be6 48. Kc1 Bf5 49. Kb2 Be4 50. g3 Bf5 51. Ka3 Bc2 52. Rb2 Bd3 53. Rf2
+1-0
+
+
+[Event "6th Norway Blitz 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.27"]
+[Round "1.4"]
+[White "Vachier Lagrave, M."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "A01"]
+[WhiteElo "2789"]
+[BlackElo "2822"]
+[PlyCount "71"]
+[EventDate "2018.05.27"]
+[EventType "tourn (blitz)"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[EventCategory "22"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 g6 4. c4 Bg7 5. Nc3 Nge7 6. Nf3 O-O 7. Be2 d5 8. cxd5
+Nxd5 9. Nxd5 Qxd5 10. O-O e4 11. Bxg7 Kxg7 12. Ne1 Bf5 13. d3 exd3 14. Nxd3
+Rfd8 15. Nf4 Qe5 16. Qc1 Nb4 17. a3 Nd5 18. Bf3 c6 19. Qc5 Qc3 20. Qxc3+ Nxc3
+21. Rfc1 Ne4 22. Bxe4 Bxe4 23. f3 Bd5 24. e4 Bxb3 25. Rab1 Ba4 26. Rxb7 Rd2 27.
+Ne6+ Kg8 28. Nc5 Bd1 29. e5 Rad8 30. Ne4 Re2 31. e6 fxe6 32. Nf6+ Kf8 33. Nxh7+
+Kg8 34. Nf6+ Kf8 35. Nd7+ Kg8 36. Rxd1 1-0
+
+
+[Event "Bundesliga TB 2017-18"]
+[Site "Baden-Baden GER"]
+[Date "2018.05.24"]
+[Round "1.1"]
+[White "Giri, A."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2776"]
+[BlackElo "2822"]
+[PlyCount "101"]
+[EventDate "2018.05.24"]
+[EventType "team"]
+[EventRounds "1"]
+[EventCountry "GER"]
+[WhiteTeam "SG Solingen"]
+[BlackTeam "OSG Baden-Baden"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bd6 7. O-O O-O 8. c4
+c6 9. Nc3 Nxc3 10. bxc3 dxc4 11. Bxc4 Bf5 12. Bg5 Qa5 13. Nh4 Be6 14. Bxe6 Qxg5
+15. Nf3 Qd8 16. Bb3 Nd7 17. Re1 g6 18. g3 Kg7 19. Qd3 Nf6 20. Rad1 Rc8 21. h4
+Rc7 22. Kg2 Re7 23. Rxe7 Qxe7 24. Re1 Qd7 25. Ne5 Bxe5 26. Rxe5 Re8 27. Qe2 h5
+28. f3 Kf8 29. Rxe8+ Nxe8 30. Qe5 Nd6 31. Kf2 Kg8 32. g4 hxg4 33. fxg4 Qd8 34.
+Kf3 Kh7 35. h5 f6 36. Qe6 Kg7 37. Kf4 a5 38. a3 gxh5 39. gxh5 Kh6 40. Bc2 Qf8
+41. Kf3 Ne8 42. Kg2 Nd6 43. Kf2 b6 44. Kf3 Ne8 45. Qxc6 Nd6 46. Qxb6 Qe7 47.
+Qb8 Nf7 48. Qg8 Ng5+ 49. Kf4 Nh3+ 50. Kf5 Qd7+ 51. Kxf6 1-0
+
+
+[Event "GCT Blitz YourNextMove"]
+[Site "Leuven BEL"]
+[Date "2018.06.16"]
+[Round "17.3"]
+[White "Karjakin, Sergey"]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "A20"]
+[WhiteElo "2782"]
+[BlackElo "2816"]
+[PlyCount "107"]
+[EventDate "2018.06.15"]
+[EventType "tourn (blitz)"]
+[EventRounds "18"]
+[EventCountry "BEL"]
+[EventCategory "22"]
+
+1. c4 e5 2. d3 Nf6 3. Nf3 Nc6 4. g3 Bb4+ 5. Nbd2 a5 6. Bg2 O-O 7. O-O Re8 8. a3
+Bc5 9. b3 d5 10. cxd5 Nxd5 11. Bb2 Bg4 12. Qc2 Ba7 13. e3 Qd7 14. Ne4 Rad8 15.
+Nc5 Qc8 16. Rac1 Rd6 17. Ng5 h6 18. Nge4 Rg6 19. Qc4 Rd8 20. Rfe1 Kh7 21. Nc3
+Nde7 22. N3a4 b6 23. Ne4 Be6 24. Qc2 Bh3 25. Bh1 b5 26. Nac3 b4 27. Nb5 Bb6 28.
+a4 Qg4 29. Nd2 Qh5 30. Nc4 Nd5 31. Nxb6 cxb6 32. d4 exd4 33. Nxd4 Ne5 34. Rcd1
+Bg4 35. Rd2 Rc8 36. Qe4 Nf6 37. Qb7 Bd7 38. f4 Neg4 39. Qf3 Qh3 40. Qg2 Qh5 41.
+e4 Ne8 42. e5 Nc7 43. h3 Nf6 44. exf6 Bxh3 45. Qf3 Bg4 46. Qf2 gxf6 47. Re7 Rg7
+48. Be4+ f5 49. Bg2 Qg6 50. Nf3 Ne6 51. Nh4 Qh5 52. Bxg7 Kxg7 53. Rxe6 fxe6 54.
+Qxb6 1-0
+
+
+[Event "GCT Blitz YourNextMove"]
+[Site "Leuven BEL"]
+[Date "2018.06.15"]
+[Round "9.2"]
+[White "Aronian, L."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "B43"]
+[WhiteElo "2764"]
+[BlackElo "2816"]
+[PlyCount "41"]
+[EventDate "2018.06.15"]
+[EventType "tourn (blitz)"]
+[EventRounds "18"]
+[EventCountry "BEL"]
+[EventCategory "22"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. g3 Nf6 7. Bg2 Bb4 8. O-O
+Bxc3 9. bxc3 d6 10. Ba3 O-O 11. e5 dxe5 12. Bxf8 Kxf8 13. Nb3 Bd7 14. Na5 Ra7
+15. Nxb7 Ke7 16. Rb1 Bb5 17. Re1 Nbd7 18. Qc1 Nd5 19. Qa3+ Kf6 20. Bxd5 exd5
+21. Rxb5 1-0
+
+
+[Event "GCT Blitz YourNextMove"]
+[Site "Leuven BEL"]
+[Date "2018.06.16"]
+[Round "10.2"]
+[White "Anand, V."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C77"]
+[WhiteElo "2759"]
+[BlackElo "2816"]
+[PlyCount "103"]
+[EventDate "2018.06.15"]
+[EventType "tourn (blitz)"]
+[EventRounds "18"]
+[EventCountry "BEL"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. O-O Bg7 8. Nbd2
+O-O 9. Re1 Nd7 10. Nf1 Nc5 11. Bxc6 bxc6 12. d4 exd4 13. cxd4 Ne6 14. Ng3 c5
+15. dxc5 Nxc5 16. Bg5 Qe8 17. Qd2 Bg4 18. Bh6 Bxf3 19. Bxg7 Kxg7 20. gxf3 Qe6
+21. f4 a5 22. f5 Qf6 23. Rac1 Rfe8 24. f4 Rad8 25. Kh1 Kh8 26. b3 h5 27. fxg6
+fxg6 28. f5 Kh7 29. Rg1 Rg8 30. Rcf1 Rdf8 31. e5 dxe5 32. Qd5 Qe7 33. fxg6+
+Rxg6 34. Rxf8 Qxf8 35. Rf1 Qd6 36. Qf7+ Rg7 37. Qxg7+ Kxg7 38. Nf5+ Kg6 39.
+Nxd6 cxd6 40. Rd1 Ne4 41. Kg2 Kf5 42. Rd5 Ke6 43. Rxa5 d5 44. b4 d4 45. Kf3 Nc3
+46. b5 e4+ 47. Kf4 e3 48. Kf3 e2 49. Kf2 d3 50. Ke1 Kd5 51. b6+ Kd4 52. b7 1-0
+
+
+[Event "GCT Blitz YourNextMove"]
+[Site "Leuven BEL"]
+[Date "2018.06.15"]
+[Round "2.4"]
+[White "Grischuk, A."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "B43"]
+[WhiteElo "2766"]
+[BlackElo "2816"]
+[PlyCount "63"]
+[EventDate "2018.06.15"]
+[EventType "tourn (blitz)"]
+[EventRounds "18"]
+[EventCountry "BEL"]
+[EventCategory "22"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Qc7 6. Bd3 Nf6 7. f4 Bb4 8. Bd2
+Bxc3 9. Bxc3 Qxf4 10. Qe2 Nc6 11. Rf1 Qh4+ 12. g3 Qg4 13. Nxc6 dxc6 14. Rxf6
+Qxe2+ 15. Kxe2 gxf6 16. Bxf6 Rg8 17. e5 h5 18. Rd1 Bd7 19. Be4 Rb8 20. Bf3 c5
+21. Rd6 Bc6 22. Bxh5 Bd5 23. b3 c4 24. Ke3 Rc8 25. g4 b5 26. g5 cxb3 27. cxb3
+Rg6 28. Kd4 Kf8 29. h4 Kg8 30. Be2 b4 31. h5 Rxf6 32. exf6 1-0
+
+
+[Event "GCT Rapid YourNextMove"]
+[Site "Leuven BEL"]
+[Date "2018.06.12"]
+[Round "3.4"]
+[White "Grischuk, A."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C42"]
+[WhiteElo "2766"]
+[BlackElo "2816"]
+[PlyCount "71"]
+[EventDate "2018.06.12"]
+[EventType "tourn (rapid)"]
+[EventRounds "9"]
+[EventCountry "BEL"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Bd3 d5 6. O-O Be7 7. Re1 Nd6 8.
+Nc3 c6 9. b3 O-O 10. Ba3 Bg4 11. h3 Bh5 12. Qe2 Bf6 13. Qe3 Re8 14. Qf4 Bxf3
+15. Bxd6 Bh5 16. Bc7 Qc8 17. Bf5 Rxe1+ 18. Rxe1 Qf8 19. Bd6 Qd8 20. Qb4 Nd7 21.
+Qxb7 Nb6 22. Qxc6 Bg6 23. Bc7 Qf8 24. Bxg6 hxg6 25. Nxd5 Nxd5 26. Qxd5 Kh7 27.
+Bd6 Qd8 28. c4 Rc8 29. b4 Qd7 30. c5 Qa4 31. Qb3 Qd7 32. Re4 Qf5 33. d3 Kg8 34.
+Qc4 Qh5 35. Re1 Qg5 36. Qg4 1-0
+
+
+[Event "GCT Rapid YourNextMove"]
+[Site "Leuven BEL"]
+[Date "2018.06.13"]
+[Round "5.5"]
+[White "Anand, V."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "B42"]
+[WhiteElo "2759"]
+[BlackElo "2816"]
+[PlyCount "113"]
+[EventDate "2018.06.12"]
+[EventType "tourn (rapid)"]
+[EventRounds "9"]
+[EventCountry "BEL"]
+[EventCategory "22"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Ba7 7. Qe2 Nc6 8.
+Be3 Nge7 9. N1d2 O-O 10. O-O Ne5 11. Bxa7 Rxa7 12. f4 Nxd3 13. cxd3 a5 14. Qf2
+Ra6 15. Nd4 d6 16. Rac1 Bd7 17. Nc4 b5 18. Ne3 Qb6 19. Nf3 Raa8 20. Nc2 Qxf2+
+21. Kxf2 Rfc8 22. Ncd4 b4 23. Ke3 f6 24. Ne2 e5 25. Rxc8+ Rxc8 26. Rc1 Be6 27.
+Rxc8+ Nxc8 28. b3 Nb6 29. d4 exf4+ 30. Nxf4 Bd7 31. d5 f5 32. Nd4 fxe4 33. Kxe4
+Kf7 34. Nc6 Kf6 35. Nxa5 Bf5+ 36. Kd4 Bb1 37. Ne2 Bxa2 38. Nc1 Bb1 39. Nc6 h5
+40. Nxb4 g5 41. Ne2 Nd7 42. Nc3 Bf5 43. Nc6 g4 44. b4 h4 45. Nb5 Ne5 46. Nxe5
+dxe5+ 47. Kc5 Bd3 48. Nc3 g3 49. hxg3 hxg3 50. d6 Bf1 51. Kc6 Bxg2+ 52. Kc7 Bh3
+53. Ne4+ Kf5 54. Nxg3+ Kf4 55. Ne2+ Ke3 56. Ng1 Bg4 57. b5 1-0
+
+
+[Event "GCT Blitz Paris 2018"]
+[Site "Paris FRA"]
+[Date "2018.06.24"]
+[Round "12.4"]
+[White "Aronian, L."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "B42"]
+[WhiteElo "2764"]
+[BlackElo "2816"]
+[PlyCount "95"]
+[EventDate "2018.06.23"]
+[EventType "tourn (blitz)"]
+[EventRounds "18"]
+[EventCountry "FRA"]
+[EventCategory "22"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Be7 7. Qg4 g6 8. Qe2
+d6 9. a4 Nc6 10. O-O Ne5 11. Kh1 Nf6 12. Nc3 Bd7 13. f4 Nxd3 14. cxd3 O-O 15.
+Be3 b5 16. a5 Bc6 17. Rf3 Re8 18. Rh3 Bf8 19. Rf1 Bg7 20. Na2 Bb7 21. Nb4 Rc8
+22. Bd4 Qe7 23. Bc3 h5 24. Qe1 e5 25. fxe5 dxe5 26. Rhf3 Qe6 27. Na1 Rc7 28.
+Nac2 Rd7 29. Ne3 Ng4 30. Ned5 f5 31. h3 Nh6 32. Qf2 f4 33. d4 g5 34. dxe5 Bxe5
+35. Bxe5 Qxe5 36. Nd3 Qd6 37. Nc5 Bxd5 38. Nxd7 Bxe4 39. Qb6 Qxd7 40. Qxh6 Bxf3
+41. Rxf3 Qg7 42. Qxh5 Re6 43. Rd3 Qe7 44. Rd5 Re5 45. Qg6+ Kh8 46. Rd6 Qf8 47.
+Qh5+ Kg8 48. Rg6+ 1-0
+
+
+[Event "GCT Blitz Paris 2018"]
+[Site "Paris FRA"]
+[Date "2018.06.23"]
+[Round "6.4"]
+[White "Grischuk, A."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2766"]
+[BlackElo "2816"]
+[PlyCount "107"]
+[EventDate "2018.06.23"]
+[EventType "tourn (blitz)"]
+[EventRounds "18"]
+[EventCountry "FRA"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a4
+Bd7 9. Bd2 O-O 10. h3 b4 11. a5 Rb8 12. c3 h6 13. Re1 Re8 14. d4 Bf8 15. d5
+bxc3 16. bxc3 Ne7 17. Ba4 g5 18. c4 Ng6 19. Nc3 Bg7 20. Qc2 Nf4 21. Reb1 Rxb1+
+22. Rxb1 Rf8 23. Bxd7 Nxd7 24. Nd1 Ne2+ 25. Kf1 Nd4 26. Nxd4 exd4 27. f3 Ne5
+28. Nf2 h5 29. Nd3 Qe7 30. Nxe5 Qxe5 31. Qd3 Re8 32. Kf2 g4 33. hxg4 hxg4 34.
+fxg4 Qxe4 35. Qxe4 Rxe4 36. Kf3 Re7 37. Rb7 Kh7 38. c5 Re5 39. Rxc7 Rxd5 40.
+cxd6 Rxd6 41. Rxf7 Kg6 42. Rb7 Rf6+ 43. Ke2 d3+ 44. Kxd3 Rf2 45. Rb6+ Kf7 46.
+Rxa6 Rxg2 47. g5 Rg3+ 48. Ke4 Rg2 49. Bf4 Bc3 50. Kf5 Ra2 51. g6+ Ke8 52. Ra8+
+Kd7 53. Ra7+ Kc6 54. Rc7+ 1-0
+
+
+[Event "GCT Blitz Paris 2018"]
+[Site "Paris FRA"]
+[Date "2018.06.24"]
+[Round "10.4"]
+[White "Anand, V."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2759"]
+[BlackElo "2816"]
+[PlyCount "103"]
+[EventDate "2018.06.23"]
+[EventType "tourn (blitz)"]
+[EventRounds "18"]
+[EventCountry "FRA"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3
+O-O 9. Nc3 h6 10. h3 Re8 11. Nd5 Bf8 12. c4 Rb8 13. Bd2 bxc4 14. Ba4 Bd7 15.
+Nxf6+ Qxf6 16. Rc1 Rb7 17. Rxc4 Nb8 18. b4 Bb5 19. Rc3 c5 20. bxc5 dxc5 21. Bb3
+Rd7 22. Bd5 Rxd5 23. exd5 e4 24. dxe4 Bxf1 25. Qxf1 Rxe4 26. Qb1 Re8 27. Re3
+Rxe3 28. Bxe3 Nd7 29. Nd2 Qd6 30. Qb7 Nf6 31. Nc4 Qxd5 32. Qxa6 Ne4 33. Kh2 Qd3
+34. Qa4 h5 35. Ne5 Qd5 36. f4 Nd6 37. Qd7 Qe4 38. Bd2 Qd4 39. Nf3 Qd3 40. a4 c4
+41. Bb4 c3 42. Ne5 Qd4 43. Bxd6 Qxf4+ 44. Kh1 c2 45. Nd3 Qxd6 46. Qxd6 Bxd6 47.
+a5 Kf8 48. a6 Bc5 49. g4 hxg4 50. hxg4 Ke7 51. Kg2 Kd7 52. Nxc5+ 1-0
+
+
+[Event "GCT Blitz Paris 2018"]
+[Site "Paris FRA"]
+[Date "2018.06.23"]
+[Round "2.1"]
+[White "Vachier Lagrave, M."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C53"]
+[WhiteElo "2789"]
+[BlackElo "2816"]
+[PlyCount "108"]
+[EventDate "2018.06.23"]
+[EventType "tourn (blitz)"]
+[EventRounds "18"]
+[EventCountry "FRA"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 O-O 6. O-O d6 7. Re1 h6 8. Nbd2
+a5 9. Nf1 Bb6 10. Be3 Bxe3 11. Nxe3 Be6 12. Bb5 Ne7 13. Ba4 Ng6 14. Bc2 Re8 15.
+d4 c6 16. Qd2 Qc7 17. Nf5 Rad8 18. Rad1 Bxa2 19. b3 a4 20. bxa4 Bc4 21. Qc1 Ne7
+22. Ne3 Be6 23. Qb2 Ra8 24. c4 Ng6 25. Rb1 Ra7 26. Red1 Ng4 27. Nf5 Rd8 28. h3
+Nf6 29. c5 dxc5 30. dxe5 Nd7 31. Rd2 Rb8 32. Nd6 c4 33. Rbd1 b5 34. Nd4 Ndxe5
+35. axb5 Qxd6 36. Nxc6 Qxc6 37. Rd8+ Kh7 38. Rxb8 Qc7 39. Rdd8 c3 40. Qc1 Qc5
+41. b6 Ra2 42. b7 Qb6 43. h4 Nc6 44. Ra8 Qxb7 45. Rxa2 Bxa2 46. Rd6 Nge5 47. f4
+Qb6+ 48. Kh1 Ng4 49. e5+ g6 50. Qe1 Be6 51. h5 Kg7 52. hxg6 Nf2+ 53. Kh2 Ng4+
+54. Kg3 Qc5 1-0
+
+
+[Event "GCT Rapid Paris 2018"]
+[Site "Paris FRA"]
+[Date "2018.06.20"]
+[Round "1.5"]
+[White "So, W."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "A45"]
+[WhiteElo "2778"]
+[BlackElo "2816"]
+[PlyCount "133"]
+[EventDate "2018.06.20"]
+[EventType "tourn (rapid)"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[EventCategory "22"]
+
+1. d4 Nf6 2. Bf4 c5 3. e3 e6 4. Nd2 d5 5. Ngf3 Nc6 6. c3 Be7 7. h3 Bd6 8. dxc5
+Bxc5 9. Bd3 O-O 10. O-O Bd6 11. Bxd6 Qxd6 12. e4 Rd8 13. Bc2 dxe4 14. Nxe4 Qe7
+15. Qe2 Bd7 16. Rad1 Be8 17. Nxf6+ Qxf6 18. h4 g6 19. Qe3 h5 20. Ng5 b6 21. Qg3
+Rxd1 22. Rxd1 Rd8 23. Re1 Kg7 24. Re3 Kg8 25. Bb3 Kh8 26. Ba4 Qe7 27. Qf3 Rc8
+28. g4 hxg4 29. Qxg4 Rd8 30. h5 Rd5 31. Rg3 f6 32. Qxe6 Qxe6 33. Nxe6 Rxh5 34.
+Nf4 Ra5 35. Nxg6+ Bxg6 36. Bxc6 Kh7 37. a3 Rc5 38. Bb7 Kg7 39. b4 Re5 40. f4
+Re7 41. Bd5 f5 42. Kf2 Rc7 43. c4 Kf6 44. Ke3 Re7+ 45. Kd2 Rh7 46. Re3 Bf7 47.
+Bxf7 Kxf7 48. Rd3 Ke6 49. Kc3 Rh4 50. Rd4 Rh3+ 51. Rd3 Rh4 52. Rd4 Rh3+ 53. Kb2
+a5 54. bxa5 bxa5 55. c5 Ke7 56. Rd5 a4 57. Rxf5 Rb3+ 58. Ka2 Rf3 59. Re5+ Kd7
+60. Re4 Rf2+ 61. Kb1 Kc6 62. Rc4 Re2 63. Kc1 Rf2 64. Kd1 Kb5 65. Ke1 Rb2 66. c6
+Kxc4 67. c7 1-0
+
+
+[Event "GCT Rapid Paris 2018"]
+[Site "Paris FRA"]
+[Date "2018.06.21"]
+[Round "4.5"]
+[White "Nakamura, Hi"]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "2769"]
+[BlackElo "2816"]
+[PlyCount "245"]
+[EventDate "2018.06.20"]
+[EventType "tourn (rapid)"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[EventCategory "22"]
+
+1. Nf3 d5 2. b3 Nf6 3. Bb2 Bf5 4. g3 e6 5. Bg2 Nbd7 6. c4 c6 7. O-O h6 8. d4
+Be7 9. Nfd2 O-O 10. Nc3 a5 11. e3 Qb6 12. Qe2 Rfe8 13. Rfc1 Rad8 14. a3 Bf8 15.
+Qf1 Bg6 16. h3 Qa7 17. b4 axb4 18. axb4 Qb8 19. b5 e5 20. c5 h5 21. Na4 exd4
+22. Bxd4 Bf5 23. bxc6 bxc6 24. Nb6 Ne5 25. Bxe5 Qxe5 26. Nf3 Qc7 27. Nd4 Be4
+28. Ra6 Qb7 29. Na4 Ra8 30. Rb6 Qd7 31. Nb2 Rec8 32. Nd3 Qe8 33. Nb4 Ra5 34.
+Rxc6 Rxc6 35. Nbxc6 Rxc5 36. Rxc5 Bxc5 37. Qc1 Bd6 38. Nb5 Bf8 39. Ncd4 Qa8 40.
+Nc3 Bb4 41. Nxe4 dxe4 42. Qb1 Bc3 43. Nb3 Qd5 44. Qc2 Qe5 45. Nc1 Bb4 46. Ne2
+g6 47. Nd4 Kg7 48. Qc4 Bd6 49. h4 Qc5 50. Qxc5 Bxc5 51. Ne2 Bb4 52. Nf4 Kg8 53.
+Nh3 Bf8 54. Nf4 Bd6 55. Nh3 Bf8 56. Kf1 Bg7 57. Ke2 Kf8 58. Kd2 Ke7 59. Kc2 Bh6
+60. Kc3 Ke6 61. Kd4 Kf5 62. Nf4 Bg7 63. Nh3 Bh6 64. Kc4 Ke5 65. Kc3 Ng4 66. Kd2
+f5 67. Bf1 Kf6 68. Bb5 Bf8 69. Ke2 Bd6 70. Kf1 Be5 71. Kg2 Bd6 72. Ng1 Be5 73.
+Ne2 Ke7 74. Nc1 Nf6 75. Nb3 Ng4 76. Be2 Nf6 77. Na5 Bd6 78. Nc6+ Kf7 79. Bc4+
+Kg7 80. Nd4 Ng4 81. Be2 Ne5 82. Bxh5 Kf6 83. Be2 Bc5 84. Nb5 Bb6 85. Nc3 Bc5
+86. g4 Ke6 87. g5 Be7 88. Bd1 Kf7 89. Nd5 Bd6 90. h5 gxh5 91. Bxh5+ Kg7 92. Nf4
+Nd3 93. Ne6+ Kh7 94. Be8 Ne5 95. Nd4 Be7 96. Nxf5 Bxg5 97. Ng3 Ng4 98. Nf1 Kg7
+99. Bc6 Nf6 100. Ng3 Ng4 101. Bxe4 Kf6 102. Kf3 Ne5+ 103. Ke2 Nf7 104. f4 Bh6
+105. Kf3 Nd6 106. Bd3 Nb7 107. e4 Nc5 108. e5+ Kf7 109. Bc4+ Kg6 110. Kg4 Nd7
+111. Bb5 Nc5 112. f5+ Kf7 113. Bc4+ Kg7 114. Nh5+ Kf8 115. Nf4 Nd7 116. Ng6+
+Kg7 117. Bb5 Nf8 118. Ne7 Bc1 119. f6+ Kf7 120. Kf5 Bb2 121. Bc4+ Ke8 122. Nd5
+Nd7 123. Bb5 1-0
+
+
+[Event "GCT Blitz Paris 2018"]
+[Site "Paris FRA"]
+[Date "2018.06.24"]
+[Round "18.1"]
+[White "Nakamura, Hi"]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "D37"]
+[WhiteElo "2769"]
+[BlackElo "2816"]
+[PlyCount "243"]
+[EventDate "2018.06.23"]
+[EventType "tourn (blitz)"]
+[EventRounds "18"]
+[EventCountry "FRA"]
+[EventCategory "22"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 a6 5. cxd5 exd5 6. Bg5 Be6 7. e3 Nbd7 8.
+Bd3 Bd6 9. O-O O-O 10. Rc1 c6 11. Bf4 Bxf4 12. exf4 Bg4 13. Be2 Bxf3 14. Bxf3
+Re8 15. g3 Nb6 16. b3 Qd6 17. Qd3 Re7 18. Rfe1 Rae8 19. Re5 Nbd7 20. Rc2 Qb4
+21. Rxe7 Rxe7 22. Kg2 Nf8 23. h4 Ne6 24. Ne2 Nc7 25. Qc3 Qxc3 26. Rxc3 Kf8 27.
+h5 Ne4 28. Rc2 Nd6 29. Kf1 Re8 30. a4 a5 31. Nc1 Ne6 32. Ne2 Ra8 33. Bg4 f5 34.
+Bf3 Ra6 35. Rc3 Rb6 36. Ke1 Rb4 37. Rd3 b5 38. Rc3 bxa4 39. bxa4 Nc4 40. Rc1
+Rxa4 41. Nc3 Ra3 42. Be2 Nd6 43. Bd1 Nxd4 44. Ne2 N6b5 45. Nxd4 Nxd4 46. Rb1
+Nb5 47. Be2 Nd6 48. Rb6 Rc3 49. Ra6 Rc5 50. f3 Ke7 51. Ra7+ Kf6 52. h6 gxh6 53.
+Bd3 Rc3 54. Kd2 Ra3 55. Ra6 Ra2+ 56. Ke1 Rg2 57. Rxc6 Ke7 58. Rc7+ Ke6 59. Rxh7
+Nf7 60. Bb5 Rxg3 61. Be8 Nd6 62. Kf2 Rh3 63. Bc6 d4 64. Kg2 Rh4 65. Kg3 Rh1 66.
+Kg2 Ra1 67. Rxh6+ Ke7 68. Rh7+ Kf8 69. Rd7 Nc4 70. Rxd4 Rc1 71. Bb5 Nb6 72. Rd6
+Nc4 73. Ra6 Ke7 74. Kf2 Rc2+ 75. Kg3 Ne3 76. Rxa5 Rg2+ 77. Kh4 Rg1 78. Ra6 Kf7
+79. Ra3 Ng2+ 80. Kg3 Ne1+ 81. Kf2 Rh1 82. Bc4+ Kf6 83. Ra6+ Kg7 84. Ra7+ Kf6
+85. Rf7+ Kg6 86. Rc7 Nc2 87. Rc6+ Kg7 88. Rc7+ Kf6 89. Rc6+ Kg7 90. Rd6 Nb4 91.
+Be6 Kf6 92. Bc8+ Ke7 93. Rd7+ Kf6 94. Rd4 Rb1 95. Rd6+ Ke7 96. Rh6 Nd3+ 97. Ke3
+Nc5 98. Bxf5 Rb3+ 99. Kf2 Kf7 100. Kg3 Rb2 101. Rc6 Rb5 102. Kg4 Ra5 103. Rb6
+Na4 104. Rb7+ Kf6 105. Rb8 Nc3 106. Rb6+ Ke7 107. Be4 Ra1 108. f5 Rg1+ 109. Kf4
+Kf7 110. Ke5 Ra1 111. Rb7+ Kf8 112. Rc7 Ra5+ 113. Kf6 Ra6+ 114. Kg5 Ne2 115. f6
+Ra5+ 116. Kg4 Ra6 117. Kf5 Ra5+ 118. Kg4 Ra6 119. Kg5 Ra5+ 120. Kh6 Nf4 121.
+Bg6 Ra8 122. Rh7 1-0
+
+
+[Event "chess.com Speed 1m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2018.07.24"]
+[Round "20"]
+[White "Aronian, L."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C11"]
+[WhiteElo "2767"]
+[BlackElo "2822"]
+[PlyCount "119"]
+[EventDate "2018.07.24"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2
+b6 9. Bb5 Bb7 10. O-O a6 11. Bxc6 Bxc6 12. Nd1 Qc7 13. Nf2 O-O-O 14. a4 Kb8 15.
+b3 Bb7 16. Nd3 c4 17. Nf2 f5 18. exf6 gxf6 19. Qe2 Bd6 20. Rae1 Rde8 21. g3
+Rhg8 22. Nh4 Bxf4 23. Bxf4 Qxf4 24. Nf3 Qc7 25. Qd2 Rxg3+ 26. hxg3 Qxg3+ 27.
+Kh1 Qxf3+ 28. Kh2 Rg8 29. Rg1 Rxg1 30. Rxg1 e5 31. Rg7 Bc6 32. Nh3 cxb3 33.
+cxb3 Qxb3 34. a5 b5 35. Rxh7 Qc4 36. dxe5 fxe5 37. Qh6 Qc2+ 38. Kg3 Qd3+ 39.
+Kh4 Qe4+ 40. Kg3 Qd3+ 41. Kh4 Kc7 42. Ng5 Qd4+ 43. Kh5 Qd1+ 44. Kg6 d4 45. Ne6+
+Kd6 46. Kf7 Kd5 47. Nc7+ Kc5 48. Ke7 Qf3 49. Nxa6+ Kc4 50. Kd8 Qd5 51. Kc7 Ba8
+52. Rxd7 Qb7+ 53. Kd8 Qf3 54. Nc7 d3 55. Nxa8 Qxa8+ 56. Ke7 Qe4 57. a6 b4 58.
+a7 b3 59. Qa6+ Kc3 60. a8=Q 1-0
+
+
+[Event "chess.com Speed 1m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2018.07.24"]
+[Round "24"]
+[White "Aronian, L."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "A40"]
+[WhiteElo "2767"]
+[BlackElo "2822"]
+[PlyCount "43"]
+[EventDate "2018.07.24"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. d4 Nc6 2. d5 Ne5 3. f4 Ng6 4. e4 e6 5. dxe6 fxe6 6. Nf3 Bc5 7. Nc3 Nf6 8. e5
+Ng4 9. Ne4 Bb6 10. c4 Qe7 11. Qc2 Be3 12. g3 O-O 13. Bh3 Bxc1 14. Rxc1 Nh6 15.
+O-O b6 16. Neg5 Bb7 17. Nxh7 Bxf3 18. Qxg6 Qc5+ 19. Rf2 Qe3 20. Rc3 Qe1+ 21.
+Rf1 Qe2 22. Rcxf3 1-0
+
+
+[Event "chess.com Speed 1m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2018.07.24"]
+[Round "22"]
+[White "Aronian, L."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "B13"]
+[WhiteElo "2767"]
+[BlackElo "2822"]
+[PlyCount "49"]
+[EventDate "2018.07.24"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c3 Nc6 5. Bd3 Nf6 6. h3 g6 7. Qc2 e5 8. dxe5
+Nxe5 9. Nd2 Nxd3+ 10. Qxd3 Bd6 11. Ngf3 O-O 12. O-O Bf5 13. Qd4 Re8 14. Rd1 Rc8
+15. Nb3 Be4 16. Bg5 Re6 17. Nfd2 Qe7 18. Re1 Kg7 19. Rad1 Bc2 20. Rxe6 fxe6 21.
+Re1 b6 22. Bxf6+ Qxf6 23. Rxe6 Qxd4 24. Nxd4 Bc5 25. Nxc2 1-0
+
+
+[Event "chess.com Speed 1m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2018.07.24"]
+[Round "26"]
+[White "Aronian, L."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C15"]
+[WhiteElo "2767"]
+[BlackElo "2822"]
+[PlyCount "77"]
+[EventDate "2018.07.24"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Bd3 Nf6 6. Nge2 O-O 7. O-O c6 8.
+Bg5 h6 9. Bh4 Re8 10. f3 Nbd7 11. Qd2 Nf8 12. Rae1 Bd6 13. Bg3 Ng6 14. Bxd6
+Qxd6 15. Bxg6 fxg6 16. Nd1 g5 17. Nc1 Bf5 18. c3 Bg6 19. Nd3 Nd7 20. N1f2 a5
+21. Ng4 Bf5 22. Nde5 Nxe5 23. Nxe5 a4 24. a3 Rf8 25. f4 g4 26. Qf2 h5 27. Qh4
+g6 28. Re3 Be4 29. h3 gxh3 30. Rxh3 Qf6 31. Qg3 Qf5 32. Qh2 Kg7 33. g4 Qe6 34.
+f5 gxf5 35. Rxh5 Rh8 36. gxf5 Rxh5 37. Qxh5 Qf6 38. Qg4+ Kh8 39. Rf2 1-0
+
+
+[Event "chess.com Speed 5m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2018.07.24"]
+[Round "2"]
+[White "Aronian, L."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C16"]
+[WhiteElo "2767"]
+[BlackElo "2822"]
+[PlyCount "87"]
+[EventDate "2018.07.24"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 b6 7. Qg4 Kf8 8. Nh3
+Ba6 9. Bxa6 Nxa6 10. Nf4 Nb8 11. Nh5 Nf5 12. Bg5 Qe8 13. O-O h6 14. Bd2 Qa4 15.
+Qd1 Nd7 16. g4 Ne7 17. f4 g6 18. Ng3 Ke8 19. f5 Nf8 20. fxg6 fxg6 21. Qc1 h5
+22. Bh6 hxg4 23. Bxf8 Rxf8 24. Rxf8+ Kxf8 25. Qh6+ Kg8 26. Qg5 Qe8 27. Rf1 Kh7
+28. Rf6 Qg8 29. Nh5 Rf8 30. Qh4 g5 31. Qxg4 Nf5 32. Rxf8 Qxf8 33. Qxg5 c5 34.
+Nf6+ Kh8 35. Qh5+ Nh6 36. Ng4 Kh7 37. Kg2 Qg7 38. Kg3 a5 39. dxc5 bxc5 40.
+Qxh6+ Qxh6 41. Nxh6 Kxh6 42. Kg4 Kg6 43. a4 Kh6 44. h4 1-0
+
+
+[Event "chess.com Speed 5m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2018.07.24"]
+[Round "4"]
+[White "Aronian, L."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "2767"]
+[BlackElo "2822"]
+[PlyCount "93"]
+[EventDate "2018.07.24"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 O-O 7. Re1 h6 8. Bb3
+a5 9. Nbd2 Ba7 10. Nf1 Ne7 11. Ng3 Ng6 12. h3 Re8 13. d4 b5 14. Be3 a4 15. Bc2
+Be6 16. Qd2 Kh7 17. Nf5 Ng8 18. h4 f6 19. b3 Bb6 20. Rad1 axb3 21. axb3 Ra2 22.
+Qc1 Qa8 23. h5 N6e7 24. Ng3 Bg4 25. Rd2 Nc6 26. Bd3 Rxd2 27. Nxd2 exd4 28. cxd4
+Nxd4 29. Qb2 c5 30. Bxd4 cxd4 31. Bxb5 Re7 32. Bd3 Kh8 33. Nc4 Ba7 34. Nxd6 Bc5
+35. Ndf5 Ra7 36. b4 Ra2 37. Qb1 Bf8 38. e5 fxe5 39. Nh4 Ne7 40. Bc4 Ra3 41.
+Ng6+ Nxg6 42. Qxg6 Qc8 43. Bd3 Rxd3 44. Qxd3 Bxb4 45. Rxe5 Bd6 46. Re1 Bc5 47.
+Qg6 1-0
+
+
+[Event "chess.com Speed 5m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2018.07.24"]
+[Round "6"]
+[White "Aronian, L."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "2767"]
+[BlackElo "2822"]
+[PlyCount "93"]
+[EventDate "2018.07.24"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. e4 c5 2. Nc3 e6 3. Nge2 a6 4. g3 b5 5. Bg2 Bb7 6. O-O Nc6 7. d4 cxd4 8. Nxd4
+Nxd4 9. Qxd4 Ne7 10. Be3 Nc6 11. Qd2 Be7 12. Rad1 d6 13. a4 b4 14. Ne2 O-O 15.
+Nd4 Rb8 16. f4 Qc7 17. f5 Nxd4 18. Bxd4 e5 19. Be3 a5 20. g4 Rbc8 21. g5 f6 22.
+gxf6 gxf6 23. Bh6 Rfd8 24. Rf3 Kh8 25. Rg3 Rg8 26. Rc1 Rxg3 27. hxg3 Rg8 28.
+Kh2 Qd7 29. b3 d5 30. Bf3 d4 31. g4 Qc7 32. Qf2 Qc3 33. Rd1 Ba6 34. Rd2 Bf8 35.
+Qh4 Be7 36. Qf2 Rc8 37. Qg3 Qb2 38. Bd1 Qc1 39. Qg2 Bb7 40. Bf3 Qe1 41. Kh3 Rc3
+42. Rd3 Qb1 43. Rxc3 bxc3 44. Qe2 Qg1 45. Qc4 Qf2 46. Bg2 Qg1 47. Qf7 1-0
+
+
+[Event "chess.com Speed 5m+1spm 2017"]
+[Site "chess.com INT"]
+[Date "2018.07.24"]
+[Round "8"]
+[White "Aronian, L."]
+[Black "Caruana, F."]
+[Result "1-0"]
+[ECO "A44"]
+[WhiteElo "2767"]
+[BlackElo "2822"]
+[PlyCount "87"]
+[EventDate "2018.07.24"]
+[EventType "k.o. (blitz)"]
+[EventRounds "4"]
+[EventCountry "USA"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. Bb5+ Nd7 5. a4 Ngf6 6. Nc3 Be7 7. Nf3 O-O 8. O-O
+Kh8 9. Nd2 g6 10. Nc4 Ng8 11. f4 exf4 12. Bxf4 Nb6 13. e5 Nxc4 14. Bxc4 dxe5
+15. Bxe5+ f6 16. Bg3 f5 17. d6 Bf6 18. Nd5 Bd4+ 19. Kh1 Be6 20. Qe2 Bxd5 21.
+Bxd5 Nf6 22. c3 Re8 23. Be6 Ne4 24. cxd4 Rxe6 25. Be5+ Kg8 26. Qc4 Qd7 27. dxc5
+Nd2 28. Qd5 Nxf1 29. Rxf1 Rae8 30. Bc3 h5 31. h3 Kh7 32. Kh2 Re2 33. b4 R2e3
+34. Ba1 R8e6 35. b5 R3e4 36. Rd1 Qd8 37. Qxb7+ Kh6 38. Qg7+ Kg5 39. Bb2 Re2 40.
+Bc1+ f4 41. Rf1 Rf6 42. Qb7 Qe8 43. Qd5+ Re5 44. d7 1-0

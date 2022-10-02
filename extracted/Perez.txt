@@ -1,0 +1,1251 @@
+White	White ELO	Black	Black ELO	Result	Date
+Dominguez Perez, Leinier	2726	Shankland, Sam	2616	1/2-1/2	2022.07.10
+Wei, Yi	2752	Dominguez Perez, Leinier	2726	1-0	2022.07.10
+Dominguez Perez, Leinier	2726	Duda, Jan-Krzysztof	2808	1/2-1/2	2022.07.11
+Dreev, Aleksey	2625	Dominguez Perez, Leinier	2728	1-0	2022.03.12
+Tabatabaei, M. Amin	2544	Dominguez Perez, Leinier	2728	1-0	2022.03.12
+Dominguez Perez, Leinier	2726	Giri, Anish	2721	1/2-1/2	2022.07.12
+Sadhwani, Raunak	2622	Dominguez Perez, Leinier	2754	1-0	2022.08.06
+Dominguez Perez, Leinier	2754	Banikas, Hristos	2598	1/2-1/2	2022.08.07
+Erigaisi, Arjun	2689	Dominguez Perez, Leinier	2754	1-0	2022.08.09
+Dominguez Perez, Leinier	2705	Xiong, Jeffery	2725	1/2-1/2	2022.08.26
+Dominguez Perez, Leinier	2705	Nepomniachtchi, Ian	2795	1/2-1/2	2022.08.27
+Dominguez Perez, Leinier	2705	Vachier-Lagrave, Maxime	2763	1/2-1/2	2022.08.28
+Mamedyarov, Shakhriyar	2695	Dominguez Perez, Leinier	2705	1-0	2022.08.28
+Caruana, Fabiano	2847	Dominguez Perez, Leinier	2708	1-0	2022.08.29
+Vachier-Lagrave, Maxime	2812	Dominguez Perez, Leinier	2708	1-0	2022.08.29
+Xiong, Jeffery	2714	Dominguez Perez, Leinier	2708	1-0	2022.08.29
+Aronian, Levon	2850	Dominguez Perez, Leinier	2708	1-0	2022.08.29
+Dominguez Perez, Leinier	2708	Shankland, Sam	2645	1/2-1/2	2022.08.30
+Nakamura, Hikaru	2850	Dominguez Perez, Leinier	2708	1-0	2022.08.30
+Dominguez Perez, Leinier	2754	Vachier-Lagrave, Maxime	2757	1/2-1/2	2022.09.02
+Dominguez Perez, Leinier	2754	Nepomniachtchi, Ian	2792	1/2-1/2	2022.09.04
+Dominguez Perez, Leinier	2745	Niemann, Hans Moke	2688	1/2-1/2	2022.09.06
+Dominguez Perez, Leinier	2745	Firouzja, Alireza	2778	1/2-1/2	2022.09.09
+Dominguez Perez, Leinier	2745	Mamedyarov, Shakhriyar	2757	1/2-1/2	2022.09.10
+Dominguez Perez, Leinier	2703	Hansen, Eric	2579	1/2-1/2	2022.09.22
+Dominguez Perez, Leinier	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Tue Nov 12 2019
+Dominguez Perez, Leinier	0	Rapport, Richard	0	1/2-1/2	Fri Nov 15 2019
+Dominguez Perez, Leinier	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Fri Dec 27 2019
+Dominguez Perez, Leinier	0	Jumabayev, Rinat	0	1/2-1/2	Thu Dec 26 2019
+Dominguez Perez, Leinier	0	Kobalia, Mikhail	0	0-1	Sun Dec 29 2019
+Dominguez Perez, Leinier	0	Predke, Alexandr	0	0-1	Sun Dec 29 2019
+Dominguez Perez, Leinier	0	Sadhwani, Raunak	0	1/2-1/2	Mon Dec 30 2019
+Dominguez Perez, Leinier	0	Turov, Maxim	0	1/2-1/2	Mon Dec 30 2019
+Dominguez Perez, Leinier	0	Kazhgaleyev, Murtas	0	0-1	Sun Dec 29 2019
+Dominguez Perez, Leinier	0	Khanin, Semen	0	1/2-1/2	Sun Dec 29 2019
+Dominguez Perez, Leinier	0	Duda, Jan-Krzysztof	0	1/2-1/2	Sat Dec 28 2019
+Dominguez Perez, Leinier	0	Chigaev, Maksim	0	0-1	Mon Dec 30 2019
+Dominguez Perez,L	2739	Topalov,V	2740	0-1	2019.02.20
+Dominguez Perez,L	2739	Topalov,V	2740	0-1	2019.02.20
+Dominguez Perez,L	2739	Topalov,V	2740	0-1	2019.02.23
+Dominguez Perez,L	2739	Topalov,V	2740	0-1	2019.02.23
+Dominguez Perez,L	2750	Vidit,S	2707	0-1	2019.05.17
+Dominguez Perez,L	2750	Gelfand,B	2676	0-1	2019.05.17
+Dominguez Perez,L	2750	Fedoseev,Vl3	2683	0-1	2019.05.17
+Dominguez Perez,L	2763	Yu Yangyi	2752	0-1	2019.08.10
+Dominguez Perez,L	2763	Mamedyarov,S	2764	0-1	2019.08.13
+Dominguez Perez,L	2763	Karjakin,Sergey	2750	0-1	2019.08.13
+Dominguez Perez,L	2763	Mihajlov,Seb	2387	0-1	2019.09.25
+Dominguez Perez,L	2763	Mihajlov,Seb	2387	1-0	2019.09.25
+Dominguez Perez,L	2763	Mihajlov,Seb	2387	1-0	2019.09.25
+Dominguez Perez, Leinier	0	Guseinov, Gadir	0	1/2-1/2	Fri Dec 27 2019
+Dominguez Perez, Leinier	0	Nakamura, Hikaru	0	1/2-1/2	Sat Dec 28 2019
+Dominguez Perez,L	2739	Topalov,V	2740	1/2-1/2	2019.02.20
+Dominguez Perez,L	2739	Topalov,V	2740	1/2-1/2	2019.02.20
+Dominguez Perez,L	2739	Topalov,V	2740	1/2-1/2	2019.02.20
+Dominguez Perez,L	2739	Topalov,V	2740	1/2-1/2	2019.02.23
+Dominguez Perez,L	2739	Topalov,V	2740	1/2-1/2	2019.02.23
+Dominguez Perez,L	2739	Topalov,V	2740	1/2-1/2	2019.02.23
+Dominguez Perez,L	2739	Topalov,V	2740	1/2-1/2	2019.02.23
+Dominguez Perez,L	2739	Topalov,V	2740	1/2-1/2	2019.02.23
+Dominguez Perez,L	2739	Topalov,V	2740	1/2-1/2	2019.02.23
+Dominguez Perez,L	2739	Topalov,V	2740	1/2-1/2	2019.02.23
+Dominguez Perez,L	2739	Shankland,S	2731	1/2-1/2	2019.03.20
+Dominguez Perez,L	2739	Xiong,Jeffery	2663	1/2-1/2	2019.03.20
+Dominguez Perez,L	2739	Gareev,T	2557	1/2-1/2	2019.03.20
+Dominguez Perez,L	2750	Cheparinov,I	2667	1/2-1/2	2019.05.17
+Dominguez Perez,L	2750	Leko,P	2674	1/2-1/2	2019.05.17
+Dominguez Perez,L	2750	Andreikin,D	2722	1/2-1/2	2019.05.17
+Dominguez Perez,L	2750	Jones,G	2702	1/2-1/2	2019.05.17
+Dominguez Perez,L	2750	Bu Xiangzhi	2729	1/2-1/2	2019.05.17
+Dominguez Perez,L	2750	Fedoseev,Vl3	2683	1/2-1/2	2019.05.14
+Dominguez Perez,L	2750	Vidit,S	2707	1/2-1/2	2019.05.14
+Dominguez Perez,L	2750	Rapport,R	2736	1/2-1/2	2019.05.14
+Dominguez Perez,L	2760	Gelfand,B	2676	1/2-1/2	2019.06.23
+Dominguez Perez,L	2760	Radjabov,T	2759	1/2-1/2	2019.07.13
+Gareyev, Timur	0	Dominguez Perez, Leinier	0	1-0	Sun Dec 29 2019
+Socko, Bartosz	0	Dominguez Perez, Leinier	0	1-0	Sun Dec 29 2019
+Laznicka, Viktor	0	Dominguez Perez, Leinier	0	1-0	Sun Dec 29 2019
+Topalov,V	2740	Dominguez Perez,L	2739	1-0	2019.02.20
+Topalov,V	2740	Dominguez Perez,L	2739	1-0	2019.02.20
+Topalov,V	2740	Dominguez Perez,L	2739	1-0	2019.02.23
+Topalov,V	2740	Dominguez Perez,L	2739	1-0	2019.02.23
+Andreikin,D	2722	Dominguez Perez,L	2750	1-0	2019.05.17
+Bu Xiangzhi	2729	Dominguez Perez,L	2750	1-0	2019.05.17
+Yu Yangyi	2739	Dominguez Perez,L	2750	1-0	2019.05.17
+Fedoseev,Vl3	2683	Dominguez Perez,L	2750	1-0	2019.05.17
+Korobov,A	2687	Dominguez Perez,L	2750	1-0	2019.05.14
+Le Quang Liem	2704	Dominguez Perez,L	2750	1-0	2019.05.14
+McShane,L	2688	Dominguez Perez,L	2760	1-0	2019.06.23
+Dominguez Perez,L	2760	Kulaots,K	2560	1/2-1/2	2019.07.13
+Vachier Lagrave,M	2778	Dominguez Perez,L	2763	1-0	2019.08.10
+Dominguez Perez,L	2763	Ding Liren	2805	1/2-1/2	2019.08.10
+Dominguez Perez,L	2763	Caruana,F	2818	1/2-1/2	2019.08.10
+Dominguez Perez,L	2763	Caruana,F	2818	1/2-1/2	2019.08.13
+Dominguez Perez,L	2763	Rapport,R	2747	1/2-1/2	2019.08.13
+Dominguez Perez,L	2763	Ding Liren	2805	1/2-1/2	2019.08.13
+Dominguez Perez,L	2763	Wang Hao	2726	1/2-1/2	2019.09.10
+Dominguez Perez,L	2763	Abasov,N	2632	1/2-1/2	2019.09.10
+Dominguez Perez,L	2763	Grischuk,A	2759	1/2-1/2	2019.09.10
+Dominguez Perez,L	2758	Khanin,S	2500	1/2-1/2	2019.12.29
+Timofeev, Artyom	0	Dominguez Perez, Leinier	0	0-1	Thu Dec 26 2019
+Aravindh, Chithambaram VR.	0	Dominguez Perez, Leinier	0	0-1	Sun Dec 29 2019
+Castellanos Rodriguez, Renier	0	Dominguez Perez, Leinier	0	0-1	Sun Dec 29 2019
+Iljiushenok, Ilia	0	Dominguez Perez, Leinier	0	0-1	Mon Dec 30 2019
+Moiseenko, Vadim	0	Dominguez Perez, Leinier	0	0-1	Mon Dec 30 2019
+Safarli, Eltaj	0	Dominguez Perez, Leinier	0	0-1	Mon Dec 30 2019
+Golubov, Saveliy	0	Dominguez Perez, Leinier	0	0-1	Mon Dec 30 2019
+Pigusov, Evgeny	0	Dominguez Perez, Leinier	0	0-1	Mon Dec 30 2019
+Mamedyarov,S	2764	Dominguez Perez,L	2763	1-0	2019.08.10
+Carlsen,M	2882	Dominguez Perez,L	2763	1-0	2019.08.10
+Ding Liren	2805	Dominguez Perez,L	2763	1-0	2019.08.13
+Yu Yangyi	2752	Dominguez Perez,L	2763	1-0	2019.08.13
+Karjakin,Sergey	2750	Dominguez Perez,L	2763	1-0	2019.08.13
+Mamedyarov,S	2764	Dominguez Perez,L	2763	1-0	2019.08.13
+Caruana,F	2818	Dominguez Perez,L	2763	1-0	2019.08.13
+Rapport,R	2747	Dominguez Perez,L	2763	1-0	2019.08.13
+Vachier Lagrave,M	2778	Dominguez Perez,L	2763	1-0	2019.08.13
+Grischuk,A	2759	Dominguez Perez,L	2763	1-0	2019.09.10
+Grischuk,A	2759	Dominguez Perez,L	2763	1-0	2019.09.10
+Wang Hao	2726	Dominguez Perez,L	2763	1-0	2019.09.10
+Wang Hao	2726	Dominguez Perez,L	2763	1-0	2019.09.10
+Mihajlov,Seb	2387	Dominguez Perez,L	2763	1-0	2019.09.25
+Mihajlov,Seb	2387	Dominguez Perez,L	2763	1-0	2019.09.25
+Mihajlov,Seb	2387	Dominguez Perez,L	2763	1-0	2019.09.25
+Mihajlov,Seb	2387	Dominguez Perez,L	2763	1-0	2019.09.25
+Harikrishna, P.	0	Dominguez Perez, Leinier	0	1/2-1/2	Wed Nov 13 2019
+Ponomariov, Ruslan	0	Dominguez Perez, Leinier	0	1/2-1/2	Thu Nov 14 2019
+Sjugirov, Sanan	0	Dominguez Perez, Leinier	0	1/2-1/2	Sat Nov 16 2019
+Motylev, Alexander	0	Dominguez Perez, Leinier	0	1/2-1/2	Fri Dec 27 2019
+Smirin, Ilia	0	Dominguez Perez, Leinier	0	1/2-1/2	Fri Dec 27 2019
+Donchenko, Alexander	0	Dominguez Perez, Leinier	0	1/2-1/2	Sun Dec 29 2019
+Topalov,V	2740	Dominguez Perez,L	2739	0-1	2019.02.23
+Topalov,V	2740	Dominguez Perez,L	2739	0-1	2019.02.23
+Topalov,V	2740	Dominguez Perez,L	2739	0-1	2019.02.23
+Topalov,V	2740	Dominguez Perez,L	2739	0-1	2019.02.23
+Robson,R	2667	Dominguez Perez,L	2739	0-1	2019.03.20
+Sevian,Samuel	2642	Dominguez Perez,L	2739	0-1	2019.03.20
+Malakhov,V	2660	Dominguez Perez,L	2750	0-1	2019.05.01
+Kamsky,G	2664	Dominguez Perez,L	2750	0-1	2019.05.01
+Mamedov,Rau	2650	Dominguez Perez,L	2750	0-1	2019.05.17
+Jones,G	2702	Dominguez Perez,L	2750	0-1	2019.05.17
+Gelfand,B	2676	Dominguez Perez,L	2750	0-1	2019.05.14
+Yu Yangyi	2739	Dominguez Perez,L	2750	0-1	2019.05.14
+Rapport,R	2747	Dominguez Perez,L	2763	0-1	2019.08.10
+Abasov,N	2632	Dominguez Perez,L	2763	0-1	2019.09.10
+Escobar Forero,A	2504	Dominguez Perez,L	2763	0-1	2019.09.10
+Frolyanov,D	2556	Dominguez Perez,L	2758	0-1	2019.12.26
+Mihajlov,Seb	2387	Dominguez Perez,L	2763	0-1	2019.09.25
+Mihajlov,Seb	2387	Dominguez Perez,L	2763	0-1	2019.09.25
+Mihajlov,Seb	2387	Dominguez Perez,L	2763	0-1	2019.09.25
+Carlsen, Magnus	0	Dominguez Perez, Leinier	0	1/2-1/2	Sat Dec 28 2019
+Nepomniachtchi, Ian	0	Dominguez Perez, Leinier	0	1/2-1/2	Fri Dec 27 2019
+Grischuk, Alexander	0	Dominguez Perez, Leinier	0	1/2-1/2	Sat Dec 28 2019
+Topalov,V	2740	Dominguez Perez,L	2739	1/2-1/2	2019.02.20
+Topalov,V	2740	Dominguez Perez,L	2739	1/2-1/2	2019.02.20
+Topalov,V	2740	Dominguez Perez,L	2739	1/2-1/2	2019.02.20
+Topalov,V	2740	Dominguez Perez,L	2739	1/2-1/2	2019.02.20
+Topalov,V	2740	Dominguez Perez,L	2739	1/2-1/2	2019.02.23
+Topalov,V	2740	Dominguez Perez,L	2739	1/2-1/2	2019.02.23
+Topalov,V	2740	Dominguez Perez,L	2739	1/2-1/2	2019.02.23
+Topalov,V	2740	Dominguez Perez,L	2739	1/2-1/2	2019.02.23
+Topalov,V	2740	Dominguez Perez,L	2739	1/2-1/2	2019.02.23
+Topalov,V	2740	Dominguez Perez,L	2739	1/2-1/2	2019.02.23
+Akobian,V	2625	Dominguez Perez,L	2739	1/2-1/2	2019.03.20
+Caruana,F	2828	Dominguez Perez,L	2739	1/2-1/2	2019.03.20
+So,W	2762	Dominguez Perez,L	2739	1/2-1/2	2019.03.20
+Nakamura,Hi	2746	Dominguez Perez,L	2739	1/2-1/2	2019.03.20
+Bocharov,I	2568	Dominguez Perez,L	2750	1/2-1/2	2019.05.01
+Alekseev,Evgeny	2647	Dominguez Perez,L	2750	1/2-1/2	2019.05.01
+Cheparinov,I	2667	Dominguez Perez,L	2750	1/2-1/2	2019.05.17
+Wang Hao	2735	Dominguez Perez,L	2750	1/2-1/2	2019.05.17
+Leko,P	2674	Dominguez Perez,L	2750	1/2-1/2	2019.05.17
+Vidit,S	2707	Dominguez Perez,L	2750	1/2-1/2	2019.05.17
+Gelfand,B	2676	Dominguez Perez,L	2750	1/2-1/2	2019.05.17
+Cheparinov,I	2667	Dominguez Perez,L	2750	1/2-1/2	2019.05.14
+Dominguez Perez, L.	2739	Ju Wenjun	2572	1-0	2018.01.18
+Dominguez Perez, L.	2739	Pichot, A.	2552	1-0	2018.01.18
+Dominguez Perez, L.	2739	Hammer, J.	2631	1-0	2018.06.26
+Dominguez Perez, L.	2739	Hammer, J.	2631	1-0	2018.06.26
+Dominguez Perez, L.	2739	Hammer, J.	2631	1-0	2018.06.26
+Dominguez Perez, L.	2739	Meier, Geo	2628	1-0	2018.06.26
+Dominguez Perez, L.	2739	Meier, Geo	2628	1-0	2018.06.26
+Dominguez Perez, L.	2739	Meier, Geo	2628	1-0	2018.06.26
+Dominguez Perez, L.	2739	Meier, Geo	2628	1-0	2018.06.26
+Dominguez Perez, L.	2739	Meier, Geo	2628	1-0	2018.06.26
+Dominguez Perez, L.	2739	Meier, Geo	2628	1-0	2018.06.26
+Svidler,P	2737	Dominguez Perez,L	2760	1/2-1/2	2019.06.23
+Eljanov,P	2655	Dominguez Perez,L	2760	1/2-1/2	2019.06.23
+Dubov,Daniil	2700	Dominguez Perez,L	2760	1/2-1/2	2019.06.23
+Rapport,R	2735	Dominguez Perez,L	2760	1/2-1/2	2019.07.13
+Fridman,D	2638	Dominguez Perez,L	2760	1/2-1/2	2019.07.13
+Wojtaszek,R	2737	Dominguez Perez,L	2760	1/2-1/2	2019.07.13
+Aronian,L	2765	Dominguez Perez,L	2763	1/2-1/2	2019.08.10
+Carlsen,M	2882	Dominguez Perez,L	2763	1/2-1/2	2019.08.13
+Aronian,L	2765	Dominguez Perez,L	2763	1/2-1/2	2019.08.13
+Abasov,N	2632	Dominguez Perez,L	2763	1/2-1/2	2019.09.10
+Wang Hao	2726	Dominguez Perez,L	2763	1/2-1/2	2019.09.10
+Wang Hao	2726	Dominguez Perez,L	2763	1/2-1/2	2019.09.10
+Bauer,Ch	2624	Dominguez Perez,L	2762	1/2-1/2	2019.11.10
+Sjugirov,S	2657	Dominguez Perez,L	2762	1/2-1/2	2019.11.10
+Dominguez Perez, L.	2739	Yu Yangyi	2760	0-1	2018.01.18
+Dominguez Perez, L.	2739	Margvelashvili, G.	2530	0-1	2018.01.18
+Dominguez Perez, L.	2739	Tang, Andrew	2513	0-1	2018.01.18
+Dominguez Perez, L.	2739	Caruana, F.	2811	0-1	2018.01.18
+Dominguez Perez, L.	2739	Hammer, J.	2631	0-1	2018.06.26
+Dominguez Perez, L.	2739	Hammer, J.	2631	0-1	2018.06.26
+Dominguez Perez, L.	2739	Hammer, J.	2631	0-1	2018.06.26
+Dominguez Perez, L.	2739	Meier, Geo	2628	0-1	2018.06.26
+Dominguez Perez, L.	2739	Meier, Geo	2628	0-1	2018.06.26
+Dominguez Perez, L.	2739	Meier, Geo	2628	1-0	2018.06.26
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	1-0	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	0-1	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	0-1	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	1-0	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	0-1	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	0-1	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	0-1	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	1-0	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	0-1	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	1-0	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	0-1	2018.07.24
+Dominguez Perez, L.	2739	Mamedyarov, S.	2801	1-0	2018.08.14
+Dominguez Perez, L.	2739	Caruana, F.	2822	0-1	2018.08.14
+Dominguez Perez, L.	2739	So, W.	2780	1-0	2018.08.14
+Dominguez Perez, Leinier	2739	Aronian, Levon	2780	1-0	2018.09.11
+Dominguez Perez, L.	2739	Tiglon, Bryce	2385	1/2-1/2	2018.01.18
+Dominguez Perez, L.	2739	Lenderman, A.	2611	1/2-1/2	2018.01.18
+Liang, Awonder	2572	Dominguez Perez, L.	2739	1-0	2018.01.18
+Dominguez Perez, L.	2739	Hammer, J.	2631	1/2-1/2	2018.06.26
+Dominguez Perez, L.	2739	Hammer, J.	2631	1/2-1/2	2018.06.26
+Meier, Geo	2628	Dominguez Perez, L.	2739	1-0	2018.06.26
+Dominguez Perez, L.	2739	Meier, Geo	2628	1/2-1/2	2018.06.26
+Meier, Geo	2628	Dominguez Perez, L.	2739	1-0	2018.06.26
+Dominguez Perez, L.	2739	Hammer, J.	2631	1/2-1/2	2018.06.26
+Dominguez Perez, L.	2739	Grischuk, A.	2766	1/2-1/2	2018.08.11
+Dominguez Perez, L.	2739	Mamedyarov, S.	2801	1/2-1/2	2018.08.11
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	1/2-1/2	2018.08.11
+Dominguez Perez, L.	2739	Aronian, L.	2767	1/2-1/2	2018.08.11
+Dominguez Perez, L.	2739	Anand, V.	2768	1/2-1/2	2018.08.11
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	1/2-1/2	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	1/2-1/2	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	1/2-1/2	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	1/2-1/2	2018.07.24
+Dominguez Perez, L.	2739	Grischuk, A.	2766	1/2-1/2	2018.08.14
+Dominguez Perez, L.	2739	Karjakin, Sergey	2773	1/2-1/2	2018.08.14
+Dominguez Perez, L.	2739	Nakamura, Hi	2777	1/2-1/2	2018.08.14
+Dominguez Perez, L.	2739	Anand, V.	2768	1/2-1/2	2018.08.14
+Dominguez Perez, L.	2739	Aronian, L.	2767	1/2-1/2	2018.08.14
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	0-1	2018.08.14
+Dominguez Perez, Leinier	2739	Aronian, Levon	2780	1/2-1/2	2018.09.11
+Nakamura, Hi	2781	Dominguez Perez, L.	2739	0-1	2018.01.18
+Iturrizaga, E.	2650	Dominguez Perez, L.	2739	0-1	2018.01.18
+Hammer, J.	2631	Dominguez Perez, L.	2739	0-1	2018.06.26
+Hammer, J.	2631	Dominguez Perez, L.	2739	0-1	2018.06.26
+Hammer, J.	2631	Dominguez Perez, L.	2739	0-1	2018.06.26
+Meier, Geo	2628	Dominguez Perez, L.	2739	0-1	2018.06.26
+Meier, Geo	2628	Dominguez Perez, L.	2739	1-0	2018.06.26
+Meier, Geo	2628	Dominguez Perez, L.	2739	1-0	2018.06.26
+So, W.	2780	Dominguez Perez, L.	2739	0-1	2018.08.11
+Karjakin, Sergey	2773	Dominguez Perez, L.	2739	1-0	2018.08.11
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.08.14
+Nakamura, Hi	2777	Dominguez Perez, L.	2739	1-0	2018.08.14
+Grischuk, A.	2766	Dominguez Perez, L.	2739	1-0	2018.08.14
+Aronian, L.	2767	Dominguez Perez, L.	2739	1-0	2018.08.14
+Nakamura, Hi	2777	Dominguez Perez, L.	2739	1-0	2018.08.11
+Aronian, Levon	2780	Dominguez Perez, Leinier	2739	1-0	2018.09.11
+Wojtaszek, Radoslaw	2636	Dominguez Perez, Leinier	2726	1/2-1/2	2022.07.10
+Mamedyarov, Shakhriyar	2699	Dominguez Perez, Leinier	2726	1/2-1/2	2022.07.11
+Naroditsky, Daniel	2608	Dominguez Perez, Leinier	2728	1/2-1/2	2022.03.12
+Kosteniuk, Alexandra	2469	Dominguez Perez, Leinier	2728	0-1	2022.03.12
+Mekhitarian, Krikor Sevag	2598	Dominguez Perez, Leinier	2728	0-1	2022.03.12
+Sevian, Samuel	2569	Dominguez Perez, Leinier	2726	1/2-1/2	2022.07.13
+Xiong, Jeffery	2725	Dominguez Perez, Leinier	2726	1/2-1/2	2022.07.12
+Ju, Wenjun	2610	Dominguez Perez, Leinier	2726	0-1	2022.07.12
+Dias, Vanderson	2139	Dominguez Perez, Leinier	2754	0-1	2022.07.29
+Pantsulaia, Levan	2581	Dominguez Perez, Leinier	2754	1/2-1/2	2022.07.31
+Daneshvar, Bardiya	2490	Dominguez Perez, Leinier	2754	1/2-1/2	2022.08.03
+Ter-Sahakyan, Samvel	2625	Dominguez Perez, Leinier	2754	0-1	2022.08.05
+Shankland, Sam	2616	Dominguez Perez, Leinier	2705	1/2-1/2	2022.08.26
+Caruana, Fabiano	2766	Dominguez Perez, Leinier	2705	1/2-1/2	2022.08.27
+Aronian, Levon	2728	Dominguez Perez, Leinier	2705	1/2-1/2	2022.08.28
+Shankland, Sam	2616	Dominguez Perez, Leinier	2705	1/2-1/2	2022.08.29
+Mamedyarov, Shakhriyar	2710	Dominguez Perez, Leinier	2708	1/2-1/2	2022.08.30
+Nepomniachtchi, Ian	2791	Dominguez Perez, Leinier	2708	0-1	2022.08.30
+Firouzja, Alireza	2795	Dominguez Perez, Leinier	2708	1-0	2022.08.30
+Caruana, Fabiano	2776	Dominguez Perez, Leinier	2754	1/2-1/2	2022.09.03
+Aronian, Levon	2759	Dominguez Perez, Leinier	2745	1/2-1/2	2022.09.05
+So, Wesley	2771	Dominguez Perez, Leinier	2745	1/2-1/2	2022.09.11
+Chigaev, Maksim	2550	Dominguez Perez, Leinier	2703	1/2-1/2	2022.09.17
+Hansen, Eric	2579	Dominguez Perez, Leinier	2703	1/2-1/2	2022.09.22
+Hansen, Eric	2579	Dominguez Perez, Leinier	2703	0-1	2022.09.22
+Chu, Ruotong	2267	Dominguez Perez, L.	2739	1/2-1/2	2018.01.18
+Ni Hua	2670	Dominguez Perez, L.	2739	1/2-1/2	2018.01.18
+He, Anthony	2246	Dominguez Perez, L.	2739	1/2-1/2	2018.01.18
+Shimanov, A.	2641	Dominguez Perez, L.	2739	1/2-1/2	2018.01.18
+Hansen, Eric	2629	Dominguez Perez, L.	2739	1/2-1/2	2018.01.18
+Hammer, J.	2631	Dominguez Perez, L.	2739	1/2-1/2	2018.06.26
+Hammer, J.	2631	Dominguez Perez, L.	2739	1/2-1/2	2018.06.26
+Hammer, J.	2631	Dominguez Perez, L.	2739	1/2-1/2	2018.06.26
+Hammer, J.	2631	Dominguez Perez, L.	2739	1/2-1/2	2018.06.26
+Hammer, J.	2631	Dominguez Perez, L.	2739	1/2-1/2	2018.06.26
+Meier, Geo	2628	Dominguez Perez, L.	2739	1/2-1/2	2018.06.26
+Meier, Geo	2628	Dominguez Perez, L.	2739	1/2-1/2	2018.06.26
+Meier, Geo	2628	Dominguez Perez, L.	2739	1/2-1/2	2018.06.26
+Meier, Geo	2628	Dominguez Perez, L.	2739	1/2-1/2	2018.06.26
+Meier, Geo	2628	Dominguez Perez, L.	2739	1/2-1/2	2018.06.26
+Caruana, F.	2822	Dominguez Perez, L.	2739	0-1	2018.08.11
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	0-1	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	0-1	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	0-1	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	0-1	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	0-1	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1/2-1/2	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1/2-1/2	2018.07.24
+Anand, V.	2768	Dominguez Perez, L.	2739	1/2-1/2	2018.08.14
+Caruana, F.	2822	Dominguez Perez, L.	2739	1/2-1/2	2018.08.14
+Dominguez Perez, L.	2739	Zapata, Alo	2418	1-0	2017.01.11
+Dominguez Perez, L.	2739	Gulamali, K.	2341	1-0	2017.01.11
+Dominguez Perez, L.	2739	Shen, Christopher Y	2165	1-0	2017.01.11
+Dominguez Perez, L.	2739	Wang, Jason	2006	1-0	2017.01.11
+Dominguez Perez, L.	2739	Ducarmon, Q.	2468	1-0	2017.01.11
+Dominguez Perez, L.	2739	Admiraal, M.	2441	1-0	2017.01.11
+Dominguez Perez, L.	2739	Lesiege, A.	2521	1-0	2017.01.11
+Dominguez Perez, L.	2739	Van Foreest, Jorden	2612	1-0	2017.01.11
+Dominguez Perez, L.	2739	Balakrishnan, Praveen	2465	1-0	2017.01.11
+Dominguez Perez, L.	2739	Noritsyn, N.	2473	1-0	2017.03.01
+Dominguez Perez, L.	2739	Szabo, G ROM.	2545	1-0	2017.03.01
+Dominguez Perez, L.	2739	Cuevas, A.	2288	1-0	2017.03.01
+Dominguez Perez, L.	2739	So, W.	2788	1-0	2017.11.12
+Dominguez Perez, L.	2739	So, W.	2788	0-1	2017.11.12
+Dominguez Perez, L.	2739	So, W.	2788	1-0	2017.11.12
+Dominguez Perez, L.	2739	So, W.	2788	0-1	2017.11.11
+Dominguez Perez, L.	2739	So, W.	2788	1-0	2017.11.09
+Dominguez Perez, L.	2739	So, W.	2788	1-0	2017.11.10
+So, W.	2780	Dominguez Perez, L.	2739	1/2-1/2	2018.08.14
+Mamedyarov, S.	2801	Dominguez Perez, L.	2739	1/2-1/2	2018.08.14
+Karjakin, Sergey	2773	Dominguez Perez, L.	2739	1/2-1/2	2018.08.14
+Dominguez Perez, Leinier	2739	Navara, David	2737	1-0	2017.08.17
+Dominguez Perez, Leinier	2739	Caruana, Fabiano	2807	1-0	2017.08.17
+Dominguez Perez, Leinier	2739	Le, Quang Liem	2739	1-0	2017.08.14
+Hammer, Jon Ludvig	2631	Dominguez Perez, Leinier	2739	1/2-1/2	2018.06.26
+Guseinov, G.	2643	Dominguez Perez, L.	2739	1-0	2017.01.11
+Dominguez Perez, L.	2739	Benjamin, Joe	2544	1/2-1/2	2017.01.11
+So, W.	2788	Dominguez Perez, L.	2739	1-0	2017.11.12
+So, W.	2788	Dominguez Perez, L.	2739	1-0	2017.11.12
+Dominguez Perez, L.	2739	So, W.	2788	1/2-1/2	2017.11.12
+So, W.	2788	Dominguez Perez, L.	2739	1-0	2017.11.12
+So, W.	2788	Dominguez Perez, L.	2739	1-0	2017.11.12
+Dominguez Perez, L.	2739	So, W.	2788	1/2-1/2	2017.11.12
+Dominguez Perez, L.	2739	So, W.	2788	1/2-1/2	2017.11.11
+Dominguez Perez, L.	2739	So, W.	2788	0-1	2017.11.11
+Dominguez Perez, L.	2739	So, W.	2788	0-1	2017.11.12
+Dominguez Perez, L.	2739	So, W.	2788	0-1	2017.11.10
+Dominguez Perez, L.	2739	So, W.	2788	1/2-1/2	2017.11.10
+Dominguez Perez, L.	2739	So, W.	2788	1/2-1/2	2017.11.11
+Dominguez Perez, L.	2739	So, W.	2788	1/2-1/2	2017.11.09
+Dominguez Perez, Leinier	2739	Le, Quang Liem	2739	1/2-1/2	2017.08.17
+Dominguez Perez, Leinier	2739	Kasparov, Garry	2812	0-1	2017.08.17
+Dominguez Perez, Leinier	2739	Anand, Viswanathan	2783	1/2-1/2	2017.08.14
+Dominguez Perez, Leinier	2739	Karjakin, Sergey	2773	1/2-1/2	2017.08.14
+Dominguez Perez, Leinier	2739	Aronian, Levon	2799	0-1	2017.08.14
+Dominguez Perez, Leinier	2739	Nepomniachtchi, Ian	2751	0-1	2017.08.17
+Dominguez Perez, Leinier	2739	Aronian, Levon	2799	0-1	2017.08.17
+Dominguez Perez, Leinier	2739	Karjakin, Sergey	2773	0-1	2017.08.17
+Dominguez Perez, Leinier	2739	Anand, Viswanathan	2783	1/2-1/2	2017.08.17
+Dominguez Perez, Leinier	2739	Nakamura, Hikaru	2792	0-1	2017.08.17
+Perdomo, C.	2299	Dominguez Perez, L.	2739	0-1	2017.01.11
+Baker, Vincent J	1960	Dominguez Perez, L.	2739	0-1	2017.01.11
+Feng, Maggie	2164	Dominguez Perez, L.	2739	0-1	2017.01.11
+Van der Lende, I.	2315	Dominguez Perez, L.	2739	0-1	2017.01.11
+Van Wely, L.	2695	Dominguez Perez, L.	2739	1/2-1/2	2017.01.11
+Hansen, Eric	2603	Dominguez Perez, L.	2739	0-1	2017.01.11
+Oussedik, E.	2155	Dominguez Perez, L.	2739	0-1	2017.01.11
+Katz, Alexander R	2335	Dominguez Perez, L.	2739	0-1	2017.01.11
+Stripunsky, A.	2536	Dominguez Perez, L.	2739	0-1	2017.01.11
+Cheng, Bi	2395	Dominguez Perez, L.	2739	0-1	2017.03.01
+So, W.	2788	Dominguez Perez, L.	2739	0-1	2017.11.11
+So, W.	2788	Dominguez Perez, L.	2739	1-0	2017.11.11
+So, W.	2788	Dominguez Perez, L.	2739	1-0	2017.11.12
+So, W.	2788	Dominguez Perez, L.	2739	0-1	2017.11.10
+So, W.	2788	Dominguez Perez, L.	2739	0-1	2017.11.10
+Anand, Viswanathan	2783	Dominguez Perez, Leinier	2739	0-1	2017.08.17
+Aronian, Levon	2799	Dominguez Perez, Leinier	2739	1-0	2017.08.17
+Caruana, Fabiano	2807	Dominguez Perez, Leinier	2739	1-0	2017.08.14
+Caruana, Fabiano	2807	Dominguez Perez, Leinier	2739	0-1	2017.08.17
+Karjakin, Sergey	2773	Dominguez Perez, Leinier	2739	1-0	2017.08.17
+Kasparov, Garry	2812	Dominguez Perez, Leinier	2739	1-0	2017.08.17
+Nakamura, Hikaru	2792	Dominguez Perez, Leinier	2739	0-1	2017.08.17
+Navara, David	2737	Dominguez Perez, Leinier	2739	0-1	2017.08.17
+Navara, David	2737	Dominguez Perez, Leinier	2739	0-1	2017.08.14
+Nepomniachtchi, Ian	2751	Dominguez Perez, Leinier	2739	1-0	2017.08.17
+Dominguez Perez, L.	2732	Lysyj, I.	2668	1-0	2016.05.01
+Dominguez Perez, L.	2732	Sargissian, G.	2702	1-0	2016.03.02
+Dominguez Perez, L.	2732	Mamedov, Rau	2650	1-0	2016.03.02
+Dominguez Perez, L.	2732	Wang Yue	2718	1-0	2016.02.28
+Dominguez Perez, L.	2732	Fressinet, L.	2700	1-0	2016.03.02
+Dominguez Perez, L.	2732	Wang Hao	2717	1-0	2016.02.28
+Dominguez Perez, L.	2732	Mamedyarov, S.	2747	1-0	2016.02.28
+Dominguez Perez, L.	2732	Movsesian, S.	2653	1-0	2016.02.28
+Dominguez Perez, L.	2732	Li Chao2	2751	1-0	2016.02.28
+Dominguez Perez, L.	2732	Ivanchuk, V.	2710	1-0	2016.02.28
+Dominguez Perez, L.	2732	Fressinet, L.	2700	1-0	2016.02.28
+Dominguez Perez, L.	2732	Navara, D.	2734	1-0	2016.02.26
+Dominguez Perez, L.	2732	Bacallao Alonso, Y.	2546	1-0	2016.02.08
+Sambuev, B.	2541	Dominguez Perez, L.	2739	1/2-1/2	2017.03.01
+Perez Ponsa, F.	2577	Dominguez Perez, L.	2739	1/2-1/2	2017.03.01
+So, W.	2788	Dominguez Perez, L.	2739	1/2-1/2	2017.11.12
+So, W.	2788	Dominguez Perez, L.	2739	1/2-1/2	2017.11.11
+So, W.	2788	Dominguez Perez, L.	2739	1/2-1/2	2017.11.10
+So, W.	2788	Dominguez Perez, L.	2739	1/2-1/2	2017.11.11
+So, W.	2788	Dominguez Perez, L.	2739	1/2-1/2	2017.11.09
+So, W.	2788	Dominguez Perez, L.	2739	1/2-1/2	2017.11.09
+Kasparov, Garry	2812	Dominguez Perez, Leinier	2739	1/2-1/2	2017.08.14
+Le, Quang Liem	2739	Dominguez Perez, Leinier	2739	1/2-1/2	2017.08.17
+Nakamura, Hikaru	2792	Dominguez Perez, Leinier	2739	1/2-1/2	2017.08.14
+Nepomniachtchi, Ian	2751	Dominguez Perez, Leinier	2739	1/2-1/2	2017.08.14
+Dominguez Perez, L.	2723	Ivanchuk, V.	2710	0-1	2016.06.09
+Dominguez Perez, L.	2732	Nepomniachtchi, I.	2703	0-1	2016.05.01
+Dominguez Perez, L.	2732	Ding Liren	2766	0-1	2016.03.02
+Dominguez Perez, L.	2732	Ponomariov, R.	2712	0-1	2016.03.02
+Dominguez Perez, L.	2732	Mamedov, Rau	2650	0-1	2016.02.28
+Dominguez Perez, L.	2732	Wojtaszek, R.	2727	0-1	2016.02.28
+Dominguez Perez, L.	2713	Ponomariov, R.	2706	1-0	2016.07.09
+Dominguez Perez, L.	2720	Bareev, E.	2675	1-0	2016.09.02
+Dominguez Perez, L.	2720	Kasimdzhanov, R.	2696	1-0	2016.09.02
+Dominguez Perez, L.	2720	Lupulescu, C.	2618	1-0	2016.09.02
+Dominguez Perez, L.	2720	Kryvoruchko, Y.	2693	1-0	2016.09.26
+Dominguez Perez, L.	2720	Sevian, Samuel	2591	1-0	2016.09.26
+Dominguez Perez, L.	2720	Adhiban, Baskaran	2671	1-0	2016.09.26
+Dominguez Perez, L.	2720	Baklan, V.	2619	1-0	2016.09.26
+Dominguez Perez, L.	2752	Pijpers, A.	2465	1-0	2016.11.06
+Dominguez Perez, L.	2736	Hernandez Guerrero, G.	2498	1-0	2016.10.29
+Dominguez Perez, L.	2752	Andreikin, D.	2736	0-1	2016.11.06
+Dominguez Perez, L.	2739	Aronian, L.	2785	1-0	2016.12.26
+Dominguez Perez, L.	2739	Li Chao2	2720	1-0	2016.12.26
+Dominguez Perez, L.	2739	Zhigalko, S.	2671	1-0	2016.12.26
+Dominguez Perez, L.	2739	Onischuk, V.	2601	1-0	2016.12.29
+Dominguez Perez, L.	2739	Wojtaszek, R.	2749	0-1	2016.12.29
+Dominguez Perez, L.	2739	Fressinet, L.	2672	1-0	2016.12.29
+Dominguez Perez, L.	2739	Jobava, Ba	2702	0-1	2016.12.29
+Dominguez Perez, L.	2739	Bortnyk, Olexandr	2581	1-0	2016.12.29
+Dominguez Perez, L.	2723	Bruzon Batista, L.	2681	1/2-1/2	2016.06.09
+Dominguez Perez, L.	2723	Cheparinov, I.	2687	1/2-1/2	2016.06.09
+Dominguez Perez, L.	2723	Kryvoruchko, Y.	2682	1/2-1/2	2016.06.09
+Dominguez Perez, L.	2723	Almasi, Z.	2688	1/2-1/2	2016.06.09
+Dominguez Perez, L.	2732	Grischuk, A.	2752	1/2-1/2	2016.05.01
+Dominguez Perez, L.	2732	Harikrishna, P.	2753	1/2-1/2	2016.02.28
+Dominguez Perez, L.	2732	Navara, D.	2734	1/2-1/2	2016.02.28
+Dominguez Perez, L.	2732	Sargissian, G.	2702	1/2-1/2	2016.02.28
+Dominguez Perez, L.	2732	Ding Liren	2766	1/2-1/2	2016.02.28
+Dominguez Perez, L.	2732	Tomashevsky, E.	2728	1/2-1/2	2016.02.28
+Dominguez Perez, L.	2732	Ponomariov, R.	2712	1/2-1/2	2016.02.28
+Dominguez Perez, L.	2732	Wang Hao	2717	1/2-1/2	2016.02.26
+Dominguez Perez, L.	2732	Sargissian, G.	2702	1/2-1/2	2016.02.26
+Dominguez Perez, L.	2732	Quesada Perez, Yu	2631	1/2-1/2	2016.02.08
+Dominguez Perez, L.	2713	Kramnik, V.	2812	1/2-1/2	2016.07.09
+Dominguez Perez, L.	2713	Nisipeanu, LD.	2674	1/2-1/2	2016.07.09
+Dominguez Perez, L.	2713	Vachier Lagrave, M.	2798	1/2-1/2	2016.07.09
+Dominguez Perez, L.	2720	Wojtaszek, R.	2736	1/2-1/2	2016.09.02
+Dominguez Perez, L.	2720	Grandelius, N.	2641	1/2-1/2	2016.09.02
+Dominguez Perez, L.	2720	Piorun, K.	2681	1/2-1/2	2016.09.26
+Dominguez Perez, L.	2736	Granda Zuniga, J.	2648	1/2-1/2	2016.10.29
+Dominguez Perez, L.	2752	Rapport, R.	2730	1/2-1/2	2016.11.06
+Dominguez Perez, L.	2739	Bortnyk, Olexandr	2581	1/2-1/2	2016.12.26
+Dominguez Perez, L.	2739	Riazantsev, A.	2671	1/2-1/2	2016.12.26
+Dominguez Perez, L.	2739	Mamedyarov, S.	2768	1/2-1/2	2016.12.26
+Inarkiev, E.	2686	Dominguez Perez, L.	2732	0-1	2016.05.01
+Ponomariov, R.	2712	Dominguez Perez, L.	2732	1-0	2016.03.02
+Fressinet, L.	2700	Dominguez Perez, L.	2732	1-0	2016.03.02
+Ding Liren	2766	Dominguez Perez, L.	2732	0-1	2016.02.28
+Li Chao2	2751	Dominguez Perez, L.	2732	0-1	2016.02.28
+Ivanchuk, V.	2710	Dominguez Perez, L.	2732	0-1	2016.02.28
+Ponomariov, R.	2712	Dominguez Perez, L.	2732	1-0	2016.02.28
+Wang Hao	2717	Dominguez Perez, L.	2732	0-1	2016.02.28
+Navara, D.	2734	Dominguez Perez, L.	2732	1-0	2016.02.28
+Mamedyarov, S.	2747	Dominguez Perez, L.	2732	1-0	2016.02.28
+Wang Yue	2718	Dominguez Perez, L.	2732	0-1	2016.02.28
+Harikrishna, P.	2753	Dominguez Perez, L.	2732	1-0	2016.02.28
+Ivanchuk, V.	2710	Dominguez Perez, L.	2732	0-1	2016.02.26
+Granda Zuniga, J.	2648	Dominguez Perez, L.	2736	1-0	2016.10.29
+Giri, A.	2767	Dominguez Perez, L.	2752	1-0	2016.11.06
+Yu Yangyi	2729	Dominguez Perez, L.	2739	1-0	2016.12.26
+Dominguez Perez, L.	2739	Nguyen Ngoc Truong Son	2629	1/2-1/2	2016.12.26
+Korobov, A.	2692	Dominguez Perez, L.	2739	1-0	2016.12.26
+Dubov, Daniil	2660	Dominguez Perez, L.	2739	1-0	2016.12.29
+Dominguez Perez, L.	2739	Carlsen, M.	2840	1/2-1/2	2016.12.29
+Dominguez Perez, L.	2739	Mamedyarov, S.	2768	1/2-1/2	2016.12.29
+Nakamura, Hi	2779	Dominguez Perez, L.	2739	1-0	2016.12.29
+Dominguez Perez, L.	2739	Karjakin, Sergey	2785	1/2-1/2	2016.12.29
+Dominguez Perez, L.	2739	Ivanchuk, V.	2747	1/2-1/2	2016.12.29
+Dominguez Perez, L.	2739	Grischuk, A.	2737	1/2-1/2	2016.12.29
+Cheparinov, I.	2687	Dominguez Perez, L.	2723	1/2-1/2	2016.06.09
+Kryvoruchko, Y.	2682	Dominguez Perez, L.	2723	1/2-1/2	2016.06.09
+Almasi, Z.	2688	Dominguez Perez, L.	2723	1/2-1/2	2016.06.09
+Ivanchuk, V.	2710	Dominguez Perez, L.	2723	1/2-1/2	2016.06.09
+Bruzon Batista, L.	2681	Dominguez Perez, L.	2723	1/2-1/2	2016.06.09
+Lysyj, I.	2668	Dominguez Perez, L.	2732	1/2-1/2	2016.05.01
+Grischuk, A.	2752	Dominguez Perez, L.	2732	1/2-1/2	2016.05.01
+Kamsky, G.	2670	Dominguez Perez, L.	2732	1/2-1/2	2016.05.01
+Artemiev, V.	2669	Dominguez Perez, L.	2732	1/2-1/2	2016.05.01
+Sargissian, G.	2702	Dominguez Perez, L.	2732	1/2-1/2	2016.03.02
+Bacallao Alonso, Y.	2546	Dominguez Perez, L.	2732	0-1	2016.02.08
+Quesada Perez, Yu	2631	Dominguez Perez, L.	2732	0-1	2016.02.08
+Amin, B.	2661	Dominguez Perez, L.	2720	0-1	2016.09.02
+Volodin, Alek	2473	Dominguez Perez, L.	2720	0-1	2016.09.02
+Gonzalez de la Torre, S.	2459	Dominguez Perez, L.	2720	0-1	2016.09.26
+Hernandez Guerrero, G.	2498	Dominguez Perez, L.	2736	0-1	2016.10.29
+Amin, B.	2662	Dominguez Perez, L.	2739	0-1	2016.12.26
+Flores, Di	2579	Dominguez Perez, L.	2739	0-1	2016.12.26
+Mamedov, Rau	2688	Dominguez Perez, L.	2739	0-1	2016.12.26
+Banikas, H.	2568	Dominguez Perez, L.	2739	0-1	2016.12.29
+Kozul, Z.	2613	Dominguez Perez, L.	2739	0-1	2016.12.29
+Bindrich, F.	2590	Dominguez Perez, L.	2739	0-1	2016.12.29
+Matlakov, M.	2694	Dominguez Perez, L.	2739	0-1	2016.12.29
+Bosiocic, Mari	2591	Dominguez Perez, L.	2739	0-1	2016.12.29
+Salem, AR.	2656	Dominguez Perez, L.	2739	0-1	2016.12.29
+Ding Liren	2766	Dominguez Perez, L.	2732	1/2-1/2	2016.03.02
+Mamedov, Rau	2650	Dominguez Perez, L.	2732	1/2-1/2	2016.03.02
+Tomashevsky, E.	2728	Dominguez Perez, L.	2732	1/2-1/2	2016.02.28
+Fressinet, L.	2700	Dominguez Perez, L.	2732	1/2-1/2	2016.02.28
+Sargissian, G.	2702	Dominguez Perez, L.	2732	1/2-1/2	2016.02.28
+Wojtaszek, R.	2727	Dominguez Perez, L.	2732	1/2-1/2	2016.02.28
+Mamedov, Rau	2650	Dominguez Perez, L.	2732	1/2-1/2	2016.02.28
+Movsesian, S.	2653	Dominguez Perez, L.	2732	1/2-1/2	2016.02.28
+Ponomariov, R.	2712	Dominguez Perez, L.	2732	1/2-1/2	2016.02.26
+Wojtaszek, R.	2727	Dominguez Perez, L.	2732	1/2-1/2	2016.02.26
+Mamedyarov, S.	2747	Dominguez Perez, L.	2732	1/2-1/2	2016.02.26
+Buhmann, R.	2653	Dominguez Perez, L.	2713	1/2-1/2	2016.07.09
+Caruana, F.	2810	Dominguez Perez, L.	2713	1/2-1/2	2016.07.09
+Najer, E.	2687	Dominguez Perez, L.	2713	1/2-1/2	2016.07.09
+Harikrishna, P.	2752	Dominguez Perez, L.	2720	1/2-1/2	2016.09.02
+Atabayev, Y.	2453	Dominguez Perez, L.	2720	1/2-1/2	2016.09.02
+Giri, A.	2755	Dominguez Perez, L.	2720	1/2-1/2	2016.09.02
+Oparin, G.	2626	Dominguez Perez, L.	2720	1/2-1/2	2016.09.26
+Werle, J.	2551	Dominguez Perez, L.	2752	1/2-1/2	2016.11.06
+Roiz, M.	2605	Dominguez Perez, L.	2752	1/2-1/2	2016.11.06
+Ivanchuk, V.	2747	Dominguez Perez, L.	2739	1/2-1/2	2016.12.26
+Grischuk, A.	2737	Dominguez Perez, L.	2739	1/2-1/2	2016.12.26
+Naiditsch, A.	2687	Dominguez Perez, L.	2739	1/2-1/2	2016.12.29
+Vachier Lagrave, M.	2804	Dominguez Perez, L.	2739	1/2-1/2	2016.12.29
+Morozevich, A.	2676	Dominguez Perez, L.	2739	1/2-1/2	2016.12.29
+Dominguez Perez, Leinier	2758	Carlsen, Magnus	2862	0-1	Sat Feb 06 2021
+Dominguez Perez, Leinier	2758	So, Wesley	2770	1-0	Sun Feb 07 2021
+Dominguez Perez, Leinier	2758	Duda, Jan-Krzysztof	2743	1-0	Mon Feb 08 2021
+Dominguez Perez, Leinier	2758	Dubov, Daniil	2710	0-1	Mon Feb 08 2021
+Dominguez Perez, Leinier	2758	Christiansen, Johan-Sebastian	2618	1-0	Sat Apr 24 2021
+Dominguez Perez, Leinier	2758	Tari, Aryan	2639	1-0	Mon Apr 26 2021
+Dominguez Perez, Leinier	2786	Ju, Wenjun	2610	1-0	2021.06.30
+Dominguez Perez, Leinier	2786	Ju, Wenjun	2610	1-0	2021.06.30
+Dominguez Perez, Leinier	2654	Gelfand, Boris	2691	0-1	2021.07.04
+Dominguez Perez, Leinier	2786	Gelfand, Boris	2702	1-0	2021.07.04
+Dominguez Perez, Leinier	2786	Vakhidov, Jakhongir	2532	0-1	2021.07.17
+Dominguez Perez, Leinier	2786	Xiong, Jeffery	2730	1-0	2021.08.11
+Dominguez Perez, Leinier	2786	Svidler, Peter	2745	0-1	2021.08.13
+Dominguez Perez, Leinier	2786	Mamedyarov, Shakhriyar	2756	0-1	2021.08.12
+Dominguez Perez, Leinier	2786	Rapport, Richard	2724	1-0	2021.08.11
+Dominguez Perez, Leinier	2654	Mamedyarov, Shakhriyar	2755	1-0	2021.08.14
+Dominguez Perez, Leinier	2654	Xiong, Jeffery	2724	1-0	2021.08.14
+Dominguez Perez, Leinier	2654	Rapport, Richard	2776	0-1	2021.08.14
+Dominguez Perez, Leinier	2654	Svidler, Peter	2743	1-0	2021.08.15
+Dominguez Perez, Leinier	2654	Le, Quang Liem	2690	1-0	2021.08.15
+Dominguez Perez, Leinier	2758	Vachier-Lagrave, Maxime	2751	1-0	2021.08.20
+Dominguez Perez, Leinier	2786	Duda, Jan-Krzysztof	2775	1-0	2021.08.28
+Dominguez Perez, Leinier	2786	Vidit, Santosh Gujrathi	2636	1-0	2021.08.29
+Dominguez Perez, Leinier	2786	Hansen, Eric	2579	1-0	2021.08.30
+Dominguez Perez, Leinier	2786	Artemiev, Vladislav	2757	1-0	2021.08.31
+Dominguez Perez, L.	2726	Radjabov, T.	2731	1/2-1/2	2015.02.15
+Dominguez Perez, L.	2726	Svidler, P.	2739	1/2-1/2	2015.02.15
+Dominguez Perez, L.	2726	Tomashevsky, E.	2716	1/2-1/2	2015.02.15
+Dominguez Perez, L.	2729	Belyakov, B.	2482	1-0	2015.05.01
+Dominguez Perez, L.	2729	Najer, E.	2634	1-0	2015.05.01
+Dominguez Perez, L.	2734	Jakovenko, D.	2738	1-0	2015.05.14
+Dominguez Perez, L.	2734	Svidler, P.	2734	1-0	2015.05.14
+Dominguez Perez, L.	2746	Yu Yangyi	2715	0-1	2015.06.15
+Dominguez Perez, L.	2746	Nepomniachtchi, I.	2720	0-1	2015.06.15
+Dominguez Perez, L.	2746	Eljanov, P.	2718	1-0	2015.06.15
+Dominguez Perez, L.	2736	Vazquez Igarza, R.	2581	1-0	2015.08.15
+Dominguez Perez, L.	2732	Malakhov, V.	2694	0-1	2015.10.10
+Dominguez Perez, L.	2732	Durarbayli, V.	2618	1-0	2015.10.18
+Dominguez Perez, L.	2732	Lampert, J.	2461	1-0	2015.10.18
+Dominguez Perez, L.	2732	Onischuk, V.	2612	1-0	2015.10.13
+Dominguez Perez, L.	2732	Karjakin, Sergey	2762	0-1	2015.10.13
+Dominguez Perez, L.	2732	Perunovic, Mil	2622	1-0	2015.10.13
+Dominguez Perez, L.	2732	Kryvoruchko, Y.	2710	1-0	2015.10.13
+Dominguez Perez, L.	2732	Adhiban, Baskaran	2674	1-0	2015.10.13
+Dominguez Perez, L.	2732	Zhigalko, S.	2656	1-0	2015.10.10
+Dominguez Perez, L.	2732	Ponkratov, P.	2604	1-0	2015.10.10
+Dominguez Perez, Leinier	2732	Perez Ponsa, Federico	2563	1-0	2015.09.11
+Dominguez Perez, Leinier	2732	Perez Ponsa, Federico	2563	1-0	2015.09.11
+Dominguez Perez, Leinier	2732	Adams, Michael	2742	0-1	2015.09.11
+Dominguez Perez, Leinier	2732	Melkumyan, Hrant	2622	1-0	2015.09.11
+Dominguez Perez, L.	2726	Jakovenko, D.	2733	1/2-1/2	2015.02.15
+Dominguez Perez, L.	2726	Kasimdzhanov, R.	2705	1/2-1/2	2015.02.15
+Dominguez Perez, L.	2726	Mamedyarov, S.	2759	1/2-1/2	2015.02.15
+Dominguez Perez, L.	2729	Leko, P.	2713	1/2-1/2	2015.04.19
+Dominguez Perez, L.	2729	Ding Liren	2755	1/2-1/2	2015.04.19
+Dominguez Perez, L.	2729	Harikrishna, P.	2729	1/2-1/2	2015.04.19
+Dominguez Perez, L.	2729	Gelfand, B.	2747	1/2-1/2	2015.04.19
+Dominguez Perez, L.	2729	Aronian, L.	2770	1/2-1/2	2015.04.19
+Dominguez Perez, L.	2734	Nakamura, Hi	2799	1/2-1/2	2015.05.14
+Dominguez Perez, L.	2734	Vachier Lagrave, M.	2754	1/2-1/2	2015.05.14
+Dominguez Perez, L.	2734	Grischuk, A.	2780	1/2-1/2	2015.05.14
+Dominguez Perez, L.	2746	Andreikin, D.	2718	1/2-1/2	2015.06.15
+Dominguez Perez, L.	2746	Bruzon Batista, L.	2677	1/2-1/2	2015.06.15
+Dominguez Perez, L.	2736	Harikrishna, P.	2740	1/2-1/2	2015.08.15
+Dominguez Perez, L.	2736	Kryvoruchko, Y.	2697	1/2-1/2	2015.08.15
+Dominguez Perez, L.	2736	Van Wely, L.	2654	1/2-1/2	2015.08.15
+Dominguez Perez, L.	2732	Meier, Geo	2654	1/2-1/2	2015.10.10
+Dominguez Perez, L.	2732	Safarli, E.	2657	1/2-1/2	2015.10.10
+Dominguez Perez, L.	2732	Socko, B.	2599	1/2-1/2	2015.10.10
+Dominguez Perez, L.	2732	Bauer, Ch	2623	1/2-1/2	2015.10.18
+Dominguez Perez, L.	2732	Iturrizaga, E.	2641	1/2-1/2	2015.10.13
+Dominguez Perez, L.	2732	Anand, V.	2803	1/2-1/2	2015.10.13
+Dominguez Perez, L.	2732	Svidler, P.	2727	1/2-1/2	2015.10.13
+Dominguez Perez, L.	2732	Vachier Lagrave, M.	2758	1/2-1/2	2015.10.13
+Dominguez Perez, L.	2732	Kasimdzhanov, R.	2704	1/2-1/2	2015.10.13
+Jobava, Ba	2696	Dominguez Perez, L.	2726	1-0	2015.02.15
+Vachier Lagrave, M.	2775	Dominguez Perez, L.	2726	1/2-1/2	2015.02.15
+Andreikin, D.	2737	Dominguez Perez, L.	2726	0-1	2015.02.15
+Grischuk, A.	2794	Dominguez Perez, L.	2729	0-1	2015.04.19
+Jobava, Ba	2699	Dominguez Perez, L.	2734	1-0	2015.05.14
+Nepomniachtchi, I.	2720	Dominguez Perez, L.	2746	0-1	2015.06.15
+Yu Yangyi	2715	Dominguez Perez, L.	2746	1-0	2015.06.15
+Sargissian, G.	2673	Dominguez Perez, L.	2736	1-0	2015.08.15
+Cuenca Jimenez, J.	2526	Dominguez Perez, L.	2736	0-1	2015.08.15
+Akopian, Vl	2648	Dominguez Perez, L.	2732	0-1	2015.10.10
+Dlugy, M.	2518	Dominguez Perez, L.	2732	0-1	2015.10.10
+Maze, S.	2582	Dominguez Perez, L.	2732	0-1	2015.10.10
+Vovk, Y.	2617	Dominguez Perez, L.	2732	0-1	2015.10.10
+Korobov, A.	2700	Dominguez Perez, L.	2732	0-1	2015.10.13
+Petrosian, TL.	2625	Dominguez Perez, L.	2732	0-1	2015.10.13
+Gajewski, G.	2654	Dominguez Perez, L.	2732	0-1	2015.10.13
+Dominguez Perez, L.	2732	Vallejo Pons, F.	2684	1/2-1/2	2015.10.13
+Swiercz, D.	2620	Dominguez Perez, L.	2732	0-1	2015.10.13
+Dominguez Perez, L.	2732	Carlsen, M.	2850	1/2-1/2	2015.10.10
+Mamedyarov, S.	2736	Dominguez Perez, L.	2732	0-1	2015.10.10
+Adams, Michael	2742	Dominguez Perez, Leinier	2732	1-0	2015.09.11
+Dominguez Perez, Leinier	2732	Adams, Michael	2742	1/2-1/2	2015.09.11
+Dominguez Perez, Leinier	2732	Adams, Michael	2742	1/2-1/2	2015.09.11
+Dominguez Perez, Leinier	2732	Adams, Michael	2742	1/2-1/2	2015.09.11
+Perez Ponsa, Federico	2563	Dominguez Perez, Leinier	2732	1-0	2015.09.11
+Grischuk, A.	2810	Dominguez Perez, L.	2726	1/2-1/2	2015.02.15
+Giri, A.	2797	Dominguez Perez, L.	2726	1/2-1/2	2015.02.15
+Ponomariov, R.	2713	Dominguez Perez, L.	2729	1/2-1/2	2015.04.19
+Amin, B.	2634	Dominguez Perez, L.	2729	1/2-1/2	2015.04.19
+Jakovenko, D.	2742	Dominguez Perez, L.	2729	1/2-1/2	2015.05.01
+Shankland, S.	2661	Dominguez Perez, L.	2729	1/2-1/2	2015.04.19
+Kamsky, G.	2683	Dominguez Perez, L.	2729	1/2-1/2	2015.05.01
+Frolyanov, D.	2572	Dominguez Perez, L.	2729	1/2-1/2	2015.05.01
+Karjakin, Sergey	2753	Dominguez Perez, L.	2734	1/2-1/2	2015.05.14
+Caruana, F.	2803	Dominguez Perez, L.	2734	1/2-1/2	2015.05.14
+Tomashevsky, E.	2749	Dominguez Perez, L.	2734	1/2-1/2	2015.05.14
+Giri, A.	2776	Dominguez Perez, L.	2734	1/2-1/2	2015.05.14
+Gelfand, B.	2744	Dominguez Perez, L.	2734	1/2-1/2	2015.05.14
+Bruzon Batista, L.	2677	Dominguez Perez, L.	2746	1/2-1/2	2015.06.15
+Eljanov, P.	2718	Dominguez Perez, L.	2746	1/2-1/2	2015.06.15
+Andreikin, D.	2718	Dominguez Perez, L.	2746	1/2-1/2	2015.06.15
+Rakhmanov, Ale	2620	Dominguez Perez, L.	2736	1/2-1/2	2015.08.15
+Motylev, A.	2649	Dominguez Perez, L.	2732	1/2-1/2	2015.10.10
+Giri, A.	2798	Dominguez Perez, L.	2732	1/2-1/2	2015.10.18
+Aronian, L.	2784	Dominguez Perez, L.	2732	1/2-1/2	2015.10.18
+Wiedenkeller, M.	2453	Dominguez Perez, L.	2732	1/2-1/2	2015.10.18
+Bogdanovich, S.	2590	Dominguez Perez, L.	2732	1/2-1/2	2015.10.13
+Ghaem Maghami, E.	2596	Dominguez Perez, L.	2732	1/2-1/2	2015.10.13
+Aronian, L.	2784	Dominguez Perez, L.	2732	1/2-1/2	2015.10.13
+Volokitin, And	2639	Dominguez Perez, L.	2732	1/2-1/2	2015.10.13
+Dominguez Perez, L.	2754	So, W.	2719	1-0	2014.01.11
+Dominguez Perez, L.	2754	Caruana, F.	2782	1-0	2014.01.11
+Dominguez Perez, L.	2757	Robson, R.	2628	1-0	2014.03.08
+Dominguez Perez, L.	2757	Robson, R.	2628	1-0	2014.03.08
+Dominguez Perez, L.	2757	Frolyanov, D.	2578	1-0	2014.04.07
+Dominguez Perez, L.	2757	Dreev, A.	2670	1-0	2014.04.07
+Dominguez Perez, L.	2760	Dias, P.	2416	1-0	2014.08.02
+Dominguez Perez, L.	2760	Mamedyarov, S.	2743	1-0	2014.08.02
+Dominguez Perez, L.	2726	Wang Yue	2720	1-0	2014.12.13
+Dominguez Perez, L.	2726	Ponomariov, R.	2714	1-0	2014.12.13
+Dominguez Perez, L.	2726	Bacrot, E.	2718	1-0	2014.12.13
+Dominguez Perez, L.	2726	Wang Hao	2710	1-0	2014.12.13
+Dominguez Perez, L.	2726	Harikrishna, P.	2727	1-0	2014.12.13
+Dominguez Perez, L.	2726	Bacrot, E.	2718	1-0	2014.12.11
+Dominguez Perez, L.	2726	Wojtaszek, R.	2744	1-0	2014.12.16
+Dominguez Perez, L.	2726	Ponomariov, R.	2714	1-0	2014.12.16
+Schneider, Il	2481	Dominguez Perez, L.	2732	1/2-1/2	2015.10.13
+Zhang Zhong	2619	Dominguez Perez, L.	2732	1/2-1/2	2015.10.13
+Nepomniachtchi, I.	2705	Dominguez Perez, L.	2732	1/2-1/2	2015.10.10
+Bocharov, D.	2560	Dominguez Perez, L.	2732	1/2-1/2	2015.10.10
+Adams, Michael	2742	Dominguez Perez, Leinier	2732	1/2-1/2	2015.09.11
+Adams, Michael	2742	Dominguez Perez, Leinier	2732	1/2-1/2	2015.09.11
+Adams, Michael	2742	Dominguez Perez, Leinier	2732	1/2-1/2	2015.09.11
+Melkumyan, Hrant	2622	Dominguez Perez, Leinier	2732	1/2-1/2	2015.09.11
+Perez Ponsa, Federico	2563	Dominguez Perez, Leinier	2732	1/2-1/2	2015.09.11
+Dominguez Perez, L.	2754	Van Wely, L.	2672	1/2-1/2	2014.01.11
+Dominguez Perez, L.	2754	Giri, A.	2734	1/2-1/2	2014.01.11
+Dominguez Perez, L.	2754	Aronian, L.	2812	0-1	2014.01.11
+Dominguez Perez, L.	2754	Nakamura, Hi	2789	1/2-1/2	2014.01.11
+Dominguez Perez, L.	2757	Robson, R.	2628	1/2-1/2	2014.03.08
+Dominguez Perez, L.	2757	Robson, R.	2628	0-1	2014.03.08
+Dominguez Perez, L.	2757	Robson, R.	2628	1/2-1/2	2014.03.08
+Dominguez Perez, L.	2757	Leko, P.	2730	1/2-1/2	2014.04.07
+Dominguez Perez, L.	2768	Bruzon Batista, L.	2682	1/2-1/2	2014.05.08
+Dominguez Perez, L.	2768	Almasi, Z.	2693	1/2-1/2	2014.05.08
+Dominguez Perez, L.	2768	Vallejo Pons, F.	2700	1/2-1/2	2014.05.08
+Dominguez Perez, L.	2768	Ivanchuk, V.	2753	1/2-1/2	2014.05.08
+Dominguez Perez, L.	2768	So, W.	2731	1/2-1/2	2014.05.08
+Dominguez Perez, L.	2760	Ismagambetov, An	2531	1/2-1/2	2014.08.02
+Dominguez Perez, L.	2760	Sethuraman, S.	2590	1/2-1/2	2014.08.02
+Dominguez Perez, L.	2755	Grischuk, A.	2789	0-1	2014.09.14
+Dominguez Perez, L.	2751	Svidler, P.	2732	0-1	2014.10.02
+Dominguez Perez, L.	2751	Caruana, F.	2844	0-1	2014.10.02
+Dominguez Perez, L.	2726	Nepomniachtchi, I.	2714	0-1	2014.12.13
+Dominguez Perez, L.	2726	Radjabov, T.	2734	0-1	2014.12.13
+Dominguez Perez, L.	2726	Mamedyarov, S.	2765	0-1	2014.12.13
+Dominguez Perez, L.	2726	Gelfand, B.	2743	0-1	2014.12.13
+Dominguez Perez, L.	2726	Grischuk, A.	2810	0-1	2014.12.16
+Dominguez Perez, L.	2726	Nepomniachtchi, I.	2714	0-1	2014.12.16
+Leinier Dominguez Perez	2751	Peter Svidler	2732	0-1	2014.10.02
+Harikrishna, P.	2706	Dominguez Perez, L.	2754	1-0	2014.01.11
+Robson, R.	2628	Dominguez Perez, L.	2757	1-0	2014.03.08
+So, W.	2731	Dominguez Perez, L.	2768	1-0	2014.05.08
+Topalov, V.	2772	Dominguez Perez, L.	2760	1-0	2014.08.02
+Dominguez Perez, L.	2760	Adams, Mi	2740	1/2-1/2	2014.08.02
+Dominguez Perez, L.	2760	Jobava, Ba	2713	1/2-1/2	2014.08.02
+Dominguez Perez, L.	2755	Zhigalko, S.	2677	1/2-1/2	2014.09.14
+Dominguez Perez, L.	2755	Giri, A.	2758	1/2-1/2	2014.09.14
+Dominguez Perez, L.	2755	Rodshtein, M.	2678	1/2-1/2	2014.09.14
+Dominguez Perez, L.	2751	Gelfand, B.	2748	1/2-1/2	2014.10.02
+Karjakin, Sergey	2767	Dominguez Perez, L.	2751	1-0	2014.10.02
+Dominguez Perez, L.	2751	Kasimdzhanov, R.	2706	1/2-1/2	2014.10.02
+Dominguez Perez, L.	2751	Tomashevsky, E.	2701	1/2-1/2	2014.10.02
+Dominguez Perez, L.	2751	Mamedyarov, S.	2764	1/2-1/2	2014.10.02
+Andreikin, D.	2722	Dominguez Perez, L.	2751	1-0	2014.10.02
+Grischuk, A.	2797	Dominguez Perez, L.	2751	1-0	2014.10.02
+Dominguez Perez, L.	2726	Wojtaszek, R.	2744	1/2-1/2	2014.12.13
+Dominguez Perez, L.	2726	Grischuk, A.	2810	1/2-1/2	2014.12.13
+Dominguez Perez, L.	2726	Aronian, L.	2797	1/2-1/2	2014.12.13
+Dominguez Perez, L.	2726	Vachier Lagrave, M.	2758	1/2-1/2	2014.12.13
+Dominguez Perez, L.	2726	Ivanchuk, V.	2704	1/2-1/2	2014.12.13
+Dominguez Perez, L.	2726	Leko, P.	2723	1/2-1/2	2014.12.13
+Dominguez Perez, L.	2726	Ponomariov, R.	2714	1/2-1/2	2014.12.11
+Dominguez Perez, L.	2726	Vachier Lagrave, M.	2758	1/2-1/2	2014.12.11
+Dominguez Perez, L.	2726	Leko, P.	2723	1/2-1/2	2014.12.16
+Rapport, R.	2691	Dominguez Perez, L.	2754	0-1	2014.01.11
+Robson, R.	2628	Dominguez Perez, L.	2757	0-1	2014.03.08
+Robson, R.	2628	Dominguez Perez, L.	2757	0-1	2014.03.08
+Kobalia, M.	2633	Dominguez Perez, L.	2757	0-1	2014.04.07
+Inarkiev, E.	2691	Dominguez Perez, L.	2757	0-1	2014.04.07
+Vallejo Pons, F.	2700	Dominguez Perez, L.	2768	0-1	2014.05.08
+Machin Rivera, M.	2341	Dominguez Perez, L.	2760	0-1	2014.08.02
+Hausrath, D.	2537	Dominguez Perez, L.	2755	0-1	2014.09.14
+Vachier Lagrave, M.	2758	Dominguez Perez, L.	2726	0-1	2014.12.13
+Radjabov, T.	2734	Dominguez Perez, L.	2726	1-0	2014.12.13
+Ivanchuk, V.	2704	Dominguez Perez, L.	2726	1-0	2014.12.13
+Wang Hao	2710	Dominguez Perez, L.	2726	1-0	2014.12.13
+Harikrishna, P.	2727	Dominguez Perez, L.	2726	1-0	2014.12.13
+Mamedyarov, S.	2765	Dominguez Perez, L.	2726	1-0	2014.12.13
+Leko, P.	2723	Dominguez Perez, L.	2726	0-1	2014.12.13
+Wojtaszek, R.	2744	Dominguez Perez, L.	2726	0-1	2014.12.13
+Wang Yue	2720	Dominguez Perez, L.	2726	1-0	2014.12.13
+Nepomniachtchi, I.	2714	Dominguez Perez, L.	2726	1-0	2014.12.13
+Bacrot, E.	2718	Dominguez Perez, L.	2726	0-1	2014.12.13
+Grischuk, A.	2810	Dominguez Perez, L.	2726	1-0	2014.12.13
+Aronian, L.	2797	Dominguez Perez, L.	2726	1-0	2014.12.13
+Mamedyarov, S.	2765	Dominguez Perez, L.	2726	1-0	2014.12.11
+Ivanchuk, V.	2704	Dominguez Perez, L.	2726	1-0	2014.12.11
+Wang Yue	2720	Dominguez Perez, L.	2726	1-0	2014.12.11
+Wojtaszek, R.	2744	Dominguez Perez, L.	2726	0-1	2014.12.11
+Dominguez Perez, L.	2753	Cox, JohnJ	2387	1-0	2013.10.20
+Dominguez Perez, L.	2754	Nepomniachtchi, I.	2721	1-0	2013.12.12
+Dominguez Perez, L.	2754	Vachier Lagrave, M.	2745	1-0	2013.12.14
+Karjakin, Sergey	2759	Dominguez Perez, L.	2754	1/2-1/2	2014.01.11
+Gelfand, B.	2777	Dominguez Perez, L.	2754	1/2-1/2	2014.01.11
+Naiditsch, A.	2718	Dominguez Perez, L.	2754	1/2-1/2	2014.01.11
+Robson, R.	2628	Dominguez Perez, L.	2757	1/2-1/2	2014.03.08
+Robson, R.	2628	Dominguez Perez, L.	2757	1/2-1/2	2014.03.08
+Shomoev, A.	2587	Dominguez Perez, L.	2757	1/2-1/2	2014.04.07
+Bruzon Batista, L.	2682	Dominguez Perez, L.	2768	1/2-1/2	2014.05.08
+Ivanchuk, V.	2753	Dominguez Perez, L.	2768	1/2-1/2	2014.05.08
+Almasi, Z.	2693	Dominguez Perez, L.	2768	1/2-1/2	2014.05.08
+Wojtaszek, R.	2735	Dominguez Perez, L.	2760	1/2-1/2	2014.08.02
+Gelfand, B.	2753	Dominguez Perez, L.	2760	1/2-1/2	2014.08.02
+Naiditsch, A.	2709	Dominguez Perez, L.	2760	1/2-1/2	2014.08.02
+Nakamura, Hi	2782	Dominguez Perez, L.	2755	1/2-1/2	2014.09.14
+Radjabov, T.	2726	Dominguez Perez, L.	2751	1/2-1/2	2014.10.02
+Nakamura, Hi	2764	Dominguez Perez, L.	2751	1/2-1/2	2014.10.02
+Gelfand, B.	2743	Dominguez Perez, L.	2726	1/2-1/2	2014.12.13
+Ponomariov, R.	2714	Dominguez Perez, L.	2726	1/2-1/2	2014.12.13
+Leko, P.	2723	Dominguez Perez, L.	2726	1/2-1/2	2014.12.16
+Grischuk, A.	2810	Dominguez Perez, L.	2726	0-1	2014.12.16
+Nepomniachtchi, I.	2714	Dominguez Perez, L.	2726	1/2-1/2	2014.12.16
+Wojtaszek, R.	2744	Dominguez Perez, L.	2726	1/2-1/2	2014.12.16
+Ponomariov, R.	2714	Dominguez Perez, L.	2726	1/2-1/2	2014.12.16
+Dominguez Perez, L.	2753	Topalov, V.	2771	1/2-1/2	2013.10.20
+Dominguez Perez, L.	2753	Leko, P.	2732	1/2-1/2	2013.10.20
+Dominguez Perez, L.	2754	Le Quang Liem	2703	1/2-1/2	2013.12.14
+Dominguez Perez, L.	2754	Kamsky, G.	2721	1/2-1/2	2013.12.12
+Dominguez Perez, L.	2754	Radjabov, T.	2713	1/2-1/2	2013.12.12
+Dominguez Perez, L.	2754	Karjakin, Sergey	2756	0-1	2013.12.12
+Dominguez Perez, L.	2754	Radjabov, T.	2713	1-0	2013.12.14
+Dominguez Perez, L.	2754	Mamedyarov, S.	2757	0-1	2013.12.14
+Dominguez Perez, L.	2754	Grischuk, A.	2783	0-1	2013.12.14
+Dominguez Perez, L.	2754	Kamsky, G.	2721	1-0	2013.12.14
+Dominguez Perez, L.	2754	Giri, A.	2734	1-0	2013.12.14
+Dominguez Perez, L.	2754	Ponomariov, R.	2731	1-0	2013.12.14
+Dominguez Perez, L.	2754	Nepomniachtchi, I.	2721	0-1	2013.12.14
+Dominguez Perez, L.	2757	El Gindy, E.	2487	1-0	2013.08.11
+Dominguez Perez, L.	2757	Onischuk, Al	2667	1-0	2013.08.11
+Dominguez Perez, L.	2757	Spraggett, K.	2568	1-0	2013.09.08
+Dominguez Perez, L.	2757	Anton Guijarro, D.	2574	1-0	2013.09.08
+Dominguez Perez, L.	2757	Giri, A.	2737	1-0	2013.09.22
+Dominguez Perez, L.	2723	Svidler, P.	2769	1-0	2013.05.22
+Dominguez Perez, L.	2723	Topalov, V.	2793	1-0	2013.05.22
+Dominguez Perez, L.	2723	Morozevich, A.	2760	1-0	2013.05.22
+Dominguez Perez, L.	2723	Rodriguez Vila, A.	2508	1-0	2013.01.24
+Dominguez Perez, L.	2723	Andreikin, D.	2727	1-0	2013.04.21
+Dominguez Perez, L.	2723	Harikrishna, P.	2705	1-0	2013.04.21
+Dominguez Perez, Leinier	2757	Spraggett, Kevin	2568	1-0	2013.09.08
+Dominguez Perez, Leinier	2758	Radjabov, Teimour	2765	1/2-1/2	Sat Feb 06 2021
+Dominguez Perez, Leinier	2758	Nakamura, Hikaru	2736	1/2-1/2	Sat Feb 06 2021
+Dominguez Perez, Leinier	2758	Bluebaum, Matthias	2670	1/2-1/2	Sun Feb 07 2021
+Dominguez Perez, Leinier	2758	Giri, Anish	2764	1/2-1/2	Mon Feb 08 2021
+Dominguez Perez, Leinier	2758	Vidit, Santosh Gujrathi	2726	1/2-1/2	Mon Apr 26 2021
+Dominguez Perez, Leinier	2758	Duda, Jan-Krzysztof	2729	1/2-1/2	Sun Apr 25 2021
+Dominguez Perez, Leinier	2758	So, Wesley	2770	1/2-1/2	Sun Apr 25 2021
+Dominguez Perez, Leinier	2758	Karjakin, Sergey	2757	1/2-1/2	Sun Apr 25 2021
+Dominguez Perez, Leinier	2786	Gelfand, Boris	2702	1/2-1/2	2021.07.04
+Dominguez Perez, Leinier	2758	Vakhidov, Jakhongir	2534	1/2-1/2	2021.07.16
+Dominguez Perez, Leinier	2786	So, Wesley	2774	1/2-1/2	2021.08.12
+Dominguez Perez, Leinier	2654	Caruana, Fabiano	2734	1/2-1/2	2021.08.14
+Dominguez Perez, Leinier	2786	So, Wesley	2774	1/2-1/2	2021.08.14
+Dominguez Perez, Leinier	2654	Nakamura, Hikaru	2900	1/2-1/2	2021.08.15
+Dominguez Perez, Leinier	2654	Shankland, Sam	2704	1/2-1/2	2021.08.16
+Dominguez Perez, Leinier	2758	Caruana, Fabiano	2806	1/2-1/2	2021.08.18
+Dominguez Perez, Leinier	2758	Svidler, Peter	2714	1/2-1/2	2021.08.23
+Dominguez Perez, Leinier	2758	Shankland, Sam	2709	1/2-1/2	2021.08.25
+Dominguez Perez, Leinier	2786	Giri, Anish	2744	1/2-1/2	2021.08.28
+Dominguez Perez, Leinier	2786	Mamedyarov, Shakhriyar	2756	0-1	2021.08.28
+Dominguez Perez, Leinier	2786	Firouzja, Alireza	2696	0-1	2021.08.30
+Dominguez Perez, Leinier	2786	Aronian, Levon	2761	0-1	2021.08.29
+Dominguez Perez, Leinier	2786	Carlsen, Magnus	2881	1/2-1/2	2021.08.29
+Dominguez Perez, Leinier	2786	Artemiev, Vladislav	2757	0-1	2021.08.31
+Dominguez Perez, Leinier	2786	Artemiev, Vladislav	2757	0-1	2021.09.01
+Dominguez Perez, L.	2754	Wang Hao	2735	1/2-1/2	2013.12.14
+Dominguez Perez, L.	2754	Aronian, L.	2803	1/2-1/2	2013.12.14
+Dominguez Perez, L.	2754	Ivanchuk, V.	2731	1/2-1/2	2013.12.14
+Dominguez Perez, L.	2754	Leko, P.	2730	1/2-1/2	2013.12.14
+Dominguez Perez, L.	2754	Karjakin, Sergey	2756	1/2-1/2	2013.12.14
+Dominguez Perez, L.	2754	Wang Yue	2723	1/2-1/2	2013.12.14
+Dominguez Perez, L.	2754	Leko, P.	2730	1/2-1/2	2013.12.17
+Dominguez Perez, L.	2754	Mamedyarov, S.	2757	1/2-1/2	2013.12.17
+Dominguez Perez, L.	2754	Le Quang Liem	2703	1/2-1/2	2013.12.17
+Dominguez Perez, L.	2754	Nepomniachtchi, I.	2721	1/2-1/2	2013.12.17
+Dominguez Perez, L.	2754	Grischuk, A.	2783	1/2-1/2	2013.12.17
+Dominguez Perez, L.	2757	Vachier Lagrave, M.	2719	1/2-1/2	2013.08.11
+Dominguez Perez, L.	2757	Bacrot, E.	2723	1/2-1/2	2013.09.08
+Dominguez Perez, L.	2757	Nakamura, Hi	2772	1/2-1/2	2013.09.22
+Dominguez Perez, L.	2757	Navara, D.	2715	1/2-1/2	2013.09.08
+Dominguez Perez, L.	2757	Bacrot, E.	2723	1/2-1/2	2013.09.22
+Dominguez Perez, L.	2757	Caruana, F.	2779	1/2-1/2	2013.09.22
+Dominguez Perez, L.	2757	Fressinet, L.	2708	1/2-1/2	2013.09.22
+Dominguez Perez, L.	2723	Ponomariov, R.	2742	1/2-1/2	2013.05.22
+Dominguez Perez, L.	2723	Nakamura, Hi	2775	1/2-1/2	2013.05.22
+Dominguez Perez, L.	2723	Mecking, H.	2604	1/2-1/2	2013.01.24
+Dominguez Perez, L.	2723	Onischuk, Al	2660	1/2-1/2	2013.01.24
+Dominguez Perez, L.	2723	Korobov, A.	2698	1/2-1/2	2013.04.07
+Dominguez Perez, L.	2723	Mamedyarov, S.	2766	1/2-1/2	2013.04.07
+Dominguez Perez, L.	2723	Inarkiev, E.	2688	1/2-1/2	2013.04.21
+Miralles, G.	2472	Dominguez Perez, L.	2753	0-1	2013.10.20
+Harikrishna, P.	2709	Dominguez Perez, L.	2753	0-1	2013.10.20
+Kamsky, G.	2721	Dominguez Perez, L.	2754	1-0	2013.12.14
+Aronian, L.	2803	Dominguez Perez, L.	2754	0-1	2013.12.12
+Giri, A.	2734	Dominguez Perez, L.	2754	0-1	2013.12.12
+Giri, A.	2734	Dominguez Perez, L.	2754	0-1	2013.12.14
+Ponomariov, R.	2731	Dominguez Perez, L.	2754	1-0	2013.12.14
+Karjakin, Sergey	2756	Dominguez Perez, L.	2754	1-0	2013.12.14
+Wang Yue	2723	Dominguez Perez, L.	2754	0-1	2013.12.14
+Nepomniachtchi, I.	2721	Dominguez Perez, L.	2754	0-1	2013.12.14
+Wang Hao	2735	Dominguez Perez, L.	2754	1-0	2013.12.14
+Vachier Lagrave, M.	2745	Dominguez Perez, L.	2754	1-0	2013.12.14
+Aronian, L.	2803	Dominguez Perez, L.	2754	1-0	2013.12.14
+Mamedyarov, S.	2757	Dominguez Perez, L.	2754	1-0	2013.12.14
+Grischuk, A.	2783	Dominguez Perez, L.	2754	1-0	2013.12.14
+Mamedyarov, S.	2757	Dominguez Perez, L.	2754	1-0	2013.12.17
+Le Quang Liem	2703	Dominguez Perez, L.	2754	1-0	2013.12.17
+Grischuk, A.	2783	Dominguez Perez, L.	2754	0-1	2013.12.17
+El Gindy, E.	2487	Dominguez Perez, L.	2757	0-1	2013.08.11
+Vachier Lagrave, M.	2719	Dominguez Perez, L.	2757	1-0	2013.08.11
+Sargissian, G.	2671	Dominguez Perez, L.	2757	1-0	2013.09.08
+Gelfand, B.	2764	Dominguez Perez, L.	2757	1-0	2013.09.22
+Kamsky, G.	2741	Dominguez Perez, L.	2723	1-0	2013.05.22
+Dominguez Perez, L.	2723	Quesada Perez, Yu	2608	1/2-1/2	2013.04.21
+Dominguez Perez, L.	2723	Almasi, Z.	2689	1/2-1/2	2013.04.21
+Banikas, H.	2630	Dominguez Perez, L.	2753	1/2-1/2	2013.10.20
+Durarbayli, V.	2548	Dominguez Perez, L.	2753	1/2-1/2	2013.10.20
+Vachier Lagrave, M.	2745	Dominguez Perez, L.	2754	1/2-1/2	2013.12.12
+Leko, P.	2730	Dominguez Perez, L.	2754	1/2-1/2	2013.12.14
+Le Quang Liem	2703	Dominguez Perez, L.	2754	1/2-1/2	2013.12.14
+Radjabov, T.	2713	Dominguez Perez, L.	2754	1/2-1/2	2013.12.14
+Ivanchuk, V.	2731	Dominguez Perez, L.	2754	1/2-1/2	2013.12.14
+Leko, P.	2730	Dominguez Perez, L.	2754	1/2-1/2	2013.12.17
+Nepomniachtchi, I.	2721	Dominguez Perez, L.	2754	1/2-1/2	2013.12.17
+Onischuk, Al	2667	Dominguez Perez, L.	2757	1/2-1/2	2013.08.11
+Ivanchuk, V.	2731	Dominguez Perez, L.	2757	1/2-1/2	2013.09.22
+Bruzon Batista, L.	2699	Dominguez Perez, L.	2757	1/2-1/2	2013.09.08
+Nisipeanu, LD.	2665	Dominguez Perez, L.	2757	1/2-1/2	2013.09.08
+Wang Hao	2736	Dominguez Perez, L.	2757	1/2-1/2	2013.09.22
+Ponomariov, R.	2756	Dominguez Perez, L.	2757	1/2-1/2	2013.09.22
+Tomashevsky, E.	2703	Dominguez Perez, L.	2757	1/2-1/2	2013.09.22
+Grischuk, A.	2785	Dominguez Perez, L.	2757	1/2-1/2	2013.09.22
+Kasimdzhanov, R.	2699	Dominguez Perez, L.	2723	0-1	2013.05.22
+Ivanchuk, V.	2755	Dominguez Perez, L.	2723	0-1	2013.05.22
+Grischuk, A.	2779	Dominguez Perez, L.	2723	1/2-1/2	2013.05.22
+Bacrot, E.	2725	Dominguez Perez, L.	2723	1/2-1/2	2013.05.22
+Caruana, F.	2774	Dominguez Perez, L.	2723	0-1	2013.05.22
+Onischuk, Al	2660	Dominguez Perez, L.	2723	1/2-1/2	2013.01.24
+Rodriguez Vila, A.	2508	Dominguez Perez, L.	2723	0-1	2013.01.24
+Gabrielian, A.	2558	Dominguez Perez, L.	2723	0-1	2013.04.07
+Dominguez Perez, L.	2730	Ibragimov, I.	2539	1-0	2012.04.09
+Dominguez Perez, L.	2730	Dreev, A.	2698	1-0	2012.04.09
+Dominguez Perez, L.	2725	Laznicka, V.	2693	1-0	2012.05.03
+Dominguez Perez, L.	2725	Potkin, V.	2642	1-0	2012.05.03
+Dominguez Perez, L.	2725	Nepomniachtchi, I.	2716	1-0	2012.05.04
+Dominguez Perez, L.	2725	Gruenfeld, Y.	2434	1-0	2012.08.28
+Dominguez Perez, L.	2725	Shirov, A.	2706	1-0	2012.08.28
+Dominguez Perez, L.	2725	Lenic, L.	2640	1-0	2012.08.28
+Dominguez Perez, L.	2734	Maki, V.	2383	1-0	2012.10.11
+Dominguez Perez, L.	2734	Alekseev, Evgeny	2683	1-0	2012.10.05
+Dominguez Perez, L.	2734	Zvjaginsev, V.	2678	1-0	2012.10.05
+Dominguez Perez, L.	2726	Cheparinov, I.	2710	1-0	2012.11.05
+Dominguez Perez, L.	2726	Ponomariov, R.	2741	1-0	2012.11.05
+Dominguez Perez, L.	2726	Alsina Leal, D.	2536	1-0	2012.11.05
+Dominguez Perez, L.	2726	Kamsky, G.	2762	1-0	2012.11.22
+Mecking, H.	2604	Dominguez Perez, L.	2723	1/2-1/2	2013.01.24
+Mamedov, Rau	2662	Dominguez Perez, L.	2723	1/2-1/2	2013.04.07
+Cheparinov, I.	2702	Dominguez Perez, L.	2723	1/2-1/2	2013.04.07
+Le Quang Liem	2717	Dominguez Perez, L.	2723	1/2-1/2	2013.04.07
+Atalik, S.	2593	Dominguez Perez, L.	2723	1/2-1/2	2013.04.07
+Almasi, Z.	2689	Dominguez Perez, L.	2723	1/2-1/2	2013.04.21
+Andreikin, D.	2727	Dominguez Perez, L.	2723	1/2-1/2	2013.04.21
+Harikrishna, P.	2705	Dominguez Perez, L.	2723	1/2-1/2	2013.04.21
+Inarkiev, E.	2688	Dominguez Perez, L.	2723	1/2-1/2	2013.04.21
+Quesada Perez, Yu	2608	Dominguez Perez, L.	2723	1/2-1/2	2013.04.21
+Dominguez Perez, L.	2712	Fressinet, L.	2700	1/2-1/2	2011.12.28
+Dominguez Perez, L.	2712	Granda Zuniga, J.	2636	1/2-1/2	2011.12.28
+Dominguez Perez, L.	2712	Volokitin, And	2695	1/2-1/2	2011.12.28
+Dominguez Perez, L.	2730	Nepomniachtchi, I.	2718	1/2-1/2	2012.04.09
+Dominguez Perez, L.	2725	Quesada Perez, Yu	2625	1/2-1/2	2012.05.03
+Dominguez Perez, L.	2725	Ivanchuk, V.	2764	0-1	2012.05.04
+Dominguez Perez, L.	2725	Ghaem Maghami, E.	2579	1/2-1/2	2012.08.28
+Dominguez Perez, L.	2725	Al Modiahki, M.	2542	1/2-1/2	2012.08.28
+Dominguez Perez, L.	2725	Giri, A.	2730	1/2-1/2	2012.09.21
+Dominguez Perez, L.	2725	Gelfand, B.	2738	1/2-1/2	2012.09.21
+Dominguez Perez, L.	2734	Nepomniachtchi, I.	2704	1/2-1/2	2012.10.11
+Dominguez Perez, L.	2725	Ivanchuk, V.	2769	1/2-1/2	2012.09.21
+Dominguez Perez, L.	2734	Inarkiev, E.	2683	1/2-1/2	2012.10.05
+Dominguez Perez, L.	2734	Efimenko, Z.	2689	1/2-1/2	2012.10.05
+Dominguez Perez, L.	2734	Svidler, P.	2747	1/2-1/2	2012.10.05
+Dominguez Perez, L.	2734	Vitiugov, N.	2691	1/2-1/2	2012.10.05
+Dominguez Perez, L.	2725	Nakamura, Hi	2783	1/2-1/2	2012.09.21
+Dominguez Perez, L.	2725	Leko, P.	2737	1/2-1/2	2012.09.21
+Dominguez Perez, L.	2725	Wang Hao	2742	1/2-1/2	2012.09.21
+Dominguez Perez, L.	2734	Volokitin, And	2724	1/2-1/2	2012.10.11
+Dominguez Perez, L.	2726	Iturrizaga, E.	2656	1/2-1/2	2012.11.05
+Dominguez Perez, L.	2726	Karjakin, Sergey	2775	0-1	2012.11.22
+Dominguez Perez, L.	2726	Kasimdzhanov, R.	2696	1/2-1/2	2012.11.22
+Dominguez Perez, L.	2726	Svidler, P.	2747	1/2-1/2	2012.11.22
+Dominguez Perez, L.	2726	Caruana, F.	2786	0-1	2012.11.22
+Fressinet, L.	2700	Dominguez Perez, L.	2712	1/2-1/2	2011.12.28
+Granda Zuniga, J.	2636	Dominguez Perez, L.	2712	1/2-1/2	2011.12.28
+Volokitin, And	2695	Dominguez Perez, L.	2712	1-0	2011.12.28
+Alekseenko, K.	2367	Dominguez Perez, L.	2730	1/2-1/2	2012.04.09
+Inarkiev, E.	2695	Dominguez Perez, L.	2730	1/2-1/2	2012.04.09
+Dubov, Danii	2536	Dominguez Perez, L.	2730	1-0	2012.04.09
+Wang Hao	2733	Dominguez Perez, L.	2730	1/2-1/2	2012.04.09
+Ivanchuk, V.	2764	Dominguez Perez, L.	2725	1-0	2012.05.03
+Nepomniachtchi, I.	2716	Dominguez Perez, L.	2725	1/2-1/2	2012.05.04
+Laznicka, V.	2693	Dominguez Perez, L.	2725	1/2-1/2	2012.05.04
+Kojima, S.	2282	Dominguez Perez, L.	2725	0-1	2012.08.28
+Adams, Mi	2722	Dominguez Perez, L.	2725	1-0	2012.08.28
+Iturrizaga, E.	2627	Dominguez Perez, L.	2725	0-1	2012.08.28
+Sasikiran, K.	2707	Dominguez Perez, L.	2725	0-1	2012.08.28
+Mamedyarov, S.	2729	Dominguez Perez, L.	2725	1-0	2012.09.21
+Matlakov, M.	2665	Dominguez Perez, L.	2734	1-0	2012.10.05
+Movsesian, S.	2699	Dominguez Perez, L.	2734	0-1	2012.10.05
+Khairullin, I.	2639	Dominguez Perez, L.	2734	0-1	2012.10.05
+Shimanov, A.	2599	Dominguez Perez, L.	2734	0-1	2012.10.05
+Topalov, V.	2752	Dominguez Perez, L.	2725	1-0	2012.09.21
+Mchedlishvili, M.	2639	Dominguez Perez, L.	2726	0-1	2012.11.05
+Harikrishna, P.	2692	Dominguez Perez, L.	2726	1-0	2012.11.05
+Morozevich, A.	2748	Dominguez Perez, L.	2726	1-0	2012.11.22
+Dominguez Perez, L.	2726	Mamedyarov, S.	2764	1/2-1/2	2012.11.22
+Ponomariov, R.	2741	Dominguez Perez, L.	2726	1-0	2012.11.22
+Dominguez Perez, L.	0	Lorenzana, W.	2227	1-0	2011.03.28
+Dominguez Perez, L.	0	Mateo, Ra	2446	1-0	2011.03.28
+Dominguez Perez, L.	0	Barrientos, S.	2499	1-0	2011.03.28
+Dominguez Perez, L.	0	Munoz, Li	2401	1-0	2011.03.28
+Dominguez Perez, L.	0	Leyva, H.	2393	1-0	2011.03.28
+Dominguez Perez, L.	0	Cabralis, K.	2203	1-0	2011.03.28
+Dominguez Perez, L.	2719	Agaragimov, D.	2352	1-0	2011.08.06
+Dominguez Perez, L.	2719	Dovliatov, S.	2411	1-0	2011.08.06
+Dominguez Perez, L.	2719	Quparadze, G.	2467	1-0	2011.08.06
+Dominguez Perez, L.	2719	Moradiabadi, E.	2532	1-0	2011.08.28
+Dominguez Perez, L.	2719	Lysyj, I.	2629	1-0	2011.08.28
+Potkin, V.	2642	Dominguez Perez, L.	2725	1/2-1/2	2012.05.04
+Quesada Perez, Yu	2625	Dominguez Perez, L.	2725	1/2-1/2	2012.05.04
+Vachier Lagrave, M.	2686	Dominguez Perez, L.	2725	1/2-1/2	2012.08.28
+Grischuk, A.	2754	Dominguez Perez, L.	2725	1/2-1/2	2012.09.21
+Kasimdzhanov, R.	2684	Dominguez Perez, L.	2725	1/2-1/2	2012.09.21
+Van Wely, L.	2688	Dominguez Perez, L.	2734	1/2-1/2	2012.10.11
+Adams, Mi	2722	Dominguez Perez, L.	2725	1/2-1/2	2012.09.21
+Khalifman, A.	2614	Dominguez Perez, L.	2734	1/2-1/2	2012.10.05
+Areshchenko, A.	2710	Dominguez Perez, L.	2734	1/2-1/2	2012.10.11
+Mamedyarov, S.	2748	Dominguez Perez, L.	2734	1/2-1/2	2012.10.11
+Marin, Mi	2547	Dominguez Perez, L.	2726	1/2-1/2	2012.11.05
+Wang Hao	2737	Dominguez Perez, L.	2726	1/2-1/2	2012.11.22
+Leko, P.	2732	Dominguez Perez, L.	2726	1/2-1/2	2012.11.22
+Gelfand, B.	2751	Dominguez Perez, L.	2726	1/2-1/2	2012.11.22
+Dominguez Perez, L.	2726	Le Quang Liem	2687	1/2-1/2	2011.05.11
+Dominguez Perez, L.	2726	Navara, D.	2702	1/2-1/2	2011.05.11
+Dominguez Perez, L.	2726	Andreikin, D.	2687	0-1	2011.05.11
+Dominguez Perez, L.	2726	Ivanchuk, V.	2776	1/2-1/2	2011.05.11
+Dominguez Perez, L.	2726	Bruzon Batista, L.	2693	1/2-1/2	2011.05.11
+Dominguez Perez, L.	2719	Mchedlishvili, M.	2618	1/2-1/2	2011.08.06
+Dominguez Perez, L.	2719	Najer, E.	2643	1/2-1/2	2011.08.06
+Dominguez Perez, L.	2719	Bologan, V.	2678	1/2-1/2	2011.08.28
+Dominguez Perez, L.	2719	Lysyj, I.	2629	1/2-1/2	2011.08.28
+Dominguez Perez, L.	2719	Lysyj, I.	2629	1-0	2011.08.28
+Dominguez Perez, L.	2719	Polgar, Ju	2699	0-1	2011.08.28
+Dominguez Perez, L.	2719	Polgar, Ju	2699	1-0	2011.08.28
+Dominguez Perez, L.	2719	Polgar, Ju	2699	1-0	2011.08.28
+Dominguez Perez, L.	2719	Polgar, Ju	2699	0-1	2011.08.28
+Dominguez Perez, L.	2710	Robson, R.	2583	1-0	2011.10.15
+Dominguez Perez, L.	2710	Le Quang Liem	2717	1-0	2011.10.15
+Dominguez Perez, L.	2712	Fedorchuk, S.	2632	1-0	2011.11.21
+Dominguez Perez, L.	2712	Gashimov, V.	2757	1-0	2011.12.09
+Dominguez Perez, L.	2712	Wang Yue	2697	1-0	2011.12.09
+Dominguez Perez, L.	2712	Mamedyarov, S.	2733	1-0	2011.12.09
+Dominguez Perez, L.	2712	Kamsky, G.	2732	1-0	2011.12.14
+Dominguez Perez, L.	2712	Karjakin, Sergey	2763	0-1	2011.12.12
+Dominguez Perez, L.	2712	Ivanchuk, V.	2775	0-1	2011.12.12
+Dominguez Perez, L.	2712	Giri, A.	2714	0-1	2011.12.12
+Dominguez Perez,L	2712	Tung,S	1922	1-0	2011.12.28
+Le Quang Liem	2687	Dominguez Perez, L.	2726	1-0	2011.05.11
+Andreikin, D.	2696	Dominguez Perez, L.	2719	1-0	2011.08.06
+Lysyj, I.	2629	Dominguez Perez, L.	2719	1-0	2011.08.28
+Dominguez Perez, L.	2719	Lysyj, I.	2629	1/2-1/2	2011.08.28
+Dominguez Perez, L.	2719	Lysyj, I.	2629	1/2-1/2	2011.08.28
+Polgar, Ju	2699	Dominguez Perez, L.	2719	1-0	2011.08.28
+Polgar, Ju	2699	Dominguez Perez, L.	2719	1-0	2011.08.28
+Dominguez Perez, L.	2710	Meier, Geo	2648	1/2-1/2	2011.10.15
+Dominguez Perez, L.	2710	Shulman, Y.	2608	1/2-1/2	2011.10.15
+Le Quang Liem	2717	Dominguez Perez, L.	2710	1-0	2011.10.15
+Dominguez Perez, L.	2712	Vallejo Pons, F.	2705	1/2-1/2	2011.11.21
+Dominguez Perez, L.	2712	Ponomariov, R.	2723	1/2-1/2	2011.11.21
+Ivanchuk, V.	2775	Dominguez Perez, L.	2712	1-0	2011.12.09
+Ponomariov, R.	2723	Dominguez Perez, L.	2712	1-0	2011.12.09
+Vachier Lagrave, M.	2710	Dominguez Perez, L.	2712	1-0	2011.12.14
+Dominguez Perez, L.	2712	Almasi, Z.	2707	1/2-1/2	2011.12.14
+Le Quang Liem	2714	Dominguez Perez, L.	2712	1-0	2011.12.14
+Dominguez Perez, L.	2712	Ponomariov, R.	2723	1/2-1/2	2011.12.14
+Dominguez Perez, L.	2712	Karjakin, Sergey	2763	1/2-1/2	2011.12.14
+Gashimov, V.	2757	Dominguez Perez, L.	2712	1-0	2011.12.12
+Dominguez Perez, L.	2712	Nielsen, PH.	2693	1/2-1/2	2011.12.12
+Vachier Lagrave, M.	2710	Dominguez Perez, L.	2712	1-0	2011.12.12
+Vallejo Pons, F.	2705	Dominguez Perez, L.	2712	1-0	2011.12.12
+Dominguez Perez, L.	2712	Stefanova, A.	2531	1/2-1/2	2011.12.28
+Dominguez Perez, Leinier	2710	Feller, Sebastien	2668	1/2-1/2	2011.10.15
+Del Castilho, M.	2205	Dominguez Perez, L.	0	0-1	2011.03.28
+Arenas, D.	2420	Dominguez Perez, L.	0	0-1	2011.03.28
+Leon Hoyos, M.	2546	Dominguez Perez, L.	0	1/2-1/2	2011.03.28
+Mazara, A.	2298	Dominguez Perez, L.	0	0-1	2011.03.28
+Pitterson, J.	2263	Dominguez Perez, L.	0	0-1	2011.03.28
+Ivanchuk, V.	2776	Dominguez Perez, L.	2726	1/2-1/2	2011.05.11
+Bruzon Batista, L.	2693	Dominguez Perez, L.	2726	1/2-1/2	2011.05.11
+Navara, D.	2702	Dominguez Perez, L.	2726	0-1	2011.05.11
+Andreikin, D.	2687	Dominguez Perez, L.	2726	1/2-1/2	2011.05.11
+Guliev, Sarh	2500	Dominguez Perez, L.	2719	1/2-1/2	2011.08.06
+Bruzon Batista, L.	2673	Dominguez Perez, L.	2719	1/2-1/2	2011.08.06
+Abbasov, F.	2529	Dominguez Perez, L.	2719	1/2-1/2	2011.08.06
+Moradiabadi, E.	2532	Dominguez Perez, L.	2719	1/2-1/2	2011.08.28
+Bologan, V.	2678	Dominguez Perez, L.	2719	0-1	2011.08.28
+Lysyj, I.	2629	Dominguez Perez, L.	2719	1/2-1/2	2011.08.28
+Lysyj, I.	2629	Dominguez Perez, L.	2719	1/2-1/2	2011.08.28
+Lysyj, I.	2629	Dominguez Perez, L.	2719	1/2-1/2	2011.08.28
+Polgar, Ju	2699	Dominguez Perez, L.	2719	0-1	2011.08.28
+Robson, R.	2583	Dominguez Perez, L.	2710	0-1	2011.10.15
+Dreev, A.	2710	Dominguez Perez, L.	2712	0-1	2011.11.21
+Sargissian, G.	2671	Dominguez Perez, L.	2712	0-1	2011.11.21
+Harikrishna, P.	2673	Dominguez Perez, L.	2712	0-1	2011.11.21
+Kamsky, G.	2732	Dominguez Perez, L.	2712	0-1	2011.12.12
+Stefanova, A.	2531	Dominguez Perez, L.	2712	0-1	2011.12.28
+Tung,S	1922	Dominguez Perez,L	2712	0-1	2011.12.28
+Vidit, Santosh Gujrathi	2726	Dominguez Perez, Leinier	2758	1-0	Sat Feb 06 2021
+Ding, Liren	2791	Dominguez Perez, Leinier	2758	1-0	Sat Feb 06 2021
+Vachier-Lagrave, Maxime	2784	Dominguez Perez, Leinier	2758	1-0	Sun Feb 07 2021
+Aronian, Levon	2781	Dominguez Perez, Leinier	2758	1-0	Sun Feb 07 2021
+Grischuk, Alexander	2777	Dominguez Perez, Leinier	2758	0-1	Mon Feb 08 2021
+Nepomniachtchi, Ian	2789	Dominguez Perez, Leinier	2758	0-1	Mon Feb 08 2021
+Carlsen, Magnus	2847	Dominguez Perez, Leinier	2758	1-0	Sat Apr 24 2021
+Firouzja, Alireza	2759	Dominguez Perez, Leinier	2758	1-0	Sat Apr 24 2021
+Mamedyarov, Shakhriyar	2770	Dominguez Perez, Leinier	2758	1-0	Sun Apr 25 2021
+Gelfand, Boris	2702	Dominguez Perez, Leinier	2786	1-0	2021.07.04
+Vakhidov, Jakhongir	2532	Dominguez Perez, Leinier	2786	1-0	2021.07.17
+Nakamura, Hikaru	2829	Dominguez Perez, Leinier	2786	1-0	2021.08.13
+Caruana, Fabiano	2758	Dominguez Perez, Leinier	2786	1-0	2021.08.12
+Le, Quang Liem	2690	Dominguez Perez, Leinier	2654	1-0	2021.08.14
+So, Wesley	2861	Dominguez Perez, Leinier	2654	1-0	2021.08.15
+Mamedyarov, Shakhriyar	2755	Dominguez Perez, Leinier	2654	1-0	2021.08.15
+Van Foreest, Jorden	2563	Dominguez Perez, Leinier	2786	1-0	2021.08.29
+So, Wesley	2774	Dominguez Perez, Leinier	2786	1-0	2021.08.29
+Dominguez Perez, Leinier	2786	Artemiev, Vladislav	2757	1/2-1/2	2021.09.01
+Artemiev, Vladislav	2757	Dominguez Perez, Leinier	2786	1-0	2021.09.01
+Dominguez Perez, Leinier	2760	Caruana, Fabiano	2800	1/2-1/2	2021.10.07
+Dominguez Perez, Leinier	2760	Naroditsky, Daniel	2623	1/2-1/2	2021.10.13
+Dominguez Perez, Leinier	2760	Burke, John M	2554	1/2-1/2	2021.10.11
+Dominguez Perez, Leinier	2760	Robson, Ray	2669	1/2-1/2	2021.10.16
+Dominguez Perez, Leinier	2760	Swiercz, Dariusz	2647	1/2-1/2	2021.10.18
+Shankland, Sam	2691	Dominguez Perez, Leinier	2758	1/2-1/2	Sun Feb 07 2021
+Aronian, Levon	2781	Dominguez Perez, Leinier	2758	1/2-1/2	Sat Apr 24 2021
+Radjabov, Teimour	2765	Dominguez Perez, Leinier	2758	1/2-1/2	Mon Apr 26 2021
+Jones, Gawain C B	2670	Dominguez Perez, Leinier	2758	0-1	Mon Apr 26 2021
+Praggnanandhaa, R	2608	Dominguez Perez, Leinier	2758	0-1	Sun Apr 25 2021
+Le, Quang Liem	2709	Dominguez Perez, Leinier	2758	1/2-1/2	Mon Apr 26 2021
+Ju, Wenjun	2610	Dominguez Perez, Leinier	2786	1/2-1/2	2021.06.30
+Ju, Wenjun	2610	Dominguez Perez, Leinier	2786	0-1	2021.06.30
+Gelfand, Boris	2691	Dominguez Perez, Leinier	2654	1/2-1/2	2021.07.04
+Gelfand, Boris	2702	Dominguez Perez, Leinier	2786	1/2-1/2	2021.07.04
+Vakhidov, Jakhongir	2534	Dominguez Perez, Leinier	2758	1/2-1/2	2021.07.15
+Shankland, Sam	2609	Dominguez Perez, Leinier	2786	1/2-1/2	2021.08.11
+Le, Quang Liem	2744	Dominguez Perez, Leinier	2786	1/2-1/2	2021.08.13
+Nakamura, Hikaru	2900	Dominguez Perez, Leinier	2654	1/2-1/2	2021.08.14
+Shankland, Sam	2704	Dominguez Perez, Leinier	2654	1/2-1/2	2021.08.15
+Svidler, Peter	2743	Dominguez Perez, Leinier	2654	1/2-1/2	2021.08.14
+Caruana, Fabiano	2734	Dominguez Perez, Leinier	2654	0-1	2021.08.15
+Xiong, Jeffery	2724	Dominguez Perez, Leinier	2654	1/2-1/2	2021.08.15
+Rapport, Richard	2776	Dominguez Perez, Leinier	2654	0-1	2021.08.15
+Swiercz, Dariusz	2655	Dominguez Perez, Leinier	2758	0-1	2021.08.17
+Xiong, Jeffery	2710	Dominguez Perez, Leinier	2758	1/2-1/2	2021.08.19
+Liang, Awonder	2397	Dominguez Perez, Leinier	2786	0-1	2021.08.28
+Le, Quang Liem	2744	Dominguez Perez, Leinier	2786	0-1	2021.08.30
+Naroditsky, Daniel	2639	Dominguez Perez, Leinier	2786	0-1	2021.08.30
+Shankland, Sam	2714	Dominguez Perez, Leinier	2760	0-1	2021.10.09
+Dominguez Perez,L	2758	Quesada Perez,Yu	2601	0-1	2020.01.06
+Dominguez Perez,L	2758	Nyzhnyk,I	2662	0-1	2020.01.06
+Dominguez Perez,L	2758	Jones,G	2679	1-0	2020.01.06
+Dominguez Perez,L	2758	Moranda,W	2601	1-0	2020.01.06
+Dominguez Perez,L	2758	Nakamura,Hi	2736	0-1	2020.01.06
+Guseinov,G	2666	Dominguez Perez,L	2758	1-0	2020.01.06
+Dominguez Perez,L	2758	Berchtenbreiter,M	2488	1-0	2020.01.06
+Dominguez Perez,L	2758	Oparin,G	2650	1/2-1/2	2020.01.06
+Dominguez Perez,L	2758	Zierk,S	2509	1-0	2020.01.06
+Dominguez Perez,L	2758	Grischuk,A	2777	1/2-1/2	2020.01.06
+Dominguez Perez,L	2758	Hansen,Eric	2606	1-0	2020.01.06
+Firouzja,Alireza	2726	Dominguez Perez,L	2758	1-0	2020.01.06
+Mamedyarov, Shakhriyar	2782	Dominguez Perez, Leinier	2758	1/2-1/2	2021.08.21
+So, Wesley	2772	Dominguez Perez, Leinier	2758	1/2-1/2	2021.08.26
+Rapport, Richard	2763	Dominguez Perez, Leinier	2758	1/2-1/2	2021.08.24
+Artemiev, Vladislav	2757	Dominguez Perez, Leinier	2786	1/2-1/2	2021.08.28
+Vachier-Lagrave, Maxime	2817	Dominguez Perez, Leinier	2786	1/2-1/2	2021.08.30
+Artemiev, Vladislav	2757	Dominguez Perez, Leinier	2786	1/2-1/2	2021.08.31
+Artemiev, Vladislav	2757	Dominguez Perez, Leinier	2786	1/2-1/2	2021.08.31
+Artemiev, Vladislav	2757	Dominguez Perez, Leinier	2786	1/2-1/2	2021.09.01
+Lenderman, Aleksandr	2607	Dominguez Perez, Leinier	2760	1/2-1/2	2021.10.06
+Bruzon Batista, Lazaro	2645	Dominguez Perez, Leinier	2760	1/2-1/2	2021.10.08
+So, Wesley	2778	Dominguez Perez, Leinier	2760	1/2-1/2	2021.10.12
+Sevian, Samuel	2654	Dominguez Perez, Leinier	2760	1/2-1/2	2021.10.14
+Xiong, Jeffery	2700	Dominguez Perez, Leinier	2760	1/2-1/2	2021.10.17
+Dominguez Perez, Leinier	0	Vitiugov, Nikita	0	1-0	Thu Dec 26 2019
+Dominguez Perez, Leinier	0	Giri, Anish	0	1-0	Thu Dec 26 2019
+Dominguez Perez, Leinier	0	Santos Ruiz, Miguel	0	1-0	Sun Dec 29 2019
+Dominguez Perez, Leinier	0	Potkin, Vladimir	0	1-0	Sun Dec 29 2019
+Dominguez Perez, Leinier	0	Wang, Hao	0	1-0	Sat Dec 28 2019
+Dominguez Perez, Leinier	0	Kezin, Roman	0	1-0	Mon Dec 30 2019
+Dominguez Perez,L	2739	Topalov,V	2740	1-0	2019.02.20
+Dominguez Perez,L	2739	Topalov,V	2740	1-0	2019.02.23
+Dominguez Perez,L	2739	Topalov,V	2740	1-0	2019.02.23
+Dominguez Perez,L	2739	Topalov,V	2740	1-0	2019.02.23
+Dominguez Perez,L	2739	Lenderman,A	2637	1-0	2019.03.20
+Dominguez Perez,L	2739	Liang,Awonder	2590	1-0	2019.03.20
+Dominguez Perez,L	2750	Nozdrachev,V	2489	1-0	2019.05.01
+Dominguez Perez,L	2750	Shubin,Kirill	2404	1-0	2019.05.01
+Dominguez Perez,L	2750	Paravyan,D	2610	1-0	2019.05.01
+Dominguez Perez,L	2750	Wang Hao	2735	1-0	2019.05.17
+Dominguez Perez,L	2750	Mamedov,Rau	2650	1-0	2019.05.17
+Bruzon Batista,L	2640	Dominguez Perez,L	2758	1/2-1/2	2020.01.06
+Robson,R	2673	Dominguez Perez,L	2758	1/2-1/2	2020.01.06
+Speelman,J	2509	Dominguez Perez,L	2758	0-1	2020.01.06
+Sevian,Samuel	2660	Dominguez Perez,L	2758	0-1	2020.01.06
+Harvey,Marcus R	2419	Dominguez Perez,L	2758	1/2-1/2	2020.01.06
+Naroditsky,D	2621	Dominguez Perez,L	2758	1/2-1/2	2020.01.06
+Swiercz,D	2659	Dominguez Perez,L	2758	1/2-1/2	2020.01.06
+Saric,Iv	2646	Dominguez Perez,L	2758	0-1	2020.01.06
+Dominguez Perez,L	2750	Yu Yangyi	2739	1-0	2019.05.17
+Dominguez Perez,L	2750	Mamedov,Rau	2650	1-0	2019.05.14
+Dominguez Perez,L	2750	Andreikin,D	2722	1-0	2019.05.14
+Dominguez Perez,L	2750	Ponomariov,R	2675	1-0	2019.05.14
+Dominguez Perez,L	2760	Rodshtein,M	2685	1-0	2019.06.23
+Dominguez Perez,L	2760	Nabaty,T	2678	1-0	2019.06.23
+Dominguez Perez,L	2760	Postny,E	2601	1-0	2019.06.23
+Dominguez Perez,L	2760	Nisipeanu,LD	2672	1-0	2019.07.13
+Dominguez Perez,L	2760	Nepomniachtchi,I	2775	1-0	2019.07.13
+Dominguez Perez,L	2763	Karjakin,Sergey	2750	1-0	2019.08.10
+Dominguez Perez,L	2763	Aronian,L	2765	1-0	2019.08.13
+Dominguez Perez,L	2763	Vachier Lagrave,M	2778	1-0	2019.08.13
+Dominguez Perez,L	2763	Yu Yangyi	2752	1-0	2019.08.13
+Dominguez Perez,L	2763	Carlsen,M	2882	1-0	2019.08.13
+Dominguez Perez,L	2763	Abasov,N	2632	1-0	2019.09.10
+Dominguez Perez,L	2763	Escobar Forero,A	2504	1-0	2019.09.10
+Dominguez Perez,L	2763	Grischuk,A	2759	1-0	2019.09.10
+Dominguez Perez,L	2763	Wang Hao	2726	1-0	2019.09.10
+Dominguez Perez,L	2763	Wang Hao	2726	1-0	2019.09.10
+Dominguez Perez,L	2763	Wang Hao	2726	1-0	2019.09.10
+Dominguez Perez,L	2762	Karttunen,M	2477	1-0	2019.11.10
+Dominguez Perez,L	2763	Mihajlov,Seb	2387	1-0	2019.09.25
+Dominguez Perez,L	2763	Mihajlov,Seb	2387	1-0	2019.09.25
+Dominguez Perez,L	2763	Mihajlov,Seb	2387	1-0	2019.09.25
+Dominguez Perez,L	2763	Mihajlov,Seb	2387	1-0	2019.09.25
+Dominguez Perez, Leinier	2726	Rapport, Richard	2802	1/2-1/2	2022.07.10
+Dominguez Perez, Leinier	2726	Niemann, Hans Moke	2529	0-1	2022.07.11
+Dominguez Perez, Leinier	2726	Erigaisi, Arjun	2450	0-1	2022.07.11
+Dominguez Perez, Leinier	2728	Praggnanandhaa, R	2599	0-1	2022.03.12
+Dominguez Perez, Leinier	2728	Bacrot, Etienne	2673	1-0	2022.03.12
+Dominguez Perez, Leinier	2728	Bok, Benjamin	2658	0-1	2022.03.12
+Dominguez Perez, Leinier	2728	Sadhwani, Raunak	2616	0-1	2022.03.12
+Dominguez Perez, Leinier	2726	Tari, Aryan	2531	1-0	2022.07.12
+Dominguez Perez, Leinier	2726	Aronian, Levon	2728	0-1	2022.07.13
+Dominguez Perez, Leinier	2754	Cubas, Jose Fernando	2451	1-0	2022.07.30
+Dominguez Perez, Leinier	2754	Rodshtein, Maxim	2596	1-0	2022.08.02
+Dominguez Perez, Leinier	2754	Sanal, Vahap	2570	1-0	2022.08.08
+Dominguez Perez, Leinier	2705	Nakamura, Hikaru	2837	1-0	2022.08.26
+Dominguez Perez, Leinier	2705	Firouzja, Alireza	2704	0-1	2022.08.27
+Dominguez Perez, Leinier	2708	Mamedyarov, Shakhriyar	2710	0-1	2022.08.29
+Dominguez Perez, Leinier	2708	Nepomniachtchi, Ian	2791	0-1	2022.08.29
+Dominguez Perez, Leinier	2708	Nakamura, Hikaru	2850	0-1	2022.08.29
+Dominguez Perez, Leinier	2708	Firouzja, Alireza	2795	0-1	2022.08.29
+Dominguez Perez, Leinier	2708	Caruana, Fabiano	2847	0-1	2022.08.30
+Dominguez Perez, Leinier	2708	Vachier-Lagrave, Maxime	2812	0-1	2022.08.30
+Dominguez Perez, Leinier	2708	Xiong, Jeffery	2714	1-0	2022.08.30
+Dominguez Perez, Leinier	2708	Aronian, Levon	2850	1-0	2022.08.30
+Dominguez Perez, Leinier	2703	Chigaev, Maksim	2550	1-0	2022.09.17
+Dominguez Perez, Leinier	2703	Chigaev, Maksim	2550	1-0	2022.09.17
+Dominguez Perez, Leinier	2703	Hansen, Eric	2579	1-0	2022.09.22

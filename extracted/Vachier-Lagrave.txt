@@ -1,0 +1,1251 @@
+White	White ELO	Black	Black ELO	Result	Date
+Radjabov, Teimour	2705	Vachier-Lagrave, Maxime	2813	1-0	2022.06.03
+Carlsen, Magnus	2832	Vachier-Lagrave, Maxime	2813	1-0	2022.06.09
+Vachier-Lagrave, Maxime	2750	Mamedyarov, Shakhriyar	2770	1/2-1/2	2022.06.01
+Anand, Viswanathan	2751	Vachier-Lagrave, Maxime	2750	1-0	2022.05.31
+Vachier-Lagrave, Maxime	2758	Seel, Christian, Dr.	2484	1/2-1/2	2022.04.09
+Vachier-Lagrave, Maxime	2760	Gharamian, Tigran	2602	1/2-1/2	2022.06.14
+Acosta, Pablo Ismael	2313	Vachier-Lagrave, Maxime	2813	1-0	2022.06.14
+Vachier-Lagrave, Maxime	2760	Fressinet, Laurent	2624	1/2-1/2	2022.06.19
+Nakamura, Hikaru	3155	Vachier-Lagrave, Maxime	3021	1-0	2022.06.28
+Vachier-Lagrave, Maxime	2813	Xiong, Jeffery	2727	1/2-1/2	2022.03.12
+Vachier-Lagrave, Maxime	2813	Nakamura, Hikaru	2850	1/2-1/2	2022.03.13
+Nakamura, Hikaru	2850	Vachier-Lagrave, Maxime	2813	1-0	2022.03.13
+Vachier-Lagrave, Maxime	2813	Esipenko, Andrey	2617	1/2-1/2	2022.04.23
+Vachier-Lagrave, Maxime	2763	Shankland, Sam	2616	1/2-1/2	2022.08.27
+Vachier-Lagrave, Maxime	2812	Xiong, Jeffery	2714	1/2-1/2	2022.08.29
+Vachier-Lagrave, Maxime	2812	Shankland, Sam	2645	1/2-1/2	2022.08.29
+Vachier-Lagrave, Maxime	2812	Mamedyarov, Shakhriyar	2710	1/2-1/2	2022.08.30
+Vachier-Lagrave, Maxime	2812	Nepomniachtchi, Ian	2791	1/2-1/2	2022.08.30
+Vachier-Lagrave, Maxime	2812	Firouzja, Alireza	2795	1/2-1/2	2022.08.30
+Vachier-Lagrave, Maxime	2757	So, Wesley	2773	1/2-1/2	2022.09.03
+Vachier-Lagrave, Maxime	2757	Nepomniachtchi, Ian	2792	1/2-1/2	2022.09.06
+Vachier-Lagrave, Maxime	2757	Niemann, Hans Moke	2688	1/2-1/2	2022.09.09
+Vachier-Lagrave, Maxime	2757	Firouzja, Alireza	2778	1/2-1/2	2022.09.11
+Vachier-Lagrave, Maxime	2775	Iturrizaga Bonelli, Eduardo	2645	1/2-1/2	2022.09.15
+Vachier-Lagrave, Maxime	2775	Sevian, Samuel	2569	1/2-1/2	2022.09.21
+Radjabov, Teimour	2765	Vachier-Lagrave, Maxime	2784	1-0	Sat Feb 13 2021
+Radjabov, Teimour	2765	Vachier-Lagrave, Maxime	2784	1-0	Sun Feb 14 2021
+Carlsen, Magnus	2847	Vachier-Lagrave, Maxime	2758	1-0	Sat Mar 13 2021
+Nepomniachtchi, Ian	2789	Vachier-Lagrave, Maxime	2758	1-0	Sun Mar 14 2021
+Giri, Anish	2776	Vachier-Lagrave, Maxime	2758	1-0	Wed Mar 17 2021
+Giri, Anish	2776	Vachier-Lagrave, Maxime	2758	1-0	Wed Mar 17 2021
+Caruana, Fabiano	2820	Vachier-Lagrave, Maxime	2758	1-0	Mon Apr 19 2021
+Grischuk, Alexander	2777	Vachier-Lagrave, Maxime	2758	1-0	Fri Apr 23 2021
+Mamedyarov, Shakhriyar	2770	Vachier-Lagrave, Maxime	2760	1-0	Mon May 24 2021
+So, Wesley	2741	Vachier-Lagrave, Maxime	2860	1-0	Wed May 26 2021
+Giri, Anish	2780	Vachier-Lagrave, Maxime	2760	1-0	2021.06.12
+Svidler, Peter	2742	Vachier-Lagrave, Maxime	2860	1-0	2021.06.18
+So, Wesley	2741	Vachier-Lagrave, Maxime	2860	1-0	2021.06.20
+So, Wesley	2816	Vachier-Lagrave, Maxime	2822	1-0	2021.06.22
+Firouzja, Alireza	2770	Vachier-Lagrave, Maxime	2822	1-0	2021.06.21
+Mamedyarov, Shakhriyar	2761	Vachier-Lagrave, Maxime	2831	1-0	2021.07.07
+Giri, Anish	2744	Vachier-Lagrave, Maxime	2794	1-0	2021.07.10
+Paravyan, David	2634	Vachier-Lagrave, Maxime	2831	1-0	2021.07.20
+Dominguez Perez, Leinier	2758	Vachier-Lagrave, Maxime	2751	1-0	2021.08.20
+Aronian, Levon	2761	Vachier-Lagrave, Maxime	2817	1-0	2021.08.28
+Firouzja, Alireza	2696	Vachier-Lagrave, Maxime	2817	1-0	2021.08.30
+Duda, Jan-Krzysztof	2775	Vachier-Lagrave, Maxime	2817	1-0	2021.08.30
+Carlsen, Magnus	2881	Vachier-Lagrave, Maxime	2817	1-0	2021.08.29
+Adhiban, B.	2629	Vachier-Lagrave, Maxime	2838	1-0	2021.11.08
+Vokhidov, Shamsiddin	2616	Vachier-Lagrave, Maxime	2838	1-0	2021.11.08
+Dubov, Daniil	2699	Vachier-Lagrave, Maxime	2784	0-1	Sun Jan 03 2021
+Dubov, Daniil	2699	Vachier-Lagrave, Maxime	2784	0-1	Sat Jan 02 2021
+Aronian, Levon	2781	Vachier-Lagrave, Maxime	2784	0-1	Tue Feb 09 2021
+Aronian, Levon	2781	Vachier-Lagrave, Maxime	2784	0-1	Wed Feb 10 2021
+Carlsen, Magnus	2862	Vachier-Lagrave, Maxime	2784	0-1	Fri Feb 12 2021
+Radjabov, Teimour	2765	Vachier-Lagrave, Maxime	2758	0-1	Sun Mar 14 2021
+Giri, Anish	2776	Vachier-Lagrave, Maxime	2758	0-1	Tue Mar 16 2021
+Grischuk, Alexander	2776	Vachier-Lagrave, Maxime	2760	0-1	Sun May 23 2021
+Carlsen, Magnus	2847	Vachier-Lagrave, Maxime	2760	0-1	Sun May 23 2021
+Kramnik, Vladimir	2797	Vachier-Lagrave, Maxime	2822	0-1	2021.06.22
+Aronian, Levon	2739	Vachier-Lagrave, Maxime	2822	0-1	2021.06.21
+Van Foreest, Jorden	2622	Vachier-Lagrave, Maxime	2794	0-1	2021.07.10
+Kasparov, Garry	2801	Vachier-Lagrave, Maxime	2794	0-1	2021.07.11
+Hansen, Eric	2579	Vachier-Lagrave, Maxime	2817	0-1	2021.08.30
+Csonka, Balazs	2404	Vachier-Lagrave, Maxime	2850	0-1	2021.08.31
+Karthikeyan, Murali	2564	Vachier-Lagrave, Maxime	2850	0-1	2021.08.31
+Msellek, Ilyass	2207	Vachier-Lagrave, Maxime	2850	0-1	2021.08.31
+Kim, Sergey	2473	Vachier-Lagrave, Maxime	2850	0-1	2021.08.31
+Papp, Gabor	2594	Vachier-Lagrave, Maxime	2763	0-1	2021.10.15
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	1-0	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	1-0	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	1-0	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	1-0	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	1-0	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	1-0	2021.11.29
+Wojtaszek, Radoslaw	2705	Vachier-Lagrave, Maxime	2784	1/2-1/2	Fri Jan 29 2021
+Harikrishna, Pentala	2732	Vachier-Lagrave, Maxime	2784	1/2-1/2	Sat Jan 16 2021
+Esipenko, Andrey	2677	Vachier-Lagrave, Maxime	2784	1/2-1/2	Mon Jan 18 2021
+Aronian, Levon	2767	Vachier-Lagrave, Maxime	2784	1/2-1/2	Fri Jan 01 2021
+Shankland, Sam	2691	Vachier-Lagrave, Maxime	2784	1/2-1/2	Sat Feb 06 2021
+Duda, Jan-Krzysztof	2743	Vachier-Lagrave, Maxime	2784	1/2-1/2	Sun Feb 07 2021
+Nakamura, Hikaru	2736	Vachier-Lagrave, Maxime	2784	1/2-1/2	Mon Feb 08 2021
+Carlsen, Magnus	2862	Vachier-Lagrave, Maxime	2784	1/2-1/2	Mon Feb 08 2021
+Radjabov, Teimour	2765	Vachier-Lagrave, Maxime	2784	1/2-1/2	Mon Feb 08 2021
+Aronian, Levon	2781	Vachier-Lagrave, Maxime	2784	1/2-1/2	Tue Feb 09 2021
+Carlsen, Magnus	2862	Vachier-Lagrave, Maxime	2784	1/2-1/2	Fri Feb 12 2021
+Grandelius, Nils	2670	Vachier-Lagrave, Maxime	2758	1/2-1/2	Sat Mar 13 2021
+So, Wesley	2770	Vachier-Lagrave, Maxime	2758	1/2-1/2	Sun Mar 14 2021
+Rogule, Laura	2129	Vachier-Lagrave, Maxime	2838	0-1	2021.11.08
+Kryvoruchko, Yuriy	2617	Vachier-Lagrave, Maxime	2838	0-1	2021.11.08
+Dreev, Aleksey	2633	Vachier-Lagrave, Maxime	2838	0-1	2021.11.08
+Yilmaz, Mustafa	2518	Vachier-Lagrave, Maxime	2838	0-1	2021.11.08
+Movsesian, Sergei	2632	Vachier-Lagrave, Maxime	2838	0-1	2021.11.08
+Dastan, Muhammed Batuhan	2572	Vachier-Lagrave, Maxime	2766	0-1	2021.11.15
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	0-1	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	0-1	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	0-1	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	0-1	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	0-1	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	0-1	2021.11.29
+Van Foreest, Jorden	2701	Vachier-Lagrave, Maxime	2758	1/2-1/2	Mon Mar 15 2021
+Dubov, Daniil	2710	Vachier-Lagrave, Maxime	2758	1/2-1/2	Mon Mar 15 2021
+Giri, Anish	2776	Vachier-Lagrave, Maxime	2758	1/2-1/2	Tue Mar 16 2021
+Ding, Liren	2791	Vachier-Lagrave, Maxime	2758	1/2-1/2	Tue Apr 20 2021
+Nepomniachtchi, Ian	2789	Vachier-Lagrave, Maxime	2758	1/2-1/2	Mon Apr 26 2021
+So, Wesley	2741	Vachier-Lagrave, Maxime	2860	1/2-1/2	Tue May 25 2021
+Caruana, Fabiano	2820	Vachier-Lagrave, Maxime	2760	1/2-1/2	Mon May 24 2021
+Firouzja, Alireza	2759	Vachier-Lagrave, Maxime	2760	1/2-1/2	Mon May 24 2021
+So, Wesley	2741	Vachier-Lagrave, Maxime	2860	1/2-1/2	Thu May 27 2021
+So, Wesley	2741	Vachier-Lagrave, Maxime	2860	1/2-1/2	Wed May 26 2021
+Grischuk, Alexander	2784	Vachier-Lagrave, Maxime	2860	1/2-1/2	2021.06.05
+Aronian, Levon	2781	Vachier-Lagrave, Maxime	2760	1/2-1/2	2021.06.09
+So, Wesley	2770	Vachier-Lagrave, Maxime	2760	1/2-1/2	2021.06.13
+Caruana, Fabiano	2773	Vachier-Lagrave, Maxime	2860	1/2-1/2	2021.06.18
+Rapport, Richard	2727	Vachier-Lagrave, Maxime	2860	1/2-1/2	2021.06.19
+Aronian, Levon	2778	Vachier-Lagrave, Maxime	2860	1/2-1/2	2021.06.20
+Caruana, Fabiano	2711	Vachier-Lagrave, Maxime	2822	1/2-1/2	2021.06.22
+Rapport, Richard	2759	Vachier-Lagrave, Maxime	2822	1/2-1/2	2021.06.22
+Radjabov, Teimour	2757	Vachier-Lagrave, Maxime	2822	1/2-1/2	2021.06.21
+Nepomniachtchi, Ian	2785	Vachier-Lagrave, Maxime	2822	1/2-1/2	2021.06.21
+Svidler, Peter	2754	Vachier-Lagrave, Maxime	2822	1/2-1/2	2021.06.22
+Grandelius, Nils	2670	Vachier-Lagrave, Maxime	2760	1/2-1/2	2021.06.30
+Saric, Ivan	2650	Vachier-Lagrave, Maxime	2831	1/2-1/2	2021.07.08
+Grischuk, Alexander	2784	Vachier-Lagrave, Maxime	2831	1/2-1/2	2021.07.07
+Korobov, Anton	2781	Vachier-Lagrave, Maxime	2831	1/2-1/2	2021.07.09
+Van Foreest, Jorden	2543	Vachier-Lagrave, Maxime	2831	1/2-1/2	2021.07.09
+Korobov, Anton	2668	Vachier-Lagrave, Maxime	2794	1/2-1/2	2021.07.10
+Duda, Jan-Krzysztof	2799	Vachier-Lagrave, Maxime	2794	1/2-1/2	2021.07.10
+Mamedyarov, Shakhriyar	2716	Vachier-Lagrave, Maxime	2794	1/2-1/2	2021.07.11
+Anand, Viswanathan	2785	Vachier-Lagrave, Maxime	2794	1/2-1/2	2021.07.11
+Nepomniachtchi, Ian	2807	Vachier-Lagrave, Maxime	2794	1/2-1/2	2021.07.11
+Grischuk, Alexander	2765	Vachier-Lagrave, Maxime	2794	1/2-1/2	2021.07.11
+Moradiabadi, Elshan	2553	Vachier-Lagrave, Maxime	2749	1/2-1/2	2021.07.15
+Paravyan, David	2625	Vachier-Lagrave, Maxime	2749	1/2-1/2	2021.07.19
+Paravyan, David	2625	Vachier-Lagrave, Maxime	2749	1/2-1/2	2021.07.20
+Paravyan, David	2625	Vachier-Lagrave, Maxime	2749	1/2-1/2	2021.07.20
+Praggnanandhaa, R	2608	Vachier-Lagrave, Maxime	2749	1/2-1/2	2021.07.22
+Karjakin, Sergey	2757	Vachier-Lagrave, Maxime	2749	1/2-1/2	2021.07.26
+Karjakin, Sergey	2709	Vachier-Lagrave, Maxime	2831	1/2-1/2	2021.07.27
+Karjakin, Sergey	2709	Vachier-Lagrave, Maxime	2831	1/2-1/2	2021.07.27
+Rapport, Richard	2763	Vachier-Lagrave, Maxime	2751	1/2-1/2	2021.08.18
+Caruana, Fabiano	2806	Vachier-Lagrave, Maxime	2751	1/2-1/2	2021.08.23
+Giri, Anish	2744	Vachier-Lagrave, Maxime	2817	1/2-1/2	2021.08.28
+Mamedyarov, Shakhriyar	2756	Vachier-Lagrave, Maxime	2817	1/2-1/2	2021.08.28
+Vidit, Santosh Gujrathi	2636	Vachier-Lagrave, Maxime	2817	1/2-1/2	2021.08.29
+Kamsky, Gata	2662	Vachier-Lagrave, Maxime	2763	1/2-1/2	2021.10.16
+Inarkiev, Ernesto	2668	Vachier-Lagrave, Maxime	2763	1/2-1/2	2021.10.16
+Niemann, Hans Moke	2638	Vachier-Lagrave, Maxime	2763	1/2-1/2	2021.10.27
+Donchenko, Alexander	2648	Vachier-Lagrave, Maxime	2763	1/2-1/2	2021.10.29
+Firouzja, Alireza	2770	Vachier-Lagrave, Maxime	2763	1/2-1/2	2021.10.31
+Vachier-Lagrave, Maxime	0	Sukandar, Irine Kharisma	0	1-0	Tue Jan 21 2020
+Vachier-Lagrave, Maxime	0	Baron, Tal	0	1-0	Thu Jan 23 2020
+Vachier-Lagrave, Maxime	0	Sanal, Vahap	0	1/2-1/2	Sat Jan 25 2020
+Vachier-Lagrave, Maxime	0	Peralta, Fernando	0	1-0	Sun Jan 26 2020
+Vachier-Lagrave, Maxime	0	Maghsoodloo, Parham	0	1-0	Thu Jan 30 2020
+Vachier-Lagrave, Maxime	0	Can, Emre	0	1-0	Wed Jan 29 2020
+Vachier Lagrave,M	2770	Hauge,Lars Oskar	2493	1-0	2020.01.06
+Vachier Lagrave,M	2770	Narayanan,Sri	2535	1/2-1/2	2020.01.06
+Vachier Lagrave,M	2770	Piorun,K	2611	0-1	2020.01.06
+Vachier Lagrave,M	2770	Bartel,Mat	2639	1-0	2020.01.06
+Vachier-Lagrave, Maxime	2773	Ding, Liren	2776	1-0	Wed Mar 18 2020
+Vachier-Lagrave, Maxime	2784	So, Wesley	2770	1-0	Wed Dec 30 2020
+Vachier-Lagrave, Maxime	2784	Nepomniachtchi, Ian	2784	0-1	Sat Dec 26 2020
+Vachier-Lagrave, Maxime	2784	Aronian, Levon	2767	0-1	Thu Dec 31 2020
+Vachier-Lagrave, Maxime	2784	Nepomniachtchi, Ian	2789	1-0	Wed Mar 25 2020
+Sasikiran, Krishnan	2640	Vachier-Lagrave, Maxime	2763	1/2-1/2	2021.11.03
+Yu, Yangyi	2704	Vachier-Lagrave, Maxime	2766	1/2-1/2	2021.11.07
+Anton Guijarro, David	2669	Vachier-Lagrave, Maxime	2766	1/2-1/2	2021.11.05
+Bartel, Mateusz	2560	Vachier-Lagrave, Maxime	2838	1/2-1/2	2021.11.08
+Nihal, Sarin	2667	Vachier-Lagrave, Maxime	2838	1/2-1/2	2021.11.08
+Brkic, Ante	2599	Vachier-Lagrave, Maxime	2766	1/2-1/2	2021.11.13
+Radjabov, Teimour	2763	Vachier-Lagrave, Maxime	2766	1/2-1/2	2021.11.21
+Sanikidze, Tornike	2458	Vachier-Lagrave, Maxime	2766	1/2-1/2	2021.11.19
+Banikas, Hristos	2592	Vachier-Lagrave, Maxime	2766	1/2-1/2	2021.11.18
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	1/2-1/2	2021.11.29
+Battaglini, Gabriel	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Wed Jan 22 2020
+Vaibhav, Suri	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Fri Jan 24 2020
+Karthikeyan, Murali	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Mon Jan 27 2020
+Basso, Pier Luigi	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Tue Jan 28 2020
+Niemann,Hans Moke	2465	Vachier Lagrave,M	2770	0-1	2020.01.06
+Hammer,J	2628	Vachier Lagrave,M	2770	0-1	2020.01.06
+Klekowski,M	2515	Vachier Lagrave,M	2770	0-1	2020.01.06
+Vachier-Lagrave, Maxime	2773	Caruana, Fabiano	2787	1/2-1/2	Tue Mar 17 2020
+Vachier-Lagrave, Maxime	2773	Grischuk, Alexander	2747	1/2-1/2	Sat Mar 21 2020
+Vachier-Lagrave, Maxime	2784	So, Wesley	2770	1/2-1/2	Sun Dec 27 2020
+Vachier-Lagrave, Maxime	2784	So, Wesley	2770	1/2-1/2	Wed Dec 30 2020
+So, Wesley	2770	Vachier-Lagrave, Maxime	2784	1-0	Wed Dec 30 2020
+Vachier-Lagrave, Maxime	2784	So, Wesley	2770	1/2-1/2	Tue Dec 29 2020
+So, Wesley	2770	Vachier-Lagrave, Maxime	2784	0-1	Tue Dec 29 2020
+So, Wesley	2770	Vachier-Lagrave, Maxime	2784	1-0	Wed Dec 30 2020
+Vachier-Lagrave, Maxime	2784	So, Wesley	2770	1/2-1/2	Wed Dec 30 2020
+Vachier-Lagrave, Maxime	2784	So, Wesley	2770	1/2-1/2	Tue Dec 29 2020
+So, Wesley	2770	Vachier-Lagrave, Maxime	2784	0-1	Tue Dec 29 2020
+Giri, Anish	2764	Vachier-Lagrave, Maxime	2784	1-0	Mon Dec 28 2020
+Vachier-Lagrave, Maxime	2784	Radjabov, Teimour	2765	1/2-1/2	Mon Dec 28 2020
+Grischuk, Alexander	2777	Vachier-Lagrave, Maxime	2784	0-1	Mon Dec 28 2020
+Vachier-Lagrave, Maxime	2784	Nakamura, Hikaru	2736	1/2-1/2	Sat Dec 26 2020
+Vachier-Lagrave, Maxime	2784	Aronian, Levon	2767	1/2-1/2	Sun Dec 27 2020
+Aronian, Levon	2767	Vachier-Lagrave, Maxime	2784	1-0	Thu Dec 31 2020
+Vachier-Lagrave, Maxime	2784	Aronian, Levon	2767	1/2-1/2	Thu Dec 31 2020
+Vachier-Lagrave, Maxime	0	Ding, Liren	0	1-0	Sun Dec 08 2019
+Vachier-Lagrave, Maxime	0	Ding, Liren	0	1-0	Sun Dec 08 2019
+Vachier-Lagrave, Maxime	0	Topalov, Veselin	0	1-0	Fri Dec 13 2019
+Vachier-Lagrave, Maxime	0	Laznicka, Viktor	0	1-0	Thu Dec 26 2019
+Vachier-Lagrave, Maxime	0	Grigoriants, Sergey	0	1-0	Sun Dec 29 2019
+Vachier-Lagrave, Maxime	0	Reshetnikov, Alexey	0	1-0	Sun Dec 29 2019
+Vachier-Lagrave, Maxime	0	Aronian, Levon	0	1-0	Mon Dec 30 2019
+Vachier-Lagrave, Maxime	0	Anton Guijarro, David	0	1-0	Sun Dec 29 2019
+Vachier-Lagrave, Maxime	0	Mamedyarov, Shakhriyar	0	1-0	Fri Dec 27 2019
+Vachier-Lagrave, Maxime	0	Nihal, Sarin	0	1-0	Mon Dec 30 2019
+Svane, Rasmus	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Sun Feb 09 2020
+Vachier Lagrave,M	2780	Ducarmon,Q	2479	1-0	2019.01.08
+Vachier Lagrave,M	2780	Klein,Da	2492	1-0	2019.01.08
+Vachier Lagrave,M	2780	Onabogun,K	2189	1-0	2019.01.22
+Vachier Lagrave,M	2780	Kollars,Dmitrij	2562	1-0	2019.01.08
+Socko,B	2619	Vachier Lagrave,M	2770	1/2-1/2	2020.01.06
+Giri, Anish	2784	Vachier-Lagrave, Maxime	2773	1/2-1/2	Thu Mar 19 2020
+Alekseenko, Kirill	2568	Vachier-Lagrave, Maxime	2773	1/2-1/2	Sun Mar 22 2020
+Dubov, Daniil	2699	Vachier-Lagrave, Maxime	2784	1/2-1/2	Sat Dec 26 2020
+So, Wesley	2770	Vachier-Lagrave, Maxime	2784	1/2-1/2	Wed Dec 30 2020
+Harikrishna, Pentala	2732	Vachier-Lagrave, Maxime	2784	1/2-1/2	Sat Dec 26 2020
+Anton Guijarro, David	2681	Vachier-Lagrave, Maxime	2784	1/2-1/2	Sun Dec 27 2020
+Carlsen, Magnus	2863	Vachier-Lagrave, Maxime	2784	1/2-1/2	Sun Dec 27 2020
+Aronian, Levon	2767	Vachier-Lagrave, Maxime	2784	1/2-1/2	Thu Dec 31 2020
+Wang, Hao	2763	Vachier-Lagrave, Maxime	2784	1/2-1/2	Mon Mar 23 2020
+Vachier Lagrave,M	2780	Tari,A	2625	1-0	2019.01.22
+Vachier Lagrave,M	2780	Ju Wenjun	2575	1-0	2019.01.22
+Vachier Lagrave,M	2780	Alekseenko,K	2637	1-0	2019.01.22
+Vachier Lagrave,M	2780	Salomon,J	2494	1-0	2019.01.08
+Vachier Lagrave,M	2780	Christiansen,Johan-Sebastian	2559	1-0	2019.01.08
+Vachier Lagrave,M	2780	Andriasian,Z	2604	1-0	2019.01.08
+Vachier Lagrave,M	2780	Van Wely,L	2622	1-0	2019.01.08
+Vachier Lagrave,M	2780	Diaz Camallonga,C	2432	1-0	2019.01.08
+Vachier Lagrave,M	2780	Forcen Esteban,D	2567	1-0	2019.01.08
+Vachier Lagrave,M	2780	Lampert,J	2544	1-0	2019.01.08
+Vachier Lagrave,M	2780	Alekseenko,K	2637	1-0	2019.01.08
+Vachier Lagrave,M	2780	Sebenik,M	2540	1-0	2019.01.08
+Vachier Lagrave,M	2780	Vallejo Pons,F	2698	1-0	2019.01.08
+Vachier Lagrave,M	2773	Keymer,Vincent	2516	1-0	2019.04.20
+Vachier Lagrave,M	2780	Wei Yi	2736	1-0	2019.05.08
+Vachier Lagrave,M	2780	Nepomniachtchi,I	2773	1-0	2019.05.08
+Vachier Lagrave,M	2780	So,W	2754	1-0	2019.05.11
+Vachier Lagrave,M	2780	Nakamura,Hi	2761	1-0	2019.05.11
+Vachier Lagrave,M	2780	Wei Yi	2736	1-0	2019.05.11
+Vachier Lagrave,M	2780	Carlsen,M	2861	1-0	2019.05.11
+Vachier Lagrave,M	2780	Amin,B	2704	1-0	2019.05.11
+Vachier Lagrave,M	2780	Topalov,V	2740	1-0	2019.05.11
+Vachier Lagrave,M	2780	Nepomniachtchi,I	2773	1-0	2019.05.11
+Vachier Lagrave,M	2780	Lagarde,Max	2600	1-0	2019.05.18
+Vachier Lagrave,M	2779	Grischuk,A	2775	1-0	2019.06.03
+Vachier Lagrave,M	2779	So,W	2754	1-0	2019.06.03
+Vachier Lagrave,M	2779	Aronian,L	2752	1-0	2019.06.03
+Vachier Lagrave,M	2779	Yu Yangyi	2738	1-0	2019.06.03
+Vachier Lagrave,M	2780	Amin,B	2704	1-0	2019.05.18
+Vachier Lagrave,M	2779	Grischuk,A	2775	1-0	2019.06.04
+Vachier Lagrave,M	2779	Ding Liren	2805	1-0	2019.06.04
+Vachier Lagrave,M	2775	Navara,D	2734	1-0	2019.07.12
+Vachier Lagrave,M	2775	Caruana,F	2819	1-0	2019.07.27
+Vachier Lagrave,M	2775	Mamedyarov,S	2765	1-0	2019.07.12
+Vachier Lagrave,M	2775	Dubov,Daniil	2700	1-0	2019.07.31
+Vachier Lagrave,M	2775	Caruana,F	2819	1-0	2019.07.31
+Vachier Lagrave,M	2775	Nakamura,Hi	2754	1-0	2019.07.31
+Vachier Lagrave,M	2778	Dominguez Perez,L	2763	1-0	2019.08.10
+Vachier Lagrave,M	2778	Ding Liren	2805	1-0	2019.08.10
+Vachier Lagrave,M	2778	Rapport,R	2747	1-0	2019.08.10
+Vachier Lagrave,M	2778	Karjakin,Sergey	2750	1-0	2019.08.10
+Vachier Lagrave,M	2778	Aronian,L	2765	1-0	2019.08.13
+Vachier Lagrave,M	2778	Yu Yangyi	2752	1-0	2019.08.13
+Vachier Lagrave,M	2778	Rapport,R	2747	1-0	2019.08.13
+Vachier Lagrave,M	2778	Dominguez Perez,L	2763	1-0	2019.08.13
+Vachier Lagrave,M	2774	Wei Yi	2721	1-0	2019.09.02
+Vachier Lagrave,M	2774	Wei Yi	2721	1-0	2019.09.02
+Vachier Lagrave,M	2774	Wei Yi	2721	1-0	2019.09.02
+Vachier Lagrave,M	2774	Wei Yi	2721	1-0	2019.09.02
+Vachier Lagrave,M	2774	Wei Yi	2721	1-0	2019.09.02
+Radjabov, Teimour	2753	Vachier-Lagrave, Maxime	2750	1/2-1/2	2022.06.03
+Wang, Hao	2744	Vachier-Lagrave, Maxime	2760	1/2-1/2	2022.06.06
+Wang, Hao	2712	Vachier-Lagrave, Maxime	2813	0-1	2022.06.06
+Carlsen, Magnus	2864	Vachier-Lagrave, Maxime	2760	1/2-1/2	2022.06.09
+Tari, Aryan	2654	Vachier-Lagrave, Maxime	2750	0-1	2022.06.02
+Haria, Ravi	2501	Vachier-Lagrave, Maxime	2758	1/2-1/2	2022.04.10
+Nozdrachev, Leonid	2129	Vachier-Lagrave, Maxime	2813	0-1	2022.06.14
+Korobov, Anton	2675	Vachier-Lagrave, Maxime	2760	1/2-1/2	2022.06.18
+Rustemov, Alexander	2742	Vachier-Lagrave, Maxime	2813	0-1	2022.06.28
+Kamsky, Gata	2645	Vachier-Lagrave, Maxime	2813	1/2-1/2	2022.06.28
+De La Colina, Nicolas	2046	Vachier-Lagrave, Maxime	2813	0-1	2022.06.28
+Sadhwani, Raunak	2616	Vachier-Lagrave, Maxime	2813	0-1	2022.03.12
+Cheparinov, Ivan	2622	Vachier-Lagrave, Maxime	2813	1-0	2022.03.12
+Alekseenko, Kirill	2682	Vachier-Lagrave, Maxime	2813	1-0	2022.04.23
+Matlakov, Maxim	2669	Vachier-Lagrave, Maxime	2813	1-0	2022.04.23
+Harika, Dronavalli	2382	Vachier-Lagrave, Maxime	2813	0-1	2022.04.23
+Mamedyarov, Shakhriyar	2710	Vachier-Lagrave, Maxime	2812	1-0	2022.08.29
+Nakamura, Hikaru	2850	Vachier-Lagrave, Maxime	2812	1-0	2022.08.29
+Firouzja, Alireza	2795	Vachier-Lagrave, Maxime	2812	1-0	2022.08.29
+Dominguez Perez, Leinier	2708	Vachier-Lagrave, Maxime	2812	0-1	2022.08.30
+Caruana, Fabiano	2758	Vachier-Lagrave, Maxime	2757	1-0	2022.09.05
+Aronian, Levon	2759	Vachier-Lagrave, Maxime	2757	1-0	2022.09.08
+Iturrizaga Bonelli, Eduardo	2645	Vachier-Lagrave, Maxime	2775	0-1	2022.09.15
+Sevian, Samuel	2569	Vachier-Lagrave, Maxime	2775	1-0	2022.09.21
+Sevian, Samuel	2569	Vachier-Lagrave, Maxime	2775	1-0	2022.09.21
+Vachier-Lagrave, Maxime	0	Carlsen, Magnus	0	0-1	Wed Dec 04 2019
+Vachier-Lagrave, Maxime	0	Dreev, Aleksey	0	0-1	Sun Dec 29 2019
+Vachier Lagrave,M	2780	Duda,J	2738	0-1	2019.01.08
+Vachier Lagrave,M	2780	Van Foreest,Jorden	2618	0-1	2019.02.16
+Vachier Lagrave,M	2780	Van Foreest,Jorden	2618	0-1	2019.02.16
+Vachier Lagrave,M	2774	Wei Yi	2721	1-0	2019.09.02
+Vachier Lagrave,M	2774	Wei Yi	2721	1-0	2019.09.02
+Vachier Lagrave,M	2774	Wei Yi	2721	1-0	2019.09.02
+Vachier Lagrave,M	2774	Wei Yi	2721	1-0	2019.09.02
+Vachier Lagrave,M	2774	Wei Yi	2721	1-0	2019.09.02
+Vachier Lagrave,M	2774	Kovalenko,I	2674	1-0	2019.09.10
+Vachier Lagrave,M	2774	Anwuli,Daniel	2284	1-0	2019.09.10
+Vachier Lagrave,M	2774	Svidler,P	2729	1-0	2019.09.10
+Vachier Lagrave,M	2774	Jakovenko,D	2681	1-0	2019.09.10
+Vachier Lagrave,M	2774	Jakovenko,D	2681	1-0	2019.09.10
+Vachier Lagrave,M	2774	Aronian,L	2758	1-0	2019.09.10
+Vachier Lagrave,M	2774	Yu Yangyi	2763	1-0	2019.09.10
+Vachier Lagrave,M	2777	Wei Yi	2724	1-0	2019.11.05
+Vachier Lagrave,M	2774	So,W	2767	1-0	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	1-0	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	1-0	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	1-0	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	1-0	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	1-0	2019.09.02
+Vachier Lagrave,M	2780	Tengis,Tsog-Ochir	2190	1-0	2019.12.26
+Vachier-Lagrave, Maxime	0	Carlsen, Magnus	0	1/2-1/2	Tue Dec 03 2019
+Vachier-Lagrave, Maxime	0	Carlsen, Magnus	0	1/2-1/2	Wed Dec 04 2019
+Vachier-Lagrave, Maxime	0	Carlsen, Magnus	0	1/2-1/2	Wed Dec 04 2019
+Vachier Lagrave,M	2780	Tomczak,J	2631	0-1	2019.01.08
+Vachier Lagrave,M	2779	Yu Yangyi	2738	0-1	2019.06.04
+Vachier Lagrave,M	2779	Caruana,F	2819	0-1	2019.06.26
+Vachier Lagrave,M	2775	Nepomniachtchi,I	2775	0-1	2019.07.27
+Vachier Lagrave,M	2775	Mamedyarov,S	2765	0-1	2019.07.12
+Vachier Lagrave,M	2775	Mamedyarov,S	2765	0-1	2019.07.12
+Vachier Lagrave,M	2775	Giri,A	2779	0-1	2019.07.31
+Vachier Lagrave,M	2775	Duda,J	2729	0-1	2019.07.31
+Vachier Lagrave,M	2778	Aronian,L	2765	0-1	2019.08.10
+Vachier Lagrave,M	2778	Ding Liren	2805	0-1	2019.08.13
+Vachier Lagrave,M	2778	Caruana,F	2818	0-1	2019.08.13
+Vachier Lagrave,M	2778	Carlsen,M	2882	0-1	2019.08.17
+Vachier Lagrave,M	2774	Wei Yi	2721	0-1	2019.09.02
+Vachier Lagrave,M	2774	Wei Yi	2721	0-1	2019.09.02
+Vachier Lagrave,M	2774	Wei Yi	2721	0-1	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	0-1	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	0-1	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	0-1	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	0-1	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	0-1	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	0-1	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	0-1	2019.09.02
+Vachier-Lagrave, Maxime	0	Carlsen, Magnus	0	1/2-1/2	Wed Dec 04 2019
+Vachier-Lagrave, Maxime	0	Ding, Liren	0	1/2-1/2	Sun Dec 08 2019
+Vachier-Lagrave, Maxime	0	Ding, Liren	0	1/2-1/2	Fri Dec 06 2019
+Vachier-Lagrave, Maxime	0	Topalov, Veselin	0	1/2-1/2	Thu Dec 12 2019
+Vachier-Lagrave, Maxime	0	Andreikin, Dmitry	0	1/2-1/2	Sat Dec 14 2019
+Vachier-Lagrave, Maxime	0	Andreikin, Dmitry	0	1/2-1/2	Mon Dec 16 2019
+Vachier-Lagrave, Maxime	0	Nepomniachtchi, Ian	0	1/2-1/2	Wed Dec 18 2019
+Vachier-Lagrave, Maxime	0	Shirov, Alexei	0	1/2-1/2	Fri Dec 27 2019
+Vachier-Lagrave, Maxime	0	Smirin, Ilia	0	1/2-1/2	Thu Dec 26 2019
+Vachier-Lagrave, Maxime	0	Socko, Bartosz	0	1/2-1/2	Sun Dec 29 2019
+Vachier-Lagrave, Maxime	0	Carlsen, Magnus	0	1/2-1/2	Mon Dec 30 2019
+Vachier-Lagrave, Maxime	0	Petrosyan, Manuel	0	1/2-1/2	Sun Dec 29 2019
+Vachier-Lagrave, Maxime	0	Duda, Jan-Krzysztof	0	1/2-1/2	Sat Dec 28 2019
+Vachier-Lagrave, Maxime	0	Ponkratov, Pavel	0	1/2-1/2	Sat Dec 28 2019
+Vachier-Lagrave, Maxime	0	Carlsen, Magnus	0	1/2-1/2	Sat Dec 28 2019
+Vachier-Lagrave, Maxime	0	Kramnik, Vladimir	0	1/2-1/2	Mon Dec 30 2019
+Vachier-Lagrave, Maxime	0	Wang, Hao	0	1/2-1/2	Mon Dec 30 2019
+Vachier Lagrave,M	2780	Puranik,A	2536	1/2-1/2	2019.01.22
+Vachier Lagrave,M	2780	Meier,Geo	2623	1/2-1/2	2019.01.08
+Vachier Lagrave,M	2780	Skoberne,J	2582	1/2-1/2	2019.01.08
+Vachier Lagrave,M	2780	Sebenik,M	2540	1/2-1/2	2019.01.08
+Vachier Lagrave,M	2780	Maze,S	2596	1/2-1/2	2019.01.08
+Vachier Lagrave,M	2780	Vallejo Pons,F	2698	1/2-1/2	2019.01.08
+Vachier Lagrave,M	2780	Andreikin,D	2725	1/2-1/2	2019.01.08
+Vachier Lagrave,M	2780	Braun,A	2598	1/2-1/2	2019.01.08
+Vachier Lagrave,M	2773	Naiditsch,A	2695	1/2-1/2	2019.04.20
+Vachier Lagrave,M	2773	Aronian,L	2763	1/2-1/2	2019.04.20
+Vachier Lagrave,M	2773	Vallejo Pons,F	2693	1/2-1/2	2019.04.20
+Vachier Lagrave,M	2780	Ding Liren	2805	1/2-1/2	2019.05.08
+Vachier Lagrave,M	2780	So,W	2754	1/2-1/2	2019.05.08
+Vachier Lagrave,M	2780	Ding Liren	2805	1/2-1/2	2019.05.11
+Vachier Lagrave,M	2780	Karjakin,Sergey	2752	1/2-1/2	2019.05.11
+Vachier Lagrave,M	2780	Fressinet,L	2640	1/2-1/2	2019.05.18
+Vachier Lagrave,M	2779	Anand,V	2767	1/2-1/2	2019.06.03
+Vachier Lagrave,M	2779	Anand,V	2767	1/2-1/2	2019.06.04
+Vachier Lagrave,M	2779	Carlsen,M	2875	1/2-1/2	2019.06.04
+Vachier Lagrave,M	2779	Yu Yangyi	2738	1/2-1/2	2019.06.04
+Vachier Lagrave,M	2779	Anand,V	2767	1/2-1/2	2019.06.04
+Vachier Lagrave,M	2779	Carlsen,M	2875	1/2-1/2	2019.06.04
+Vachier Lagrave,M	2779	Grischuk,A	2775	1/2-1/2	2019.06.04
+Vachier Lagrave,M	2779	Ding Liren	2805	1/2-1/2	2019.06.04
+Vachier Lagrave,M	2779	Aronian,L	2752	1/2-1/2	2019.06.26
+Vachier Lagrave,M	2779	Ding Liren	2805	1/2-1/2	2019.06.26
+Vachier Lagrave,M	2779	Giri,A	2779	1/2-1/2	2019.06.26
+Vachier Lagrave,M	2779	Karjakin,Sergey	2748	1/2-1/2	2019.06.26
+Vachier Lagrave,M	2779	Nepomniachtchi,I	2775	1/2-1/2	2019.06.26
+Vachier Lagrave,M	2775	Grischuk,A	2766	1/2-1/2	2019.07.12
+Vachier Lagrave,M	2775	Topalov,V	2740	1/2-1/2	2019.07.12
+Vachier Lagrave,M	2775	Nakamura,Hi	2754	1/2-1/2	2019.07.27
+Vachier Lagrave,M	2775	Anand,V	2764	1/2-1/2	2019.07.27
+Vachier Lagrave,M	2775	Mamedyarov,S	2765	1/2-1/2	2019.07.12
+Vachier Lagrave,M	2775	Mamedyarov,S	2765	1/2-1/2	2019.07.12
+Vachier Lagrave,M	2775	Nepomniachtchi,I	2775	1/2-1/2	2019.07.31
+Vachier Lagrave,M	2775	Grischuk,A	2766	1/2-1/2	2019.07.31
+Vachier Lagrave,M	2775	Anand,V	2764	1/2-1/2	2019.07.31
+Vachier Lagrave,M	2775	Mamedyarov,S	2765	1/2-1/2	2019.07.31
+Vachier Lagrave,M	2778	So,W	2776	1/2-1/2	2019.08.17
+Vachier Lagrave,M	2778	Karjakin,Sergey	2750	1/2-1/2	2019.08.13
+Vachier Lagrave,M	2778	Carlsen,M	2882	1/2-1/2	2019.08.13
+Vachier Lagrave,M	2778	Mamedyarov,S	2764	1/2-1/2	2019.08.13
+Vachier Lagrave,M	2778	Anand,V	2756	1/2-1/2	2019.08.17
+Vachier Lagrave,M	2778	Mamedyarov,S	2764	1/2-1/2	2019.08.17
+Vachier Lagrave,M	2778	Nakamura,Hi	2743	1/2-1/2	2019.08.17
+Vachier Lagrave,M	2774	Wei Yi	2721	1/2-1/2	2019.09.02
+Vachier Lagrave,M	2774	Wei Yi	2721	1/2-1/2	2019.09.02
+Vachier Lagrave,M	2774	Wei Yi	2721	1/2-1/2	2019.09.02
+Vachier Lagrave,M	2774	Jakovenko,D	2681	1/2-1/2	2019.09.10
+Vachier Lagrave,M	2774	Jakovenko,D	2681	1/2-1/2	2019.09.10
+Vachier Lagrave,M	2774	Aronian,L	2758	1/2-1/2	2019.09.10
+Vachier Lagrave,M	2774	Radjabov,T	2758	1/2-1/2	2019.09.10
+Vachier Lagrave,M	2774	Yu Yangyi	2763	1/2-1/2	2019.09.10
+Vachier Lagrave,M	2774	Yu Yangyi	2763	1/2-1/2	2019.09.10
+Vachier Lagrave,M	2777	Topalov,V	2736	1/2-1/2	2019.11.05
+Vachier Lagrave,M	2777	Grischuk,A	2764	1/2-1/2	2019.11.05
+Vachier Lagrave,M	2777	Gajewski,G	2623	1/2-1/2	2019.11.23
+Ding, Liren	0	Vachier-Lagrave, Maxime	0	1-0	Sun Dec 08 2019
+Ding, Liren	0	Vachier-Lagrave, Maxime	0	1-0	Sat Dec 07 2019
+Nepomniachtchi, Ian	0	Vachier-Lagrave, Maxime	0	1-0	Tue Dec 17 2019
+Rakhmanov, Aleksandr	0	Vachier-Lagrave, Maxime	0	1-0	Sun Dec 29 2019
+Artemiev, Vladislav	0	Vachier-Lagrave, Maxime	0	1-0	Sat Dec 28 2019
+Nakamura, Hikaru	0	Vachier-Lagrave, Maxime	0	1-0	Mon Dec 30 2019
+Spoelman,W	2578	Vachier Lagrave,M	2780	1-0	2019.01.08
+Karthikeyan,M2	2570	Vachier Lagrave,M	2780	1-0	2019.01.22
+Tomczak,J	2631	Vachier Lagrave,M	2780	1-0	2019.01.08
+Tari,A	2625	Vachier Lagrave,M	2780	1-0	2019.01.08
+Carlsen,M	2845	Vachier Lagrave,M	2773	1-0	2019.04.20
+Nakamura,Hi	2761	Vachier Lagrave,M	2780	1-0	2019.05.08
+Carlsen,M	2861	Vachier Lagrave,M	2780	1-0	2019.05.08
+Topalov,V	2740	Vachier Lagrave,M	2780	1-0	2019.05.11
+So,W	2754	Vachier Lagrave,M	2780	1-0	2019.05.11
+Nakamura,Hi	2761	Vachier Lagrave,M	2780	1-0	2019.05.11
+Karjakin,Sergey	2752	Vachier Lagrave,M	2780	1-0	2019.05.11
+Caruana,F	2819	Vachier Lagrave,M	2779	1-0	2019.06.03
+Caruana,F	2819	Vachier Lagrave,M	2779	1-0	2019.06.04
+So,W	2754	Vachier Lagrave,M	2779	1-0	2019.06.04
+Carlsen,M	2875	Vachier Lagrave,M	2779	1-0	2019.06.26
+Mamedyarov,S	2765	Vachier Lagrave,M	2775	1-0	2019.07.12
+Vachier Lagrave,M	2774	So,W	2767	1/2-1/2	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	1/2-1/2	2019.09.02
+Vachier Lagrave,M	2774	So,W	2767	1/2-1/2	2019.09.02
+Grischuk,A	2766	Vachier Lagrave,M	2775	1-0	2019.07.31
+Nakamura,Hi	2754	Vachier Lagrave,M	2775	1-0	2019.07.31
+Caruana,F	2819	Vachier Lagrave,M	2775	1-0	2019.07.31
+Nepomniachtchi,I	2775	Vachier Lagrave,M	2775	1-0	2019.07.31
+Giri,A	2779	Vachier Lagrave,M	2775	1-0	2019.07.31
+Duda,J	2729	Vachier Lagrave,M	2775	1-0	2019.07.31
+Carlsen,M	2882	Vachier Lagrave,M	2778	1-0	2019.08.10
+Rapport,R	2747	Vachier Lagrave,M	2778	1-0	2019.08.13
+Carlsen,M	2882	Vachier Lagrave,M	2778	1-0	2019.08.13
+Dominguez Perez,L	2763	Vachier Lagrave,M	2778	1-0	2019.08.13
+Ding Liren	2805	Vachier Lagrave,M	2778	1-0	2019.08.13
+Karjakin,Sergey	2750	Vachier Lagrave,M	2778	1-0	2019.08.13
+Yu Yangyi	2752	Vachier Lagrave,M	2778	1-0	2019.08.13
+Karjakin,Sergey	2750	Vachier Lagrave,M	2778	1-0	2019.08.17
+Wei Yi	2721	Vachier Lagrave,M	2774	1-0	2019.09.02
+Wei Yi	2721	Vachier Lagrave,M	2774	1-0	2019.09.02
+Wei Yi	2721	Vachier Lagrave,M	2774	1-0	2019.09.02
+Wei Yi	2721	Vachier Lagrave,M	2774	1-0	2019.09.02
+Jakovenko,D	2681	Vachier Lagrave,M	2774	1-0	2019.09.10
+Radjabov,T	2758	Vachier Lagrave,M	2774	1-0	2019.09.10
+Grischuk,A	2764	Vachier Lagrave,M	2777	1-0	2019.11.05
+So,W	2767	Vachier Lagrave,M	2774	1-0	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	1-0	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	1-0	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	1-0	2019.09.02
+Sarana, Alexey	0	Vachier-Lagrave, Maxime	0	0-1	Sat Nov 23 2019
+Carlsen, Magnus	0	Vachier-Lagrave, Maxime	0	0-1	Wed Dec 04 2019
+Carlsen, Magnus	0	Vachier-Lagrave, Maxime	0	0-1	Wed Dec 04 2019
+Ding, Liren	0	Vachier-Lagrave, Maxime	0	0-1	Sun Dec 08 2019
+Topalov, Veselin	0	Vachier-Lagrave, Maxime	0	0-1	Fri Dec 13 2019
+Andreikin, Dmitry	0	Vachier-Lagrave, Maxime	0	0-1	Mon Dec 16 2019
+Predke, Alexandr	0	Vachier-Lagrave, Maxime	0	0-1	Fri Dec 27 2019
+Alonso Rosell, Alvar	0	Vachier-Lagrave, Maxime	0	0-1	Thu Dec 26 2019
+Chigaev, Maksim	0	Vachier-Lagrave, Maxime	0	0-1	Sun Dec 29 2019
+Pigusov, Evgeny	0	Vachier-Lagrave, Maxime	0	0-1	Sun Dec 29 2019
+Safarli, Eltaj	0	Vachier-Lagrave, Maxime	0	0-1	Mon Dec 30 2019
+Alonso Rosell, Alvar	0	Vachier-Lagrave, Maxime	0	0-1	Sun Dec 29 2019
+Sarana, Alexey	0	Vachier-Lagrave, Maxime	0	0-1	Mon Dec 30 2019
+Vrolijk,Liam	2433	Vachier Lagrave,M	2780	0-1	2019.01.08
+Kiik,K	2410	Vachier Lagrave,M	2780	0-1	2019.01.22
+Agrest,I	2275	Vachier Lagrave,M	2780	0-1	2019.01.08
+Unuk,Laura	2234	Vachier Lagrave,M	2780	0-1	2019.01.08
+Lenic,L	2645	Vachier Lagrave,M	2780	0-1	2019.01.08
+Droin,Augustin	2099	Vachier Lagrave,M	2780	0-1	2019.01.08
+Lagarde,Max	2604	Vachier Lagrave,M	2780	0-1	2019.01.08
+Van Foreest,Jorden	2618	Vachier Lagrave,M	2780	0-1	2019.02.16
+Van Foreest,Jorden	2618	Vachier Lagrave,M	2780	0-1	2019.02.16
+Neiksans,A	2552	Vachier Lagrave,M	2780	0-1	2019.01.08
+So,W	2767	Vachier Lagrave,M	2774	1-0	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	1-0	2019.09.02
+Moranda,W	2593	Vachier Lagrave,M	2780	0-1	2019.01.08
+Alvarado Diaz,A	2388	Vachier Lagrave,M	2780	0-1	2019.01.08
+Asis Gargatagli,H	2529	Vachier Lagrave,M	2780	0-1	2019.01.08
+Hoolt,S	2358	Vachier Lagrave,M	2780	0-1	2019.01.08
+Van Foreest,Jorden	2612	Vachier Lagrave,M	2780	0-1	2019.01.08
+Lagarde,Max	2604	Vachier Lagrave,M	2780	0-1	2019.01.08
+Meier,Geo	2628	Vachier Lagrave,M	2773	0-1	2019.04.20
+Topalov,V	2740	Vachier Lagrave,M	2780	0-1	2019.05.08
+Carlsen,M	2861	Vachier Lagrave,M	2780	0-1	2019.05.11
+Amin,B	2704	Vachier Lagrave,M	2780	0-1	2019.05.08
+Amin,B	2704	Vachier Lagrave,M	2780	0-1	2019.05.11
+Wei Yi	2736	Vachier Lagrave,M	2780	0-1	2019.05.11
+Mamedyarov,S	2774	Vachier Lagrave,M	2779	0-1	2019.06.03
+Ding Liren	2805	Vachier Lagrave,M	2779	0-1	2019.06.03
+Carlsen,M	2875	Vachier Lagrave,M	2779	0-1	2019.06.03
+Topalov,V	2740	Vachier Lagrave,M	2775	0-1	2019.07.12
+Grischuk,A	2766	Vachier Lagrave,M	2775	0-1	2019.07.12
+Mamedyarov,S	2765	Vachier Lagrave,M	2775	0-1	2019.07.27
+Giri,A	2779	Vachier Lagrave,M	2775	0-1	2019.07.27
+Dubov,Daniil	2700	Vachier Lagrave,M	2775	0-1	2019.07.27
+Duda,J	2729	Vachier Lagrave,M	2775	0-1	2019.07.27
+Mamedyarov,S	2765	Vachier Lagrave,M	2775	0-1	2019.07.12
+Anand,V	2764	Vachier Lagrave,M	2775	0-1	2019.07.31
+Mamedyarov,S	2765	Vachier Lagrave,M	2775	0-1	2019.07.31
+Dubov,Daniil	2700	Vachier Lagrave,M	2775	0-1	2019.07.31
+Carlsen, Magnus	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Mon Dec 02 2019
+Caruana,F	2818	Vachier Lagrave,M	2778	0-1	2019.08.10
+Mamedyarov,S	2764	Vachier Lagrave,M	2778	0-1	2019.08.10
+Mamedyarov,S	2764	Vachier Lagrave,M	2778	0-1	2019.08.13
+Caruana,F	2818	Vachier Lagrave,M	2778	0-1	2019.08.13
+Aronian,L	2765	Vachier Lagrave,M	2778	0-1	2019.08.13
+Nepomniachtchi,I	2774	Vachier Lagrave,M	2778	0-1	2019.08.17
+Wei Yi	2721	Vachier Lagrave,M	2774	0-1	2019.09.02
+Wei Yi	2721	Vachier Lagrave,M	2774	0-1	2019.09.02
+Wei Yi	2721	Vachier Lagrave,M	2774	0-1	2019.09.02
+Wei Yi	2721	Vachier Lagrave,M	2774	0-1	2019.09.02
+Wei Yi	2721	Vachier Lagrave,M	2774	0-1	2019.09.02
+Wei Yi	2721	Vachier Lagrave,M	2774	0-1	2019.09.02
+Wei Yi	2721	Vachier Lagrave,M	2774	0-1	2019.09.02
+Wei Yi	2721	Vachier Lagrave,M	2774	0-1	2019.09.02
+Kovalenko,I	2674	Vachier Lagrave,M	2774	0-1	2019.09.10
+Anwuli,Daniel	2284	Vachier Lagrave,M	2774	0-1	2019.09.10
+Yu Yangyi	2763	Vachier Lagrave,M	2774	0-1	2019.09.10
+Topalov,V	2736	Vachier Lagrave,M	2777	0-1	2019.11.05
+Carlsen,M	2872	Vachier Lagrave,M	2780	0-1	2019.12.02
+So,W	2767	Vachier Lagrave,M	2774	0-1	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	0-1	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	0-1	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	0-1	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	0-1	2019.09.02
+Vachier-Lagrave, Maxime	2784	Donchenko, Alexander	2668	1-0	Wed Jan 27 2021
+Vachier-Lagrave, Maxime	2784	Dubov, Daniil	2699	1-0	Sun Jan 03 2021
+Vachier-Lagrave, Maxime	2784	Dubov, Daniil	2699	1-0	Sat Jan 02 2021
+Vachier-Lagrave, Maxime	2784	So, Wesley	2770	1-0	Sat Feb 06 2021
+Vachier-Lagrave, Maxime	2784	Dubov, Daniil	2710	1-0	Sat Feb 06 2021
+Vachier-Lagrave, Maxime	2784	Dominguez Perez, Leinier	2758	1-0	Sun Feb 07 2021
+Vachier-Lagrave, Maxime	2784	Ding, Liren	2791	1-0	Mon Feb 08 2021
+Vachier-Lagrave, Maxime	2784	Carlsen, Magnus	2862	1-0	Fri Feb 12 2021
+Vachier-Lagrave, Maxime	2784	Carlsen, Magnus	2862	1-0	Fri Feb 12 2021
+Matlakov, Maxim	2669	Vachier-Lagrave, Maxime	2813	1/2-1/2	2022.03.12
+Nakamura, Hikaru	2837	Vachier-Lagrave, Maxime	2743	1/2-1/2	2022.03.13
+Maghsoodloo, Parham	2630	Vachier-Lagrave, Maxime	2813	1/2-1/2	2022.03.12
+Nepomniachtchi, Ian	2795	Vachier-Lagrave, Maxime	2763	1/2-1/2	2022.08.26
+Aronian, Levon	2728	Vachier-Lagrave, Maxime	2763	1/2-1/2	2022.08.26
+Nakamura, Hikaru	2837	Vachier-Lagrave, Maxime	2763	1/2-1/2	2022.08.27
+Xiong, Jeffery	2725	Vachier-Lagrave, Maxime	2763	1/2-1/2	2022.08.27
+Dominguez Perez, Leinier	2705	Vachier-Lagrave, Maxime	2763	1/2-1/2	2022.08.28
+Caruana, Fabiano	2847	Vachier-Lagrave, Maxime	2812	1/2-1/2	2022.08.29
+Nepomniachtchi, Ian	2791	Vachier-Lagrave, Maxime	2812	1/2-1/2	2022.08.29
+Aronian, Levon	2850	Vachier-Lagrave, Maxime	2812	1/2-1/2	2022.08.30
+Xiong, Jeffery	2714	Vachier-Lagrave, Maxime	2812	1/2-1/2	2022.08.30
+Shankland, Sam	2645	Vachier-Lagrave, Maxime	2812	1/2-1/2	2022.08.30
+Dominguez Perez, Leinier	2754	Vachier-Lagrave, Maxime	2757	1/2-1/2	2022.09.02
+Mamedyarov, Shakhriyar	2758	Vachier-Lagrave, Maxime	2757	1/2-1/2	2022.09.04
+Sevian, Samuel	2569	Vachier-Lagrave, Maxime	2775	1/2-1/2	2022.09.21
+Carlsen, Magnus	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Wed Dec 04 2019
+Carlsen, Magnus	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Wed Dec 04 2019
+Ding, Liren	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Sun Dec 08 2019
+Topalov, Veselin	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Wed Dec 11 2019
+Andreikin, Dmitry	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Sun Dec 15 2019
+Motylev, Alexander	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Fri Dec 27 2019
+Castellanos Rodriguez, Renier	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Thu Dec 26 2019
+Kobalia, Mikhail	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Sun Dec 29 2019
+Artemiev, Vladislav	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Mon Dec 30 2019
+Savchenko, Boris	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Sun Dec 29 2019
+Wang, Hao	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Fri Dec 27 2019
+Nakamura, Hikaru	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Sat Dec 28 2019
+Vocaturo,D	2626	Vachier Lagrave,M	2780	1/2-1/2	2019.01.22
+Alekseenko,K	2637	Vachier Lagrave,M	2780	1/2-1/2	2019.01.08
+Artemiev,V	2709	Vachier Lagrave,M	2780	1/2-1/2	2019.01.22
+Le Quang Liem	2714	Vachier Lagrave,M	2780	1/2-1/2	2019.01.22
+Mihajlov,Seb	2363	Vachier Lagrave,M	2780	1/2-1/2	2019.01.08
+Van Foreest,Jorden	2618	Vachier Lagrave,M	2780	1/2-1/2	2019.02.16
+Sevian,Samuel	2647	Vachier Lagrave,M	2780	1/2-1/2	2019.01.08
+Caruana,F	2819	Vachier Lagrave,M	2773	1/2-1/2	2019.04.20
+Svidler,P	2735	Vachier Lagrave,M	2773	1/2-1/2	2019.04.20
+Karjakin,Sergey	2752	Vachier Lagrave,M	2780	1/2-1/2	2019.05.08
+Nepomniachtchi,I	2773	Vachier Lagrave,M	2780	1/2-1/2	2019.05.11
+Ding Liren	2805	Vachier Lagrave,M	2780	1/2-1/2	2019.05.11
+Malakhov,V	2660	Vachier Lagrave,M	2780	1/2-1/2	2019.05.18
+Santos Ruiz,Miguel	2549	Vachier Lagrave,M	2780	1/2-1/2	2019.05.18
+Aronian,L	2752	Vachier Lagrave,M	2779	1/2-1/2	2019.06.04
+Mamedyarov,S	2774	Vachier Lagrave,M	2779	1/2-1/2	2019.06.04
+Aronian,L	2752	Vachier Lagrave,M	2779	1/2-1/2	2019.06.04
+Mamedyarov,S	2774	Vachier Lagrave,M	2779	1/2-1/2	2019.06.04
+So,W	2754	Vachier Lagrave,M	2779	1/2-1/2	2019.06.04
+So,W	2754	Vachier Lagrave,M	2779	1/2-1/2	2019.06.26
+Anand,V	2767	Vachier Lagrave,M	2779	1/2-1/2	2019.06.26
+Mamedyarov,S	2774	Vachier Lagrave,M	2779	1/2-1/2	2019.06.26
+Nakamura,Hi	2754	Vachier Lagrave,M	2779	1/2-1/2	2019.06.26
+Navara,D	2734	Vachier Lagrave,M	2775	1/2-1/2	2019.07.12
+Grischuk,A	2766	Vachier Lagrave,M	2775	1/2-1/2	2019.07.27
+Mamedyarov,S	2765	Vachier Lagrave,M	2775	1/2-1/2	2019.07.12
+Mamedyarov,S	2765	Vachier Lagrave,M	2775	1/2-1/2	2019.07.12
+Yu Yangyi	2752	Vachier Lagrave,M	2778	1/2-1/2	2019.08.10
+Aronian,L	2765	Vachier Lagrave,M	2778	1/2-1/2	2019.08.17
+Giri,A	2779	Vachier Lagrave,M	2778	1/2-1/2	2019.08.17
+Ding Liren	2805	Vachier Lagrave,M	2778	1/2-1/2	2019.08.17
+Caruana,F	2818	Vachier Lagrave,M	2778	1/2-1/2	2019.08.17
+Wei Yi	2721	Vachier Lagrave,M	2774	1/2-1/2	2019.09.02
+Wei Yi	2721	Vachier Lagrave,M	2774	1/2-1/2	2019.09.02
+Wei Yi	2721	Vachier Lagrave,M	2774	1/2-1/2	2019.09.02
+Jakovenko,D	2681	Vachier Lagrave,M	2774	1/2-1/2	2019.09.10
+Jakovenko,D	2681	Vachier Lagrave,M	2774	1/2-1/2	2019.09.10
+Svidler,P	2729	Vachier Lagrave,M	2774	1/2-1/2	2019.09.10
+Vachier Lagrave, M.	2793	Blohberger, Felix	2367	1-0	2018.01.23
+Vachier Lagrave, M.	2793	Thorfinnsson, Br	2426	1-0	2018.01.18
+Vachier Lagrave, M.	2793	Sandipan, C.	2579	1-0	2018.01.23
+Vachier Lagrave, M.	2793	Batsiashvili, N.	2504	1-0	2018.01.23
+Vachier Lagrave, M.	2793	Goryachkina, A.	2493	1-0	2018.01.23
+Vachier Lagrave, M.	2793	Nakamura, Hi	2781	1-0	2018.02.01
+Vachier Lagrave, M.	2793	Moussard, J.	2571	1-0	2018.01.23
+Vachier Lagrave, M.	2794	Olszewski, Mi	2551	1-0	2017.10.21
+Vachier Lagrave, M.	2793	Ghosh, D.	2556	1-0	2018.01.18
+Vachier Lagrave, M.	2793	Gupta, Ab	2610	1-0	2018.01.18
+Vachier Lagrave, M.	2793	Melkumyan, H.	2654	1-0	2018.01.18
+Vachier Lagrave, M.	2793	Jobava, Ba	2690	1-0	2018.01.18
+Vachier Lagrave, M.	2793	Keymer, Vincent	2408	1-0	2018.01.18
+Vachier Lagrave, M.	2793	Van der Lende, I.	2332	1-0	2018.01.18
+Aronian,L	2758	Vachier Lagrave,M	2774	1/2-1/2	2019.09.10
+Jakovenko,D	2681	Vachier Lagrave,M	2774	1/2-1/2	2019.09.10
+Yu Yangyi	2763	Vachier Lagrave,M	2774	1/2-1/2	2019.09.10
+Aronian,L	2758	Vachier Lagrave,M	2774	1/2-1/2	2019.09.10
+Yu Yangyi	2763	Vachier Lagrave,M	2774	1/2-1/2	2019.09.10
+Wei Yi	2724	Vachier Lagrave,M	2777	1/2-1/2	2019.11.05
+So,W	2767	Vachier Lagrave,M	2774	1/2-1/2	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	1/2-1/2	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	1/2-1/2	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	1/2-1/2	2019.09.02
+So,W	2767	Vachier Lagrave,M	2774	1/2-1/2	2019.09.02
+Vachier Lagrave, M.	2793	Roberson, P.	2412	1-0	2018.01.18
+Vachier Lagrave, M.	2793	Jones, G.	2640	1-0	2018.01.18
+Vachier Lagrave, M.	2789	Libiszewski, F.	2507	1-0	2018.03.13
+Vachier Lagrave, M.	2789	Anand, V.	2776	1-0	2018.03.31
+Vachier Lagrave, M.	2789	Borisek, J.	2576	1-0	2018.03.13
+Vachier Lagrave, M.	2789	Sebenik, M.	2562	1-0	2018.03.13
+Vachier Lagrave, M.	2794	Howell, D.	2698	1-0	2017.10.21
+Vachier Lagrave, M.	2789	Caruana, F.	2822	1-0	2018.05.27
+Vachier Lagrave, M.	2789	Karjakin, Sergey	2782	1-0	2018.06.15
+Vachier Lagrave, M.	2789	Nakamura, Hi	2769	1-0	2018.06.15
+Vachier Lagrave, M.	2789	Giri, A.	2782	1-0	2018.06.12
+Vachier Lagrave, M.	2789	Anand, V.	2759	1-0	2018.06.12
+Vachier Lagrave, M.	2789	Karjakin, Sergey	2782	1-0	2018.06.23
+Vachier Lagrave, M.	2789	Kramnik, V.	2792	1-0	2018.06.23
+Vachier Lagrave, M.	2789	Caruana, F.	2816	1-0	2018.06.23
+Vachier Lagrave, M.	2789	Mamedyarov, S.	2808	1-0	2018.06.20
+Vachier Lagrave, M.	2789	Aronian, L.	2764	1-0	2018.06.20
+Vachier Lagrave, M.	2789	Mamedyarov, S.	2808	1-0	2018.06.23
+Vachier Lagrave, M.	2779	Georgiadis, N.	2526	1-0	2018.07.22
+Vachier Lagrave, M.	2779	Navara, D.	2741	1-0	2018.07.22
+Vachier Lagrave, M.	2779	Anand, V.	2768	1-0	2018.08.11
+Vachier Lagrave, M.	2779	Grischuk, A.	2766	1-0	2018.08.11
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1-0	2018.08.14
+Vachier Lagrave, M.	2779	Mamedyarov, S.	2801	1-0	2018.08.14
+Vachier Lagrave, M.	2779	Caruana, F.	2822	1-0	2018.08.14
+Vachier Lagrave, M.	2779	Karjakin, Sergey	2773	1-0	2018.08.14
+Vachier-Lagrave, Maxime	2780	Bellahcene, Bilel	2501	1-0	2018.09.24
+Vachier-Lagrave, Maxime	2780	Duda, Jan-Krzysztof	2739	1-0	2018.09.24
+Vachier-Lagrave, Maxime	2780	Andriasian, Zaven	2603	1-0	2018.09.08
+Vachier-Lagrave, Maxime	2780	Shankland, Samuel L	2722	1-0	2018.09.11
+Vachier-Lagrave, Maxime	2778	Ding, Liren	2816	1-0	2018.11.04
+Vachier-Lagrave, Maxime	2781	Aronian, Levon	2765	1-0	2018.12.11
+Vachier-Lagrave, Maxime	2781	Aronian, Levon	2765	1-0	2018.12.11
+Vachier-Lagrave, Maxime	2781	Aronian, Levon	2765	1-0	2018.12.11
+Vachier-Lagrave, Maxime	2780	Iturrizaga Bonelli, Eduardo	2636	1-0	2018.09.08
+Vachier-Lagrave, Maxime	2780	Gupta, Abhijeet	2588	1-0	2018.09.08
+Vachier-Lagrave, Maxime	2780	Shimanov, Aleksandr	2626	1-0	2018.09.08
+Vachier-Lagrave, Maxime	2780	Lubbe, Nikolas	2447	1-0	2018.10.20
+Vachier-Lagrave, Maxime	2780	Tari, Aryan	2618	1-0	2018.10.20
+Vachier-Lagrave, Maxime	2779	Nakamura, Hikaru	2777	1-0	2018.07.24
+Vachier-Lagrave, Maxime	2779	Nakamura, Hikaru	2777	1-0	2018.07.24
+Vachier Lagrave, M.	2789	Caruana, F.	2784	0-1	2018.03.31
+Vachier Lagrave, M.	2789	Mamedyarov, S.	2808	0-1	2018.05.27
+Vachier Lagrave, M.	2789	Anand, V.	2760	0-1	2018.05.28
+Vachier Lagrave, M.	2789	Anand, V.	2759	0-1	2018.06.15
+Vachier Lagrave, M.	2789	Mamedyarov, S.	2808	0-1	2018.06.15
+Vachier Lagrave, M.	2789	So, W.	2778	0-1	2018.06.23
+Vachier Lagrave, M.	2779	Carlsen, M.	2842	0-1	2018.07.22
+Vachier Lagrave, M.	2779	Mamedyarov, S.	2801	0-1	2018.08.11
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	0-1	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	0-1	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	0-1	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	0-1	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	0-1	2018.07.24
+Vachier-Lagrave, Maxime	2780	Melkumyan, Hrant	2660	0-1	2018.09.08
+Vachier-Lagrave, Maxime	2779	Nakamura, Hikaru	2777	0-1	2018.07.24
+Vachier-Lagrave, Maxime	2779	Nakamura, Hikaru	2777	0-1	2018.07.24
+Vachier-Lagrave, Maxime	2779	Nakamura, Hikaru	2777	0-1	2018.07.24
+Vachier-Lagrave, Maxime	2779	Nakamura, Hikaru	2777	0-1	2018.07.24
+Vachier-Lagrave, Maxime	2779	Nakamura, Hikaru	2777	1-0	2018.07.24
+Vachier-Lagrave, Maxime	2779	Nakamura, Hikaru	2777	0-1	2018.07.24
+Vachier-Lagrave, Maxime	2779	Nakamura, Hikaru	2777	0-1	2018.07.24
+Vachier-Lagrave, Maxime	2779	Nakamura, Hikaru	2777	1-0	2018.07.24
+Vachier-Lagrave, Maxime	2779	Nakamura, Hikaru	2777	0-1	2018.07.24
+Vachier Lagrave,M	2778	Dziuba,M	2574	1-0	2018.11.24
+Vachier Lagrave,M	2778	Harikrishna,P	2729	1-0	2018.11.24
+Vachier Lagrave, M.	2793	Olafsson, H1.	2508	1/2-1/2	2018.01.18
+Vachier Lagrave, M.	2793	Nakamura, Hi	2781	1/2-1/2	2018.02.01
+Vachier Lagrave, M.	2793	Aronian, L.	2797	1/2-1/2	2018.02.01
+Vachier Lagrave, M.	2793	Aronian, L.	2797	1/2-1/2	2018.02.01
+Vachier Lagrave, M.	2793	Rapport, R.	2700	1/2-1/2	2018.01.23
+Vachier Lagrave, M.	2793	Carlsen, M.	2834	1/2-1/2	2018.01.18
+Vachier Lagrave, M.	2793	Sebenik, M.	2551	1/2-1/2	2018.01.18
+Vachier Lagrave, M.	2793	Borisek, J.	2576	1/2-1/2	2018.01.18
+Vachier Lagrave, M.	2794	Ivanchuk, V.	2732	1/2-1/2	2017.10.21
+Vachier Lagrave, M.	2793	Admiraal, M.	2453	1/2-1/2	2018.01.18
+Vachier Lagrave, M.	2794	Areshchenko, A.	2645	1/2-1/2	2017.10.21
+Vachier Lagrave, M.	2789	Gunina, V.	2507	1/2-1/2	2018.03.13
+Vachier Lagrave, M.	2789	Meier, Geo	2648	1/2-1/2	2018.03.31
+Vachier Lagrave, M.	2789	Aronian, L.	2794	1/2-1/2	2018.03.31
+Vachier Lagrave, M.	2789	Nakamura, Hi	2769	1/2-1/2	2018.05.27
+Vachier Lagrave, M.	2789	Ding Liren	2791	1/2-1/2	2018.05.27
+Vachier Lagrave, M.	2789	Carlsen, M.	2843	1/2-1/2	2018.05.27
+Vachier Lagrave, M.	2789	Caruana, F.	2822	1/2-1/2	2018.05.28
+Vachier Lagrave, M.	2789	Aronian, L.	2764	1/2-1/2	2018.05.28
+Vachier Lagrave, M.	2789	Ragger, M.	2672	1/2-1/2	2018.05.24
+Vachier Lagrave, M.	2789	Carlsen, M.	2843	1/2-1/2	2018.05.28
+Vachier Lagrave, M.	2789	Aronian, L.	2764	1/2-1/2	2018.06.15
+Vachier Lagrave, M.	2789	Giri, A.	2782	1/2-1/2	2018.06.15
+Vachier Lagrave, M.	2789	Caruana, F.	2816	1/2-1/2	2018.06.15
+Vachier Lagrave,M	2778	Kamsky,G	2666	0-1	2018.11.24
+Vachier Lagrave, M.	2789	So, W.	2778	1/2-1/2	2018.06.15
+Vachier Lagrave, M.	2789	Grischuk, A.	2766	1/2-1/2	2018.06.15
+Vachier Lagrave, M.	2789	So, W.	2778	1/2-1/2	2018.06.12
+Vachier Lagrave, M.	2789	Grischuk, A.	2766	1/2-1/2	2018.06.12
+Vachier Lagrave, M.	2789	Karjakin, Sergey	2782	1/2-1/2	2018.06.12
+Vachier Lagrave, M.	2789	Nakamura, Hi	2769	1/2-1/2	2018.06.23
+Vachier Lagrave, M.	2789	Anand, V.	2759	1/2-1/2	2018.06.23
+Vachier Lagrave, M.	2789	Aronian, L.	2764	1/2-1/2	2018.06.23
+Vachier Lagrave, M.	2789	Nakamura, Hi	2769	1/2-1/2	2018.06.20
+Vachier Lagrave, M.	2789	Caruana, F.	2816	1/2-1/2	2018.06.20
+Vachier Lagrave, M.	2789	Grischuk, A.	2766	1/2-1/2	2018.06.23
+Vachier Lagrave, M.	2779	Svidler, P.	2753	1/2-1/2	2018.07.22
+Vachier Lagrave, M.	2779	Mamedyarov, S.	2801	1/2-1/2	2018.07.22
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1/2-1/2	2018.07.24
+Vachier Lagrave, M.	2779	Dominguez Perez, L.	2739	1/2-1/2	2018.07.24
+Vachier Lagrave, M.	2779	So, W.	2780	1/2-1/2	2018.08.14
+Vachier Lagrave, M.	2779	Nakamura, Hi	2777	1/2-1/2	2018.08.14
+Vachier Lagrave, M.	2779	Anand, V.	2768	1/2-1/2	2018.08.14
+Vachier Lagrave, M.	2779	Grischuk, A.	2766	1/2-1/2	2018.08.14
+Vachier Lagrave, M.	2779	Aronian, L.	2767	1/2-1/2	2018.08.14
+Vachier Lagrave, M.	2779	Carlsen, M.	2842	1/2-1/2	2018.08.18
+Vachier Lagrave, M.	2779	Karjakin, Sergey	2773	1/2-1/2	2018.08.11
+Vachier Lagrave, M.	2779	Caruana, F.	2822	1/2-1/2	2018.08.18
+Vachier Lagrave, M.	2779	Nakamura, Hi	2777	1/2-1/2	2018.08.18
+Vachier Lagrave, M.	2779	Aronian, L.	2767	1/2-1/2	2018.08.18
+Vachier Lagrave, M.	2779	So, W.	2780	1/2-1/2	2018.08.18
+Vachier-Lagrave, Maxime	2780	Saric, Ivan	2689	1/2-1/2	2018.09.24
+Vachier-Lagrave, Maxime	2781	Nakamura, Hikaru	2746	1/2-1/2	2018.12.11
+Vachier-Lagrave, Maxime	2780	Eljanov, Pavel	2703	1/2-1/2	2018.09.24
+Vachier-Lagrave, Maxime	2780	Dreev, Aleksey	2649	1/2-1/2	2018.09.08
+Vachier-Lagrave, Maxime	2778	Vitiugov, Nikita	2709	1/2-1/2	2018.11.04
+Vachier-Lagrave, Maxime	2780	Shankland, Samuel L	2722	1/2-1/2	2018.09.11
+Vachier-Lagrave, Maxime	2778	Giri, Anish	2780	1/2-1/2	2018.11.04
+Vachier-Lagrave, Maxime	2778	Wojtaszek, Radoslaw	2749	1/2-1/2	2018.11.04
+Vachier-Lagrave, Maxime	2778	Yu, Yangyi	2764	1/2-1/2	2018.11.04
+Vachier-Lagrave, Maxime	2781	Aronian, Levon	2765	1/2-1/2	2018.12.11
+Vachier-Lagrave, Maxime	2780	Nakamura, Hikaru	2763	1/2-1/2	2018.09.08
+Vachier-Lagrave, Maxime	2780	Naiditsch, Arkadij	2721	1/2-1/2	2018.10.20
+Vachier-Lagrave, Maxime	2780	Wang, Hao	2722	1/2-1/2	2018.10.20
+Vachier-Lagrave, Maxime	2780	Parligras, Mircea-Emilian	2623	1/2-1/2	2018.10.20
+Vachier-Lagrave, Maxime	2779	Nakamura, Hikaru	2777	1/2-1/2	2018.07.24
+Vachier-Lagrave, Maxime	2779	Nakamura, Hikaru	2777	1/2-1/2	2018.07.24
+Vachier-Lagrave, Maxime	2779	Nakamura, Hikaru	2777	1/2-1/2	2018.07.24
+Vachier-Lagrave, Maxime	2779	Nakamura, Hikaru	2777	1/2-1/2	2018.07.24
+Vachier-Lagrave, Maxime	2779	Nakamura, Hikaru	2777	1/2-1/2	2018.07.24
+Vachier-Lagrave, Maxime	2779	Nakamura, Hikaru	2777	1/2-1/2	2018.07.24
+Vachier-Lagrave, Maxime	2781	Nakamura, Hikaru	2746	1/2-1/2	2018.12.11
+Vachier-Lagrave, Maxime	2780	Karjakin, Sergey	2760	1/2-1/2	2018.09.24
+Vachier-Lagrave, Maxime	2781	Nakamura, Hikaru	2746	1/2-1/2	2018.12.11
+Vachier-Lagrave, Maxime	2781	Nakamura, Hikaru	2746	1/2-1/2	2018.12.11
+Aronian, L.	2797	Vachier Lagrave, M.	2793	1-0	2018.02.01
+Meier, Geo	2647	Vachier Lagrave, M.	2793	1-0	2018.01.18
+Anand, V.	2760	Vachier Lagrave, M.	2789	1-0	2018.05.27
+Karjakin, Sergey	2782	Vachier Lagrave, M.	2789	1-0	2018.05.28
+Anand, V.	2759	Vachier Lagrave, M.	2789	1-0	2018.06.15
+Karjakin, Sergey	2782	Vachier Lagrave, M.	2789	1-0	2018.06.15
+Mamedyarov, S.	2808	Vachier Lagrave, M.	2789	1-0	2018.06.23
+So, W.	2778	Vachier Lagrave, M.	2789	1-0	2018.06.20
+Grischuk, A.	2766	Vachier Lagrave, M.	2789	1-0	2018.06.20
+Kramnik, V.	2792	Vachier Lagrave, M.	2789	1-0	2018.06.23
+Mamedyarov, S.	2801	Vachier Lagrave, M.	2779	1-0	2018.07.22
+Nakamura, Hi	2777	Vachier Lagrave, M.	2779	1-0	2018.08.11
+Aronian, L.	2767	Vachier Lagrave, M.	2779	1-0	2018.08.11
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	1-0	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	1-0	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	1-0	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	1-0	2018.07.24
+Aronian, L.	2767	Vachier Lagrave, M.	2779	1-0	2018.08.14
+Aronian, Levon	2765	Vachier-Lagrave, Maxime	2781	1-0	2018.12.11
+Grischuk, Alexander	2769	Vachier-Lagrave, Maxime	2780	1-0	2018.10.20
+Nakamura, Hikaru	2746	Vachier-Lagrave, Maxime	2781	1-0	2018.12.11
+Nakamura, Hikaru	2777	Vachier-Lagrave, Maxime	2779	1-0	2018.07.24
+Nakamura, Hikaru	2777	Vachier-Lagrave, Maxime	2779	1-0	2018.07.24
+Nakamura, Hikaru	2777	Vachier-Lagrave, Maxime	2779	1-0	2018.07.24
+Vachier Lagrave,M	2778	Kryvoruchko,Y	2698	1/2-1/2	2018.11.24
+Vachier-Lagrave, Maxime	2784	Radjabov, Teimour	2765	1-0	Sat Feb 13 2021
+Vachier-Lagrave, Maxime	2758	Anton Guijarro, David	2673	1-0	Sat Mar 13 2021
+Vachier-Lagrave, Maxime	2758	Mamedyarov, Shakhriyar	2770	1-0	Sat Mar 13 2021
+Vachier-Lagrave, Maxime	2758	Pichot, Alan	2630	1-0	Sun Mar 14 2021
+Vachier-Lagrave, Maxime	2758	Alekseenko, Kirill	2696	1-0	Sat Apr 24 2021
+Vachier-Lagrave, Maxime	2758	Wang, Hao	2763	1-0	Tue Apr 27 2021
+Vachier-Lagrave, Maxime	2860	Nepomniachtchi, Ian	2778	1-0	Tue May 25 2021
+Vachier-Lagrave, Maxime	2860	Pichot, Alan	2533	1-0	Tue May 25 2021
+Vachier-Lagrave, Maxime	2860	Radjabov, Teimour	2758	1-0	2021.06.18
+Vachier-Lagrave, Maxime	2860	Nepomniachtchi, Ian	2778	1-0	2021.06.19
+Vachier-Lagrave, Maxime	2860	Firouzja, Alireza	2703	1-0	2021.06.20
+Vachier-Lagrave, Maxime	2822	Firouzja, Alireza	2770	1-0	2021.06.22
+Vachier-Lagrave, Maxime	2822	Radjabov, Teimour	2757	1-0	2021.06.22
+Vachier-Lagrave, Maxime	2822	Caruana, Fabiano	2711	1-0	2021.06.21
+Vachier-Lagrave, Maxime	2822	Kramnik, Vladimir	2797	1-0	2021.06.21
+Vachier-Lagrave, Maxime	2760	Fressinet, Laurent	2638	1-0	2021.06.28
+Vachier-Lagrave, Maxime	2831	Anand, Viswanathan	2751	1-0	2021.07.07
+Vachier-Lagrave, Maxime	2831	Duda, Jan-Krzysztof	2774	1-0	2021.07.08
+Vachier-Lagrave, Maxime	2794	Mamedyarov, Shakhriyar	2716	1-0	2021.07.10
+Vachier-Lagrave, Maxime	2794	Nepomniachtchi, Ian	2807	1-0	2021.07.10
+Vachier-Lagrave, Maxime	2794	Grischuk, Alexander	2765	1-0	2021.07.10
+Vachier-Lagrave, Maxime	2794	Kasparov, Garry	2801	1-0	2021.07.10
+Vachier-Lagrave, Maxime	2794	Giri, Anish	2744	1-0	2021.07.11
+Vachier-Lagrave, Maxime	2794	Korobov, Anton	2668	1-0	2021.07.11
+Vachier-Lagrave, Maxime	2794	Duda, Jan-Krzysztof	2799	1-0	2021.07.11
+Thorfinnsson, Bj	2400	Vachier Lagrave, M.	2793	0-1	2018.01.18
+Volodin, Alek	2462	Vachier Lagrave, M.	2793	0-1	2018.01.18
+Andreikin, D.	2712	Vachier Lagrave, M.	2793	0-1	2018.01.18
+Plat, V.	2569	Vachier Lagrave, M.	2793	0-1	2018.01.18
+Skuhala, Jernej	2294	Vachier Lagrave, M.	2793	0-1	2018.01.18
+Pavasovic, D.	2540	Vachier Lagrave, M.	2793	0-1	2018.01.18
+Agrest, I.	2280	Vachier Lagrave, M.	2793	0-1	2018.01.18
+Lopez, Ja	2316	Vachier Lagrave, M.	2793	0-1	2018.01.18
+Rendle, T.	2362	Vachier Lagrave, M.	2793	0-1	2018.01.18
+Navara, D.	2726	Vachier Lagrave, M.	2794	0-1	2017.10.21
+Fontaine, R.	2563	Vachier Lagrave, M.	2789	0-1	2018.03.13
+Barsegyan, H.	2464	Vachier Lagrave, M.	2789	0-1	2018.03.13
+Hou Yifan	2654	Vachier Lagrave, M.	2789	0-1	2018.03.31
+Horvath, Ad1	2459	Vachier Lagrave, M.	2794	0-1	2017.10.21
+Aronian, L.	2764	Vachier Lagrave, M.	2789	0-1	2018.05.27
+Caruana, F.	2816	Vachier Lagrave, M.	2789	0-1	2018.06.15
+Aronian, L.	2764	Vachier Lagrave, M.	2789	0-1	2018.06.15
+Nakamura, Hikaru	2777	Vachier-Lagrave, Maxime	2779	1-0	2018.07.24
+Nakamura, Hikaru	2777	Vachier-Lagrave, Maxime	2779	1-0	2018.07.24
+Nakamura, Hikaru	2777	Vachier-Lagrave, Maxime	2779	1-0	2018.07.24
+Nakamura, Hikaru	2777	Vachier-Lagrave, Maxime	2779	1-0	2018.07.24
+Nakamura, Hikaru	2777	Vachier-Lagrave, Maxime	2779	1-0	2018.07.24
+Nakamura, Hikaru	2777	Vachier-Lagrave, Maxime	2779	1-0	2018.07.24
+Nisipeanu, Liviu-Dieter	2661	Vachier-Lagrave, Maxime	2780	1-0	2018.09.24
+Xiong, Jeffery	2651	Vachier-Lagrave, Maxime	2780	1-0	2018.09.08
+Grischuk, A.	2766	Vachier Lagrave, M.	2789	0-1	2018.06.15
+Nakamura, Hi	2769	Vachier Lagrave, M.	2789	0-1	2018.06.15
+Giri, A.	2782	Vachier Lagrave, M.	2789	0-1	2018.06.15
+Anand, V.	2759	Vachier Lagrave, M.	2789	0-1	2018.06.23
+Karjakin, Sergey	2782	Vachier Lagrave, M.	2789	0-1	2018.06.23
+Svidler, P.	2753	Vachier Lagrave, M.	2779	0-1	2018.07.22
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	0-1	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	0-1	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	0-1	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	0-1	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	0-1	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	0-1	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	0-1	2018.07.24
+Nakamura, Hi	2777	Vachier Lagrave, M.	2779	0-1	2018.08.14
+Grischuk, A.	2766	Vachier Lagrave, M.	2779	0-1	2018.08.14
+Anand, V.	2768	Vachier Lagrave, M.	2779	0-1	2018.08.14
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	0-1	2018.08.14
+Mamedyarov, S.	2801	Vachier Lagrave, M.	2779	0-1	2018.08.14
+Caruana, F.	2822	Vachier Lagrave, M.	2779	0-1	2018.08.14
+Andriasian, Zaven	2603	Vachier-Lagrave, Maxime	2780	0-1	2018.09.08
+Aronian, Levon	2765	Vachier-Lagrave, Maxime	2781	0-1	2018.12.11
+Jumabayev, Rinat	2605	Vachier-Lagrave, Maxime	2780	0-1	2018.10.20
+Leko, Peter	2690	Vachier-Lagrave, Maxime	2780	0-1	2018.09.24
+Lenderman, Aleksandr	2630	Vachier-Lagrave, Maxime	2780	0-1	2018.09.08
+Nakamura, Hikaru	2777	Vachier-Lagrave, Maxime	2779	0-1	2018.07.24
+Blomqvist, E.	2502	Vachier Lagrave, M.	2793	1/2-1/2	2018.01.23
+Gretarsson, Hj	2565	Vachier Lagrave, M.	2793	1/2-1/2	2018.01.18
+Gupta, Ab	2610	Vachier Lagrave, M.	2793	1/2-1/2	2018.01.23
+Gledura, B.	2612	Vachier Lagrave, M.	2793	1/2-1/2	2018.01.23
+Aronian, L.	2797	Vachier Lagrave, M.	2793	1/2-1/2	2018.02.01
+Nakamura, Hi	2781	Vachier Lagrave, M.	2793	1/2-1/2	2018.02.01
+Nakamura, Hi	2781	Vachier Lagrave, M.	2793	1/2-1/2	2018.02.01
+Dubov, Daniil	2694	Vachier Lagrave, M.	2793	1/2-1/2	2018.01.23
+Grandelius, N.	2653	Vachier Lagrave, M.	2794	1/2-1/2	2017.10.21
+Holm, Kristian Stuvik	2436	Vachier Lagrave, M.	2793	1/2-1/2	2018.01.18
+Harikrishna, P.	2733	Vachier Lagrave, M.	2794	1/2-1/2	2017.10.21
+Van Wely, L.	2656	Vachier Lagrave, M.	2793	1/2-1/2	2018.01.18
+Yanchenko, R.	2436	Vachier Lagrave, M.	2793	1/2-1/2	2018.01.18
+Naiditsch, A.	2701	Vachier Lagrave, M.	2789	1/2-1/2	2018.03.31
+Lenic, L.	2662	Vachier Lagrave, M.	2789	1/2-1/2	2018.03.13
+Skuhala, Luka	2087	Vachier Lagrave, M.	2789	1/2-1/2	2018.03.13
+Nakamura, Hikaru	2777	Vachier-Lagrave, Maxime	2779	0-1	2018.07.24
+Nakamura, Hikaru	2777	Vachier-Lagrave, Maxime	2779	0-1	2018.07.24
+Nakamura, Hikaru	2777	Vachier-Lagrave, Maxime	2779	0-1	2018.07.24
+Puranik, Abhimanyu	2547	Vachier-Lagrave, Maxime	2780	0-1	2018.10.20
+Rodriguez Vila, Andres	2477	Vachier-Lagrave, Maxime	2780	0-1	2018.09.24
+Shankland, Samuel L	2722	Vachier-Lagrave, Maxime	2780	0-1	2018.09.11
+Vidit, Santosh Gujrathi	2711	Vachier-Lagrave, Maxime	2780	0-1	2018.09.08
+Duda,J	2738	Vachier Lagrave,M	2778	0-1	2018.11.24
+Timman,J	2541	Vachier Lagrave,M	2778	0-1	2018.11.24
+Bluebaum, M.	2631	Vachier Lagrave, M.	2789	1/2-1/2	2018.03.31
+Carlsen, M.	2843	Vachier Lagrave, M.	2789	1/2-1/2	2018.03.31
+Vitiugov, N.	2735	Vachier Lagrave, M.	2789	1/2-1/2	2018.03.31
+Ginsburg, G.	2443	Vachier Lagrave, M.	2794	1/2-1/2	2017.10.21
+Mamedyarov, S.	2808	Vachier Lagrave, M.	2789	1/2-1/2	2018.05.28
+Karjakin, Sergey	2782	Vachier Lagrave, M.	2789	1/2-1/2	2018.05.27
+So, W.	2778	Vachier Lagrave, M.	2789	1/2-1/2	2018.05.27
+Ding Liren	2791	Vachier Lagrave, M.	2789	1/2-1/2	2018.05.28
+Nakamura, Hi	2769	Vachier Lagrave, M.	2789	1/2-1/2	2018.05.28
+So, W.	2778	Vachier Lagrave, M.	2789	1/2-1/2	2018.05.28
+So, W.	2778	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.15
+Mamedyarov, S.	2808	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.15
+Mamedyarov, S.	2808	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.12
+Aronian, L.	2764	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.12
+Caruana, F.	2816	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.12
+Nakamura, Hi	2769	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.12
+Caruana, F.	2816	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.23
+Aronian, L.	2764	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.23
+Grischuk, A.	2766	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.23
+So, W.	2778	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.23
+Nakamura, Hi	2769	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.23
+Anand, V.	2759	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.20
+Kramnik, V.	2792	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.20
+Karjakin, Sergey	2782	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.20
+Navara, D.	2741	Vachier Lagrave, M.	2779	1/2-1/2	2018.07.22
+Carlsen, M.	2842	Vachier Lagrave, M.	2779	1/2-1/2	2018.07.22
+Georgiadis, N.	2526	Vachier Lagrave, M.	2779	1/2-1/2	2018.07.22
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	1/2-1/2	2018.08.11
+So, W.	2780	Vachier Lagrave, M.	2779	1/2-1/2	2018.08.11
+Caruana, F.	2822	Vachier Lagrave, M.	2779	1/2-1/2	2018.08.11
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	1/2-1/2	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	1/2-1/2	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	1/2-1/2	2018.07.24
+Dominguez Perez, L.	2739	Vachier Lagrave, M.	2779	1/2-1/2	2018.07.24
+Karjakin, Sergey	2773	Vachier Lagrave, M.	2779	1/2-1/2	2018.08.14
+So, W.	2780	Vachier Lagrave, M.	2779	1/2-1/2	2018.08.14
+Anand, V.	2768	Vachier Lagrave, M.	2779	1/2-1/2	2018.08.18
+Grischuk, A.	2766	Vachier Lagrave, M.	2779	1/2-1/2	2018.08.18
+Mamedyarov, S.	2801	Vachier Lagrave, M.	2779	1/2-1/2	2018.08.18
+Karjakin, Sergey	2773	Vachier Lagrave, M.	2779	1/2-1/2	2018.08.18
+Adams, Michael	2712	Vachier-Lagrave, Maxime	2780	1/2-1/2	2018.09.24
+Aronian, Levon	2765	Vachier-Lagrave, Maxime	2781	1/2-1/2	2018.12.11
+Aronian, Levon	2765	Vachier-Lagrave, Maxime	2781	1/2-1/2	2018.12.11
+Ding, Liren	2816	Vachier-Lagrave, Maxime	2778	1/2-1/2	2018.11.04
+Giri, Anish	2780	Vachier-Lagrave, Maxime	2778	1/2-1/2	2018.11.04
+Le, Quang Liem	2715	Vachier-Lagrave, Maxime	2780	1/2-1/2	2018.09.24
+Le, Quang Liem	2715	Vachier-Lagrave, Maxime	2780	1/2-1/2	2018.09.08
+Nakamura, Hikaru	2777	Vachier-Lagrave, Maxime	2779	1/2-1/2	2018.07.24
+Nakamura, Hikaru	2777	Vachier-Lagrave, Maxime	2779	1/2-1/2	2018.07.24
+Nakamura, Hikaru	2746	Vachier-Lagrave, Maxime	2781	1/2-1/2	2018.12.11
+Vachier Lagrave, M.	2796	Rendle, T.	2356	1-0	2017.01.11
+Vachier Lagrave, M.	2796	Jones, G.	2665	1-0	2017.01.11
+Vachier Lagrave, M.	2796	Daulyte, D.	2447	1-0	2017.01.11
+Vachier Lagrave, M.	2796	Piorun, K.	2651	1-0	2017.01.24
+Vachier Lagrave, M.	2796	Adams, Mi	2751	1-0	2017.01.24
+Vachier Lagrave, M.	2796	Gupta, Ab	2645	1-0	2017.01.24
+Vachier Lagrave, M.	2796	Finegold, B.	2483	1-0	2017.01.11
+Vachier Lagrave, M.	2796	Swiercz, D.	2647	1-0	2017.01.11
+Vachier Lagrave, M.	2796	Li Chao2	2720	1-0	2017.02.18
+Vachier Lagrave, M.	2796	Kleijn, C.	2437	1-0	2017.01.11
+Vachier Lagrave, M.	2796	Ducarmon, Q.	2468	1-0	2017.01.11
+Vachier Lagrave, M.	2803	Haria, R.	2415	1-0	2017.03.01
+Vachier Lagrave, M.	2803	Movsesian, S.	2679	1-0	2017.03.01
+Nakamura, Hikaru	2777	Vachier-Lagrave, Maxime	2779	1/2-1/2	2018.07.24
+Nakamura, Hikaru	2777	Vachier-Lagrave, Maxime	2779	1/2-1/2	2018.07.24
+Nakamura, Hikaru	2777	Vachier-Lagrave, Maxime	2779	1/2-1/2	2018.07.24
+Nakamura, Hikaru	2746	Vachier-Lagrave, Maxime	2781	1/2-1/2	2018.12.11
+Nakamura, Hikaru	2746	Vachier-Lagrave, Maxime	2781	1/2-1/2	2018.12.11
+Smirnov, Anton	2549	Vachier-Lagrave, Maxime	2780	1/2-1/2	2018.09.08
+Vidit, Santosh Gujrathi	2711	Vachier-Lagrave, Maxime	2780	1/2-1/2	2018.09.08
+Vitiugov, Nikita	2709	Vachier-Lagrave, Maxime	2778	1/2-1/2	2018.11.04
+Wojtaszek, Radoslaw	2749	Vachier-Lagrave, Maxime	2778	1/2-1/2	2018.11.04
+Xiong, Jeffery	2656	Vachier-Lagrave, Maxime	2780	1/2-1/2	2018.10.20
+Yu, Yangyi	2764	Vachier-Lagrave, Maxime	2778	1/2-1/2	2018.11.04
+Vitiugov,N	2709	Vachier Lagrave,M	2778	1/2-1/2	2018.11.24
+Vachier Lagrave, M.	2803	Agrest, E.	2593	1-0	2017.03.01
+Vachier Lagrave, M.	2803	Bluebaum, M.	2634	1-0	2017.04.15
+Vachier Lagrave, M.	2803	Hou Yifan	2649	1-0	2017.04.15
+Vachier Lagrave, M.	2811	Ragger, M.	2700	1-0	2016.10.15
+Vachier Lagrave, M.	2795	Salem, AR.	2633	1-0	2017.05.12
+Vachier Lagrave, M.	2795	Gledura, B.	2602	1-0	2017.05.18
+Vachier Lagrave, M.	2796	Giri, A.	2771	1-0	2017.06.05
+Vachier Lagrave, M.	2796	So, W.	2812	1-0	2017.06.05
+Vachier Lagrave, M.	2796	Anand, V.	2786	1-0	2017.06.05
+Vachier Lagrave, M.	2796	Kramnik, V.	2808	1-0	2017.06.05
+Vachier Lagrave, M.	2796	Kramnik, V.	2808	1-0	2017.06.06
+Vachier Lagrave, M.	2796	Bacrot, E.	2708	1-0	2017.06.24
+Vachier Lagrave, M.	2796	Mamedyarov, S.	2800	1-0	2017.06.24
+Vachier Lagrave, M.	2796	Carlsen, M.	2832	1-0	2017.06.24
+Vachier Lagrave, M.	2796	So, W.	2812	1-0	2017.06.24
+Vachier Lagrave, M.	2796	Topalov, V.	2749	1-0	2017.06.24
+Vachier Lagrave, M.	2796	Nakamura, Hi	2785	1-0	2017.06.21
+Vachier Lagrave, M.	2796	Nepomniachtchi, I.	2732	1-0	2017.06.28
+Vachier Lagrave, M.	2796	Aronian, L.	2793	1-0	2017.07.01
+Vachier Lagrave, M.	2796	Ivanchuk, V.	2738	1-0	2017.06.28
+Vachier Lagrave, M.	2796	So, W.	2812	1-0	2017.07.01
+Vachier Lagrave, M.	2796	Nepomniachtchi, I.	2732	1-0	2017.07.01
+Vachier Lagrave, M.	2796	Ivanchuk, V.	2738	1-0	2017.07.01
+Vachier Lagrave, M.	2796	Jobava, Ba	2707	1-0	2017.07.01
+Vachier Lagrave, M.	2804	Khusenkhojaev, Muhammad	2455	1-0	2017.09.03
+Vachier Lagrave, M.	2803	Jobava, Ba	2701	0-1	2017.03.01
+Vachier Lagrave, M.	2803	Naiditsch, A.	2702	0-1	2017.04.15
+Vachier Lagrave, M.	2796	Giri, A.	2771	0-1	2017.06.06
+Vachier Lagrave, M.	2795	Xiong, Jeffery	2652	1-0	2017.05.03
+Vachier Lagrave, M.	2795	Xiong, Jeffery	2652	1-0	2017.05.03
+Vachier Lagrave, M.	2795	Xiong, Jeffery	2652	1-0	2017.05.03
+Vachier Lagrave, M.	2795	Xiong, Jeffery	2652	1-0	2017.05.03
+Vachier Lagrave, M.	2795	Xiong, Jeffery	2652	1-0	2017.05.03
+Vachier Lagrave, M.	2795	Xiong, Jeffery	2652	1-0	2017.05.03
+Vachier Lagrave, M.	2804	Grachev, B.	2654	1-0	2017.09.03
+Vachier Lagrave, M.	2804	Grischuk, A.	2788	1-0	2017.09.03
+Vachier Lagrave, M.	2804	Aronian, L.	2802	1-0	2017.09.03
+Vachier Lagrave, M.	2795	Grischuk, A.	2750	1-0	2017.05.03
+Vachier Lagrave, M.	2795	Grischuk, A.	2750	1-0	2017.05.03
+Vachier Lagrave, M.	2795	Grischuk, A.	2750	1-0	2017.05.03
+Vachier Lagrave, M.	2796	Gelfand, B.	2719	1-0	2017.11.16
+Vachier Lagrave, M.	2789	Tissir, M.	2381	1-0	2017.12.26
+Vachier Lagrave, M.	2789	Zhao Jun	2604	1-0	2017.12.26
+Vachier Lagrave, M.	2789	McShane, L.	2640	1-0	2017.12.26
+Vachier Lagrave, M.	2789	Kravtsiv, M.	2672	1-0	2017.12.29
+Vachier Lagrave, M.	2789	Fressinet, L.	2662	1-0	2017.12.29
+Vachier Lagrave, M.	2789	Korobov, A.	2652	1-0	2017.12.29
+Vachier Lagrave, M.	2789	Artemiev, V.	2691	1-0	2017.12.29
+Vachier-Lagrave, Maxime	2791	So, Wesley	2810	1-0	2017.08.02
+Vachier-Lagrave, Maxime	2791	Nepomniachtchi, Ian	2742	1-0	2017.08.02
+Vachier Lagrave, M.	2796	Fontaine, R.	2549	1/2-1/2	2017.01.11
+Vachier Lagrave, M.	2796	Steinberg, N.	2486	1/2-1/2	2017.01.24
+Vachier Lagrave, M.	2796	Yu Yangyi	2738	1/2-1/2	2017.01.24
+Vachier Lagrave, M.	2796	Mamedyarov, S.	2766	1/2-1/2	2017.02.18
+Vachier Lagrave, M.	2796	Caruana, F.	2808	0-1	2017.06.24
+Vachier Lagrave, M.	2796	Kramnik, V.	2808	0-1	2017.07.01
+Vachier Lagrave, M.	2796	Carlsen, M.	2832	0-1	2017.07.01
+Vachier Lagrave, M.	2796	Anand, V.	2786	0-1	2017.07.01
+Vachier Lagrave, M.	2795	Xiong, Jeffery	2652	0-1	2017.05.03
+Vachier Lagrave, M.	2795	Xiong, Jeffery	2652	0-1	2017.05.03
+Vachier Lagrave, M.	2795	Xiong, Jeffery	2652	0-1	2017.05.03
+Vachier Lagrave, M.	2795	Xiong, Jeffery	2652	0-1	2017.05.03
+Vachier Lagrave, M.	2795	Grischuk, A.	2750	0-1	2017.05.03
+Vachier Lagrave, M.	2795	Grischuk, A.	2750	0-1	2017.05.03
+Vachier Lagrave, M.	2795	Grischuk, A.	2750	0-1	2017.05.03
+Vachier Lagrave, M.	2795	Grischuk, A.	2750	0-1	2017.05.03
+Vachier Lagrave, M.	2795	Grischuk, A.	2750	0-1	2017.05.03
+Vachier Lagrave, M.	2795	Grischuk, A.	2750	0-1	2017.05.03
+Vachier Lagrave, M.	2795	Grischuk, A.	2750	0-1	2017.05.03
+Vachier Lagrave, M.	2796	Jakovenko, D.	2721	0-1	2017.11.16
+Vachier Lagrave, M.	2789	Bosiocic, Mari	2624	0-1	2017.12.26
+Vachier Lagrave, M.	2789	Adhiban, Baskaran	2655	0-1	2017.12.26
+Vachier Lagrave, M.	2789	Alekseev, Evgeny	2616	0-1	2017.12.26
+Vachier Lagrave, M.	2789	Anand, V.	2782	0-1	2017.12.29
+Vachier Lagrave, M.	2789	Aronian, L.	2805	0-1	2017.12.29
+Vachier Lagrave, M.	2796	Grischuk, A.	2742	1/2-1/2	2017.02.18
+Vachier Lagrave, M.	2796	Jakovenko, D.	2709	1/2-1/2	2017.02.18
+Vachier Lagrave, M.	2796	Aronian, L.	2785	1/2-1/2	2017.02.18
+Vachier Lagrave, M.	2803	Meier, Geo	2621	1/2-1/2	2017.04.15
+Vachier Lagrave, M.	2795	Adams, Mi	2747	1/2-1/2	2017.05.12
+Vachier Lagrave, M.	2795	Gelfand, B.	2724	1/2-1/2	2017.05.12
+Vachier Lagrave, M.	2795	Radjabov, T.	2710	1/2-1/2	2017.05.12
+Vachier Lagrave, M.	2795	Malakhov, V.	2712	1/2-1/2	2017.05.18
+Vachier Lagrave, M.	2796	Aronian, L.	2793	1/2-1/2	2017.06.05
+Vachier Lagrave, M.	2796	Caruana, F.	2808	1/2-1/2	2017.06.06
+Vachier Lagrave, M.	2796	Aronian, L.	2793	1/2-1/2	2017.06.06
+Vachier Lagrave, M.	2796	Anand, V.	2786	1/2-1/2	2017.06.06
+Vachier Lagrave, M.	2796	Karjakin, Sergey	2781	1/2-1/2	2017.06.24
+Vachier Lagrave, M.	2796	Carlsen, M.	2832	1/2-1/2	2017.06.25
+Vachier Lagrave, M.	2796	Grischuk, A.	2761	1/2-1/2	2017.06.24
+Vachier Lagrave, M.	2796	Caruana, F.	2808	1/2-1/2	2017.06.21
+Vachier Lagrave, M.	2796	Nakamura, Hi	2785	1/2-1/2	2017.06.24
+Vachier Lagrave, M.	2796	Grischuk, A.	2761	1/2-1/2	2017.06.21
+Vachier Lagrave, M.	2796	So, W.	2812	1/2-1/2	2017.06.21
+Vachier Lagrave, M.	2796	Kramnik, V.	2808	1/2-1/2	2017.06.28
+Vachier Lagrave, M.	2796	Carlsen, M.	2832	1/2-1/2	2017.06.28
+Vachier Lagrave, M.	2796	Giri, A.	2771	1/2-1/2	2017.06.28
+Vachier Lagrave, M.	2796	Giri, A.	2771	1/2-1/2	2017.07.01
+Vachier Lagrave, M.	2791	Wojtaszek, R.	2736	1/2-1/2	2017.07.15
+Vachier Lagrave, M.	2791	Bluebaum, M.	2642	1/2-1/2	2017.07.15
+Vachier-Lagrave, Maxime	2749	Moradiabadi, Elshan	2553	1-0	2021.07.16
+Vachier-Lagrave, Maxime	2831	Paravyan, David	2634	1-0	2021.07.20
+Vachier-Lagrave, Maxime	2794	Paravyan, David	2562	1-0	2021.07.20
+Vachier-Lagrave, Maxime	2749	Praggnanandhaa, R	2608	1-0	2021.07.23
+Vachier-Lagrave, Maxime	2751	Svidler, Peter	2714	1-0	2021.08.17
+Vachier-Lagrave, Maxime	2751	Shankland, Sam	2709	1-0	2021.08.19
+Vachier-Lagrave, Maxime	2751	Swiercz, Dariusz	2655	1-0	2021.08.21
+Vachier-Lagrave, Maxime	2751	Xiong, Jeffery	2710	1-0	2021.08.24
+Vachier-Lagrave, Maxime	2817	Liang, Awonder	2397	1-0	2021.08.28
+Vachier-Lagrave, Maxime	2817	Le, Quang Liem	2744	1-0	2021.08.29
+Vachier-Lagrave, Maxime	2817	Naroditsky, Daniel	2639	1-0	2021.08.30
+Vachier-Lagrave, Maxime	2817	Van Foreest, Jorden	2563	1-0	2021.08.29
+Vachier-Lagrave, Maxime	2850	Wagner, Dennis	2355	1-0	2021.08.31
+Vachier-Lagrave, Maxime	2850	Musovic, Armin	2250	1-0	2021.08.31
+Vachier-Lagrave, Maxime	2763	Oleksiyenko, Mykhaylo	2586	1-0	2021.10.17
+Vachier-Lagrave, Maxime	2763	Tabatabaei, M. Amin	2639	1-0	2021.10.28
+Vachier-Lagrave, Maxime	2763	Ponkratov, Pavel	2659	1-0	2021.11.01
+Vachier-Lagrave, Maxime	2763	Demchenko, Anton	2651	1-0	2021.10.30
+Vachier-Lagrave, Maxime	2838	Rogule, Laura	2129	1-0	2021.11.08
+Vachier-Lagrave, Maxime	2838	Kryvoruchko, Yuriy	2617	1-0	2021.11.08
+Vachier-Lagrave, Maxime	2838	Vokhidov, Shamsiddin	2616	1-0	2021.11.08
+Vachier-Lagrave, Maxime	2838	Nihal, Sarin	2667	1-0	2021.11.08
+Vachier-Lagrave, Maxime	2838	Yilmaz, Mustafa	2518	1-0	2021.11.08
+Vachier-Lagrave, Maxime	2838	Movsesian, Sergei	2632	1-0	2021.11.08
+Vachier-Lagrave, Maxime	2766	Dragnev, Valentin	2548	1-0	2021.11.12
+Vachier-Lagrave, Maxime	2784	Dubov, Daniil	2699	0-1	Sat Jan 02 2021
+Vachier-Lagrave, Maxime	2784	Radjabov, Teimour	2765	0-1	Sun Feb 14 2021
+Vachier-Lagrave, Maxime	2758	Giri, Anish	2776	0-1	Tue Mar 16 2021
+Vachier-Lagrave, Maxime	2860	So, Wesley	2741	0-1	Thu May 27 2021
+Vachier-Lagrave, Maxime	2860	So, Wesley	2741	0-1	Wed May 26 2021
+Vachier-Lagrave, Maxime	2860	Deac, Bogdan-Daniel	2556	0-1	2021.06.06
+Vachier-Lagrave, Maxime	2860	Bacrot, Etienne	2667	0-1	2021.06.19
+Vachier-Lagrave, Maxime	2822	Nepomniachtchi, Ian	2785	0-1	2021.06.22
+Vachier-Lagrave, Maxime	2822	Svidler, Peter	2754	0-1	2021.06.21
+Vachier-Lagrave, Maxime	2822	So, Wesley	2816	0-1	2021.06.21
+Vachier-Lagrave, Maxime	2822	Aronian, Levon	2739	0-1	2021.06.22
+Vachier-Lagrave, Maxime	2831	Karjakin, Sergey	2709	0-1	2021.07.27
+Vachier-Lagrave, Maxime	2817	Artemiev, Vladislav	2757	0-1	2021.08.28
+Vachier-Lagrave, Maxime	2850	Kamsky, Gata	2644	0-1	2021.08.31
+Vachier-Lagrave, Maxime	2850	Mortazavi, Ali	2339	0-1	2021.08.31
+Vachier-Lagrave, Maxime	2838	Bartel, Mateusz	2560	0-1	2021.11.08
+Vachier-Lagrave, Maxime	2838	Adhiban, B.	2629	0-1	2021.11.08
+Vachier-Lagrave, Maxime	2838	Dreev, Aleksey	2633	0-1	2021.11.08
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	1-0	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	0-1	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	0-1	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	1-0	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	1-0	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	1-0	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	1-0	2021.11.29
+Vachier-Lagrave, Maxime	2784	Duda, Jan-Krzysztof	2743	1/2-1/2	Sat Jan 30 2021
+Vachier-Lagrave, Maxime	2784	Tari, Aryan	2625	1/2-1/2	Fri Jan 22 2021
+Vachier-Lagrave, Maxime	2784	Van Foreest, Jorden	2671	1/2-1/2	Sun Jan 24 2021
+Vachier-Lagrave, Maxime	2784	Dubov, Daniil	2699	1/2-1/2	Sun Jan 03 2021
+Vachier-Lagrave, Maxime	2784	Firouzja, Alireza	2749	1/2-1/2	Sun Jan 17 2021
+Vachier-Lagrave, Maxime	2784	Anton Guijarro, David	2679	1/2-1/2	Tue Jan 19 2021
+Vachier-Lagrave, Maxime	2784	Aronian, Levon	2767	1/2-1/2	Fri Jan 01 2021
+Vachier-Lagrave, Maxime	2784	Bluebaum, Matthias	2670	1/2-1/2	Sat Feb 06 2021
+Vachier-Lagrave, Maxime	2784	Grischuk, Alexander	2777	1/2-1/2	Sun Feb 07 2021
+Vachier-Lagrave, Maxime	2784	Nepomniachtchi, Ian	2789	1/2-1/2	Sun Feb 07 2021
+Vachier-Lagrave, Maxime	2784	Vidit, Santosh Gujrathi	2726	1/2-1/2	Mon Feb 08 2021
+Vachier-Lagrave, Maxime	2784	Aronian, Levon	2781	1/2-1/2	Tue Feb 09 2021
+Vachier-Lagrave, Maxime	2784	Aronian, Levon	2781	1/2-1/2	Tue Feb 09 2021
+Vachier-Lagrave, Maxime	2784	Aronian, Levon	2781	1/2-1/2	Wed Feb 10 2021
+Vachier-Lagrave, Maxime	2784	Aronian, Levon	2781	1/2-1/2	Wed Feb 10 2021
+Vachier-Lagrave, Maxime	2784	Carlsen, Magnus	2862	1/2-1/2	Thu Feb 11 2021
+Vachier-Lagrave, Maxime	2784	Carlsen, Magnus	2862	1/2-1/2	Fri Feb 12 2021
+Vachier-Lagrave, Maxime	2784	Radjabov, Teimour	2765	1/2-1/2	Sat Feb 13 2021
+Vachier-Lagrave, Maxime	2758	Firouzja, Alireza	2759	1/2-1/2	Sat Mar 13 2021
+Vachier-Lagrave, Maxime	2758	Karjakin, Sergey	2757	1/2-1/2	Sun Mar 14 2021
+Vachier-Lagrave, Maxime	2758	Aronian, Levon	2781	1/2-1/2	Mon Mar 15 2021
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	0-1	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	0-1	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	0-1	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	0-1	2021.11.29
+Vachier-Lagrave, Maxime	2758	Giri, Anish	2776	1/2-1/2	Mon Mar 15 2021
+Vachier-Lagrave, Maxime	2758	Giri, Anish	2776	1/2-1/2	Tue Mar 16 2021
+Vachier-Lagrave, Maxime	2758	Giri, Anish	2776	1/2-1/2	Wed Mar 17 2021
+Vachier-Lagrave, Maxime	2758	Giri, Anish	2776	1/2-1/2	Wed Mar 17 2021
+Vachier-Lagrave, Maxime	2758	Giri, Anish	2776	1/2-1/2	Wed Apr 21 2021
+Vachier-Lagrave, Maxime	2760	Ding, Liren	2799	1/2-1/2	Sun May 23 2021
+Vachier-Lagrave, Maxime	2760	Dubov, Daniil	2710	1/2-1/2	Sun May 23 2021
+Vachier-Lagrave, Maxime	2860	Aronian, Levon	2778	1/2-1/2	Tue May 25 2021
+Vachier-Lagrave, Maxime	2760	Svidler, Peter	2714	1/2-1/2	Mon May 24 2021
+Vachier-Lagrave, Maxime	2760	Radjabov, Teimour	2765	1/2-1/2	Mon May 24 2021
+Vachier-Lagrave, Maxime	2860	So, Wesley	2741	1/2-1/2	Wed May 26 2021
+Vachier-Lagrave, Maxime	2760	Lupulescu, Constantin	2656	1/2-1/2	2021.06.08
+Vachier-Lagrave, Maxime	2760	Caruana, Fabiano	2820	1/2-1/2	2021.06.11
+Vachier-Lagrave, Maxime	2760	Mamedyarov, Shakhriyar	2770	1/2-1/2	2021.06.14
+Vachier-Lagrave, Maxime	2822	Rapport, Richard	2759	1/2-1/2	2021.06.21
+Vachier-Lagrave, Maxime	2831	Giri, Anish	2731	1/2-1/2	2021.07.08
+Vachier-Lagrave, Maxime	2831	Nepomniachtchi, Ian	2791	1/2-1/2	2021.07.09
+Vachier-Lagrave, Maxime	2794	Anand, Viswanathan	2785	1/2-1/2	2021.07.10
+Vachier-Lagrave, Maxime	2794	Van Foreest, Jorden	2622	1/2-1/2	2021.07.11
+Vachier-Lagrave, Maxime	2749	Paravyan, David	2625	1/2-1/2	2021.07.18
+Vachier-Lagrave, Maxime	2749	Paravyan, David	2625	1/2-1/2	2021.07.20
+Vachier-Lagrave, Maxime	2794	Paravyan, David	2562	1/2-1/2	2021.07.20
+Vachier-Lagrave, Maxime	2749	Karjakin, Sergey	2757	1/2-1/2	2021.07.25
+Vachier-Lagrave, Maxime	2831	Karjakin, Sergey	2709	1/2-1/2	2021.07.27
+Vachier-Lagrave, Maxime	2751	So, Wesley	2772	1/2-1/2	2021.08.25
+Carlsen, Magnus	2862	Vachier-Lagrave, Maxime	2784	1-0	Sun Jan 31 2021
+Grandelius, Nils	2663	Vachier-Lagrave, Maxime	2784	1-0	Thu Jan 21 2021
+Caruana, Fabiano	2823	Vachier-Lagrave, Maxime	2784	1-0	Sat Jan 23 2021
+Giri, Anish	2764	Vachier-Lagrave, Maxime	2784	1-0	Tue Jan 26 2021
+Dubov, Daniil	2699	Vachier-Lagrave, Maxime	2784	1-0	Sun Jan 03 2021
+Dubov, Daniil	2699	Vachier-Lagrave, Maxime	2784	1-0	Sat Jan 02 2021
+Aronian, Levon	2767	Vachier-Lagrave, Maxime	2784	1-0	Fri Jan 01 2021
+Aronian, Levon	2781	Vachier-Lagrave, Maxime	2784	1-0	Sat Feb 06 2021
+Giri, Anish	2764	Vachier-Lagrave, Maxime	2784	1-0	Sun Feb 07 2021
+Aronian, Levon	2781	Vachier-Lagrave, Maxime	2784	1-0	Wed Feb 10 2021
+Carlsen, Magnus	2862	Vachier-Lagrave, Maxime	2784	1-0	Thu Feb 11 2021
+Carlsen, Magnus	2862	Vachier-Lagrave, Maxime	2784	1-0	Thu Feb 11 2021
+Carlsen, Magnus	2862	Vachier-Lagrave, Maxime	2784	1-0	Fri Feb 12 2021
+Carlsen, Magnus	2862	Vachier-Lagrave, Maxime	2784	1-0	Fri Feb 12 2021
+Radjabov, Teimour	2765	Vachier-Lagrave, Maxime	2784	1-0	Sat Feb 13 2021
+Vachier-Lagrave, Maxime	2817	Dominguez Perez, Leinier	2786	1/2-1/2	2021.08.30
+Vachier-Lagrave, Maxime	2817	So, Wesley	2774	1/2-1/2	2021.08.29
+Vachier-Lagrave, Maxime	2763	Mamedyarov, Shakhriyar	2765	1/2-1/2	2021.10.14
+Vachier-Lagrave, Maxime	2766	Caruana, Fabiano	2791	1/2-1/2	2021.11.06
+Vachier-Lagrave, Maxime	2763	Shirov, Alexei	2659	1/2-1/2	2021.11.04
+Vachier-Lagrave, Maxime	2766	Berkes, Ferenc	2676	1/2-1/2	2021.11.14
+Vachier-Lagrave, Maxime	2766	Dubov, Daniil	2714	1/2-1/2	2021.11.20
+Vachier-Lagrave, Maxime	2766	Martirosyan, Haik M.	2624	1/2-1/2	2021.11.16
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	1/2-1/2	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	1/2-1/2	2021.11.29
+Vachier-Lagrave, Maxime	2760	Topalov, Veselin	2730	1/2-1/2	2022.06.05
+Vachier-Lagrave, Maxime	2813	Topalov, Veselin	2667	1-0	2022.06.05
+Vachier-Lagrave, Maxime	2760	So, Wesley	2775	1-0	2022.06.07
+Vachier-Lagrave, Maxime	2750	Mamedyarov, Shakhriyar	2770	1-0	2022.06.01
+Vachier-Lagrave, Maxime	2813	Yaksin, Oleg	2256	1-0	2022.06.14
+Vachier-Lagrave, Maxime	2760	Tiviakov, Sergei	2570	1-0	2022.06.16
+Vachier-Lagrave, Maxime	2813	Ismagilov, Damir	2138	1-0	2022.06.28
+Vachier-Lagrave, Maxime	3011	Lashkin, Jegor	2905	1-0	2022.06.28
+Vachier-Lagrave, Maxime	2813	Gormally, Daniel W	2543	1-0	2022.06.28
+Vachier-Lagrave, Maxime	2813	Moussard, Jules	2589	1-0	2022.06.28
+Vachier-Lagrave, Maxime	2813	Tabatabaei, M. Amin	2544	1-0	2022.03.12
+Vachier-Lagrave, Maxime	2813	Paravyan, David	2569	1-0	2022.03.12
+Vachier-Lagrave, Maxime	2813	Aronian, Levon	2773	0-1	2022.03.12
+Vachier-Lagrave, Maxime	2813	Dreev, Aleksey	2625	1-0	2022.03.12
+Vachier-Lagrave, Maxime	2813	Gledura, Benjamin	2326	1-0	2022.04.23
+Vachier-Lagrave, Maxime	2813	Navara, David	2686	0-1	2022.04.23
+Vachier-Lagrave, Maxime	2813	Hakobyan, Aram	2557	1-0	2022.04.23
+Vachier-Lagrave, Maxime	2763	Mamedyarov, Shakhriyar	2695	1-0	2022.08.26
+Vachier-Lagrave, Maxime	2763	Caruana, Fabiano	2766	1-0	2022.08.28
+Vachier-Lagrave, Maxime	2812	Dominguez Perez, Leinier	2708	1-0	2022.08.29
+Vachier-Lagrave, Maxime	2812	Aronian, Levon	2850	1-0	2022.08.29
+Vachier-Lagrave, Maxime	2812	Caruana, Fabiano	2847	0-1	2022.08.30
+Vachier-Lagrave, Maxime	2812	Nakamura, Hikaru	2850	0-1	2022.08.30
+Vachier-Lagrave, Maxime	2775	Iturrizaga Bonelli, Eduardo	2645	1-0	2022.09.15
+Vachier-Lagrave, Maxime	2775	Sevian, Samuel	2569	1-0	2022.09.21

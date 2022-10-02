@@ -1,0 +1,1251 @@
+White	White ELO	Black	Black ELO	Result	Date
+Nepomniachtchi, Ian	2821	Paravyan, David	2636	0-1	2022.03.06
+Nepomniachtchi, Ian	2740	Sarana, Alexey	2665	0-1	2022.03.05
+Nepomniachtchi, Ian	2740	Grischuk, Alexander	2762	0-1	2022.04.09
+Nepomniachtchi, Ian	2740	Xiong, Jeffery	2727	0-1	2022.04.02
+Nepomniachtchi, Ian	2740	Fedoseev, Vladimir	2726	0-1	2022.04.02
+Nepomniachtchi, Ian	2740	Ponkratov, Pavel	2487	0-1	2022.04.09
+Nepomniachtchi, Ian	2740	Keymer, Vincent	2557	1-0	2022.02.12
+Nepomniachtchi, Ian	2740	Niemann, Hans Moke	2636	1-0	2022.02.12
+Nepomniachtchi, Ian	2791	Chigaev, Maksim	2487	1-0	2022.08.06
+Nepomniachtchi, Ian	2791	Martinez Alcantara, Jose Eduardo	2703	1-0	2022.08.06
+Nepomniachtchi, Ian	2791	Paravyan, David	2569	1-0	2022.08.13
+Nepomniachtchi, Ian	2791	Martinez Alcantara, Jose Eduardo	2703	1-0	2022.08.13
+Nepomniachtchi, Ian	2791	Van Foreest, Jorden	2649	1-0	2022.08.13
+Nepomniachtchi, Ian	2795	Niemann, Hans Moke	2529	1-0	2022.08.14
+Nepomniachtchi, Ian	2795	Bortnyk, Olexandr	2643	1-0	2022.08.14
+Nepomniachtchi, Ian	2795	Dubov, Daniil	2712	1-0	2022.08.18
+Nepomniachtchi, Ian	2791	Fedoseev, Vladimir	2726	1-0	2022.08.19
+Nepomniachtchi, Ian	2795	Nakamura, Hikaru	2837	1-0	2022.08.20
+Nepomniachtchi, Ian	2791	Nakamura, Hikaru	2850	1-0	2022.08.20
+Nepomniachtchi, Ian	2795	Andreikin, Dmitry	2675	1-0	2022.08.21
+Nepomniachtchi, Ian	2795	Mamedyarov, Shakhriyar	2695	1-0	2022.08.27
+Nepomniachtchi, Ian	2791	Xiong, Jeffery	2714	1-0	2022.08.29
+Nepomniachtchi, Ian	2792	Firouzja, Alireza	2778	1-0	2022.09.03
+Nepomniachtchi, Ian	2779	Muradli, Mahammad	2443	1-0	2022.09.16
+Nepomniachtchi, Ian	2779	Svidler, Peter	2752	1-0	2022.09.24
+Giri, Anish	2764	Nepomniachtchi, Ian	2789	1-0	Sat Feb 06 2021
+Aronian, Levon	2781	Nepomniachtchi, Ian	2789	1-0	Mon Feb 08 2021
+Dubov, Daniil	2710	Nepomniachtchi, Ian	2789	1-0	Sat Mar 13 2021
+Van Foreest, Jorden	2701	Nepomniachtchi, Ian	2789	1-0	Sat Mar 13 2021
+Nakamura, Hikaru	2736	Nepomniachtchi, Ian	2789	1-0	Tue Mar 16 2021
+Carlsen, Magnus	2847	Nepomniachtchi, Ian	2789	1-0	Fri Mar 19 2021
+Carlsen, Magnus	2847	Nepomniachtchi, Ian	2789	1-0	Fri Mar 19 2021
+Giri, Anish	2776	Nepomniachtchi, Ian	2789	1-0	Sun Mar 21 2021
+Giri, Anish	2776	Nepomniachtchi, Ian	2789	1-0	Sun Mar 21 2021
+Giri, Anish	2776	Nepomniachtchi, Ian	2789	1-0	Sun Mar 21 2021
+Giri, Anish	2776	Nepomniachtchi, Ian	2789	1-0	Sun Mar 21 2021
+Ding, Liren	2791	Nepomniachtchi, Ian	2789	1-0	Tue Apr 27 2021
+Vachier-Lagrave, Maxime	2860	Nepomniachtchi, Ian	2778	1-0	Tue May 25 2021
+Caruana, Fabiano	2820	Nepomniachtchi, Ian	2792	1-0	Mon May 24 2021
+Caruana, Fabiano	2773	Nepomniachtchi, Ian	2778	1-0	Wed May 26 2021
+Radjabov, Teimour	2758	Nepomniachtchi, Ian	2778	1-0	Mon May 31 2021
+Vachier-Lagrave, Maxime	2860	Nepomniachtchi, Ian	2778	1-0	2021.06.19
+Firouzja, Alireza	2770	Nepomniachtchi, Ian	2785	1-0	2021.06.22
+Mamedyarov, Shakhriyar	2716	Nepomniachtchi, Ian	2807	1-0	2021.07.10
+Vachier-Lagrave, Maxime	2794	Nepomniachtchi, Ian	2807	1-0	2021.07.10
+Nepomniachtchi, Ian	2792	Carlsen, Magnus	2855	1/2-1/2	2021.09.17
+Nepomniachtchi, Ian	2782	Carlsen, Magnus	2855	1/2-1/2	2021.11.26
+Nepomniachtchi, Ian	2782	Carlsen, Magnus	2855	1/2-1/2	2021.11.28
+Nepomniachtchi, Ian	2782	Carlsen, Magnus	2855	1/2-1/2	2021.12.04
+Nepomniachtchi, Ian	2782	Carlsen, Magnus	2855	1/2-1/2	2021.12.01
+Duda, Jan-Krzysztof	2743	Nepomniachtchi, Ian	2789	0-1	Sat Feb 06 2021
+So, Wesley	2770	Nepomniachtchi, Ian	2789	0-1	Sat Mar 13 2021
+Anton Guijarro, David	2673	Nepomniachtchi, Ian	2789	0-1	Sun Mar 14 2021
+Giri, Anish	2776	Nepomniachtchi, Ian	2789	0-1	Mon Mar 15 2021
+Mamedyarov, Shakhriyar	2770	Nepomniachtchi, Ian	2789	0-1	Mon Mar 15 2021
+Nakamura, Hikaru	2736	Nepomniachtchi, Ian	2789	0-1	Wed Mar 17 2021
+Carlsen, Magnus	2847	Nepomniachtchi, Ian	2789	0-1	Thu Mar 18 2021
+Carlsen, Magnus	2847	Nepomniachtchi, Ian	2789	0-1	Fri Mar 19 2021
+Wang, Hao	2763	Nepomniachtchi, Ian	2789	0-1	Sat Apr 24 2021
+Grischuk, Alexander	2784	Nepomniachtchi, Ian	2778	0-1	Tue May 25 2021
+Vachier-Lagrave, Maxime	2822	Nepomniachtchi, Ian	2785	0-1	2021.06.22
+Kramnik, Vladimir	2797	Nepomniachtchi, Ian	2785	0-1	2021.06.21
+Radjabov, Teimour	2757	Nepomniachtchi, Ian	2785	0-1	2021.06.21
+Kasparov, Garry	2801	Nepomniachtchi, Ian	2807	0-1	2021.07.10
+Korobov, Anton	2668	Nepomniachtchi, Ian	2807	0-1	2021.07.11
+Giri, Anish	2744	Nepomniachtchi, Ian	2807	1-0	2021.07.11
+Anand, Viswanathan	2785	Nepomniachtchi, Ian	2807	1-0	2021.07.11
+Duda, Jan-Krzysztof	2799	Nepomniachtchi, Ian	2807	1-0	2021.07.11
+Alekseenko, Kirill	2580	Nepomniachtchi, Ian	2776	0-1	2021.08.16
+Matlakov, Maxim	2760	Nepomniachtchi, Ian	2776	1-0	2021.08.16
+Carlsen, Magnus	2855	Nepomniachtchi, Ian	2792	1-0	2021.09.10
+Karjakin, Sergey	2758	Nepomniachtchi, Ian	2792	1-0	2021.09.13
+Firouzja, Alireza	2754	Nepomniachtchi, Ian	2792	1-0	2021.09.14
+Carlsen, Magnus	2856	Nepomniachtchi, Ian	2782	1-0	2021.12.05
+Carlsen, Magnus	2855	Nepomniachtchi, Ian	2782	1-0	2021.12.03
+Dubov, Daniil	2710	Nepomniachtchi, Ian	2789	1/2-1/2	Sat Feb 06 2021
+Vachier-Lagrave, Maxime	2784	Nepomniachtchi, Ian	2789	1/2-1/2	Sun Feb 07 2021
+Vidit, Santosh Gujrathi	2726	Nepomniachtchi, Ian	2789	1/2-1/2	Sun Feb 07 2021
+Shankland, Sam	2691	Nepomniachtchi, Ian	2789	1/2-1/2	Mon Feb 08 2021
+Firouzja, Alireza	2759	Nepomniachtchi, Ian	2789	1/2-1/2	Sun Mar 14 2021
+Radjabov, Teimour	2765	Nepomniachtchi, Ian	2789	1/2-1/2	Mon Mar 15 2021
+Nakamura, Hikaru	2736	Nepomniachtchi, Ian	2789	1/2-1/2	Tue Mar 16 2021
+Carlsen, Magnus	2847	Nepomniachtchi, Ian	2789	1/2-1/2	Thu Mar 18 2021
+Giri, Anish	2776	Nepomniachtchi, Ian	2789	1/2-1/2	Sat Mar 20 2021
+Giri, Anish	2776	Nepomniachtchi, Ian	2789	1/2-1/2	Sat Mar 20 2021
+Giri, Anish	2776	Nepomniachtchi, Ian	2789	1/2-1/2	Sat Mar 20 2021
+Grischuk, Alexander	2777	Nepomniachtchi, Ian	2789	1/2-1/2	Tue Apr 20 2021
+Carlsen, Magnus	2847	Nepomniachtchi, Ian	2792	1/2-1/2	Sun May 23 2021
+Firouzja, Alireza	2759	Nepomniachtchi, Ian	2792	1/2-1/2	Sun May 23 2021
+Giri, Anish	2731	Nepomniachtchi, Ian	2778	1/2-1/2	Tue May 25 2021
+Mamedyarov, Shakhriyar	2770	Nepomniachtchi, Ian	2792	1/2-1/2	Mon May 24 2021
+Caruana, Fabiano	2773	Nepomniachtchi, Ian	2778	1/2-1/2	Thu May 27 2021
+Caruana, Fabiano	2773	Nepomniachtchi, Ian	2778	1/2-1/2	Thu May 27 2021
+Caruana, Fabiano	2711	Nepomniachtchi, Ian	2785	1/2-1/2	Thu May 27 2021
+Caruana, Fabiano	2773	Nepomniachtchi, Ian	2778	1/2-1/2	Wed May 26 2021
+So, Wesley	2741	Nepomniachtchi, Ian	2778	1/2-1/2	Fri May 28 2021
+Lagno, Kateryna	2608	Nepomniachtchi, Ian	2776	0-1	2021.08.16
+Sjugirov, Sanan	2472	Nepomniachtchi, Ian	2776	0-1	2021.08.16
+Tari, Aryan	2642	Nepomniachtchi, Ian	2792	0-1	2021.09.09
+Rapport, Richard	2760	Nepomniachtchi, Ian	2792	0-1	2021.09.16
+So, Wesley	2741	Nepomniachtchi, Ian	2778	1/2-1/2	Fri May 28 2021
+Radjabov, Teimour	2758	Nepomniachtchi, Ian	2778	1/2-1/2	Sun May 30 2021
+Radjabov, Teimour	2758	Nepomniachtchi, Ian	2778	1/2-1/2	Mon May 31 2021
+Caruana, Fabiano	2773	Nepomniachtchi, Ian	2778	1/2-1/2	2021.06.18
+Rapport, Richard	2727	Nepomniachtchi, Ian	2778	1/2-1/2	2021.06.18
+So, Wesley	2741	Nepomniachtchi, Ian	2778	1/2-1/2	2021.06.19
+Svidler, Peter	2742	Nepomniachtchi, Ian	2778	1/2-1/2	2021.06.20
+Rapport, Richard	2759	Nepomniachtchi, Ian	2785	1/2-1/2	2021.06.22
+Caruana, Fabiano	2711	Nepomniachtchi, Ian	2785	1/2-1/2	2021.06.22
+Aronian, Levon	2739	Nepomniachtchi, Ian	2785	1/2-1/2	2021.06.22
+Svidler, Peter	2754	Nepomniachtchi, Ian	2785	1/2-1/2	2021.06.21
+So, Wesley	2816	Nepomniachtchi, Ian	2785	1/2-1/2	2021.06.21
+Duda, Jan-Krzysztof	2774	Nepomniachtchi, Ian	2791	1/2-1/2	2021.07.08
+Anand, Viswanathan	2751	Nepomniachtchi, Ian	2791	1/2-1/2	2021.07.07
+Giri, Anish	2731	Nepomniachtchi, Ian	2791	1/2-1/2	2021.07.09
+Vachier-Lagrave, Maxime	2831	Nepomniachtchi, Ian	2791	1/2-1/2	2021.07.09
+Grischuk, Alexander	2765	Nepomniachtchi, Ian	2807	1/2-1/2	2021.07.10
+Van Foreest, Jorden	2622	Nepomniachtchi, Ian	2807	1/2-1/2	2021.07.11
+Kobalia, Mikhail	2569	Nepomniachtchi, Ian	2776	1/2-1/2	2021.08.16
+Grischuk, Alexander	2777	Nepomniachtchi, Ian	2776	1/2-1/2	2021.08.16
+Artemiev, Vladislav	2783	Nepomniachtchi, Ian	2776	1/2-1/2	2021.08.16
+Tari, Aryan	2642	Nepomniachtchi, Ian	2792	1/2-1/2	2021.09.09
+Carlsen, Magnus	2855	Nepomniachtchi, Ian	2792	1/2-1/2	2021.09.10
+Karjakin, Sergey	2758	Nepomniachtchi, Ian	2792	1/2-1/2	2021.09.13
+Rapport, Richard	2760	Nepomniachtchi, Ian	2792	1/2-1/2	2021.09.16
+Nepomniachtchi,I	2774	Petrosian,TL	2601	1-0	2020.01.06
+Nepomniachtchi,I	2774	Andriasian,Z	2611	1-0	2020.01.06
+Nepomniachtchi, Ian	2707	Grischuk, Alexander	2747	1/2-1/2	Wed Mar 18 2020
+Nepomniachtchi, Ian	2707	Wang, Hao	2707	1-0	Sun Mar 22 2020
+Nepomniachtchi, Ian	2784	Artemiev, Vladislav	2716	1/2-1/2	Mon Dec 07 2020
+Nepomniachtchi, Ian	2784	Matlakov, Maxim	2685	1-0	Sat Dec 05 2020
+Nepomniachtchi, Ian	2784	Vitiugov, Nikita	2722	1/2-1/2	Wed Dec 09 2020
+Nepomniachtchi, Ian	2784	Radjabov, Teimour	2765	1-0	Wed Dec 30 2020
+Nepomniachtchi, Ian	2784	Radjabov, Teimour	2765	0-1	Wed Dec 30 2020
+Nepomniachtchi, Ian	2784	Radjabov, Teimour	2765	1/2-1/2	Wed Dec 30 2020
+Nepomniachtchi, Ian	2784	Radjabov, Teimour	2765	1/2-1/2	Tue Dec 29 2020
+Nepomniachtchi, Ian	2784	Radjabov, Teimour	2765	1/2-1/2	Wed Dec 30 2020
+Nepomniachtchi, Ian	2784	Fedoseev, Vladimir	2674	1/2-1/2	Sun Dec 13 2020
+Nepomniachtchi, Ian	2784	Karjakin, Sergey	2752	1-0	Sat Dec 12 2020
+Nepomniachtchi, Ian	2784	Radjabov, Teimour	2765	1/2-1/2	Tue Dec 29 2020
+Nepomniachtchi, Ian	2784	Esipenko, Andrey	2682	1-0	Tue Dec 15 2020
+Nepomniachtchi, Ian	2784	Dubov, Daniil	2699	1-0	Mon Dec 28 2020
+Nepomniachtchi, Ian	2784	Carlsen, Magnus	2863	1/2-1/2	Mon Dec 28 2020
+Nepomniachtchi, Ian	2784	Grischuk, Alexander	2777	0-1	Sat Dec 26 2020
+Nepomniachtchi, Ian	2784	Aronian, Levon	2767	1/2-1/2	Sun Dec 27 2020
+Nepomniachtchi, Ian	2784	Radjabov, Teimour	2765	1/2-1/2	Sun Dec 27 2020
+Nepomniachtchi, Ian	2789	Ding, Liren	2791	1-0	Mon Mar 23 2020
+Carlsen, Magnus	2855	Nepomniachtchi, Ian	2782	1/2-1/2	2021.11.27
+Carlsen, Magnus	2855	Nepomniachtchi, Ian	2782	1/2-1/2	2021.11.30
+Carlsen, Magnus	2856	Nepomniachtchi, Ian	2782	1/2-1/2	2021.12.08
+Nepomniachtchi, Ian	0	Anand, Viswanathan	0	1-0	Fri Nov 22 2019
+Nepomniachtchi, Ian	0	Vidit, Santosh Gujrathi	0	1-0	Sun Nov 24 2019
+Nepomniachtchi, Ian	0	Giri, Anish	0	1-0	Mon Nov 25 2019
+Nepomniachtchi, Ian	0	Aronian, Levon	0	1-0	Mon Nov 25 2019
+Sargsyan,Shant	2601	Nepomniachtchi,I	2774	1-0	2020.01.06
+Martirosyan,Haik M.	2613	Nepomniachtchi,I	2774	0-1	2020.01.06
+Giri, Anish	2784	Nepomniachtchi, Ian	2707	0-1	Tue Mar 17 2020
+Alekseenko, Kirill	2568	Nepomniachtchi, Ian	2707	1/2-1/2	Thu Mar 19 2020
+Caruana, Fabiano	2787	Nepomniachtchi, Ian	2707	1/2-1/2	Sat Mar 21 2020
+Antipov, Mikhail Al.	2591	Nepomniachtchi, Ian	2784	0-1	Tue Dec 08 2020
+Svidler, Peter	2723	Nepomniachtchi, Ian	2784	1/2-1/2	Sun Dec 06 2020
+Goganov, Aleksey	2573	Nepomniachtchi, Ian	2784	0-1	Thu Dec 10 2020
+Radjabov, Teimour	2765	Nepomniachtchi, Ian	2784	0-1	Wed Dec 30 2020
+Radjabov, Teimour	2765	Nepomniachtchi, Ian	2784	1/2-1/2	Tue Dec 29 2020
+Dubov, Daniil	2699	Nepomniachtchi, Ian	2784	1-0	Mon Dec 14 2020
+Radjabov, Teimour	2765	Nepomniachtchi, Ian	2784	1-0	Wed Dec 30 2020
+Radjabov, Teimour	2765	Nepomniachtchi, Ian	2784	1/2-1/2	Wed Dec 30 2020
+Radjabov, Teimour	2765	Nepomniachtchi, Ian	2784	1/2-1/2	Tue Dec 29 2020
+Harikrishna, Pentala	2732	Nepomniachtchi, Ian	2784	1/2-1/2	Sun Dec 27 2020
+Anton Guijarro, David	2681	Nepomniachtchi, Ian	2784	1/2-1/2	Mon Dec 28 2020
+Giri, Anish	2764	Nepomniachtchi, Ian	2784	1/2-1/2	Sat Dec 26 2020
+Nakamura, Hikaru	2736	Nepomniachtchi, Ian	2784	1/2-1/2	Sat Dec 26 2020
+Vachier-Lagrave, Maxime	2784	Nepomniachtchi, Ian	2784	0-1	Sat Dec 26 2020
+So, Wesley	2770	Nepomniachtchi, Ian	2784	1/2-1/2	Sun Dec 27 2020
+Vachier-Lagrave, Maxime	2784	Nepomniachtchi, Ian	2789	1-0	Wed Mar 25 2020
+Nepomniachtchi, Ian	0	Anand, Viswanathan	0	1-0	Tue Nov 26 2019
+Nepomniachtchi, Ian	0	Harikrishna, P.	0	1-0	Tue Nov 26 2019
+Nepomniachtchi, Ian	0	Gelfand, Boris	0	1-0	Fri Dec 13 2019
+Nepomniachtchi, Ian	0	So, Wesley	0	1-0	Mon Dec 16 2019
+Nepomniachtchi, Ian	0	Vachier-Lagrave, Maxime	0	1-0	Tue Dec 17 2019
+Nepomniachtchi, Ian	0	Melkumyan, Hrant	0	1-0	Fri Dec 27 2019
+Nepomniachtchi, Ian	0	Ganguly, Surya Shekhar	0	1-0	Thu Dec 26 2019
+Nepomniachtchi, Ian	0	Postny, Evgeny	0	1-0	Fri Dec 27 2019
+Nepomniachtchi, Ian	0	Popov, Ivan	0	1-0	Sun Dec 29 2019
+Nepomniachtchi, Ian	0	Smirin, Ilia	0	1-0	Sun Dec 29 2019
+Nepomniachtchi, Ian	0	Can, Emre	0	1-0	Sun Dec 29 2019
+Nepomniachtchi, Ian	0	Firouzja, Alireza	0	1-0	Sun Dec 29 2019
+Nepomniachtchi, Ian	0	Tomashevsky, Evgeny	0	1-0	Sun Dec 29 2019
+Nepomniachtchi, Ian	0	Grigoriants, Sergey	0	1-0	Mon Dec 30 2019
+Nepomniachtchi, Ian	0	Grachev, Boris	0	1-0	Mon Dec 30 2019
+Nepomniachtchi,I	2763	Kramnik,V	2777	1-0	2019.01.12
+Nepomniachtchi,I	2763	Vidit,S	2695	1-0	2019.01.12
+Nepomniachtchi,I	2763	Fedoseev,Vl3	2724	1-0	2019.01.12
+Nepomniachtchi,I	2771	Yu Yangyi	2761	1-0	2019.03.05
+Nepomniachtchi,I	2773	Amin,B	2704	1-0	2019.05.08
+Nepomniachtchi,I	2773	Ding Liren	2805	1-0	2019.05.11
+Nepomniachtchi,I	2773	Amin,B	2704	1-0	2019.05.11
+Nepomniachtchi,I	2773	Aronian,L	2762	1-0	2019.05.17
+Nepomniachtchi,I	2773	Wojtaszek,R	2724	1-0	2019.05.17
+Nepomniachtchi,I	2773	Wei Yi	2736	1-0	2019.05.17
+Nepomniachtchi,I	2773	Grischuk,A	2772	1-0	2019.05.17
+Nepomniachtchi,I	2775	Inarkiev,E	2693	1-0	2019.06.10
+Nepomniachtchi,I	2775	Caruana,F	2819	1-0	2019.06.26
+Nepomniachtchi,I	2775	Kulaots,K	2560	1-0	2019.07.13
+Nepomniachtchi,I	2775	Nisipeanu,LD	2672	1-0	2019.07.13
+Nepomniachtchi,I	2775	Duda,J	2729	1-0	2019.07.27
+Nepomniachtchi,I	2775	Dubov,Daniil	2700	1-0	2019.07.31
+Nepomniachtchi,I	2775	Caruana,F	2819	1-0	2019.07.31
+Nepomniachtchi,I	2775	Vachier Lagrave,M	2775	1-0	2019.07.31
+Nepomniachtchi,I	2774	Gelfand,B	2686	1-0	2019.08.03
+Nepomniachtchi,I	2774	Anand,V	2756	1-0	2019.08.04
+Nepomniachtchi,I	2774	Bareev,E	2643	1-0	2019.08.04
+Nepomniachtchi,I	2774	Nakamura,Hi	2743	1-0	2019.08.17
+Nepomniachtchi,I	2774	Aronian,L	2765	1-0	2019.08.17
+Nepomniachtchi,I	2776	Danielian,E	2385	1-0	2019.09.02
+Nepomniachtchi,I	2776	Danielian,E	2385	1-0	2019.09.02
+Nepomniachtchi,I	2776	Danielian,E	2385	1-0	2019.09.02
+Nepomniachtchi,I	2776	Danielian,E	2385	1-0	2019.09.02
+Nepomniachtchi,I	2776	Danielian,E	2385	1-0	2019.09.02
+Nepomniachtchi,I	2776	Danielian,E	2385	1-0	2019.09.02
+Nepomniachtchi,I	2776	Danielian,E	2385	1-0	2019.09.02
+Nepomniachtchi,I	2776	Danielian,E	2385	1-0	2019.09.02
+Nepomniachtchi,I	2776	Danielian,E	2385	1-0	2019.09.02
+Nepomniachtchi,I	2776	Danielian,E	2385	1-0	2019.09.02
+Nepomniachtchi,I	2776	Danielian,E	2385	1-0	2019.09.02
+Nepomniachtchi, Ian	0	Giri, Anish	0	0-1	Fri Nov 22 2019
+Nepomniachtchi, Ian	0	Carlsen, Magnus	0	0-1	Mon Nov 25 2019
+Nepomniachtchi, Ian	0	Ding, Liren	0	0-1	Sat Nov 23 2019
+Nepomniachtchi, Ian	0	Nakamura, Hikaru	0	0-1	Tue Nov 26 2019
+Nepomniachtchi, Ian	0	Ding, Liren	0	0-1	Tue Nov 26 2019
+Nepomniachtchi, Ian	0	Kramnik, Vladimir	0	0-1	Mon Dec 30 2019
+Nepomniachtchi,I	2776	Danielian,E	2385	1-0	2019.09.02
+Nepomniachtchi,I	2776	Danielian,E	2385	1-0	2019.09.02
+Nepomniachtchi,I	2776	Danielian,E	2385	1-0	2019.09.02
+Nepomniachtchi,I	2776	Gan-Erdene,Sugar	2407	1-0	2019.09.10
+Nepomniachtchi,I	2776	Tomashevsky,E	2718	1-0	2019.09.10
+Nepomniachtchi,I	2776	Tomashevsky,E	2718	1-0	2019.09.10
+Nepomniachtchi,I	2776	Ding Liren	2811	1-0	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1-0	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1-0	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1-0	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1-0	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1-0	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1-0	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	1-0	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	1-0	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	1-0	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	1-0	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	1-0	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	1-0	2019.09.02
+Nepomniachtchi, Ian	0	Aronian, Levon	0	1/2-1/2	Sun Nov 24 2019
+Nepomniachtchi, Ian	0	So, Wesley	0	1/2-1/2	Mon Nov 25 2019
+Nepomniachtchi, Ian	0	Vidit, Santosh Gujrathi	0	1/2-1/2	Tue Nov 26 2019
+Nepomniachtchi, Ian	0	Yu, Yangyi	0	0-1	Sat Dec 28 2019
+Nepomniachtchi,I	2773	Carlsen,M	2861	0-1	2019.05.08
+Nepomniachtchi,I	2773	Nakamura,Hi	2761	0-1	2019.05.08
+Nepomniachtchi,I	2775	Karjakin,Sergey	2748	0-1	2019.06.10
+Nepomniachtchi,I	2775	Karjakin,Sergey	2748	0-1	2019.06.10
+Nepomniachtchi,I	2775	Carlsen,M	2875	0-1	2019.06.26
+Nepomniachtchi,I	2775	Giri,A	2779	0-1	2019.06.26
+Nepomniachtchi,I	2775	Grischuk,A	2766	0-1	2019.07.27
+Nepomniachtchi,I	2775	Mamedyarov,S	2765	0-1	2019.07.31
+Nepomniachtchi,I	2775	Anand,V	2764	0-1	2019.07.31
+Nepomniachtchi,I	2774	Grischuk,A	2759	0-1	2019.08.03
+Nepomniachtchi,I	2774	Anand,V	2756	0-1	2019.08.17
+Nepomniachtchi,I	2774	Vachier Lagrave,M	2778	0-1	2019.08.17
+Nepomniachtchi,I	2776	Ding Liren	2811	0-1	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	0-1	2019.09.02
+Nepomniachtchi,I	2767	Matlakov,M	2699	0-1	2019.12.01
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	0-1	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	0-1	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	0-1	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	0-1	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	0-1	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	0-1	2019.09.02
+Nepomniachtchi, Ian	2766	Caruana, Fabiano	2783	1/2-1/2	2022.06.18
+Nepomniachtchi, Ian	2766	Ding, Liren	2806	1/2-1/2	2022.06.26
+Nepomniachtchi, Ian	2766	Radjabov, Teimour	2753	1/2-1/2	2022.06.29
+Nepomniachtchi, Ian	2740	Paravyan, David	2569	1/2-1/2	2022.03.05
+Nepomniachtchi, Ian	2740	Abdusattorov, Nodirbek	2663	1/2-1/2	2022.04.30
+Nepomniachtchi, Ian	2740	Xiong, Jeffery	2727	1/2-1/2	2022.04.23
+Nepomniachtchi, Ian	2740	Nakamura, Hikaru	2850	0-1	2022.04.23
+Nepomniachtchi, Ian	2740	Nakamura, Hikaru	2850	1/2-1/2	2022.04.30
+Nepomniachtchi, Ian	2740	Giri, Anish	2766	0-1	2022.02.12
+Nepomniachtchi, Ian	2791	Yoo, Christopher Woojin	2105	1/2-1/2	2022.08.06
+Nepomniachtchi, Ian	2791	Niemann, Hans Moke	2632	0-1	2022.08.06
+Nepomniachtchi, Ian	2791	So, Wesley	2763	1/2-1/2	2022.08.13
+Nepomniachtchi, Ian	2791	So, Wesley	2763	1/2-1/2	2022.08.14
+Nepomniachtchi, Ian	2795	So, Wesley	2784	1/2-1/2	2022.08.14
+Nepomniachtchi, Ian	2795	Caruana, Fabiano	2766	1/2-1/2	2022.08.18
+Nepomniachtchi, Ian	2795	Fedoseev, Vladimir	2739	1/2-1/2	2022.08.19
+Nepomniachtchi, Ian	2795	Vachier-Lagrave, Maxime	2763	1/2-1/2	2022.08.26
+Nepomniachtchi, Ian	2795	Nakamura, Hikaru	2837	1/2-1/2	2022.08.27
+Nepomniachtchi, Ian	2795	Shankland, Sam	2616	0-1	2022.08.28
+Nepomniachtchi, Ian	2791	Vachier-Lagrave, Maxime	2812	1/2-1/2	2022.08.29
+Nepomniachtchi, Ian	2791	Shankland, Sam	2645	1/2-1/2	2022.08.29
+Nepomniachtchi, Ian	2791	Aronian, Levon	2850	0-1	2022.08.29
+Nepomniachtchi, Ian	2791	Firouzja, Alireza	2795	1/2-1/2	2022.08.30
+Nepomniachtchi, Ian	2791	Dominguez Perez, Leinier	2708	0-1	2022.08.30
+Nepomniachtchi, Ian	2791	Nakamura, Hikaru	2850	0-1	2022.08.30
+Nepomniachtchi, Ian	0	Gelfand, Boris	0	1/2-1/2	Wed Dec 11 2019
+Nepomniachtchi, Ian	0	So, Wesley	0	1/2-1/2	Sun Dec 15 2019
+Nepomniachtchi, Ian	0	Wei, Yi	0	1/2-1/2	Sun Dec 22 2019
+Nepomniachtchi, Ian	0	Riazantsev, Alexander	0	1/2-1/2	Thu Dec 26 2019
+Nepomniachtchi, Ian	0	Sakaev, Konstantin	0	1/2-1/2	Sun Dec 29 2019
+Nepomniachtchi, Ian	0	Dubov, Daniil	0	1/2-1/2	Mon Dec 30 2019
+Nepomniachtchi, Ian	0	Grischuk, Alexander	0	1/2-1/2	Sat Dec 28 2019
+Nepomniachtchi, Ian	0	Dominguez Perez, Leinier	0	1/2-1/2	Fri Dec 27 2019
+Nepomniachtchi, Ian	0	Dubov, Daniil	0	1/2-1/2	Sat Dec 28 2019
+Nepomniachtchi, Ian	0	Sarana, Alexey	0	1/2-1/2	Mon Dec 30 2019
+Nepomniachtchi,I	2763	Rapport,R	2731	1/2-1/2	2019.01.12
+Nepomniachtchi,I	2763	Duda,J	2738	1/2-1/2	2019.01.12
+Nepomniachtchi,I	2763	Radjabov,T	2757	1/2-1/2	2019.01.12
+Nepomniachtchi,I	2771	Idani,P	2604	1/2-1/2	2019.03.05
+Nepomniachtchi,I	2771	Adams,Mi	2708	1/2-1/2	2019.03.05
+Nepomniachtchi,I	2773	Wei Yi	2736	1/2-1/2	2019.05.08
+Nepomniachtchi,I	2773	Topalov,V	2740	1/2-1/2	2019.05.11
+Nepomniachtchi,I	2773	So,W	2754	1/2-1/2	2019.05.11
+Nepomniachtchi,I	2773	Nakamura,Hi	2761	1/2-1/2	2019.05.11
+Nepomniachtchi,I	2773	Vachier Lagrave,M	2780	1/2-1/2	2019.05.11
+Nepomniachtchi,I	2773	Karjakin,Sergey	2752	1/2-1/2	2019.05.11
+Nepomniachtchi,I	2773	Wei Yi	2736	1/2-1/2	2019.05.11
+Nepomniachtchi,I	2773	Carlsen,M	2861	1/2-1/2	2019.05.11
+Nepomniachtchi,I	2773	Wei Yi	2736	1/2-1/2	2019.05.17
+Nepomniachtchi,I	2773	Wojtaszek,R	2724	1/2-1/2	2019.05.17
+Nepomniachtchi,I	2773	Wojtaszek,R	2724	1/2-1/2	2019.05.17
+Nepomniachtchi,I	2773	Grischuk,A	2772	1/2-1/2	2019.05.17
+Nepomniachtchi,I	2775	Kramnik,V	2753	1/2-1/2	2019.06.10
+Nepomniachtchi,I	2775	Karjakin,Sergey	2748	1/2-1/2	2019.06.10
+Nepomniachtchi,I	2775	Karjakin,Sergey	2748	1/2-1/2	2019.06.10
+Nepomniachtchi,I	2775	Karjakin,Sergey	2748	1/2-1/2	2019.06.26
+Nepomniachtchi,I	2775	So,W	2754	1/2-1/2	2019.06.26
+Nepomniachtchi,I	2775	Wojtaszek,R	2737	1/2-1/2	2019.07.13
+Nepomniachtchi,I	2775	Dubov,Daniil	2700	1/2-1/2	2019.07.27
+Nepomniachtchi,I	2775	Giri,A	2779	1/2-1/2	2019.07.27
+Nepomniachtchi,I	2775	Duda,J	2729	1/2-1/2	2019.07.31
+Nepomniachtchi,I	2775	Grischuk,A	2766	1/2-1/2	2019.07.31
+Nepomniachtchi,I	2775	Nakamura,Hi	2754	1/2-1/2	2019.07.31
+Nepomniachtchi,I	2775	Giri,A	2779	1/2-1/2	2019.07.31
+Nepomniachtchi,I	2774	Bareev,E	2643	1/2-1/2	2019.08.03
+Nepomniachtchi,I	2774	Svidler,P	2729	1/2-1/2	2019.08.04
+Nepomniachtchi,I	2774	Mamedyarov,S	2764	1/2-1/2	2019.08.17
+Nepomniachtchi,I	2774	Ding Liren	2805	1/2-1/2	2019.08.17
+Nepomniachtchi,I	2776	Danielian,E	2385	1/2-1/2	2019.09.02
+Nepomniachtchi,I	2776	Predke,A	2657	1/2-1/2	2019.09.10
+Nepomniachtchi,I	2776	Yu Yangyi	2763	1/2-1/2	2019.09.10
+Nepomniachtchi,I	2776	Tomashevsky,E	2718	1/2-1/2	2019.09.10
+Nepomniachtchi,I	2776	Tomashevsky,E	2718	1/2-1/2	2019.09.10
+Nepomniachtchi,I	2773	Duda,J	2748	1/2-1/2	2019.11.05
+Nepomniachtchi,I	2776	Ding Liren	2811	1/2-1/2	2019.09.02
+Carlsen, Magnus	0	Nepomniachtchi, Ian	0	1-0	Fri Nov 22 2019
+Harikrishna, P.	0	Nepomniachtchi, Ian	0	1-0	Sat Nov 23 2019
+Harikrishna, P.	0	Nepomniachtchi, Ian	0	1-0	Mon Nov 25 2019
+Socko, Bartosz	0	Nepomniachtchi, Ian	0	1-0	Sun Dec 29 2019
+Ponkratov, Pavel	0	Nepomniachtchi, Ian	0	1-0	Sun Dec 29 2019
+Nihal, Sarin	0	Nepomniachtchi, Ian	0	1-0	Mon Dec 30 2019
+Mamedov, Rauf	0	Nepomniachtchi, Ian	0	1-0	Mon Dec 30 2019
+Van Foreest,Jorden	2612	Nepomniachtchi,I	2763	1-0	2019.01.12
+Shankland,S	2725	Nepomniachtchi,I	2763	1-0	2019.01.12
+Ding Liren	2805	Nepomniachtchi,I	2773	1-0	2019.05.08
+So,W	2754	Nepomniachtchi,I	2773	1-0	2019.05.08
+Vachier Lagrave,M	2780	Nepomniachtchi,I	2773	1-0	2019.05.08
+Karjakin,Sergey	2752	Nepomniachtchi,I	2773	1-0	2019.05.11
+Nakamura,Hi	2761	Nepomniachtchi,I	2773	1-0	2019.05.11
+Vachier Lagrave,M	2780	Nepomniachtchi,I	2773	1-0	2019.05.11
+Nepomniachtchi,I	2776	Ding Liren	2811	1/2-1/2	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1/2-1/2	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1/2-1/2	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1/2-1/2	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1/2-1/2	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1/2-1/2	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	1/2-1/2	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	1/2-1/2	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	1/2-1/2	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	1/2-1/2	2019.09.02
+Karjakin,Sergey	2748	Nepomniachtchi,I	2775	1-0	2019.06.10
+Ding Liren	2805	Nepomniachtchi,I	2775	1-0	2019.06.26
+Rapport,R	2735	Nepomniachtchi,I	2775	1-0	2019.07.13
+Dominguez Perez,L	2760	Nepomniachtchi,I	2775	1-0	2019.07.13
+Anand,V	2764	Nepomniachtchi,I	2775	1-0	2019.07.27
+Mamedyarov,S	2765	Nepomniachtchi,I	2775	1-0	2019.07.27
+Duda,J	2729	Nepomniachtchi,I	2775	1-0	2019.07.31
+Grischuk,A	2766	Nepomniachtchi,I	2775	1-0	2019.07.31
+Anand,V	2756	Nepomniachtchi,I	2774	1-0	2019.08.03
+Giri,A	2779	Nepomniachtchi,I	2774	1-0	2019.08.04
+Giri,A	2779	Nepomniachtchi,I	2774	1-0	2019.08.17
+Danielian,E	2385	Nepomniachtchi,I	2776	1-0	2019.09.02
+Yu Yangyi	2763	Nepomniachtchi,I	2776	1-0	2019.09.10
+Tomashevsky,E	2718	Nepomniachtchi,I	2776	1-0	2019.09.10
+Duda,J	2748	Nepomniachtchi,I	2773	1-0	2019.11.05
+Ding Liren	2811	Nepomniachtchi,I	2776	1-0	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	1-0	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	1-0	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1-0	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1-0	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1-0	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1-0	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1-0	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1-0	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1-0	2019.09.02
+Vidit, Santosh Gujrathi	0	Nepomniachtchi, Ian	0	0-1	Mon Nov 25 2019
+Anand, Viswanathan	0	Nepomniachtchi, Ian	0	0-1	Mon Nov 25 2019
+Gelfand, Boris	0	Nepomniachtchi, Ian	0	0-1	Fri Dec 13 2019
+Wei, Yi	0	Nepomniachtchi, Ian	0	0-1	Sat Dec 21 2019
+Geller, Jakov	0	Nepomniachtchi, Ian	0	0-1	Thu Dec 26 2019
+Pigusov, Evgeny	0	Nepomniachtchi, Ian	0	0-1	Sun Dec 29 2019
+Sargissian, Gabriel	0	Nepomniachtchi, Ian	0	0-1	Sun Dec 29 2019
+Petrosian, Tigran L.	0	Nepomniachtchi, Ian	0	0-1	Sun Dec 29 2019
+Giri,A	2783	Nepomniachtchi,I	2763	0-1	2019.01.12
+Mamedov,Rau	2701	Nepomniachtchi,I	2771	0-1	2019.03.05
+Ding Liren	2805	Nepomniachtchi,I	2773	0-1	2019.05.11
+Wei Yi	2736	Nepomniachtchi,I	2773	0-1	2019.05.11
+Amin,B	2704	Nepomniachtchi,I	2773	0-1	2019.05.11
+Topalov,V	2740	Nepomniachtchi,I	2773	0-1	2019.05.11
+Kramnik,V	2753	Nepomniachtchi,I	2775	0-1	2019.06.10
+Karjakin,Sergey	2748	Nepomniachtchi,I	2775	0-1	2019.06.10
+Anand,V	2767	Nepomniachtchi,I	2775	0-1	2019.06.26
+Mamedyarov,S	2774	Nepomniachtchi,I	2775	0-1	2019.06.26
+Fridman,D	2638	Nepomniachtchi,I	2775	0-1	2019.07.13
+Vachier Lagrave,M	2775	Nepomniachtchi,I	2775	0-1	2019.07.27
+Caruana,F	2819	Nepomniachtchi,I	2775	0-1	2019.07.27
+Nakamura,Hi	2754	Nepomniachtchi,I	2775	0-1	2019.07.27
+Caruana,F	2819	Nepomniachtchi,I	2775	0-1	2019.07.31
+Giri,A	2779	Nepomniachtchi,I	2775	0-1	2019.07.31
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1-0	2019.09.02
+Mamedyarov,S	2765	Nepomniachtchi,I	2775	0-1	2019.07.31
+Svidler,P	2729	Nepomniachtchi,I	2774	0-1	2019.08.03
+Grischuk,A	2759	Nepomniachtchi,I	2774	0-1	2019.08.04
+Kramnik,V	2753	Nepomniachtchi,I	2774	0-1	2019.08.04
+So,W	2776	Nepomniachtchi,I	2774	0-1	2019.08.17
+Danielian,E	2385	Nepomniachtchi,I	2776	0-1	2019.09.02
+Danielian,E	2385	Nepomniachtchi,I	2776	0-1	2019.09.02
+Danielian,E	2385	Nepomniachtchi,I	2776	0-1	2019.09.02
+Danielian,E	2385	Nepomniachtchi,I	2776	0-1	2019.09.02
+Danielian,E	2385	Nepomniachtchi,I	2776	0-1	2019.09.02
+Danielian,E	2385	Nepomniachtchi,I	2776	0-1	2019.09.02
+Danielian,E	2385	Nepomniachtchi,I	2776	0-1	2019.09.02
+Danielian,E	2385	Nepomniachtchi,I	2776	0-1	2019.09.02
+Danielian,E	2385	Nepomniachtchi,I	2776	0-1	2019.09.02
+Danielian,E	2385	Nepomniachtchi,I	2776	0-1	2019.09.02
+Danielian,E	2385	Nepomniachtchi,I	2776	0-1	2019.09.02
+Danielian,E	2385	Nepomniachtchi,I	2776	0-1	2019.09.02
+Predke,A	2657	Nepomniachtchi,I	2776	0-1	2019.09.10
+Gan-Erdene,Sugar	2407	Nepomniachtchi,I	2776	0-1	2019.09.10
+Tomashevsky,E	2718	Nepomniachtchi,I	2776	0-1	2019.09.10
+Ding Liren	2811	Nepomniachtchi,I	2776	0-1	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	0-1	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	0-1	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	0-1	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	0-1	2019.09.02
+So, Wesley	0	Nepomniachtchi, Ian	0	1/2-1/2	Sat Nov 23 2019
+Nakamura, Hikaru	0	Nepomniachtchi, Ian	0	1/2-1/2	Sun Nov 24 2019
+Nakamura, Hikaru	0	Nepomniachtchi, Ian	0	1/2-1/2	Mon Nov 25 2019
+Ding, Liren	0	Nepomniachtchi, Ian	0	1/2-1/2	Mon Nov 25 2019
+So, Wesley	0	Nepomniachtchi, Ian	0	1/2-1/2	Tue Nov 26 2019
+Giri, Anish	0	Nepomniachtchi, Ian	0	1/2-1/2	Tue Nov 26 2019
+Carlsen, Magnus	0	Nepomniachtchi, Ian	0	1/2-1/2	Tue Nov 26 2019
+Aronian, Levon	0	Nepomniachtchi, Ian	0	1/2-1/2	Tue Nov 26 2019
+Gelfand, Boris	0	Nepomniachtchi, Ian	0	1/2-1/2	Thu Dec 12 2019
+So, Wesley	0	Nepomniachtchi, Ian	0	1/2-1/2	Sat Dec 14 2019
+So, Wesley	0	Nepomniachtchi, Ian	0	1/2-1/2	Mon Dec 16 2019
+Vachier-Lagrave, Maxime	0	Nepomniachtchi, Ian	0	1/2-1/2	Wed Dec 18 2019
+Guseinov, Gadir	0	Nepomniachtchi, Ian	0	1/2-1/2	Fri Dec 27 2019
+Antipov, Mikhail Al.	0	Nepomniachtchi, Ian	0	1/2-1/2	Thu Dec 26 2019
+Amin, Bassem	0	Nepomniachtchi, Ian	0	1/2-1/2	Thu Dec 26 2019
+Motylev, Alexander	0	Nepomniachtchi, Ian	0	1/2-1/2	Sun Dec 29 2019
+Carlsen, Magnus	0	Nepomniachtchi, Ian	0	1/2-1/2	Mon Dec 30 2019
+Korobov, Anton	0	Nepomniachtchi, Ian	0	1/2-1/2	Sat Dec 28 2019
+Matlakov,M	2699	Nepomniachtchi,I	2767	0-1	2019.12.01
+Geller,J	2521	Nepomniachtchi,I	2767	0-1	2019.12.26
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	0-1	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	0-1	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	0-1	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	0-1	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	0-1	2019.09.02
+Wang, Hao	0	Nepomniachtchi, Ian	0	1/2-1/2	Fri Dec 27 2019
+Andreikin, Dmitry	0	Nepomniachtchi, Ian	0	1/2-1/2	Sat Dec 28 2019
+Adly, Ahmed	0	Nepomniachtchi, Ian	0	1/2-1/2	Mon Dec 30 2019
+Carlsen,M	2835	Nepomniachtchi,I	2763	1/2-1/2	2019.01.12
+Mamedyarov,S	2817	Nepomniachtchi,I	2763	1/2-1/2	2019.01.12
+Anand,V	2773	Nepomniachtchi,I	2763	1/2-1/2	2019.01.12
+Ding Liren	2813	Nepomniachtchi,I	2763	1/2-1/2	2019.01.12
+Ganguly,S	2633	Nepomniachtchi,I	2771	1/2-1/2	2019.03.05
+Swiercz,D	2655	Nepomniachtchi,I	2771	1/2-1/2	2019.03.05
+Karjakin,Sergey	2752	Nepomniachtchi,I	2773	1/2-1/2	2019.05.08
+Topalov,V	2740	Nepomniachtchi,I	2773	1/2-1/2	2019.05.08
+Carlsen,M	2861	Nepomniachtchi,I	2773	1/2-1/2	2019.05.11
+So,W	2754	Nepomniachtchi,I	2773	1/2-1/2	2019.05.11
+Aronian,L	2762	Nepomniachtchi,I	2773	1/2-1/2	2019.05.17
+Wei Yi	2736	Nepomniachtchi,I	2773	1/2-1/2	2019.05.17
+Wojtaszek,R	2724	Nepomniachtchi,I	2773	1/2-1/2	2019.05.17
+Wei Yi	2736	Nepomniachtchi,I	2773	1/2-1/2	2019.05.17
+Wojtaszek,R	2724	Nepomniachtchi,I	2773	1/2-1/2	2019.05.17
+Wojtaszek,R	2724	Nepomniachtchi,I	2773	1/2-1/2	2019.05.17
+Grischuk,A	2772	Nepomniachtchi,I	2773	1/2-1/2	2019.05.17
+Grischuk,A	2772	Nepomniachtchi,I	2773	1/2-1/2	2019.05.17
+Karjakin,Sergey	2748	Nepomniachtchi,I	2775	1/2-1/2	2019.06.10
+Inarkiev,E	2693	Nepomniachtchi,I	2775	1/2-1/2	2019.06.10
+Nakamura,Hi	2754	Nepomniachtchi,I	2775	1/2-1/2	2019.06.26
+Aronian,L	2752	Nepomniachtchi,I	2775	1/2-1/2	2019.06.26
+Vachier Lagrave,M	2779	Nepomniachtchi,I	2775	1/2-1/2	2019.06.26
+Radjabov,T	2759	Nepomniachtchi,I	2775	1/2-1/2	2019.07.13
+Nakamura,Hi	2754	Nepomniachtchi,I	2775	1/2-1/2	2019.07.31
+Vachier Lagrave,M	2775	Nepomniachtchi,I	2775	1/2-1/2	2019.07.31
+Anand,V	2764	Nepomniachtchi,I	2775	1/2-1/2	2019.07.31
+Dubov,Daniil	2700	Nepomniachtchi,I	2775	1/2-1/2	2019.07.31
+Giri,A	2779	Nepomniachtchi,I	2774	1/2-1/2	2019.08.03
+Kramnik,V	2753	Nepomniachtchi,I	2774	1/2-1/2	2019.08.03
+Gelfand,B	2686	Nepomniachtchi,I	2774	1/2-1/2	2019.08.04
+Caruana,F	2818	Nepomniachtchi,I	2774	1/2-1/2	2019.08.17
+Karjakin,Sergey	2750	Nepomniachtchi,I	2774	1/2-1/2	2019.08.17
+Carlsen,M	2882	Nepomniachtchi,I	2774	1/2-1/2	2019.08.17
+Danielian,E	2385	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Tomashevsky,E	2718	Nepomniachtchi,I	2776	1/2-1/2	2019.09.10
+Tomashevsky,E	2718	Nepomniachtchi,I	2776	1/2-1/2	2019.09.10
+Ding Liren	2811	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Korobov,A	2668	Nepomniachtchi,I	2767	1/2-1/2	2019.12.26
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Nepomniachtchi, I.	2751	Fedoseev, Vl3	2724	1-0	2018.03.05
+Nepomniachtchi, I.	2751	Svidler, P.	2760	1-0	2018.03.05
+Nepomniachtchi, I.	2751	Morozevich, A.	2665	1-0	2018.03.05
+Nepomniachtchi, I.	2751	Mamedov, Rau	2709	1-0	2018.03.01
+Nepomniachtchi, I.	2751	Sutovsky, E.	2647	1-0	2018.05.27
+Nepomniachtchi, I.	2751	Bologan, V.	2610	1-0	2018.05.27
+Nepomniachtchi, I.	2751	Korobov, A.	2678	1-0	2018.05.27
+Nepomniachtchi, I.	2757	Ivanchuk, V.	2710	1-0	2018.07.02
+Nepomniachtchi, I.	2757	Gelfand, B.	2703	1-0	2018.07.02
+Nepomniachtchi, I.	2757	Kramnik, V.	2792	1-0	2018.07.14
+Nepomniachtchi, I.	2757	Meier, Geo	2628	1-0	2018.07.14
+Nepomniachtchi, I.	2757	Nisipeanu, LD.	2672	1-0	2018.07.14
+Nepomniachtchi, I.	2757	Grischuk, A.	2766	1-0	2018.07.24
+Nepomniachtchi, I.	2757	Grischuk, A.	2766	1-0	2018.07.24
+Nepomniachtchi, I.	2757	Grischuk, A.	2766	1-0	2018.07.24
+Nepomniachtchi, I.	2757	Grischuk, A.	2766	1-0	2018.07.24
+Nepomniachtchi, I.	2757	Grischuk, A.	2766	1-0	2018.07.24
+Nepomniachtchi, I.	2768	Khismatullin, D.	2634	1-0	2018.08.25
+Nepomniachtchi, I.	2768	Sarana, A.	2613	1-0	2018.08.25
+Nepomniachtchi, Ian	2759	Rakhmanov, Aleksandr	2634	1-0	2018.10.08
+Nepomniachtchi, Ian	2759	Triapishko, Olexandr	2508	1-0	2018.10.08
+Nepomniachtchi, Ian	2759	Dubov, Daniil	2703	1-0	2018.10.08
+Nepomniachtchi, Ian	2763	Bosiocic, Marin	2599	1-0	2018.12.29
+Nepomniachtchi, Ian	2768	Kawuma, Patrick	2329	1-0	2018.09.24
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Maghsoodloo, Parham	2630	Nepomniachtchi, Ian	2740	1-0	2022.03.12
+Xiong, Jeffery	2727	Nepomniachtchi, Ian	2740	1-0	2022.03.12
+Kamsky, Gata	2645	Nepomniachtchi, Ian	2740	1-0	2022.03.12
+Erigaisi, Arjun	2745	Nepomniachtchi, Ian	2740	1-0	2022.03.12
+Gledura, Benjamin	2326	Nepomniachtchi, Ian	2740	1-0	2022.04.09
+Paravyan, David	2569	Nepomniachtchi, Ian	2740	1-0	2022.04.09
+Martinez Alcantara, Jose Eduardo	2690	Nepomniachtchi, Ian	2740	1-0	2022.04.09
+Esipenko, Andrey	2617	Nepomniachtchi, Ian	2740	1-0	2022.04.23
+Volokitin, Andrei	2505	Nepomniachtchi, Ian	2740	1-0	2022.02.12
+Salem, A.R. Saleh	2674	Nepomniachtchi, Ian	2791	1-0	2022.08.06
+Andreikin, Dmitry	2736	Nepomniachtchi, Ian	2791	1-0	2022.08.06
+So, Wesley	2763	Nepomniachtchi, Ian	2791	1-0	2022.08.14
+Nakamura, Hikaru	2837	Nepomniachtchi, Ian	2795	1-0	2022.08.20
+Firouzja, Alireza	2795	Nepomniachtchi, Ian	2791	1-0	2022.08.29
+Nepomniachtchi, Ian	2791	Mamedyarov, Shakhriyar	2710	1/2-1/2	2022.08.30
+Nepomniachtchi, Ian	2791	Caruana, Fabiano	2847	1/2-1/2	2022.08.30
+Carlsen, Magnus	2864	Nepomniachtchi, Ian	2792	1-0	2022.09.02
+Nepomniachtchi, Ian	2792	So, Wesley	2771	1/2-1/2	2022.09.05
+Nepomniachtchi, Ian	2792	Caruana, Fabiano	2758	1/2-1/2	2022.09.08
+Nepomniachtchi, Ian	2792	Niemann, Hans Moke	2688	1/2-1/2	2022.09.11
+Nepomniachtchi, Ian	2792	Firouzja, Alireza	2778	1/2-1/2	2022.09.12
+Nepomniachtchi, Ian	2792	Firouzja, Alireza	2778	1/2-1/2	2022.09.12
+Nepomniachtchi, Ian	2779	Muradli, Mahammad	2443	1/2-1/2	2022.09.16
+Nepomniachtchi, Ian	2779	Svidler, Peter	2752	1/2-1/2	2022.09.24
+Nepomniachtchi, Ian	2779	Svidler, Peter	2752	1/2-1/2	2022.09.24
+Nepomniachtchi, I.	2751	Dubov, Daniil	2701	1/2-1/2	2018.03.05
+Nepomniachtchi, I.	2751	Nakamura, Hi	2787	0-1	2018.03.05
+Nepomniachtchi, I.	2751	Kramnik, V.	2800	1/2-1/2	2018.03.05
+Nepomniachtchi, I.	2751	Andreikin, D.	2712	0-1	2018.03.05
+Nepomniachtchi, I.	2751	Anand, V.	2776	0-1	2018.03.02
+Nepomniachtchi, I.	2757	Grischuk, A.	2766	0-1	2018.07.24
+Nepomniachtchi, I.	2757	Grischuk, A.	2766	0-1	2018.07.24
+Nepomniachtchi, I.	2757	Grischuk, A.	2766	0-1	2018.07.24
+Nepomniachtchi, I.	2768	Fedoseev, Vl3	2707	0-1	2018.08.25
+Nepomniachtchi, Ian	2759	Alekseenko, Kirill	2639	0-1	2018.10.08
+Nepomniachtchi, Ian	2763	Yu, Yangyi	2764	0-1	2018.12.26
+Nepomniachtchi, Ian	2763	Salem, A R Saleh	2660	0-1	2018.12.26
+Nepomniachtchi, Ian	2768	Wojtaszek, Radoslaw	2727	1-0	2018.09.24
+Nepomniachtchi, Ian	2763	Vitiugov, Nikita	2719	0-1	2018.12.29
+Nepomniachtchi, Ian	2763	Najer, Evgeniy	2670	1-0	2018.12.08
+Nepomniachtchi, Ian	2763	Saric, Ivan	2695	1-0	2018.12.26
+Nepomniachtchi, Ian	2763	Cheparinov, Ivan	2709	1-0	2018.12.29
+Nepomniachtchi, Ian	2763	Savchenko, Boris	2562	1-0	2018.12.08
+Nepomniachtchi, Ian	2763	Duda, Jan-Krzysztof	2738	0-1	2018.12.29
+Nepomniachtchi, Ian	2763	Riazantsev, Alexander	2649	1-0	2018.12.08
+Nepomniachtchi, Ian	2763	Nakamura, Hikaru	2746	1-0	2018.12.26
+Nepomniachtchi, Ian	2763	Firouzja, Alireza	2607	1-0	2018.12.29
+Nepomniachtchi, Ian	2763	Mchedlishvili, Mikheil	2610	1-0	2018.12.29
+Nepomniachtchi, Ian	2768	Bacrot, Etienne	2678	1-0	2018.09.24
+Nepomniachtchi, Ian	2763	Rakhmanov, Aleksandr	2629	1-0	2018.12.26
+Nepomniachtchi, I.	2751	Mamedyarov, S.	2809	1/2-1/2	2018.03.02
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2763	1/2-1/2	2018.03.02
+Nepomniachtchi, I.	2751	Gelfand, B.	2695	1/2-1/2	2018.03.02
+Nepomniachtchi, I.	2751	Jakovenko, D.	2735	1/2-1/2	2018.05.27
+Nepomniachtchi, I.	2757	Meier, Geo	2628	1/2-1/2	2018.07.02
+Nepomniachtchi, I.	2757	Muzychuk, A.	2564	1/2-1/2	2018.07.02
+Nepomniachtchi, I.	2757	Svidler, P.	2753	1/2-1/2	2018.07.02
+Nepomniachtchi, I.	2757	Giri, A.	2782	1/2-1/2	2018.07.14
+Nepomniachtchi, I.	2757	Grischuk, A.	2766	1/2-1/2	2018.07.24
+Nepomniachtchi, I.	2757	Grischuk, A.	2766	1/2-1/2	2018.07.24
+Nepomniachtchi, I.	2757	Grischuk, A.	2766	1/2-1/2	2018.07.24
+Nepomniachtchi, I.	2757	Grischuk, A.	2766	1/2-1/2	2018.07.24
+Nepomniachtchi, I.	2757	Grischuk, A.	2766	1/2-1/2	2018.07.24
+Nepomniachtchi, I.	2757	Grischuk, A.	2766	1/2-1/2	2018.07.24
+Nepomniachtchi, I.	2757	Grischuk, A.	2766	1/2-1/2	2018.07.24
+Nepomniachtchi, I.	2768	Vitiugov, N.	2730	1/2-1/2	2018.08.25
+Nepomniachtchi, I.	2768	Kobalia, M.	2619	1/2-1/2	2018.08.25
+Nepomniachtchi, I.	2768	Inarkiev, E.	2690	1/2-1/2	2018.08.25
+Nepomniachtchi, Ian	2763	Bocharov, Ivan	2563	1/2-1/2	2018.12.26
+Nepomniachtchi, Ian	2768	Anand, Viswanathan	2771	1/2-1/2	2018.09.24
+Nepomniachtchi, Ian	2763	Svidler, Peter	2737	1/2-1/2	2018.12.29
+Nepomniachtchi, Ian	2763	Carlsen, Magnus	2835	1/2-1/2	2018.12.29
+Nepomniachtchi, Ian	2768	Moroni, Luca Jr	2547	1/2-1/2	2018.09.24
+Nepomniachtchi, Ian	2768	Sanikidze, Tornike	2497	1/2-1/2	2018.09.24
+Nepomniachtchi, Ian	2763	Zvjaginsev, Vadim	2642	1/2-1/2	2018.12.08
+Gelfand, B.	2695	Nepomniachtchi, I.	2751	0-1	2018.03.05
+Anand, V.	2776	Nepomniachtchi, I.	2751	0-1	2018.03.05
+Karjakin, Sergey	2763	Nepomniachtchi, I.	2751	1-0	2018.03.05
+Nakamura, Hi	2787	Nepomniachtchi, I.	2751	1-0	2018.03.02
+Mamedov, Rau	2709	Nepomniachtchi, I.	2751	0-1	2018.03.01
+Gelfand, B.	2695	Nepomniachtchi, I.	2751	0-1	2018.05.27
+Fedoseev, Vl3	2706	Nepomniachtchi, I.	2751	1-0	2018.05.27
+Svidler, P.	2753	Nepomniachtchi, I.	2757	1-0	2018.07.02
+Meier, Geo	2628	Nepomniachtchi, I.	2757	0-1	2018.07.02
+Grischuk, A.	2766	Nepomniachtchi, I.	2757	1-0	2018.07.24
+Grischuk, A.	2766	Nepomniachtchi, I.	2757	1-0	2018.07.24
+Grischuk, A.	2766	Nepomniachtchi, I.	2757	1-0	2018.07.24
+Grischuk, A.	2766	Nepomniachtchi, I.	2757	1-0	2018.07.24
+Grischuk, A.	2766	Nepomniachtchi, I.	2757	1-0	2018.07.24
+Grischuk, A.	2766	Nepomniachtchi, I.	2757	1-0	2018.07.24
+Grischuk, A.	2766	Nepomniachtchi, I.	2757	0-1	2018.07.24
+Grischuk, A.	2766	Nepomniachtchi, I.	2757	1-0	2018.07.24
+Grischuk, A.	2766	Nepomniachtchi, I.	2757	1-0	2018.07.24
+Grischuk, A.	2766	Nepomniachtchi, I.	2757	1-0	2018.07.24
+Jakovenko, D.	2748	Nepomniachtchi, I.	2768	1-0	2018.08.25
+Nepomniachtchi, Ian	2763	Kovalenko, Igor	2657	1/2-1/2	2018.12.29
+Nepomniachtchi, Ian	2763	Mamedyarov, Shakhriyar	2817	1/2-1/2	2018.12.26
+Nepomniachtchi, Ian	2763	Sjugirov, Sanan	2663	1/2-1/2	2018.12.26
+Nepomniachtchi, Ian	2763	Wang, Hao	2730	1/2-1/2	2018.12.29
+Tsydypov, Zhamsaran	2529	Nepomniachtchi, Ian	2763	1-0	2018.12.29
+Mamedyarov, S.	2809	Nepomniachtchi, I.	2751	1/2-1/2	2018.03.05
+Grischuk, A.	2767	Nepomniachtchi, I.	2751	1/2-1/2	2018.03.05
+Artemiev, V.	2697	Nepomniachtchi, I.	2751	1/2-1/2	2018.03.05
+Dubov, Daniil	2701	Nepomniachtchi, I.	2751	1/2-1/2	2018.03.02
+Kramnik, V.	2800	Nepomniachtchi, I.	2751	1/2-1/2	2018.03.02
+Grischuk, A.	2767	Nepomniachtchi, I.	2751	1/2-1/2	2018.03.02
+Svidler, P.	2760	Nepomniachtchi, I.	2751	1/2-1/2	2018.03.02
+Kovalev, Vl	2650	Nepomniachtchi, I.	2751	1/2-1/2	2018.05.27
+Artemiev, V.	2704	Nepomniachtchi, I.	2751	1/2-1/2	2018.05.27
+Vidit, S.	2707	Nepomniachtchi, I.	2751	1/2-1/2	2018.05.27
+Oparin, G.	2609	Nepomniachtchi, I.	2768	0-1	2018.08.25
+Alekseenko, Kirill	2638	Nepomniachtchi, Ian	2763	0-1	2018.12.29
+Astaneh Lopez, Alex	2433	Nepomniachtchi, Ian	2768	0-1	2018.09.24
+Goganov, Aleksey	2612	Nepomniachtchi, Ian	2763	0-1	2018.12.26
+Grischuk, Alexander	2771	Nepomniachtchi, Ian	2763	0-1	2018.12.29
+Gunina, Valentina	2496	Nepomniachtchi, Ian	2763	0-1	2018.12.08
+Indjic, Aleksandar	2620	Nepomniachtchi, Ian	2763	0-1	2018.12.29
+Kazhgaleyev, Murtas	2587	Nepomniachtchi, Ian	2763	0-1	2018.12.29
+Le, Quang Liem	2714	Nepomniachtchi, Ian	2763	0-1	2018.12.29
+Nihal, Sarin	2576	Nepomniachtchi, Ian	2763	0-1	2018.12.29
+Potkin, Vladimir	2597	Nepomniachtchi, Ian	2763	0-1	2018.12.08
+Sargissian, Gabriel	2689	Nepomniachtchi, Ian	2763	0-1	2018.12.26
+Tekeyev, Zaur	2392	Nepomniachtchi, Ian	2759	0-1	2018.10.08
+Tsvetkov, Andrey	2264	Nepomniachtchi, Ian	2759	0-1	2018.10.08
+Zhigalko, Sergei	2610	Nepomniachtchi, Ian	2768	0-1	2018.09.24
+Ivanchuk, V.	2710	Nepomniachtchi, I.	2757	1/2-1/2	2018.07.02
+Gelfand, B.	2703	Nepomniachtchi, I.	2757	1/2-1/2	2018.07.02
+Muzychuk, A.	2564	Nepomniachtchi, I.	2757	1/2-1/2	2018.07.02
+Kovalev, Vl	2655	Nepomniachtchi, I.	2757	1/2-1/2	2018.07.14
+Duda, J.	2737	Nepomniachtchi, I.	2757	1/2-1/2	2018.07.14
+Wojtaszek, R.	2733	Nepomniachtchi, I.	2757	1/2-1/2	2018.07.14
+Grischuk, A.	2766	Nepomniachtchi, I.	2757	1/2-1/2	2018.07.24
+Grischuk, A.	2766	Nepomniachtchi, I.	2757	1/2-1/2	2018.07.24
+Grischuk, A.	2766	Nepomniachtchi, I.	2757	1/2-1/2	2018.07.24
+Grischuk, A.	2766	Nepomniachtchi, I.	2757	1/2-1/2	2018.07.24
+Tomashevsky, E.	2702	Nepomniachtchi, I.	2768	1/2-1/2	2018.08.25
+Andreikin, D.	2710	Nepomniachtchi, I.	2768	1/2-1/2	2018.08.25
+Dubov, Daniil	2691	Nepomniachtchi, I.	2768	1/2-1/2	2018.08.25
+Alekseev, Evgeny	2639	Nepomniachtchi, Ian	2763	1/2-1/2	2018.12.29
+Andreikin, Dmitry	2719	Nepomniachtchi, Ian	2763	1/2-1/2	2018.12.26
+Artemiev, Vladislav	2706	Nepomniachtchi, Ian	2759	1/2-1/2	2018.10.08
+Bocharov, Ivan	2563	Nepomniachtchi, Ian	2759	1/2-1/2	2018.10.08
+Cori, Jorge	2664	Nepomniachtchi, Ian	2768	1/2-1/2	2018.09.24
+Dreev, Aleksey	2670	Nepomniachtchi, Ian	2763	1/2-1/2	2018.12.29
+Dreev, Aleksey	2670	Nepomniachtchi, Ian	2763	1/2-1/2	2018.12.08
+Giri, Anish	2783	Nepomniachtchi, Ian	2763	1/2-1/2	2018.12.26
+Inarkiev, Ernesto	2693	Nepomniachtchi, Ian	2763	1/2-1/2	2018.12.08
+Jobava, Baadur	2627	Nepomniachtchi, Ian	2763	1/2-1/2	2018.12.29
+Malakhov, V	2661	Nepomniachtchi, Ian	2759	1/2-1/2	2018.10.08
+McShane, Luke J	2672	Nepomniachtchi, Ian	2768	1/2-1/2	2018.09.24
+Nepomniachtchi, I.	2749	Li Chao2	2720	1-0	2017.02.18
+Nepomniachtchi, I.	2751	Kramnik, V.	2811	1-0	2017.04.17
+Nepomniachtchi, I.	2751	Gelfand, B.	2724	1-0	2017.04.13
+Nepomniachtchi, I.	2751	Pelletier, Y.	2541	1-0	2017.04.13
+Nepomniachtchi, I.	2751	Gelfand, B.	2724	1-0	2017.04.12
+Nepomniachtchi, I.	2751	Anand, V.	2786	1-0	2017.04.13
+Nepomniachtchi, I.	2751	Geller, J.	2505	1-0	2017.05.01
+Nepomniachtchi, I.	2732	Korobov, A.	2711	1-0	2017.06.17
+Nepomniachtchi, I.	2732	Shankland, S.	2676	1-0	2017.06.17
+Nepomniachtchi, I.	2732	Duda, J.	2697	1-0	2017.06.17
+Nepomniachtchi, I.	2732	Aleksandrov, A.	2565	1-0	2017.06.17
+Nepomniachtchi, I.	2732	Aronian, L.	2793	1-0	2017.06.28
+Nepomniachtchi, I.	2732	Giri, A.	2771	1-0	2017.06.28
+Nepomniachtchi, I.	2732	Giri, A.	2771	1-0	2017.07.01
+Nepomniachtchi, I.	2732	Kramnik, V.	2808	1-0	2017.07.01
+Nepomniachtchi, I.	2732	Vachier Lagrave, M.	2796	1-0	2017.07.01
+Nepomniachtchi, I.	2742	Hou Yifan	2666	1-0	2017.07.06
+Nepomniachtchi, I.	2742	Aronian, L.	2809	1-0	2017.07.06
+Nepomniachtchi, I.	2742	Inarkiev, E.	2707	1-0	2017.07.06
+Nepomniachtchi, I.	2741	Adhiban, Baskaran	2670	1-0	2017.09.03
+Nakamura, Hikaru	2746	Nepomniachtchi, Ian	2763	1/2-1/2	2018.12.29
+Petrosian, Tigran L	2598	Nepomniachtchi, Ian	2763	1/2-1/2	2018.12.26
+Popov, Ivan RUS	2592	Nepomniachtchi, Ian	2763	1/2-1/2	2018.12.08
+Wang, Hao	2730	Nepomniachtchi, Ian	2763	1/2-1/2	2018.12.26
+Zubov, Alexander	2597	Nepomniachtchi, Ian	2763	1/2-1/2	2018.12.26
+Nepomniachtchi, I.	2741	Palac, M.	2535	1-0	2017.09.03
+Nepomniachtchi, I.	2733	Kjartansson, Dav	2386	1-0	2017.10.08
+Nepomniachtchi, I.	2733	Laznicka, V.	2654	1-0	2017.10.28
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	1-0	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	1-0	2017.05.03
+Nepomniachtchi, I.	2733	Duda, J.	2706	1-0	2017.10.28
+Nepomniachtchi, I.	2733	Meier, Geo	2655	1-0	2017.10.28
+Nepomniachtchi, I.	2729	Anand, V.	2782	1-0	2017.12.01
+Nepomniachtchi, I.	2729	Andriasian, Z.	2585	1-0	2017.12.26
+Nepomniachtchi, I.	2729	Kuzubov, Y.	2699	1-0	2017.12.26
+Nepomniachtchi, I.	2729	Jobava, Ba	2690	1-0	2017.12.26
+Nepomniachtchi, I.	2729	Ponkratov, P.	2613	1-0	2017.12.26
+Nepomniachtchi, I.	2729	Howell, D.	2676	1-0	2017.12.26
+Nepomniachtchi, I.	2729	Wang Hao	2709	1-0	2017.12.26
+Nepomniachtchi, I.	2729	Rakhmanov, Ale	2653	1-0	2017.12.26
+Nepomniachtchi, I.	2729	Miton, K.	2584	1-0	2017.12.29
+Nepomniachtchi, I.	2729	Movsesian, S.	2647	1-0	2017.12.29
+Nepomniachtchi, I.	2729	Wang Hao	2709	1-0	2017.12.29
+Nepomniachtchi, I.	2729	Anand, V.	2782	1-0	2017.12.29
+Nepomniachtchi, I.	2729	Adly, A.	2637	1-0	2017.12.29
+Nepomniachtchi, I.	2729	Vidit, S.	2715	1-0	2017.12.29
+Nepomniachtchi, Ian	2742	Nakamura, Hikaru	2792	1-0	2017.08.02
+Nepomniachtchi, Ian	2751	Caruana, Fabiano	2807	1-0	2017.08.17
+Nepomniachtchi, Ian	2751	Navara, David	2737	1-0	2017.08.17
+Nepomniachtchi, Ian	2751	Dominguez Perez, Leinier	2739	1-0	2017.08.17
+Nepomniachtchi, I.	2767	So, W.	2808	0-1	2017.01.14
+Nepomniachtchi, I.	2751	Oparin, G.	2604	0-1	2017.04.17
+Nepomniachtchi, I.	2751	Kramnik, V.	2811	0-1	2017.04.12
+Nepomniachtchi, I.	2751	Svidler, P.	2747	0-1	2017.04.12
+Nepomniachtchi, I.	2751	Rublevsky, S.	2682	0-1	2017.05.01
+Nepomniachtchi, I.	2751	Salem, AR.	2633	0-1	2017.05.12
+Nepomniachtchi, I.	2751	Hou Yifan	2652	0-1	2017.05.12
+Nepomniachtchi, I.	2751	Harikrishna, P.	2750	0-1	2017.05.12
+Nepomniachtchi, I.	2732	Ivanchuk, V.	2738	0-1	2017.07.01
+Nepomniachtchi, I.	2732	Carlsen, M.	2832	0-1	2017.07.01
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	0-1	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	0-1	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	0-1	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	0-1	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	0-1	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	0-1	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	0-1	2017.05.03
+Nepomniachtchi, I.	2729	Demchenko, A.	2660	0-1	2017.12.29
+Nepomniachtchi, Ian	2751	Aronian, Levon	2789	1-0	2017.05.03
+Nepomniachtchi, Ian	2751	Aronian, Levon	2789	1-0	2017.05.03
+Nepomniachtchi, Ian	2751	Aronian, Levon	2789	1-0	2017.05.03
+Nepomniachtchi, Ian	2751	Aronian, Levon	2789	1-0	2017.05.03
+Nepomniachtchi, Ian	2751	Aronian, Levon	2789	1-0	2017.05.03
+Nepomniachtchi, Ian	2751	Aronian, Levon	2789	1-0	2017.05.03
+Nepomniachtchi, Ian	2751	Aronian, Levon	2789	1-0	2017.05.03
+Nepomniachtchi, I.	2767	Andreikin, D.	2736	1/2-1/2	2017.01.14
+Nepomniachtchi, I.	2767	Carlsen, M.	2840	1/2-1/2	2017.01.14
+Nepomniachtchi, I.	2767	Rapport, R.	2702	1/2-1/2	2017.01.14
+Nepomniachtchi, I.	2767	Eljanov, P.	2755	1/2-1/2	2017.01.14
+Nepomniachtchi, I.	2767	Harikrishna, P.	2766	1/2-1/2	2017.01.14
+Nepomniachtchi, I.	2749	Riazantsev, A.	2671	1/2-1/2	2017.02.18
+Nepomniachtchi, I.	2749	Vachier Lagrave, M.	2796	1/2-1/2	2017.02.18
+Nepomniachtchi, I.	2749	Grischuk, A.	2742	1/2-1/2	2017.02.18
+Nepomniachtchi, I.	2751	Nakamura, Hi	2793	1/2-1/2	2017.04.17
+Nepomniachtchi, I.	2751	Svidler, P.	2747	1/2-1/2	2017.04.13
+Nepomniachtchi, I.	2751	Nakamura, Hi	2793	1/2-1/2	2017.04.12
+Nepomniachtchi, I.	2751	Gelfand, B.	2724	1/2-1/2	2017.05.12
+Nepomniachtchi, I.	2732	Adhiban, Baskaran	2670	1/2-1/2	2017.06.17
+Nepomniachtchi, I.	2732	Ding Liren	2783	1/2-1/2	2017.06.17
+Nepomniachtchi, I.	2732	Carlsen, M.	2832	1/2-1/2	2017.06.28
+Nepomniachtchi, I.	2732	So, W.	2812	1/2-1/2	2017.06.28
+Nepomniachtchi, I.	2732	So, W.	2812	1/2-1/2	2017.07.01
+Nepomniachtchi, I.	2732	Jobava, Ba	2707	1/2-1/2	2017.07.01
+Nepomniachtchi, I.	2732	Aronian, L.	2793	1/2-1/2	2017.07.01
+Nepomniachtchi, Ian	2742	So, Wesley	2810	0-1	2017.08.02
+Nepomniachtchi, Ian	2751	Anand, Viswanathan	2783	0-1	2017.08.17
+Nepomniachtchi, Ian	2751	Aronian, Levon	2799	0-1	2017.08.17
+Nepomniachtchi, Ian	2751	Aronian, Levon	2789	0-1	2017.05.03
+Nepomniachtchi, Ian	2751	Aronian, Levon	2789	0-1	2017.05.03
+Nepomniachtchi, Ian	2751	Aronian, Levon	2789	0-1	2017.05.03
+Nepomniachtchi, I.	2732	Anand, V.	2786	1/2-1/2	2017.07.01
+Nepomniachtchi, I.	2742	Gelfand, B.	2728	1/2-1/2	2017.07.06
+Nepomniachtchi, I.	2742	Radjabov, T.	2724	1/2-1/2	2017.07.06
+Nepomniachtchi, I.	2741	Palac, M.	2535	1/2-1/2	2017.09.03
+Nepomniachtchi, I.	2741	Jobava, Ba	2702	1/2-1/2	2017.09.03
+Nepomniachtchi, I.	2741	Jobava, Ba	2702	1/2-1/2	2017.09.03
+Nepomniachtchi, I.	2741	Adhiban, Baskaran	2670	1/2-1/2	2017.09.03
+Nepomniachtchi, I.	2741	Palac, M.	2535	1/2-1/2	2017.09.03
+Nepomniachtchi, I.	2733	Kryvoruchko, Y.	2692	1/2-1/2	2017.10.08
+Nepomniachtchi, I.	2733	Bartel, Mat	2613	1/2-1/2	2017.10.08
+Nepomniachtchi, I.	2733	Lenic, L.	2650	1/2-1/2	2017.10.28
+Nepomniachtchi, I.	2733	Kovalev, Vl	2636	1/2-1/2	2017.10.28
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	1/2-1/2	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	1/2-1/2	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	1/2-1/2	2017.05.03
+Nepomniachtchi, I.	2751	Karjakin, Sergey	2783	1/2-1/2	2017.05.03
+Nepomniachtchi, I.	2729	Aronian, L.	2805	1/2-1/2	2017.12.01
+Nepomniachtchi, I.	2729	Caruana, F.	2799	1/2-1/2	2017.12.01
+Nepomniachtchi, I.	2729	Vachier Lagrave, M.	2789	1/2-1/2	2017.12.01
+Nepomniachtchi, I.	2729	Caruana, F.	2799	1/2-1/2	2017.12.11
+Nepomniachtchi, I.	2729	Caruana, F.	2799	1/2-1/2	2017.12.11
+Nepomniachtchi, I.	2729	Karjakin, Sergey	2760	1/2-1/2	2017.12.01
+Nepomniachtchi, I.	2729	Laznicka, V.	2647	1/2-1/2	2017.12.26
+Nepomniachtchi, I.	2729	Kryvoruchko, Y.	2689	1/2-1/2	2017.12.29
+Nepomniachtchi, I.	2729	Ding Liren	2777	1/2-1/2	2017.12.29
+Ding, Liren	2806	Nepomniachtchi, Ian	2766	0-1	2022.06.17
+Radjabov, Teimour	2753	Nepomniachtchi, Ian	2766	1/2-1/2	2022.06.19
+Nakamura, Hikaru	2760	Nepomniachtchi, Ian	2766	1/2-1/2	2022.06.22
+Rapport, Richard	2764	Nepomniachtchi, Ian	2766	0-1	2022.06.25
+Caruana, Fabiano	2783	Nepomniachtchi, Ian	2766	1/2-1/2	2022.06.27
+Martinez Alcantara, Jose Eduardo	2690	Nepomniachtchi, Ian	2740	0-1	2022.03.05
+Demchenko, Anton	2539	Nepomniachtchi, Ian	2740	0-1	2022.03.05
+Harika, Dronavalli	2382	Nepomniachtchi, Ian	2740	0-1	2022.04.09
+Narayanan.S.L, 	2494	Nepomniachtchi, Ian	2740	0-1	2022.04.09
+Sjugirov, Sanan	2602	Nepomniachtchi, Ian	2740	0-1	2022.04.02
+Swiercz, Dariusz	2627	Nepomniachtchi, Ian	2740	0-1	2022.04.23
+Matlakov, Maxim	2669	Nepomniachtchi, Ian	2740	0-1	2022.04.30
+Martinez Alcantara, Jose Eduardo	2645	Nepomniachtchi, Ian	2821	0-1	2022.02.13
+Erigaisi, Arjun	2745	Nepomniachtchi, Ian	2740	0-1	2022.02.12
+Pichot, Alan	2578	Nepomniachtchi, Ian	2791	0-1	2022.08.06
+Vokhidov, Shamsiddin	2619	Nepomniachtchi, Ian	2791	0-1	2022.08.13
+Caruana, Fabiano	2766	Nepomniachtchi, Ian	2795	0-1	2022.08.18
+Andreikin, Dmitry	2675	Nepomniachtchi, Ian	2795	0-1	2022.08.21
+Mamedyarov, Shakhriyar	2710	Nepomniachtchi, Ian	2791	0-1	2022.08.29
+Dominguez Perez, Leinier	2708	Nepomniachtchi, Ian	2791	0-1	2022.08.29
+Shankland, Sam	2645	Nepomniachtchi, Ian	2791	0-1	2022.08.30
+Aronian, Levon	2759	Nepomniachtchi, Ian	2792	0-1	2022.09.10
+Firouzja, Alireza	2778	Nepomniachtchi, Ian	2792	1-0	2022.09.12
+Firouzja, Alireza	2778	Nepomniachtchi, Ian	2792	1-0	2022.09.12
+Muradli, Mahammad	2443	Nepomniachtchi, Ian	2779	0-1	2022.09.16
+Wei Yi	2706	Nepomniachtchi, I.	2767	1-0	2017.01.14
+Giri, A.	2773	Nepomniachtchi, I.	2767	1-0	2017.01.14
+Nakamura, Hi	2793	Nepomniachtchi, I.	2751	1-0	2017.04.13
+Pelletier, Y.	2541	Nepomniachtchi, I.	2751	1-0	2017.04.12
+Nakamura, Hi	2786	Nepomniachtchi, I.	2751	1-0	2017.05.12
+Vachier Lagrave, M.	2796	Nepomniachtchi, I.	2732	1-0	2017.06.28
+Anand, V.	2786	Nepomniachtchi, I.	2732	1-0	2017.06.28
+Ivanchuk, V.	2738	Nepomniachtchi, I.	2732	1-0	2017.06.28
+Carlsen, M.	2832	Nepomniachtchi, I.	2732	1-0	2017.07.01
+Vachier Lagrave, M.	2796	Nepomniachtchi, I.	2732	1-0	2017.07.01
+Nepomniachtchi, I.	2729	Savchenko, B.	2566	1/2-1/2	2017.12.29
+Nepomniachtchi, Ian	2742	Svidler, Peter	2749	1/2-1/2	2017.08.02
+Nepomniachtchi, Ian	2742	Carlsen, Magnus	2822	1/2-1/2	2017.08.02
+Nepomniachtchi, Ian	2751	Navara, David	2737	1/2-1/2	2017.08.14
+Nepomniachtchi, Ian	2751	Anand, Viswanathan	2783	1/2-1/2	2017.08.14
+Nepomniachtchi, Ian	2751	Dominguez Perez, Leinier	2739	1/2-1/2	2017.08.14
+Nepomniachtchi, Ian	2751	Karjakin, Sergey	2773	1/2-1/2	2017.08.14
+Nepomniachtchi, Ian	2751	Le, Quang Liem	2739	1/2-1/2	2017.08.14
+Nepomniachtchi, Ian	2751	Le, Quang Liem	2739	1/2-1/2	2017.08.17
+Nepomniachtchi, Ian	2751	Kasparov, Garry	2812	1/2-1/2	2017.08.17
+Nepomniachtchi, Ian	2751	Nakamura, Hikaru	2792	1/2-1/2	2017.08.17
+Nepomniachtchi, Ian	2751	Karjakin, Sergey	2773	1/2-1/2	2017.08.17
+Nepomniachtchi, Ian	2751	Aronian, Levon	2789	1/2-1/2	2017.05.03
+Nepomniachtchi, Ian	2751	Aronian, Levon	2789	1/2-1/2	2017.05.03
+Nepomniachtchi, Ian	2751	Aronian, Levon	2789	1/2-1/2	2017.05.03
+Aronian, L.	2793	Nepomniachtchi, I.	2732	1-0	2017.07.01
+So, W.	2812	Nepomniachtchi, I.	2732	1-0	2017.07.01
+Eljanov, P.	2739	Nepomniachtchi, I.	2742	1-0	2017.07.06
+Jobava, Ba	2702	Nepomniachtchi, I.	2741	1-0	2017.09.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1-0	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1-0	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1-0	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1-0	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1-0	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1-0	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1-0	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1-0	2017.05.03
+Radjabov, T.	2741	Nepomniachtchi, I.	2733	1-0	2017.10.28
+Erdos, V.	2624	Nepomniachtchi, I.	2733	1-0	2017.10.28
+Caruana, F.	2799	Nepomniachtchi, I.	2729	1-0	2017.12.11
+Carlsen, M.	2837	Nepomniachtchi, I.	2729	1-0	2017.12.26
+Vidit, S.	2715	Nepomniachtchi, I.	2729	1-0	2017.12.26
+Amin, B.	2689	Nepomniachtchi, I.	2729	1-0	2017.12.29
+Mamedyarov, S.	2799	Nepomniachtchi, I.	2729	1-0	2017.12.29
+Korobov, A.	2652	Nepomniachtchi, I.	2729	1-0	2017.12.29
+Yu Yangyi	2751	Nepomniachtchi, I.	2729	1-0	2017.12.29
+Anand, Viswanathan	2783	Nepomniachtchi, Ian	2742	1-0	2017.08.02
+Aronian, Levon	2789	Nepomniachtchi, Ian	2751	1-0	2017.05.03
+Aronian, Levon	2789	Nepomniachtchi, Ian	2751	1-0	2017.05.03
+Aronian, Levon	2809	Nepomniachtchi, Ian	2742	1-0	2017.08.02
+Pelletier, Y.	2541	Nepomniachtchi, I.	2751	0-1	2017.04.17
+Oparin, G.	2604	Nepomniachtchi, I.	2751	0-1	2017.04.13
+Oparin, G.	2604	Nepomniachtchi, I.	2751	0-1	2017.04.12
+Anand, V.	2786	Nepomniachtchi, I.	2751	0-1	2017.04.12
+Alekseev, Evgeny	2610	Nepomniachtchi, I.	2751	0-1	2017.05.01
+Adams, Mi	2747	Nepomniachtchi, I.	2751	0-1	2017.05.12
+Hammer, J.	2621	Nepomniachtchi, I.	2751	0-1	2017.05.12
+Ivanchuk, V.	2738	Nepomniachtchi, I.	2732	0-1	2017.07.01
+Jobava, Ba	2707	Nepomniachtchi, I.	2732	0-1	2017.07.01
+Jobava, Ba	2707	Nepomniachtchi, I.	2732	0-1	2017.06.28
+Anand, V.	2786	Nepomniachtchi, I.	2732	0-1	2017.07.01
+Popov, Iv RUS	2609	Nepomniachtchi, I.	2733	0-1	2017.10.08
+Dancevski, O.	2367	Nepomniachtchi, I.	2733	0-1	2017.10.08
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	0-1	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	0-1	2017.05.03
+Carlsen, M.	2837	Nepomniachtchi, I.	2729	0-1	2017.12.01
+Adams, Mi	2715	Nepomniachtchi, I.	2729	0-1	2017.12.01
+Duda, J.	2717	Nepomniachtchi, I.	2729	0-1	2017.12.26
+Aronian, Levon	2799	Nepomniachtchi, Ian	2751	1-0	2017.08.17
+Aronian, Levon	2789	Nepomniachtchi, Ian	2751	1-0	2017.05.03
+Aronian, Levon	2789	Nepomniachtchi, Ian	2751	1-0	2017.05.03
+Aronian, Levon	2789	Nepomniachtchi, Ian	2751	1-0	2017.05.03
+Karjakin, Sergey	2773	Nepomniachtchi, Ian	2751	1-0	2017.08.17
+Nakamura, Hikaru	2792	Nepomniachtchi, Ian	2751	1-0	2017.08.14
+Vachier-Lagrave, Maxime	2791	Nepomniachtchi, Ian	2742	1-0	2017.08.02
+Wojtaszek, R.	2750	Nepomniachtchi, I.	2767	1/2-1/2	2017.01.14
+Van Wely, L.	2695	Nepomniachtchi, I.	2767	1/2-1/2	2017.01.14
+Aronian, L.	2780	Nepomniachtchi, I.	2767	1/2-1/2	2017.01.14
+Karjakin, Sergey	2785	Nepomniachtchi, I.	2767	1/2-1/2	2017.01.14
+Adhiban, Baskaran	2653	Nepomniachtchi, I.	2767	1/2-1/2	2017.01.14
+Vallejo Pons, F.	2709	Nepomniachtchi, I.	2749	1/2-1/2	2017.02.18
+Hou Yifan	2651	Nepomniachtchi, I.	2749	1/2-1/2	2017.02.18
+Jakovenko, D.	2709	Nepomniachtchi, I.	2749	1/2-1/2	2017.02.18
+Mamedyarov, S.	2766	Nepomniachtchi, I.	2749	1/2-1/2	2017.02.18
+Ding Liren	2760	Nepomniachtchi, I.	2749	1/2-1/2	2017.02.18
+Svidler, P.	2747	Nepomniachtchi, I.	2751	1/2-1/2	2017.04.17
+Anand, V.	2786	Nepomniachtchi, I.	2751	1/2-1/2	2017.04.17
+Gelfand, B.	2724	Nepomniachtchi, I.	2751	1/2-1/2	2017.04.17
+Kramnik, V.	2811	Nepomniachtchi, I.	2751	1/2-1/2	2017.04.13
+Akobian, V.	2647	Nepomniachtchi, I.	2729	0-1	2017.12.29
+Bosiocic, Mari	2624	Nepomniachtchi, I.	2729	0-1	2017.12.29
+Andriasian, Z.	2585	Nepomniachtchi, I.	2729	0-1	2017.12.29
+Aronian, Levon	2789	Nepomniachtchi, Ian	2751	0-1	2017.05.03
+Aronian, Levon	2799	Nepomniachtchi, Ian	2751	0-1	2017.08.14
+Aronian, Levon	2789	Nepomniachtchi, Ian	2751	0-1	2017.05.03
+Aronian, Levon	2789	Nepomniachtchi, Ian	2751	0-1	2017.05.03
+Caruana, Fabiano	2807	Nepomniachtchi, Ian	2751	0-1	2017.08.17
+Dominguez Perez, Leinier	2739	Nepomniachtchi, Ian	2751	0-1	2017.08.17
+Kasparov, Garry	2812	Nepomniachtchi, Ian	2751	0-1	2017.08.14
+Le, Quang Liem	2739	Nepomniachtchi, Ian	2751	0-1	2017.08.17
+Kamsky, G.	2676	Nepomniachtchi, I.	2751	1/2-1/2	2017.05.01
+Dubov, Daniil	2660	Nepomniachtchi, I.	2751	1/2-1/2	2017.05.01
+Vallejo Pons, F.	2710	Nepomniachtchi, I.	2751	1/2-1/2	2017.05.12
+Inarkiev, E.	2727	Nepomniachtchi, I.	2751	1/2-1/2	2017.05.12
+Hesham, A.	2372	Nepomniachtchi, I.	2732	1/2-1/2	2017.06.17
+Urkedal, F.	2541	Nepomniachtchi, I.	2732	1/2-1/2	2017.06.17
+Kramnik, V.	2808	Nepomniachtchi, I.	2732	1/2-1/2	2017.06.28
+Kramnik, V.	2808	Nepomniachtchi, I.	2732	1/2-1/2	2017.07.01
+Giri, A.	2771	Nepomniachtchi, I.	2732	1/2-1/2	2017.07.01
+Harikrishna, P.	2737	Nepomniachtchi, I.	2742	1/2-1/2	2017.07.06
+Rapport, R.	2694	Nepomniachtchi, I.	2742	1/2-1/2	2017.07.06
+Mamedyarov, S.	2800	Nepomniachtchi, I.	2742	1/2-1/2	2017.07.06
+Palac, M.	2535	Nepomniachtchi, I.	2741	1/2-1/2	2017.09.03
+Jobava, Ba	2702	Nepomniachtchi, I.	2741	1/2-1/2	2017.09.03
+Adhiban, Baskaran	2670	Nepomniachtchi, I.	2741	1/2-1/2	2017.09.03
+Adhiban, Baskaran	2670	Nepomniachtchi, I.	2741	1/2-1/2	2017.09.03
+Palac, M.	2535	Nepomniachtchi, I.	2741	1/2-1/2	2017.09.03
+Vajda, Le	2588	Nepomniachtchi, I.	2733	1/2-1/2	2017.10.08
+Abasov, N.	2587	Nepomniachtchi, I.	2733	1/2-1/2	2017.10.08
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1/2-1/2	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1/2-1/2	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1/2-1/2	2017.05.03
+Karjakin, Sergey	2783	Nepomniachtchi, I.	2751	1/2-1/2	2017.05.03
+Yilmaz, M.	2633	Nepomniachtchi, I.	2733	1/2-1/2	2017.10.28
+So, W.	2788	Nepomniachtchi, I.	2729	1/2-1/2	2017.12.01
+Nepomniachtchi, I.	2719	Lu Shanglei	2614	1-0	2016.06.11
+Nepomniachtchi, I.	2719	Grischuk, A.	2747	1-0	2016.06.18
+Nepomniachtchi, I.	2719	Wang Hao	2734	1-0	2016.06.18
+Nepomniachtchi, I.	2719	Aleksandrov, A.	2577	1-0	2016.06.18
+Nepomniachtchi, I.	2719	Kazhgaleyev, M.	2582	1-0	2016.06.18
+Caruana, F.	2799	Nepomniachtchi, I.	2729	1/2-1/2	2017.12.11
+Nakamura, Hi	2781	Nepomniachtchi, I.	2729	1/2-1/2	2017.12.01
+Georgiev, Ki	2623	Nepomniachtchi, I.	2729	1/2-1/2	2017.12.26
+Harikrishna, P.	2744	Nepomniachtchi, I.	2729	1/2-1/2	2017.12.26
+Svidler, P.	2765	Nepomniachtchi, I.	2729	1/2-1/2	2017.12.26
+Anand, V.	2782	Nepomniachtchi, I.	2729	1/2-1/2	2017.12.26
+Fressinet, L.	2662	Nepomniachtchi, I.	2729	1/2-1/2	2017.12.29
+Karjakin, Sergey	2760	Nepomniachtchi, I.	2729	1/2-1/2	2017.12.29
+Sjugirov, S.	2650	Nepomniachtchi, I.	2729	1/2-1/2	2017.12.29
+Jobava, Ba	2690	Nepomniachtchi, I.	2729	1/2-1/2	2017.12.29
+Anand, Viswanathan	2783	Nepomniachtchi, Ian	2751	1/2-1/2	2017.08.17
+Aronian, Levon	2789	Nepomniachtchi, Ian	2751	1/2-1/2	2017.05.03
+Aronian, Levon	2789	Nepomniachtchi, Ian	2751	1/2-1/2	2017.05.03
+Aronian, Levon	2789	Nepomniachtchi, Ian	2751	1/2-1/2	2017.05.03
+Caruana, Fabiano	2807	Nepomniachtchi, Ian	2751	1/2-1/2	2017.08.14
+Caruana, Fabiano	2807	Nepomniachtchi, Ian	2742	1/2-1/2	2017.08.02
+Karjakin, Sergey	2773	Nepomniachtchi, Ian	2742	1/2-1/2	2017.08.02
+Kasparov, Garry	2812	Nepomniachtchi, Ian	2751	1/2-1/2	2017.08.17
+Nakamura, Hikaru	2792	Nepomniachtchi, Ian	2751	1/2-1/2	2017.08.17
+Navara, David	2737	Nepomniachtchi, Ian	2751	1/2-1/2	2017.08.17
+Nepomniachtchi, I.	2719	Artemiev, V.	2653	1-0	2016.06.18
+Nepomniachtchi, I.	2719	Sjugirov, S.	2665	1-0	2016.06.18
+Nepomniachtchi, I.	2719	Utegaliyev, A.	2494	1-0	2016.06.18
+Nepomniachtchi, I.	2703	Grischuk, A.	2752	1-0	2016.05.01
+Nepomniachtchi, I.	2703	Sjugirov, S.	2674	1-0	2016.05.01
+Nepomniachtchi, I.	2704	Bok, B.	2611	1-0	2016.03.01
+Nepomniachtchi, I.	2725	Ding Liren	2778	1-0	2016.07.08
+Nepomniachtchi, I.	2725	Wang Yue	2730	1-0	2016.07.08
+Nepomniachtchi, I.	2725	Hou Yifan	2653	1-0	2016.07.08
+Nepomniachtchi, I.	2725	Bu Xiangzhi	2723	1-0	2016.07.08
+Nepomniachtchi, I.	2740	Atabayew, S.	2406	1-0	2016.09.02
+Nepomniachtchi, I.	2740	Fawzy, Adham	2451	1-0	2016.09.02
+Nepomniachtchi, I.	2740	Hracek, Z.	2591	1-0	2016.09.02
+Nepomniachtchi, I.	2740	Fridman, D.	2618	1-0	2016.09.02
+Nepomniachtchi, I.	2740	Tomashevsky, E.	2731	1-0	2016.09.26
+Nepomniachtchi, I.	2740	Giri, A.	2755	1-0	2016.09.25
+Nepomniachtchi, I.	2740	Kramnik, V.	2808	1-0	2016.09.26
+Nepomniachtchi, I.	2740	Mamedyarov, S.	2761	1-0	2016.09.26
+Nepomniachtchi, I.	2767	Fressinet, L.	2672	1-0	2016.12.26
+Nepomniachtchi, I.	2767	Adhiban, Baskaran	2666	1-0	2016.12.26
+Nepomniachtchi, I.	2767	Ivanchuk, V.	2747	1-0	2016.12.26
+Nepomniachtchi, I.	2767	Borisek, J.	2561	1-0	2016.12.26
+Nepomniachtchi, I.	2767	Howell, D.	2644	1-0	2016.12.29
+Nepomniachtchi, I.	2767	Naiditsch, A.	2687	1-0	2016.12.29
+Nepomniachtchi, I.	2767	Volokitin, And	2649	1-0	2016.12.29
+Nepomniachtchi, I.	2719	Yu Yangyi	2737	1/2-1/2	2016.06.11
+Nepomniachtchi, I.	2719	Jobava, Ba	2669	1/2-1/2	2016.06.18
+Nepomniachtchi, I.	2719	Ponomariov, R.	2706	1/2-1/2	2016.06.18
+Nepomniachtchi, I.	2703	Kamsky, G.	2670	1/2-1/2	2016.05.01
+Nepomniachtchi, I.	2704	Rakhmanov, Ale	2650	1/2-1/2	2016.03.01
+Nepomniachtchi, I.	2704	Wen Yang	2609	1/2-1/2	2016.03.01
+Nepomniachtchi, I.	2704	Timofeev, Arty	2593	1/2-1/2	2016.03.01
+Nepomniachtchi, I.	2725	Wang Hao	2734	1/2-1/2	2016.07.08
+Nepomniachtchi, I.	2740	So, W.	2782	0-1	2016.09.02
+Nepomniachtchi, I.	2740	Brunello, S.	2568	1/2-1/2	2016.09.02
+Nepomniachtchi, I.	2740	Kramnik, V.	2808	1/2-1/2	2016.09.25
+Nepomniachtchi, I.	2740	Anand, V.	2776	1/2-1/2	2016.09.25
+Nepomniachtchi, I.	2740	Svidler, P.	2745	1/2-1/2	2016.09.25
+Nepomniachtchi, I.	2740	Aronian, L.	2795	1/2-1/2	2016.09.26
+Nepomniachtchi, I.	2740	Anand, V.	2776	1/2-1/2	2016.09.26
+Nepomniachtchi, I.	2767	Pantsulaia, L.	2607	1/2-1/2	2016.12.26
+Nepomniachtchi, I.	2767	Carlsen, M.	2840	0-1	2016.12.26
+Nepomniachtchi, I.	2767	Aronian, L.	2785	1/2-1/2	2016.12.26
+Nepomniachtchi, I.	2767	Jobava, Ba	2702	1/2-1/2	2016.12.29
+Nepomniachtchi, I.	2767	Cheparinov, I.	2689	1/2-1/2	2016.12.29
+Nepomniachtchi, I.	2767	Dubov, Daniil	2660	1/2-1/2	2016.12.29
+Nepomniachtchi, I.	2767	Yu Yangyi	2729	1-0	2016.12.29
+Nepomniachtchi, I.	2767	Salem, AR.	2656	0-1	2016.12.29
+Nepomniachtchi, I.	2767	Dreev, A.	2652	1/2-1/2	2016.12.29
+Nepomniachtchi, I.	2767	Karjakin, Sergey	2785	0-1	2016.12.29
+Wen Yang	2611	Nepomniachtchi, I.	2719	0-1	2016.06.11
+Jobava, Ba	2669	Nepomniachtchi, I.	2719	0-1	2016.06.18
+Grischuk, A.	2747	Nepomniachtchi, I.	2719	0-1	2016.06.18
+Aleksandrov, A.	2577	Nepomniachtchi, I.	2719	0-1	2016.06.18
+Kazhgaleyev, M.	2582	Nepomniachtchi, I.	2719	1-0	2016.06.18
+Ponomariov, R.	2706	Nepomniachtchi, I.	2719	1-0	2016.06.18
+Hou Yifan	2663	Nepomniachtchi, I.	2719	1-0	2016.06.18
+Sanikidze, T.	2548	Nepomniachtchi, I.	2719	0-1	2016.06.18
+Dominguez Perez, L.	2732	Nepomniachtchi, I.	2703	0-1	2016.05.01
+Kovalev, Vl	2560	Nepomniachtchi, I.	2704	0-1	2016.03.01
+Yu Yangyi	2734	Nepomniachtchi, I.	2725	1-0	2016.07.08
+Leko, P.	2712	Nepomniachtchi, I.	2725	0-1	2016.07.08
+Harikrishna, P.	2755	Nepomniachtchi, I.	2725	1-0	2016.07.08
+Adu, O.	2334	Nepomniachtchi, I.	2740	0-1	2016.09.02
+Svetushkin, D.	2543	Nepomniachtchi, I.	2740	0-1	2016.09.02
+Korobov, A.	2675	Nepomniachtchi, I.	2740	0-1	2016.09.02
+Gelfand, B.	2743	Nepomniachtchi, I.	2740	0-1	2016.09.25
+Tomashevsky, E.	2731	Nepomniachtchi, I.	2740	0-1	2016.09.25
+Aronian, L.	2795	Nepomniachtchi, I.	2740	1-0	2016.09.25
+Mamedyarov, S.	2761	Nepomniachtchi, I.	2740	1-0	2016.09.25
+Grischuk, A.	2737	Nepomniachtchi, I.	2767	1-0	2016.12.26
+Korobov, A.	2692	Nepomniachtchi, I.	2767	0-1	2016.12.26
+Riazantsev, A.	2671	Nepomniachtchi, I.	2767	1-0	2016.12.29
+Grischuk, A.	2737	Nepomniachtchi, I.	2767	1-0	2016.12.29
+Nepomniachtchi, I.	2767	Anand, V.	2779	1/2-1/2	2016.12.29
+Wang Yue	2728	Nepomniachtchi, I.	2719	1/2-1/2	2016.06.11
+Zhou Jianchao	2617	Nepomniachtchi, I.	2719	1/2-1/2	2016.06.11
+Wang Hao	2734	Nepomniachtchi, I.	2719	1/2-1/2	2016.06.18
+Artemiev, V.	2653	Nepomniachtchi, I.	2719	1/2-1/2	2016.06.18
+Sjugirov, S.	2665	Nepomniachtchi, I.	2719	1/2-1/2	2016.06.18
+Svidler, P.	2762	Nepomniachtchi, I.	2703	1/2-1/2	2016.05.01
+Tomashevsky, E.	2722	Nepomniachtchi, I.	2703	1/2-1/2	2016.05.01
+Sjugirov, S.	2674	Nepomniachtchi, I.	2703	1/2-1/2	2016.05.01
+Sasikiran, K.	2637	Nepomniachtchi, I.	2704	1/2-1/2	2016.03.01
+Zvjaginsev, V.	2662	Nepomniachtchi, I.	2704	1/2-1/2	2016.03.01
+Salem, AR.	2615	Nepomniachtchi, I.	2704	1/2-1/2	2016.03.01
+Demchenko, A.	2583	Nepomniachtchi, I.	2704	1/2-1/2	2016.03.01
+Ivanchuk, V.	2728	Nepomniachtchi, I.	2725	1/2-1/2	2016.07.08
+Vidit, S.	2669	Nepomniachtchi, I.	2740	1/2-1/2	2016.09.02
+Li Chao2	2746	Nepomniachtchi, I.	2740	1/2-1/2	2016.09.25
+Svidler, P.	2745	Nepomniachtchi, I.	2740	1/2-1/2	2016.09.26
+Giri, A.	2755	Nepomniachtchi, I.	2740	1/2-1/2	2016.09.26
+Gelfand, B.	2743	Nepomniachtchi, I.	2740	1/2-1/2	2016.09.26
+Yu Yangyi	2729	Nepomniachtchi, I.	2767	0-1	2016.12.26
+Akopian, Vl	2675	Nepomniachtchi, I.	2767	0-1	2016.12.26
+Malakhov, V.	2713	Nepomniachtchi, I.	2767	0-1	2016.12.29
+Khusnutdinov, R.	2458	Nepomniachtchi, I.	2767	0-1	2016.12.29
+Amin, B.	2662	Nepomniachtchi, I.	2767	0-1	2016.12.29
+Bu Xiangzhi	2705	Nepomniachtchi, I.	2767	0-1	2016.12.29
+Morozevich, A.	2676	Nepomniachtchi, I.	2767	0-1	2016.12.29
+Aronian, Levon	2773	Nepomniachtchi, Ian	2740	1/2-1/2	2022.03.05
+Tabatabaei, M. Amin	2544	Nepomniachtchi, Ian	2740	1/2-1/2	2022.04.02
+Paravyan, David	2569	Nepomniachtchi, Ian	2740	1/2-1/2	2022.04.02
+Dreev, Aleksey	2625	Nepomniachtchi, Ian	2740	1/2-1/2	2022.04.02
+Vidit, Santosh Gujrathi	2654	Nepomniachtchi, Ian	2740	1/2-1/2	2022.04.30
+Martinez Alcantara, Jose Eduardo	2690	Nepomniachtchi, Ian	2740	1/2-1/2	2022.04.23
+Andreikin, Dmitry	2736	Nepomniachtchi, Ian	2740	1/2-1/2	2022.04.23
+Martinez Alcantara, Jose Eduardo	2690	Nepomniachtchi, Ian	2740	1/2-1/2	2022.04.30
+Giri, Anish	2744	Nepomniachtchi, Ian	2821	1/2-1/2	2022.02.13
+Paravyan, David	2636	Nepomniachtchi, Ian	2821	1/2-1/2	2022.02.13
+Tabatabaei, M. Amin	2585	Nepomniachtchi, Ian	2740	1/2-1/2	2022.02.12
+Kovalev, Vladislav	2530	Nepomniachtchi, Ian	2740	1/2-1/2	2022.02.12
+Rasulov, Vugar	2509	Nepomniachtchi, Ian	2791	1/2-1/2	2022.08.06
+Le, Quang Liem	2642	Nepomniachtchi, Ian	2791	1/2-1/2	2022.08.06
+Nakamura, Hikaru	2850	Nepomniachtchi, Ian	2791	1/2-1/2	2022.08.13
+Kovalev, Vladislav	2530	Nepomniachtchi, Ian	2791	1/2-1/2	2022.08.13
+So, Wesley	2763	Nepomniachtchi, Ian	2791	1/2-1/2	2022.08.14
+Dubov, Daniil	2712	Nepomniachtchi, Ian	2795	1/2-1/2	2022.08.18
+Fedoseev, Vladimir	2739	Nepomniachtchi, Ian	2795	1/2-1/2	2022.08.19
+Xiong, Jeffery	2725	Nepomniachtchi, Ian	2795	1/2-1/2	2022.08.26
+Caruana, Fabiano	2766	Nepomniachtchi, Ian	2795	1/2-1/2	2022.08.26
+Dominguez Perez, Leinier	2705	Nepomniachtchi, Ian	2795	1/2-1/2	2022.08.27
+Firouzja, Alireza	2704	Nepomniachtchi, Ian	2795	1/2-1/2	2022.08.28
+Aronian, Levon	2728	Nepomniachtchi, Ian	2795	1/2-1/2	2022.08.28
+Caruana, Fabiano	2847	Nepomniachtchi, Ian	2791	1/2-1/2	2022.08.29
+Nepomniachtchi, Ian	2789	Grischuk, Alexander	2777	1-0	Sat Feb 06 2021
+Nepomniachtchi, Ian	2789	Nakamura, Hikaru	2736	1-0	Sat Feb 06 2021
+Nepomniachtchi, Ian	2789	Vachier-Lagrave, Maxime	2758	1-0	Sun Mar 14 2021
+Nepomniachtchi, Ian	2789	Pichot, Alan	2630	1-0	Mon Mar 15 2021
+Nepomniachtchi, Ian	2789	Nakamura, Hikaru	2736	1-0	Tue Mar 16 2021
+Nepomniachtchi, Ian	2789	Nakamura, Hikaru	2736	1-0	Wed Mar 17 2021
+Nepomniachtchi, Ian	2789	Alekseenko, Kirill	2696	1-0	Wed Apr 21 2021
+Nepomniachtchi, Ian	2792	Dubov, Daniil	2710	1-0	Sun May 23 2021
+Nepomniachtchi, Ian	2778	Pichot, Alan	2533	1-0	Tue May 25 2021
+Nepomniachtchi, Ian	2792	Aronian, Levon	2781	1-0	Mon May 24 2021
+Nepomniachtchi, Ian	2785	Caruana, Fabiano	2711	1-0	Thu May 27 2021
+Nepomniachtchi, Ian	2778	Caruana, Fabiano	2773	1-0	Wed May 26 2021
+Nepomniachtchi, Ian	2778	Ding, Liren	2836	1-0	Tue May 25 2021
+Nepomniachtchi, Ian	2778	Radjabov, Teimour	2758	1-0	Mon May 31 2021
+Nepomniachtchi, Ian	2778	Radjabov, Teimour	2758	1-0	Mon May 31 2021
+Nepomniachtchi, Ian	2778	Bacrot, Etienne	2667	1-0	2021.06.18
+Nakamura, Hikaru	2850	Nepomniachtchi, Ian	2791	1/2-1/2	2022.08.29
+Vachier-Lagrave, Maxime	2812	Nepomniachtchi, Ian	2791	1/2-1/2	2022.08.30
+Xiong, Jeffery	2714	Nepomniachtchi, Ian	2791	1/2-1/2	2022.08.30
+Aronian, Levon	2850	Nepomniachtchi, Ian	2791	1/2-1/2	2022.08.30
+Dominguez Perez, Leinier	2754	Nepomniachtchi, Ian	2792	1/2-1/2	2022.09.04
+Vachier-Lagrave, Maxime	2757	Nepomniachtchi, Ian	2792	1/2-1/2	2022.09.06
+Mamedyarov, Shakhriyar	2757	Nepomniachtchi, Ian	2792	1/2-1/2	2022.09.09
+Svidler, Peter	2752	Nepomniachtchi, Ian	2779	1/2-1/2	2022.09.24
+Svidler, Peter	2752	Nepomniachtchi, Ian	2779	1/2-1/2	2022.09.24
+Nepomniachtchi, Ian	2789	Dominguez Perez, Leinier	2758	0-1	Mon Feb 08 2021
+Nepomniachtchi, Ian	2789	Bluebaum, Matthias	2670	0-1	Mon Feb 08 2021
+Nepomniachtchi, Ian	2789	Aronian, Levon	2781	0-1	Sat Mar 13 2021
+Nepomniachtchi, Ian	2789	Carlsen, Magnus	2847	0-1	Sun Mar 14 2021
+Nepomniachtchi, Ian	2792	Nakamura, Hikaru	2736	0-1	Sun May 23 2021
+Nepomniachtchi, Ian	2778	Aronian, Levon	2778	1-0	2021.06.19
+Nepomniachtchi, Ian	2785	Svidler, Peter	2754	1-0	2021.06.22
+Nepomniachtchi, Ian	2785	Aronian, Levon	2739	1-0	2021.06.21
+Nepomniachtchi, Ian	2778	Radjabov, Teimour	2758	1-0	2021.06.20
+Nepomniachtchi, Ian	2785	Caruana, Fabiano	2711	1-0	2021.06.21
+Nepomniachtchi, Ian	2791	Mamedyarov, Shakhriyar	2761	1-0	2021.07.07
+Nepomniachtchi, Ian	2791	Grischuk, Alexander	2784	1-0	2021.07.08
+Nepomniachtchi, Ian	2791	Korobov, Anton	2781	1-0	2021.07.07
+Nepomniachtchi, Ian	2807	Korobov, Anton	2668	1-0	2021.07.10
+Nepomniachtchi, Ian	2807	Anand, Viswanathan	2785	1-0	2021.07.10
+Nepomniachtchi, Ian	2807	Van Foreest, Jorden	2622	1-0	2021.07.10
+Nepomniachtchi, Ian	2807	Duda, Jan-Krzysztof	2799	1-0	2021.07.10
+Nepomniachtchi, Ian	2776	Alekseenko, Kirill	2580	1-0	2021.08.16
+Nepomniachtchi, Ian	2776	Kobalia, Mikhail	2569	1-0	2021.08.16
+Nepomniachtchi, Ian	2776	Sjugirov, Sanan	2472	1-0	2021.08.16
+Nepomniachtchi, Ian	2776	Lagno, Kateryna	2608	1-0	2021.08.16
+Nepomniachtchi, Ian	2776	Artemiev, Vladislav	2783	1-0	2021.08.16
+Nepomniachtchi, Ian	2792	Firouzja, Alireza	2754	1-0	2021.09.08
+Nepomniachtchi, Ian	2792	Karjakin, Sergey	2758	1-0	2021.09.11
+Nepomniachtchi, Ian	2792	Rapport, Richard	2760	1-0	2021.09.12
+Nepomniachtchi, Ian	2789	Carlsen, Magnus	2862	1/2-1/2	Sun Feb 07 2021
+Nepomniachtchi, Ian	2789	Radjabov, Teimour	2765	1/2-1/2	Sun Feb 07 2021
+Nepomniachtchi, Ian	2789	So, Wesley	2770	1/2-1/2	Mon Feb 08 2021
+Nepomniachtchi, Ian	2789	Nakamura, Hikaru	2736	1/2-1/2	Sat Mar 13 2021
+Nepomniachtchi, Ian	2789	Grandelius, Nils	2670	1/2-1/2	Sun Mar 14 2021
+Nepomniachtchi, Ian	2789	Nakamura, Hikaru	2736	1/2-1/2	Tue Mar 16 2021
+Nepomniachtchi, Ian	2789	Nakamura, Hikaru	2736	1/2-1/2	Wed Mar 17 2021
+Nepomniachtchi, Ian	2789	Carlsen, Magnus	2847	1/2-1/2	Thu Mar 18 2021
+Nepomniachtchi, Ian	2789	Carlsen, Magnus	2847	1/2-1/2	Thu Mar 18 2021
+Nepomniachtchi, Ian	2789	Carlsen, Magnus	2847	1/2-1/2	Fri Mar 19 2021
+Nepomniachtchi, Ian	2789	Carlsen, Magnus	2847	1/2-1/2	Fri Mar 19 2021
+Nepomniachtchi, Ian	2789	Giri, Anish	2776	1/2-1/2	Sun Mar 21 2021
+Nepomniachtchi, Ian	2789	Giri, Anish	2776	1/2-1/2	Sun Mar 21 2021
+Nepomniachtchi, Ian	2789	Giri, Anish	2776	1/2-1/2	Sun Mar 21 2021
+Nepomniachtchi, Ian	2792	Radjabov, Teimour	2765	0-1	Mon May 24 2021
+Nepomniachtchi, Ian	2778	So, Wesley	2741	0-1	Fri May 28 2021
+Nepomniachtchi, Ian	2778	So, Wesley	2741	0-1	Sat May 29 2021
+Nepomniachtchi, Ian	2785	Firouzja, Alireza	2770	0-1	2021.06.21
+Nepomniachtchi, Ian	2785	So, Wesley	2816	0-1	2021.06.22
+Nepomniachtchi, Ian	2791	Saric, Ivan	2650	0-1	2021.07.08
+Nepomniachtchi, Ian	2807	Mamedyarov, Shakhriyar	2716	0-1	2021.07.11
+Nepomniachtchi, Ian	2776	Matlakov, Maxim	2760	0-1	2021.08.16
+Nepomniachtchi, Ian	2792	Tari, Aryan	2642	0-1	2021.09.15
+Nepomniachtchi, Ian	2792	Carlsen, Magnus	2855	0-1	2021.09.17
+Nepomniachtchi, Ian	2782	Carlsen, Magnus	2856	0-1	2021.12.10
+Nepomniachtchi, Ian	2789	Giri, Anish	2776	1/2-1/2	Sun Mar 21 2021
+Nepomniachtchi, Ian	2789	Giri, Anish	2776	1/2-1/2	Sun Mar 21 2021
+Nepomniachtchi, Ian	2789	Giri, Anish	2776	1/2-1/2	Mon Apr 19 2021
+Nepomniachtchi, Ian	2789	Caruana, Fabiano	2820	1/2-1/2	Fri Apr 23 2021
+Nepomniachtchi, Ian	2789	Vachier-Lagrave, Maxime	2758	1/2-1/2	Mon Apr 26 2021
+Nepomniachtchi, Ian	2792	Svidler, Peter	2714	1/2-1/2	Sun May 23 2021
+Nepomniachtchi, Ian	2792	So, Wesley	2770	1/2-1/2	Mon May 24 2021
+Nepomniachtchi, Ian	2778	Caruana, Fabiano	2773	1/2-1/2	Thu May 27 2021
+Nepomniachtchi, Ian	2778	Caruana, Fabiano	2773	1/2-1/2	Thu May 27 2021
+Nepomniachtchi, Ian	2778	Caruana, Fabiano	2773	1/2-1/2	Wed May 26 2021
+Nepomniachtchi, Ian	2778	So, Wesley	2741	1/2-1/2	Fri May 28 2021
+Nepomniachtchi, Ian	2778	So, Wesley	2741	1/2-1/2	Sat May 29 2021
+Nepomniachtchi, Ian	2778	Firouzja, Alireza	2703	1/2-1/2	2021.06.20
+Nepomniachtchi, Ian	2785	Kramnik, Vladimir	2797	1/2-1/2	2021.06.22
+Nepomniachtchi, Ian	2785	Radjabov, Teimour	2757	1/2-1/2	2021.06.22
+Nepomniachtchi, Ian	2785	Vachier-Lagrave, Maxime	2822	1/2-1/2	2021.06.21
+Nepomniachtchi, Ian	2785	Rapport, Richard	2759	1/2-1/2	2021.06.21
+Nepomniachtchi, Ian	2791	Van Foreest, Jorden	2543	1/2-1/2	2021.07.09
+Nepomniachtchi, Ian	2807	Giri, Anish	2744	1/2-1/2	2021.07.10
+Nepomniachtchi, Ian	2807	Kasparov, Garry	2801	1/2-1/2	2021.07.11
+Nepomniachtchi, Ian	2807	Vachier-Lagrave, Maxime	2794	1/2-1/2	2021.07.11
+Nepomniachtchi, Ian	2807	Grischuk, Alexander	2765	1/2-1/2	2021.07.11
+Nepomniachtchi, Ian	2776	Grischuk, Alexander	2777	1/2-1/2	2021.08.16
+Nepomniachtchi, Ian	2792	Firouzja, Alireza	2754	1/2-1/2	2021.09.08
+Nepomniachtchi, Ian	2792	Rapport, Richard	2760	1/2-1/2	2021.09.12
+Nepomniachtchi, Ian	2766	Firouzja, Alireza	2793	1-0	2022.06.21
+Nepomniachtchi, Ian	2766	Duda, Jan-Krzysztof	2750	1-0	2022.06.23
+Nepomniachtchi, Ian	2740	Kosteniuk, Alexandra	2469	1-0	2022.03.12
+Nepomniachtchi, Ian	2740	Bok, Benjamin	2658	1-0	2022.03.12
+Nepomniachtchi, Ian	2740	Sadhwani, Raunak	2616	1-0	2022.03.12
+Nepomniachtchi, Ian	2740	Anton Guijarro, David	2584	1-0	2022.03.12
+Nepomniachtchi, Ian	2740	Ponkratov, Pavel	2487	1-0	2022.03.05
+Nepomniachtchi, Ian	2740	Bok, Benjamin	2658	1-0	2022.03.05
+Nepomniachtchi, Ian	2740	Fedoseev, Vladimir	2726	1-0	2022.03.12
+Nepomniachtchi, Ian	2740	Bortnyk, Olexandr	2723	1-0	2022.04.02
+Nepomniachtchi, Ian	2740	Matlakov, Maxim	2669	1-0	2022.04.02
+Nepomniachtchi, Ian	2740	Alekseenko, Kirill	2682	1-0	2022.04.09
+Nepomniachtchi, Ian	2740	Grischuk, Alexander	2762	1-0	2022.04.02
+Nepomniachtchi, Ian	2740	Hansen, Eric	2568	1-0	2022.04.09
+Nepomniachtchi, Ian	2740	Kovalev, Vladislav	2530	1-0	2022.04.23
+Nepomniachtchi, Ian	2740	Fedoseev, Vladimir	2726	1-0	2022.04.23
+Nepomniachtchi, Ian	2821	Grischuk, Alexander	2759	1-0	2022.05.01
+Nepomniachtchi, Ian	2821	Giri, Anish	2730	1-0	2022.05.01
+Nepomniachtchi, Ian	2740	Demchenko, Anton	2539	1-0	2022.04.30
+Nepomniachtchi, Ian	2821	Abdusattorov, Nodirbek	2670	1-0	2022.05.01
+Nepomniachtchi, Ian	2740	Grischuk, Alexander	2762	1-0	2022.04.30
+Nepomniachtchi, Ian	2740	Hakobyan, Aram	2557	1-0	2022.02.12
+Nepomniachtchi, Ian	2740	Giri, Anish	2766	1-0	2022.02.13
+Nepomniachtchi, Ian	2740	Paravyan, David	2569	1-0	2022.02.13
+Nepomniachtchi, Ian	2740	Sadhwani, Raunak	2616	1-0	2022.02.12

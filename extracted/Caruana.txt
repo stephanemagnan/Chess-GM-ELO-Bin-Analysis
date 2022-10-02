@@ -1,0 +1,1251 @@
+White	White ELO	Black	Black ELO	Result	Date
+Caruana, Fabiano	2744	Tari, Aryan	2567	1-0	2022.04.16
+Caruana, Fabiano	2744	Andreikin, Dmitry	2736	1-0	2022.05.28
+Caruana, Fabiano	2744	Bortnyk, Olexandr	2723	1-0	2022.05.28
+Caruana, Fabiano	2784	Alekseenko, Kirill	2639	1-0	2022.02.13
+Caruana, Fabiano	2744	Kovalev, Vladislav	2530	1-0	2022.02.12
+Caruana, Fabiano	2744	Niemann, Hans Moke	2636	1-0	2022.02.12
+Caruana, Fabiano	2847	Bharath, Subramaniyam H	2242	1-0	2022.07.16
+Caruana, Fabiano	2847	Vokhidov, Shamsiddin	2619	1-0	2022.07.16
+Caruana, Fabiano	2783	Maghsoodloo, Parham	2701	1-0	2022.08.03
+Caruana, Fabiano	2776	Yilmaz, Mustafa	2634	1-0	2022.08.08
+Caruana, Fabiano	2766	Matlakov, Maxim	2671	1-0	2022.08.19
+Caruana, Fabiano	2847	Dauner, Benedikt	2256	1-0	2022.08.23
+Caruana, Fabiano	2847	Goltsev, Dmitry	2258	1-0	2022.08.23
+Caruana, Fabiano	2847	Makarian, Rudik	2403	1-0	2022.08.23
+Caruana, Fabiano	2847	Andreikin, Dmitry	2736	1-0	2022.08.23
+Caruana, Fabiano	2847	Dominguez Perez, Leinier	2708	1-0	2022.08.29
+Caruana, Fabiano	2847	Shankland, Sam	2645	1-0	2022.08.30
+Caruana, Fabiano	2847	Mamedyarov, Shakhriyar	2710	1-0	2022.08.30
+Caruana, Fabiano	2758	Vachier-Lagrave, Maxime	2757	1-0	2022.09.05
+Caruana, Fabiano	2747	Kravtsiv, Martyn	2675	1-0	2022.09.19
+Caruana, Fabiano	2847	Panarin, Mikhail	2495	1-0	2022.09.20
+Caruana, Fabiano	2847	Ilkhomi, Jaloliddin	1440	1-0	2022.09.20
+Caruana, Fabiano	2847	Paravyan, David	2555	1-0	2022.09.20
+Caruana, Fabiano	2747	Martinez Alcantara, Jose Eduardo	2645	1-0	2022.09.21
+Caruana, Fabiano	2847	Abdisalimov, Abdimalik	2401	1-0	2022.09.27
+Caruana, Fabiano	2820	Giri, Anish	2776	0-1	Sat Apr 24 2021
+Caruana, Fabiano	2820	Mamedyarov, Shakhriyar	2770	0-1	2021.06.12
+Caruana, Fabiano	2734	So, Wesley	2861	1-0	2021.08.14
+Caruana, Fabiano	2734	Svidler, Peter	2743	1-0	2021.08.15
+Caruana, Fabiano	2734	Le, Quang Liem	2690	1-0	2021.08.15
+Caruana, Fabiano	2806	Shankland, Sam	2709	1-0	2021.08.17
+Caruana, Fabiano	2806	Swiercz, Dariusz	2655	1-0	2021.08.19
+Caruana, Fabiano	2800	Burke, John M	2554	1-0	2021.10.08
+Caruana, Fabiano	2800	Robson, Ray	2669	1-0	2021.10.13
+Caruana, Fabiano	2800	Swiercz, Dariusz	2647	1-0	2021.10.16
+Caruana, Fabiano	2800	Chigaev, Maksim	2639	1-0	2021.10.27
+Caruana, Fabiano	2800	Howell, David W L	2658	1-0	2021.10.31
+Caruana, Fabiano	2791	Firouzja, Alireza	2770	1-0	2021.11.05
+Caruana, Fabiano	2765	Tabatabaei, M. Amin	2555	1-0	2021.11.08
+Caruana, Fabiano	2765	Vokhidov, Shamsiddin	2616	1-0	2021.11.08
+Caruana, Fabiano	2765	Erigaisi, Arjun	2616	1-0	2021.11.08
+Caruana, Fabiano	2765	Dubov, Daniil	2747	1-0	2021.11.08
+Caruana, Fabiano	2765	Shevchenko, Kirill	2574	1-0	2021.11.08
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	1-0	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	1-0	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	1-0	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	1-0	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	1-0	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	1-0	2021.11.29
+Caruana, Fabiano	2803	So, Wesley	2814	1-0	2021.12.09
+Caruana, Fabiano	2823	Anton Guijarro, David	2679	1/2-1/2	Sat Jan 30 2021
+Caruana, Fabiano	2823	Esipenko, Andrey	2677	1/2-1/2	Thu Jan 21 2021
+Caruana, Fabiano	2823	Giri, Anish	2764	1/2-1/2	Sun Jan 24 2021
+Caruana, Fabiano	2773	So, Wesley	2741	0-1	2021.06.20
+Caruana, Fabiano	2773	Bacrot, Etienne	2667	0-1	2021.06.20
+Caruana, Fabiano	2711	Radjabov, Teimour	2757	0-1	2021.06.21
+Caruana, Fabiano	2806	Jumabayev, Rinat	2637	0-1	2021.07.19
+Caruana, Fabiano	2758	Rapport, Richard	2724	0-1	2021.08.13
+Caruana, Fabiano	2734	Xiong, Jeffery	2724	0-1	2021.08.14
+Caruana, Fabiano	2734	Dominguez Perez, Leinier	2654	0-1	2021.08.15
+Caruana, Fabiano	2800	Naroditsky, Daniel	2623	0-1	2021.10.11
+Caruana, Fabiano	2775	So, Wesley	2766	0-1	2021.10.19
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	0-1	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	0-1	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	0-1	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	0-1	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	0-1	2021.11.29
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	0-1	2021.11.29
+Caruana, Fabiano	2803	So, Wesley	2814	0-1	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	0-1	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	0-1	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	0-1	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	0-1	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	0-1	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	0-1	2021.12.09
+Caruana, Fabiano	2823	Carlsen, Magnus	2862	1/2-1/2	Wed Jan 27 2021
+Caruana, Fabiano	2823	Van Foreest, Jorden	2671	1/2-1/2	Sat Jan 16 2021
+Caruana, Fabiano	2823	Duda, Jan-Krzysztof	2743	1/2-1/2	Mon Jan 18 2021
+Caruana, Fabiano	2820	Ding, Liren	2791	1/2-1/2	Wed Apr 21 2021
+Caruana, Fabiano	2820	Grischuk, Alexander	2777	1/2-1/2	Tue Apr 27 2021
+Caruana, Fabiano	2820	Firouzja, Alireza	2759	1/2-1/2	Sun May 23 2021
+Caruana, Fabiano	2820	Radjabov, Teimour	2765	1/2-1/2	Sun May 23 2021
+Caruana, Fabiano	2820	Aronian, Levon	2781	1/2-1/2	Sun May 23 2021
+Caruana, Fabiano	2820	Vachier-Lagrave, Maxime	2760	1/2-1/2	Mon May 24 2021
+Caruana, Fabiano	2773	Nepomniachtchi, Ian	2778	1/2-1/2	Thu May 27 2021
+Caruana, Fabiano	2773	Nepomniachtchi, Ian	2778	1/2-1/2	Thu May 27 2021
+Caruana, Fabiano	2711	Nepomniachtchi, Ian	2785	1/2-1/2	Thu May 27 2021
+Caruana, Fabiano	2773	Nepomniachtchi, Ian	2778	1/2-1/2	Wed May 26 2021
+Caruana, Fabiano	2773	Carlsen, Magnus	2881	1/2-1/2	Tue May 25 2021
+Caruana, Fabiano	2820	Giri, Anish	2780	1/2-1/2	2021.06.09
+Caruana, Fabiano	2820	Deac, Bogdan-Daniel	2627	1/2-1/2	2021.06.14
+Caruana, Fabiano	2773	Nepomniachtchi, Ian	2778	1/2-1/2	2021.06.18
+Caruana, Fabiano	2773	Vachier-Lagrave, Maxime	2860	1/2-1/2	2021.06.18
+Caruana, Fabiano	2711	Nepomniachtchi, Ian	2785	1/2-1/2	2021.06.22
+Caruana, Fabiano	2711	Vachier-Lagrave, Maxime	2822	1/2-1/2	2021.06.22
+Caruana, Fabiano	2711	Svidler, Peter	2754	1/2-1/2	2021.06.21
+Caruana, Fabiano	2711	Aronian, Levon	2739	1/2-1/2	2021.06.22
+Caruana, Fabiano	2711	Kramnik, Vladimir	2797	1/2-1/2	2021.06.21
+Caruana, Fabiano	2711	Rapport, Richard	2759	1/2-1/2	2021.06.21
+Caruana, Fabiano	2758	Svidler, Peter	2745	1/2-1/2	2021.08.11
+Mamedyarov, Shakhriyar	2770	Caruana, Fabiano	2820	1-0	Sun May 23 2021
+Nepomniachtchi, Ian	2785	Caruana, Fabiano	2711	1-0	Thu May 27 2021
+Nepomniachtchi, Ian	2778	Caruana, Fabiano	2773	1-0	Wed May 26 2021
+So, Wesley	2770	Caruana, Fabiano	2820	1-0	2021.06.08
+Caruana, Fabiano	2734	Nakamura, Hikaru	2900	1/2-1/2	2021.08.14
+Caruana, Fabiano	2734	Mamedyarov, Shakhriyar	2755	1/2-1/2	2021.08.15
+Caruana, Fabiano	2734	Rapport, Richard	2776	1/2-1/2	2021.08.16
+Caruana, Fabiano	2806	So, Wesley	2772	1/2-1/2	2021.08.20
+Caruana, Fabiano	2806	Vachier-Lagrave, Maxime	2751	1/2-1/2	2021.08.23
+Caruana, Fabiano	2806	Svidler, Peter	2714	1/2-1/2	2021.08.25
+Caruana, Fabiano	2800	Bruzon Batista, Lazaro	2645	1/2-1/2	2021.10.06
+Caruana, Fabiano	2800	Shankland, Sam	2714	1/2-1/2	2021.10.18
+Caruana, Fabiano	2800	Saric, Ivan	2644	1/2-1/2	2021.10.29
+Caruana, Fabiano	2800	Sevian, Samuel	2654	1/2-1/2	2021.11.03
+Caruana, Fabiano	2791	Predke, Alexandr	2668	1/2-1/2	2021.11.07
+Caruana, Fabiano	2765	Svidler, Peter	2709	1/2-1/2	2021.11.08
+Caruana, Fabiano	2765	Aronian, Levon	2767	1/2-1/2	2021.11.08
+Caruana, Fabiano	2765	Korobov, Anton	2718	1/2-1/2	2021.11.08
+Caruana, Fabiano	2765	Onyshchuk, Volodymyr	2603	1/2-1/2	2021.11.08
+Caruana, Fabiano	2765	Vachier-Lagrave, Maxime	2838	1/2-1/2	2021.11.29
+Caruana, Fabiano	2803	So, Wesley	2814	1/2-1/2	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	1/2-1/2	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	1/2-1/2	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	1/2-1/2	2021.12.09
+Caruana, Fabiano	2803	So, Wesley	2814	1/2-1/2	2021.12.09
+Wojtaszek, Radoslaw	2705	Caruana, Fabiano	2823	0-1	Tue Jan 26 2021
+Donchenko, Alexander	2668	Caruana, Fabiano	2823	0-1	Sun Jan 17 2021
+Wang, Hao	2763	Caruana, Fabiano	2820	0-1	Mon Apr 26 2021
+Rapport, Richard	2759	Caruana, Fabiano	2711	1-0	2021.06.22
+Vachier-Lagrave, Maxime	2822	Caruana, Fabiano	2711	1-0	2021.06.21
+Nepomniachtchi, Ian	2785	Caruana, Fabiano	2711	1-0	2021.06.21
+Nakamura, Hikaru	2829	Caruana, Fabiano	2758	1-0	2021.08.13
+Shankland, Sam	2609	Caruana, Fabiano	2758	1-0	2021.08.12
+Mamedyarov, Shakhriyar	2755	Caruana, Fabiano	2734	1-0	2021.08.14
+Svidler, Peter	2743	Caruana, Fabiano	2734	1-0	2021.08.14
+Nakamura, Hikaru	2900	Caruana, Fabiano	2734	1-0	2021.08.15
+Xiong, Jeffery	2710	Caruana, Fabiano	2806	1-0	2021.08.21
+Sevian, Samuel	2654	Caruana, Fabiano	2800	1-0	2021.10.12
+Erigaisi, Arjun	2616	Caruana, Fabiano	2765	1-0	2021.11.08
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	1-0	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	1-0	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	1-0	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	1-0	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	1-0	2021.11.29
+So, Wesley	2814	Caruana, Fabiano	2803	1-0	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	1-0	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	1-0	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	1-0	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	1-0	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	1-0	2021.12.09
+Svidler, Peter	2714	Caruana, Fabiano	2820	0-1	Sun May 23 2021
+Dubov, Daniil	2770	Caruana, Fabiano	2773	0-1	Tue May 25 2021
+Pichot, Alan	2630	Caruana, Fabiano	2820	0-1	Mon May 24 2021
+Radjabov, Teimour	2757	Caruana, Fabiano	2711	0-1	2021.06.22
+Firouzja, Alireza	2770	Caruana, Fabiano	2711	0-1	2021.06.21
+Svidler, Peter	2754	Caruana, Fabiano	2711	0-1	2021.06.22
+Le, Quang Liem	2744	Caruana, Fabiano	2758	0-1	2021.08.11
+So, Wesley	2774	Caruana, Fabiano	2758	0-1	2021.08.12
+Le, Quang Liem	2690	Caruana, Fabiano	2734	0-1	2021.08.14
+So, Wesley	2861	Caruana, Fabiano	2734	0-1	2021.08.15
+Shankland, Sam	2704	Caruana, Fabiano	2734	0-1	2021.08.15
+Mamedyarov, Shakhriyar	2782	Caruana, Fabiano	2806	0-1	2021.08.24
+Lenderman, Aleksandr	2607	Caruana, Fabiano	2800	0-1	2021.10.17
+Sevian, Samuel	2597	Caruana, Fabiano	2775	0-1	2021.10.19
+Grandelius, Nils	2662	Caruana, Fabiano	2800	0-1	2021.11.04
+Tabatabaei, M. Amin	2555	Caruana, Fabiano	2765	0-1	2021.11.08
+Shevchenko, Kirill	2574	Caruana, Fabiano	2765	0-1	2021.11.08
+Dubov, Daniil	2747	Caruana, Fabiano	2765	0-1	2021.11.08
+Aronian, Levon	2767	Caruana, Fabiano	2765	0-1	2021.11.08
+Onyshchuk, Volodymyr	2603	Caruana, Fabiano	2765	0-1	2021.11.08
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	0-1	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	0-1	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	0-1	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	0-1	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	0-1	2021.11.29
+Firouzja, Alireza	2749	Caruana, Fabiano	2823	1/2-1/2	Fri Jan 29 2021
+Tari, Aryan	2625	Caruana, Fabiano	2823	1/2-1/2	Sun Jan 31 2021
+Grandelius, Nils	2663	Caruana, Fabiano	2823	1/2-1/2	Fri Jan 22 2021
+Harikrishna, Pentala	2732	Caruana, Fabiano	2823	1/2-1/2	Tue Jan 19 2021
+Alekseenko, Kirill	2696	Caruana, Fabiano	2820	1/2-1/2	Tue Apr 20 2021
+Nepomniachtchi, Ian	2789	Caruana, Fabiano	2820	1/2-1/2	Fri Apr 23 2021
+Ding, Liren	2836	Caruana, Fabiano	2773	1/2-1/2	Tue May 25 2021
+Nepomniachtchi, Ian	2778	Caruana, Fabiano	2773	1/2-1/2	Thu May 27 2021
+Nepomniachtchi, Ian	2778	Caruana, Fabiano	2773	1/2-1/2	Thu May 27 2021
+Nepomniachtchi, Ian	2778	Caruana, Fabiano	2773	1/2-1/2	Wed May 26 2021
+Aronian, Levon	2781	Caruana, Fabiano	2820	1/2-1/2	2021.06.07
+Vachier-Lagrave, Maxime	2760	Caruana, Fabiano	2820	1/2-1/2	2021.06.11
+Grischuk, Alexander	2776	Caruana, Fabiano	2820	1/2-1/2	2021.06.13
+Aronian, Levon	2778	Caruana, Fabiano	2773	1/2-1/2	2021.06.18
+Radjabov, Teimour	2758	Caruana, Fabiano	2773	1/2-1/2	2021.06.19
+Firouzja, Alireza	2703	Caruana, Fabiano	2773	1/2-1/2	2021.06.19
+Rapport, Richard	2727	Caruana, Fabiano	2773	1/2-1/2	2021.06.20
+So, Wesley	2816	Caruana, Fabiano	2711	1/2-1/2	2021.06.22
+Aronian, Levon	2739	Caruana, Fabiano	2711	1/2-1/2	2021.06.21
+Kramnik, Vladimir	2797	Caruana, Fabiano	2711	1/2-1/2	2021.06.22
+Jumabayev, Rinat	2637	Caruana, Fabiano	2806	1/2-1/2	2021.07.18
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	0-1	2021.11.29
+So, Wesley	2814	Caruana, Fabiano	2803	0-1	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	0-1	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	0-1	2021.12.09
+Caruana, Fabiano	0	Yu, Yangyi	0	1-0	Mon Jan 13 2020
+Caruana, Fabiano	0	Dubov, Daniil	0	1-0	Sat Jan 18 2020
+Dominguez Perez, Leinier	2654	Caruana, Fabiano	2734	1/2-1/2	2021.08.14
+Rapport, Richard	2776	Caruana, Fabiano	2734	1/2-1/2	2021.08.15
+Xiong, Jeffery	2724	Caruana, Fabiano	2734	1/2-1/2	2021.08.15
+Dominguez Perez, Leinier	2758	Caruana, Fabiano	2806	1/2-1/2	2021.08.18
+Rapport, Richard	2763	Caruana, Fabiano	2806	1/2-1/2	2021.08.26
+Dominguez Perez, Leinier	2760	Caruana, Fabiano	2800	1/2-1/2	2021.10.07
+So, Wesley	2778	Caruana, Fabiano	2800	1/2-1/2	2021.10.09
+Xiong, Jeffery	2700	Caruana, Fabiano	2800	1/2-1/2	2021.10.14
+Nihal, Sarin	2652	Caruana, Fabiano	2800	1/2-1/2	2021.10.28
+Najer, Evgeniy	2654	Caruana, Fabiano	2800	1/2-1/2	2021.11.01
+Swiercz, Dariusz	2647	Caruana, Fabiano	2800	1/2-1/2	2021.10.30
+Vachier-Lagrave, Maxime	2766	Caruana, Fabiano	2791	1/2-1/2	2021.11.06
+Svidler, Peter	2709	Caruana, Fabiano	2765	1/2-1/2	2021.11.08
+Vokhidov, Shamsiddin	2616	Caruana, Fabiano	2765	1/2-1/2	2021.11.08
+Korobov, Anton	2718	Caruana, Fabiano	2765	1/2-1/2	2021.11.08
+Carlsen, Magnus	2855	Caruana, Fabiano	2791	1/2-1/2	2021.11.17
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	1/2-1/2	2021.11.29
+Vachier-Lagrave, Maxime	2838	Caruana, Fabiano	2765	1/2-1/2	2021.11.29
+So, Wesley	2814	Caruana, Fabiano	2803	1/2-1/2	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	1/2-1/2	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	1/2-1/2	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	1/2-1/2	2021.12.09
+So, Wesley	2814	Caruana, Fabiano	2803	1/2-1/2	2021.12.09
+Caruana, Fabiano	0	So, Wesley	0	1/2-1/2	Sat Jan 11 2020
+Caruana, Fabiano	0	Van Foreest, Jorden	0	1/2-1/2	Thu Jan 16 2020
+Caruana, Fabiano	0	Anand, Viswanathan	0	1-0	Sun Jan 19 2020
+Caruana, Fabiano	0	Firouzja, Alireza	0	1-0	Wed Jan 22 2020
+Kovalev, Vladislav	0	Caruana, Fabiano	0	0-1	Fri Jan 24 2020
+Caruana, Fabiano	0	Duda, Jan-Krzysztof	0	1-0	Sat Jan 25 2020
+Artemiev, Vladislav	0	Caruana, Fabiano	0	0-1	Sun Jan 26 2020
+Caruana,F	2822	Yu Yangyi	2726	1-0	2020.01.11
+Caruana,F	2822	Bruzon Batista,L	2640	1-0	2020.01.06
+Caruana,F	2822	Robson,R	2673	1-0	2020.01.06
+Moranda,W	2601	Caruana,F	2822	0-1	2020.01.06
+Caruana,F	2822	Sevian,Samuel	2660	0-1	2020.01.06
+Caruana,F	2822	Guseinov,G	2666	1-0	2020.01.06
+Nakamura,Hi	2736	Caruana,F	2822	0-1	2020.01.06
+Zierk,S	2509	Caruana,F	2822	1-0	2020.01.06
+Caruana,F	2822	Naroditsky,D	2621	1-0	2020.01.06
+Caruana,F	2822	Swiercz,D	2659	1-0	2020.01.06
+Oparin,G	2650	Caruana,F	2822	1-0	2020.01.06
+Caruana,F	2842	Saric,Iv	2646	1-0	2020.01.06
+Caruana,F	2842	Firouzja,Alireza	2726	0-1	2020.01.06
+Grischuk,A	2777	Caruana,F	2842	1-0	2020.01.06
+Caruana, Fabiano	2787	Alekseenko, Kirill	2568	1-0	Wed Mar 18 2020
+Ding, Liren	2776	Caruana, Fabiano	2787	1-0	Thu Mar 19 2020
+Caruana, Fabiano	2787	Nepomniachtchi, Ian	2707	1/2-1/2	Sat Mar 21 2020
+Caruana, Fabiano	2823	Wang, Hao	2763	1/2-1/2	Wed Mar 25 2020
+Caruana, Fabiano	0	Karjakin, Sergey	0	1-0	Thu Nov 07 2019
+Caruana, Fabiano	0	Karjakin, Sergey	0	1-0	Sat Nov 09 2019
+Giri, Anish	0	Caruana, Fabiano	0	1/2-1/2	Sun Jan 12 2020
+Xiong, Jeffery	0	Caruana, Fabiano	0	1/2-1/2	Tue Jan 14 2020
+Carlsen, Magnus	0	Caruana, Fabiano	0	1/2-1/2	Fri Jan 17 2020
+Vitiugov, Nikita	0	Caruana, Fabiano	0	1/2-1/2	Tue Jan 21 2020
+Caruana,F	2828	Tan,Ju2	2502	1-0	2019.01.08
+Caruana,F	2828	Edouard,R	2643	1-0	2019.01.08
+Caruana,F	2828	Cordova,E	2597	1-0	2019.01.08
+Caruana,F	2828	Thavandiran,S	2410	1-0	2019.01.08
+Caruana,F	2828	Hansen,Eric	2615	1-0	2019.01.08
+Caruana,F	2828	Iturrizaga,E	2637	1-0	2019.01.08
+Caruana,F	2828	Xiong,Jeffery	2672	1-0	2019.01.08
+Caruana,F	2828	Shankland,S	2725	1-0	2019.01.08
+Caruana,F	2828	Harikrishna,P	2726	1-0	2019.02.20
+Caruana,F	2828	Harikrishna,P	2726	1-0	2019.02.20
+Caruana,F	2828	Harikrishna,P	2726	1-0	2019.02.20
+Caruana,F	2828	Harikrishna,P	2726	1-0	2019.02.23
+Caruana,F	2828	Harikrishna,P	2726	1-0	2019.02.23
+Quesada Perez,Yu	2601	Caruana,F	2822	1/2-1/2	2020.01.06
+Nyzhnyk,I	2662	Caruana,F	2822	1/2-1/2	2020.01.06
+Hansen,Eric	2606	Caruana,F	2842	1/2-1/2	2020.01.06
+Vachier-Lagrave, Maxime	2773	Caruana, Fabiano	2787	1/2-1/2	Tue Mar 17 2020
+Giri, Anish	2784	Caruana, Fabiano	2787	1/2-1/2	Sun Mar 22 2020
+Grischuk, Alexander	2777	Caruana, Fabiano	2823	1/2-1/2	Mon Mar 23 2020
+Caruana, Fabiano	2784	Aronian, Levon	2719	0-1	2022.03.06
+Caruana, Fabiano	2744	Bortnyk, Olexandr	2723	0-1	2022.03.19
+Caruana, Fabiano	2744	Andreikin, Dmitry	2736	0-1	2022.03.27
+Caruana, Fabiano	2744	Ponkratov, Pavel	2487	0-1	2022.04.09
+Caruana, Fabiano	2744	Maghsoodloo, Parham	2630	0-1	2022.04.02
+Caruana, Fabiano	2744	Kovalev, Vladislav	2530	0-1	2022.04.02
+Caruana, Fabiano	2744	Niemann, Hans Moke	2632	0-1	2022.04.02
+Caruana, Fabiano	2774	Le, Quang Liem	2641	0-1	2022.05.28
+Caruana, Fabiano	2790	Fedoseev, Vladimir	2739	0-1	2022.05.29
+Caruana, Fabiano	2744	Giri, Anish	2766	0-1	2022.02.13
+Caruana, Fabiano	2847	Van Foreest, Jorden	2609	0-1	2022.07.16
+Caruana, Fabiano	2783	Abdusattorov, Nodirbek	2688	0-1	2022.08.01
+Caruana, Fabiano	2776	Gukesh, D	2699	0-1	2022.08.06
+Caruana, Fabiano	2847	Kovalev, Vladislav	2530	0-1	2022.08.13
+Caruana, Fabiano	2847	Niemann, Hans Moke	2632	0-1	2022.08.13
+Caruana, Fabiano	2847	Shimanov, Aleksandr	2605	0-1	2022.08.13
+Caruana, Fabiano	2766	Nepomniachtchi, Ian	2795	0-1	2022.08.18
+Caruana, Fabiano	2766	Sarana, Alexey	2654	0-1	2022.08.19
+Caruana, Fabiano	2766	Andreikin, Dmitry	2675	0-1	2022.08.20
+Caruana, Fabiano	2847	Bluebaum, Matthias	2603	0-1	2022.08.23
+Caruana, Fabiano	2847	Badelka, Olga	2165	1-0	2022.09.27
+Caruana, Fabiano	2847	Meshkovs, Nikita	2506	1-0	2022.09.27
+Caruana, Fabiano	2847	Brodowski, Piotr	2312	1-0	2022.09.27
+Caruana, Fabiano	2847	Saraci, Nderim	2553	1-0	2022.09.27
+Caruana, Fabiano	2847	Tari, Aryan	2612	1-0	2022.09.27
+Caruana,F	2828	Harikrishna,P	2726	1-0	2019.02.23
+Caruana,F	2828	Harikrishna,P	2726	1-0	2019.02.23
+Caruana,F	2828	Harikrishna,P	2726	1-0	2019.02.23
+Caruana,F	2828	Harikrishna,P	2726	1-0	2019.02.23
+Caruana,F	2828	Harikrishna,P	2726	1-0	2019.02.23
+Caruana,F	2828	Adhiban,Baskaran	2689	1-0	2019.01.08
+Caruana,F	2828	Smirnov,Ant	2569	1-0	2019.01.08
+Caruana,F	2828	Adly,A	2611	1-0	2019.01.08
+Caruana,F	2828	Le Tuan Minh	2515	1-0	2019.01.08
+Caruana,F	2828	Wang,Tianqi	2329	1-0	2019.01.08
+Caruana,F	2828	Guseinov,G	2664	1-0	2019.01.08
+Caruana,F	2828	Postny,E	2623	1-0	2019.01.08
+Caruana,F	2828	Sturt,R	2429	1-0	2019.03.19
+Caruana,F	2828	Checa,Nicolas	2506	1-0	2019.03.19
+Caruana,F	2828	Lenderman,A	2637	1-0	2019.03.20
+Caruana,F	2828	Xiong,Jeffery	2663	1-0	2019.03.20
+Caruana,F	2828	Shimanov,A	2613	1-0	2019.03.19
+Caruana,F	2819	Naiditsch,A	2695	1-0	2019.04.20
+Caruana,F	2816	Chirila,Robert-Ioan	0	1-0	2019.05.02
+Caruana,F	2816	Ezra,Paul Chambers	2241	1-0	2019.05.02
+Caruana,F	2828	Sargsyan,Shant	2488	1-0	2019.03.19
+Caruana,F	2828	Martirosyan,Haik M.	2616	1-0	2019.03.19
+Caruana,F	2828	Kollars,Dmitrij	2564	1-0	2019.03.19
+Caruana,F	2828	Meier,Geo	2621	1-0	2019.03.19
+Caruana,F	2819	Anand,V	2767	1-0	2019.06.03
+Caruana, Fabiano	0	Mamedyarov, Shakhriyar	0	0-1	Fri Nov 08 2019
+Caruana, Fabiano	0	Mamedyarov, Shakhriyar	0	0-1	Sat Nov 09 2019
+Caruana,F	2819	Vachier Lagrave,M	2779	1-0	2019.06.03
+Caruana,F	2819	Vachier Lagrave,M	2779	1-0	2019.06.04
+Caruana,F	2819	Carlsen,M	2875	1-0	2019.06.04
+Caruana,F	2819	Anand,V	2767	1-0	2019.06.04
+Caruana,F	2819	Nakamura,Hi	2754	1-0	2019.06.26
+Caruana,F	2819	Duda,J	2729	1-0	2019.07.27
+Caruana,F	2819	Nakamura,Hi	2754	1-0	2019.07.31
+Caruana,F	2819	Giri,A	2779	1-0	2019.07.31
+Caruana,F	2819	Duda,J	2729	1-0	2019.07.31
+Caruana,F	2819	Dubov,Daniil	2700	1-0	2019.07.31
+Caruana,F	2819	Vachier Lagrave,M	2775	1-0	2019.07.31
+Caruana,F	2819	Mamedyarov,S	2765	1-0	2019.07.31
+Caruana,F	2819	Grischuk,A	2766	1-0	2019.07.31
+Caruana,F	2818	Carlsen,M	2882	1-0	2019.08.10
+Caruana,F	2818	Dominguez Perez,L	2763	1-0	2019.08.13
+Caruana,F	2818	Carlsen,M	2882	1-0	2019.08.13
+Caruana,F	2818	Aronian,L	2765	1-0	2019.08.17
+Caruana,F	2812	Sevian,Samuel	2654	1-0	2019.10.10
+Caruana,F	2812	Anton Guijarro,D	2674	1-0	2019.10.10
+Caruana,F	2812	Fedoseev,Vl3	2664	1-0	2019.10.10
+Caruana,F	2822	So,W	2760	1-0	2019.11.06
+Caruana,F	2822	Anand,V	2757	1-0	2019.11.09
+Caruana,F	2822	Korobov,A	2670	1-0	2019.11.09
+Caruana,F	2828	Robson,R	2667	1/2-1/2	2019.01.08
+Caruana,F	2828	Nakamura,Hi	2749	1/2-1/2	2019.01.08
+Caruana,F	2828	Moranda,W	2593	0-1	2019.01.08
+Caruana,F	2828	Harikrishna,P	2726	0-1	2019.02.23
+Caruana,F	2828	Harikrishna,P	2726	0-1	2019.02.23
+Caruana,F	2828	Harikrishna,P	2726	0-1	2019.02.23
+Caruana,F	2828	Nyzhnyk,I	2638	0-1	2019.03.19
+Caruana,F	2819	Mamedyarov,S	2774	0-1	2019.06.03
+Caruana,F	2819	Carlsen,M	2875	0-1	2019.06.03
+Caruana,F	2819	Nepomniachtchi,I	2775	0-1	2019.07.27
+Caruana,F	2819	Grischuk,A	2766	0-1	2019.07.27
+Caruana,F	2819	Nepomniachtchi,I	2775	0-1	2019.07.31
+Caruana,F	2819	Anand,V	2764	0-1	2019.07.31
+Caruana,F	2818	Aronian,L	2765	0-1	2019.08.10
+Caruana,F	2818	Vachier Lagrave,M	2778	0-1	2019.08.10
+Caruana,F	2818	Rapport,R	2747	0-1	2019.08.13
+Caruana,F	2818	Yu Yangyi	2752	0-1	2019.08.13
+Caruana,F	2818	Vachier Lagrave,M	2778	0-1	2019.08.13
+Caruana,F	2818	Mamedyarov,S	2764	0-1	2019.08.13
+Caruana,F	2818	Ding Liren	2805	0-1	2019.08.13
+Caruana,F	2818	Karjakin,Sergey	2750	0-1	2019.08.13
+Caruana,F	2822	Aronian,L	2772	0-1	2019.11.06
+Caruana,F	2822	Artemiev,V	2731	0-1	2019.11.06
+Caruana,F	2822	So,W	2760	0-1	2019.11.09
+Caruana,F	2822	Artemiev,V	2731	0-1	2019.11.09
+Caruana,F	2828	Harikrishna,P	2726	1/2-1/2	2019.02.20
+Caruana,F	2828	Harikrishna,P	2726	1/2-1/2	2019.02.20
+Caruana,F	2828	Harikrishna,P	2726	1/2-1/2	2019.02.20
+Caruana,F	2828	Harikrishna,P	2726	1/2-1/2	2019.02.23
+Caruana,F	2828	Harikrishna,P	2726	1/2-1/2	2019.02.23
+Caruana,F	2828	Le Quang Liem	2714	1/2-1/2	2019.01.08
+Caruana,F	2828	Postny,E	2623	1/2-1/2	2019.01.08
+Caruana,F	2828	Iturrizaga,E	2637	1/2-1/2	2019.01.08
+Caruana,F	2828	Robson,R	2667	1/2-1/2	2019.03.20
+Caruana,F	2828	Dominguez Perez,L	2739	1/2-1/2	2019.03.20
+Caruana,F	2828	Moranda,W	2593	1/2-1/2	2019.01.08
+Caruana,F	2828	So,W	2762	1/2-1/2	2019.03.20
+Caruana,F	2819	Vachier Lagrave,M	2773	1/2-1/2	2019.04.20
+Caruana,F	2819	Carlsen,M	2845	1/2-1/2	2019.04.20
+Caruana,F	2819	Aronian,L	2763	1/2-1/2	2019.04.20
+Caruana,F	2816	Hammer,J	2645	1/2-1/2	2019.05.02
+Caruana,F	2819	Ding Liren	2805	1/2-1/2	2019.06.03
+Caruana,F	2819	So,W	2754	1/2-1/2	2019.06.04
+Caruana,F	2819	So,W	2754	1/2-1/2	2019.06.04
+Caruana,F	2819	Carlsen,M	2875	1/2-1/2	2019.06.04
+Caruana,F	2819	Anand,V	2767	1/2-1/2	2019.06.04
+Caruana,F	2819	Carlsen,M	2875	1/2-1/2	2019.06.26
+Caruana,F	2819	So,W	2754	1/2-1/2	2019.06.26
+Caruana,F	2819	Giri,A	2779	1/2-1/2	2019.06.26
+Caruana,F	2819	Ding Liren	2805	1/2-1/2	2019.06.26
+Mamedyarov, Shakhriyar	0	Caruana, Fabiano	0	1-0	Sun Nov 10 2019
+Karjakin, Sergey	0	Caruana, Fabiano	0	1-0	Sun Nov 10 2019
+Saric,Iv	2690	Caruana,F	2828	1-0	2019.01.08
+Salem,AR	2672	Caruana,F	2828	1-0	2019.01.08
+Harikrishna,P	2726	Caruana,F	2828	1-0	2019.02.20
+Harikrishna,P	2726	Caruana,F	2828	1-0	2019.02.23
+Harikrishna,P	2726	Caruana,F	2828	1-0	2019.02.23
+Eljanov,P	2680	Caruana,F	2828	1-0	2019.01.08
+Robson,R	2667	Caruana,F	2828	1-0	2019.01.08
+Guseinov,G	2664	Caruana,F	2828	1-0	2019.03.19
+Grischuk,A	2775	Caruana,F	2819	1-0	2019.06.03
+Yu Yangyi	2738	Caruana,F	2819	1-0	2019.06.03
+Caruana,F	2819	Mamedyarov,S	2774	1/2-1/2	2019.06.26
+Caruana,F	2819	Dubov,Daniil	2700	1/2-1/2	2019.07.27
+Caruana,F	2818	Mamedyarov,S	2764	1/2-1/2	2019.08.10
+Caruana,F	2818	Nepomniachtchi,I	2774	1/2-1/2	2019.08.17
+Caruana,F	2818	Aronian,L	2765	1/2-1/2	2019.08.13
+Caruana,F	2818	Vachier Lagrave,M	2778	1/2-1/2	2019.08.17
+Caruana,F	2818	Anand,V	2756	1/2-1/2	2019.08.17
+Caruana,F	2818	Karjakin,Sergey	2750	1/2-1/2	2019.08.17
+Caruana,F	2812	Wang Hao	2726	1/2-1/2	2019.10.10
+Caruana,F	2812	Aronian,L	2758	1/2-1/2	2019.10.10
+Caruana,F	2822	Aronian,L	2772	1/2-1/2	2019.11.09
+Caruana,F	2822	Le,Quang Liem	2713	1/2-1/2	2019.11.09
+Caruana,F	2822	Giri,A	2776	1/2-1/2	2019.11.09
+Royal,Shreyas	1892	Caruana,F	2828	0-1	2019.01.08
+Cervantes Landeiro,Thalia	2159	Caruana,F	2828	0-1	2019.01.08
+Nyzhnyk,I	2624	Caruana,F	2828	0-1	2019.01.08
+Rodrigue-Lemieux,Shawn	2293	Caruana,F	2828	0-1	2019.01.08
+So,W	2754	Caruana,F	2819	1-0	2019.06.03
+Ding Liren	2805	Caruana,F	2819	1-0	2019.06.04
+Mamedyarov,S	2774	Caruana,F	2819	1-0	2019.06.04
+Yu Yangyi	2738	Caruana,F	2819	1-0	2019.06.04
+Nepomniachtchi,I	2775	Caruana,F	2819	1-0	2019.06.26
+Vachier Lagrave,M	2775	Caruana,F	2819	1-0	2019.07.27
+Vachier Lagrave,M	2775	Caruana,F	2819	1-0	2019.07.31
+Anand,V	2764	Caruana,F	2819	1-0	2019.07.31
+Nepomniachtchi,I	2775	Caruana,F	2819	1-0	2019.07.31
+Nakamura,Hi	2754	Caruana,F	2819	1-0	2019.07.31
+Duda,J	2729	Caruana,F	2819	1-0	2019.07.31
+Yu Yangyi	2752	Caruana,F	2818	1-0	2019.08.10
+Karjakin,Sergey	2750	Caruana,F	2818	1-0	2019.08.13
+Rapport,R	2747	Caruana,F	2818	1-0	2019.08.13
+Ding Liren	2805	Caruana,F	2818	1-0	2019.08.13
+Ding Liren	2805	Caruana,F	2818	1-0	2019.08.17
+Le,Quang Liem	2713	Caruana,F	2822	1-0	2019.11.09
+Anand,V	2757	Caruana,F	2822	1-0	2019.11.06
+Korobov,A	2670	Caruana,F	2822	1-0	2019.11.09
+Anand,V	2757	Caruana,F	2822	1-0	2019.11.09
+So,W	2760	Caruana,F	2822	1-0	2019.11.09
+Azarov,S	2575	Caruana,F	2828	0-1	2019.01.08
+Harikrishna,P	2726	Caruana,F	2828	0-1	2019.02.20
+Harikrishna,P	2726	Caruana,F	2828	0-1	2019.02.20
+Harikrishna,P	2726	Caruana,F	2828	0-1	2019.02.20
+Harikrishna,P	2726	Caruana,F	2828	0-1	2019.02.20
+Harikrishna,P	2726	Caruana,F	2828	0-1	2019.02.23
+Harikrishna,P	2726	Caruana,F	2828	0-1	2019.02.23
+Harikrishna,P	2726	Caruana,F	2828	0-1	2019.02.23
+Harikrishna,P	2726	Caruana,F	2828	0-1	2019.02.23
+Harikrishna,P	2726	Caruana,F	2828	0-1	2019.02.23
+Harikrishna,P	2726	Caruana,F	2828	0-1	2019.02.23
+Harikrishna,P	2726	Caruana,F	2828	0-1	2019.02.23
+Harikrishna,P	2726	Caruana,F	2828	0-1	2019.02.23
+Harikrishna,P	2726	Caruana,F	2828	0-1	2019.02.23
+Yu,Jennifer	2313	Caruana,F	2828	0-1	2019.01.08
+Erenburg,S	2589	Caruana,F	2828	0-1	2019.01.08
+Tillis. Bryan	0	Caruana,F	2828	0-1	2019.01.08
+Movsesian,S	2629	Caruana,F	2828	0-1	2019.01.08
+Eljanov,P	2680	Caruana,F	2828	0-1	2019.01.08
+Rohde,M	2358	Caruana,F	2828	0-1	2019.03.19
+Akobian,V	2625	Caruana,F	2828	0-1	2019.03.20
+Gareev,T	2557	Caruana,F	2828	0-1	2019.03.20
+Grabinsky,Joshua	2078	Caruana,F	2828	0-1	2019.03.19
+Robson,R	2667	Caruana,F	2828	0-1	2019.03.19
+Keymer,Vincent	2516	Caruana,F	2819	0-1	2019.04.20
+Movsesian,S	2629	Caruana,F	2828	1/2-1/2	2019.01.08
+Corrales Jimenez,F	2559	Caruana,F	2828	1/2-1/2	2019.01.08
+Movsesian,S	2629	Caruana,F	2828	1/2-1/2	2019.01.08
+Harikrishna,P	2726	Caruana,F	2828	1/2-1/2	2019.02.20
+Harikrishna,P	2726	Caruana,F	2828	1/2-1/2	2019.02.23
+Meier,Geo	2628	Caruana,F	2819	0-1	2019.04.20
+Kavutskiy,K	2417	Caruana,F	2816	0-1	2019.05.02
+Bhat,V	2519	Caruana,F	2816	0-1	2019.05.02
+Sargsyan,Anna M.	2340	Caruana,F	2828	0-1	2019.03.19
+Andriasian,Z	2600	Caruana,F	2828	0-1	2019.03.19
+Agrest,I	2265	Caruana,F	2828	0-1	2019.03.19
+Grischuk,A	2775	Caruana,F	2819	0-1	2019.06.04
+Aronian,L	2752	Caruana,F	2819	0-1	2019.06.04
+Vachier Lagrave,M	2779	Caruana,F	2819	0-1	2019.06.26
+Nakamura,Hi	2754	Caruana,F	2819	0-1	2019.07.27
+Mamedyarov,S	2765	Caruana,F	2819	0-1	2019.07.27
+Mamedyarov,S	2765	Caruana,F	2819	0-1	2019.07.31
+Dubov,Daniil	2700	Caruana,F	2819	0-1	2019.07.31
+Rapport,R	2747	Caruana,F	2818	0-1	2019.08.10
+Yu Yangyi	2752	Caruana,F	2818	0-1	2019.08.13
+Vachier Lagrave,M	2778	Caruana,F	2818	0-1	2019.08.13
+Mamedyarov,S	2764	Caruana,F	2818	0-1	2019.08.13
+Shirov,A	2664	Caruana,F	2812	0-1	2019.10.10
+Zhang Zhong	2636	Caruana,F	2812	0-1	2019.10.10
+Le,Quang Liem	2713	Caruana,F	2822	0-1	2019.11.06
+Nakamura,Hi	2749	Caruana,F	2828	1/2-1/2	2019.01.08
+Ding Liren	2813	Caruana,F	2828	1/2-1/2	2019.01.08
+Naroditsky,D	2616	Caruana,F	2828	1/2-1/2	2019.01.08
+Sevian,Samuel	2642	Caruana,F	2828	1/2-1/2	2019.03.20
+Nakamura,Hi	2746	Caruana,F	2828	1/2-1/2	2019.03.20
+Liang,Awonder	2590	Caruana,F	2828	1/2-1/2	2019.03.20
+Saric,Iv	2690	Caruana,F	2828	1/2-1/2	2019.01.08
+Shankland,S	2731	Caruana,F	2828	1/2-1/2	2019.03.20
+Svidler,P	2735	Caruana,F	2819	1/2-1/2	2019.04.20
+Anand,V	2774	Caruana,F	2819	1/2-1/2	2019.04.20
+Vallejo Pons,F	2693	Caruana,F	2819	1/2-1/2	2019.04.20
+Donchenko,Alexa	2593	Caruana,F	2828	1/2-1/2	2019.03.19
+Aronian,L	2752	Caruana,F	2819	1/2-1/2	2019.06.03
+Mamedyarov,S	2774	Caruana,F	2819	1/2-1/2	2019.06.04
+Yu Yangyi	2738	Caruana,F	2819	1/2-1/2	2019.06.04
+Grischuk,A	2775	Caruana,F	2819	1/2-1/2	2019.06.04
+Aronian,L	2752	Caruana,F	2819	1/2-1/2	2019.06.26
+Anand,V	2767	Caruana,F	2819	1/2-1/2	2019.06.26
+Karjakin,Sergey	2748	Caruana,F	2819	1/2-1/2	2019.06.26
+Anand,V	2764	Caruana,F	2819	1/2-1/2	2019.07.27
+Giri,A	2779	Caruana,F	2819	1/2-1/2	2019.07.27
+Grischuk,A	2766	Caruana,F	2819	1/2-1/2	2019.07.31
+Giri,A	2779	Caruana,F	2819	1/2-1/2	2019.07.31
+Karjakin,Sergey	2750	Caruana,F	2818	1/2-1/2	2019.08.10
+Ding Liren	2805	Caruana,F	2818	1/2-1/2	2019.08.10
+Caruana, F.	2811	Iturrizaga, E.	2650	1-0	2018.01.18
+Caruana, F.	2811	Becerra Rivero, J.	2531	1-0	2018.01.18
+Caruana, F.	2811	Shetty, A.	2389	1-0	2018.01.18
+Caruana, F.	2811	Shabalov, A.	2544	1-0	2018.01.18
+Caruana, F.	2811	Gabuzyan, H.	2571	1-0	2018.01.18
+Caruana, F.	2811	Adhiban, Baskaran	2655	1-0	2018.01.18
+Caruana, F.	2811	Lenic, L.	2662	1-0	2018.01.18
+Dominguez Perez,L	2763	Caruana,F	2818	1/2-1/2	2019.08.10
+Nakamura,Hi	2743	Caruana,F	2818	1/2-1/2	2019.08.17
+Dominguez Perez,L	2763	Caruana,F	2818	1/2-1/2	2019.08.13
+Carlsen,M	2882	Caruana,F	2818	1/2-1/2	2019.08.13
+Aronian,L	2765	Caruana,F	2818	1/2-1/2	2019.08.13
+Carlsen,M	2882	Caruana,F	2818	1/2-1/2	2019.08.17
+So,W	2776	Caruana,F	2818	1/2-1/2	2019.08.17
+Giri,A	2779	Caruana,F	2818	1/2-1/2	2019.08.17
+Mamedyarov,S	2764	Caruana,F	2818	1/2-1/2	2019.08.17
+McShane,L	2682	Caruana,F	2812	1/2-1/2	2019.10.10
+Carlsen,M	2876	Caruana,F	2812	1/2-1/2	2019.10.10
+Nakamura,Hi	2745	Caruana,F	2812	1/2-1/2	2019.10.10
+Grischuk,A	2759	Caruana,F	2812	1/2-1/2	2019.10.10
+Giri,A	2776	Caruana,F	2822	1/2-1/2	2019.11.06
+Korobov,A	2670	Caruana,F	2822	1/2-1/2	2019.11.06
+Artemiev,V	2731	Caruana,F	2822	1/2-1/2	2019.11.09
+Giri,A	2776	Caruana,F	2822	1/2-1/2	2019.11.09
+Aronian,L	2772	Caruana,F	2822	1/2-1/2	2019.11.09
+Caruana, Fabiano	2783	Duda, Jan-Krzysztof	2750	1/2-1/2	2022.06.19
+Caruana, Fabiano	2783	Rapport, Richard	2764	1/2-1/2	2022.06.22
+Caruana, Fabiano	2783	Nepomniachtchi, Ian	2766	1/2-1/2	2022.06.27
+Caruana, Fabiano	2744	So, Wesley	2814	1/2-1/2	2022.02.19
+Caruana, Fabiano	2744	Abdusattorov, Nodirbek	2663	1/2-1/2	2022.02.26
+Caruana, Fabiano	2784	Dreev, Aleksey	2589	1/2-1/2	2022.02.20
+Caruana, Fabiano	2744	Bluebaum, Matthias	2550	1/2-1/2	2022.03.12
+Caruana, Fabiano	2784	Paravyan, David	2636	1/2-1/2	2022.03.06
+Caruana, Fabiano	2744	So, Wesley	2814	1/2-1/2	2022.03.19
+Caruana, Fabiano	2744	Nakamura, Hikaru	2850	1/2-1/2	2022.03.13
+Caruana, Fabiano	2784	Kamsky, Gata	2717	1/2-1/2	2022.03.27
+Caruana, Fabiano	2784	Andreikin, Dmitry	2661	1/2-1/2	2022.03.27
+Caruana, Fabiano	2744	Sjugirov, Sanan	2602	1/2-1/2	2022.03.26
+Caruana, Fabiano	2744	Paravyan, David	2569	1/2-1/2	2022.03.26
+Caruana, Fabiano	2744	Andreikin, Dmitry	2736	1/2-1/2	2022.03.26
+Caruana, Fabiano	2744	Sadhwani, Raunak	2616	1/2-1/2	2022.03.19
+Caruana, Fabiano	2847	Chigaev, Maksim	2487	0-1	2022.08.23
+Caruana, Fabiano	2766	Mamedyarov, Shakhriyar	2695	0-1	2022.08.28
+Caruana, Fabiano	2847	Xiong, Jeffery	2714	0-1	2022.08.29
+Caruana, Fabiano	2847	Nakamura, Hikaru	2850	0-1	2022.08.30
+Caruana, Fabiano	2847	Firouzja, Alireza	2795	0-1	2022.08.30
+Caruana, Fabiano	2747	Kravtsiv, Martyn	2675	0-1	2022.09.19
+Caruana, Fabiano	2847	Pultinevicius, Paulius	2472	0-1	2022.09.27
+Caruana, Fabiano	2847	Nakamura, Hikaru	2850	0-1	2022.09.27
+Caruana, Fabiano	2847	Kamsky, Gata	2666	0-1	2022.09.27
+Caruana, F.	2811	Cornette, M.	2611	1-0	2018.01.18
+Caruana, F.	2811	Andriasian, Z.	2585	1-0	2018.01.18
+Caruana, F.	2811	Bykhovsky, An ISR	2496	1-0	2018.01.18
+Caruana, F.	2811	Checa, Nicolas	2486	1-0	2018.01.18
+Caruana, F.	2784	So, W.	2799	1-0	2018.03.10
+Caruana, F.	2784	Aronian, L.	2794	1-0	2018.03.10
+Caruana, F.	2784	Naiditsch, A.	2701	1-0	2018.03.31
+Caruana, F.	2804	Lenderman, A.	2599	1-0	2018.04.18
+Caruana, F.	2804	Onischuk, Al	2672	1-0	2018.04.18
+Caruana, F.	2804	Akobian, V.	2647	1-0	2018.04.18
+Caruana, F.	2822	Karjakin, Sergey	2782	1-0	2018.05.27
+Caruana, F.	2822	Karjakin, Sergey	2782	1-0	2018.05.28
+Caruana, F.	2822	So, W.	2778	1-0	2018.05.28
+Caruana, F.	2816	Aronian, L.	2764	1-0	2018.06.15
+Caruana, F.	2816	Grischuk, A.	2766	1-0	2018.06.15
+Caruana, F.	2816	Nakamura, Hi	2769	1-0	2018.06.12
+Caruana, F.	2816	Kramnik, V.	2792	1-0	2018.06.20
+Caruana, F.	2822	Aronian, L.	2767	1-0	2018.07.24
+Caruana, F.	2822	Aronian, L.	2767	1-0	2018.07.24
+Caruana, F.	2822	Aronian, L.	2767	1-0	2018.07.24
+Caruana, F.	2822	Mamedyarov, S.	2801	1-0	2018.08.11
+Caruana, F.	2822	Anand, V.	2768	1-0	2018.08.14
+Caruana, F.	2822	Karjakin, Sergey	2773	1-0	2018.08.14
+Caruana, F.	2822	Nakamura, Hi	2777	1-0	2018.08.18
+Caruana, F.	2822	Karjakin, Sergey	2773	1-0	2018.08.18
+Caruana, F.	2811	Nakamura, Hi	2781	0-1	2018.01.18
+Caruana, F.	2804	Izoria, Z.	2599	0-1	2018.04.18
+Caruana, F.	2822	Mamedyarov, S.	2808	0-1	2018.05.27
+Caruana, F.	2822	So, W.	2778	0-1	2018.05.27
+Caruana, F.	2816	Vachier Lagrave, M.	2789	0-1	2018.06.15
+Caruana, F.	2816	So, W.	2778	0-1	2018.06.15
+Caruana, F.	2816	Karjakin, Sergey	2782	0-1	2018.06.15
+Caruana, F.	2816	Aronian, L.	2764	0-1	2018.06.12
+Caruana, F.	2816	Anand, V.	2759	0-1	2018.06.15
+Caruana, F.	2816	Mamedyarov, S.	2808	0-1	2018.06.12
+Caruana, F.	2816	So, W.	2778	0-1	2018.06.12
+Caruana, F.	2816	Mamedyarov, S.	2808	0-1	2018.06.23
+Caruana, F.	2816	Kramnik, V.	2792	0-1	2018.06.23
+Caruana, F.	2816	Nakamura, Hi	2769	0-1	2018.06.23
+Caruana, F.	2816	Karjakin, Sergey	2782	0-1	2018.06.23
+Caruana, F.	2816	Grischuk, A.	2766	0-1	2018.06.20
+Caruana, F.	2822	Aronian, L.	2767	0-1	2018.07.24
+Caruana, F.	2822	Aronian, L.	2767	0-1	2018.07.24
+Caruana, F.	2822	Aronian, L.	2767	0-1	2018.07.24
+Caruana, F.	2822	So, W.	2780	1-0	2018.08.28
+Caruana, Fabiano	2827	Gelfand, Boris	2703	1-0	2018.09.24
+Caruana, Fabiano	2832	Aronian, Levon	2765	1-0	2018.12.11
+Caruana, Fabiano	2832	Aronian, Levon	2765	1-0	2018.12.11
+Caruana, Fabiano	2827	Anand, Viswanathan	2771	1-0	2018.09.24
+Caruana, Fabiano	2827	Mamedyarov, Shakhriyar	2820	1-0	2018.09.24
+Caruana, F.	2811	Jones, G.	2640	1/2-1/2	2018.01.13
+Caruana, F.	2811	Matlakov, M.	2718	1/2-1/2	2018.01.13
+Caruana, F.	2811	So, W.	2792	1/2-1/2	2018.01.13
+Caruana, F.	2811	Svidler, P.	2768	1/2-1/2	2018.01.13
+Caruana, F.	2811	Adhiban, Baskaran	2655	1/2-1/2	2018.01.13
+Caruana, F.	2811	Giri, A.	2752	1/2-1/2	2018.01.13
+Caruana, F.	2811	Dreev, A.	2653	1/2-1/2	2018.01.18
+Caruana, F.	2811	Yu Yangyi	2760	1/2-1/2	2018.01.18
+Caruana, F.	2784	Mamedyarov, S.	2809	1/2-1/2	2018.03.10
+Caruana, F.	2784	Grischuk, A.	2767	1/2-1/2	2018.03.10
+Caruana, F.	2784	Karjakin, Sergey	2763	1/2-1/2	2018.03.10
+Caruana, F.	2784	Ding Liren	2769	1/2-1/2	2018.03.10
+Caruana, F.	2822	Aronian, L.	2767	0-1	2018.07.24
+Caruana, F.	2822	Aronian, L.	2767	0-1	2018.07.24
+Caruana, F.	2822	Aronian, L.	2767	0-1	2018.07.24
+Caruana, F.	2822	Aronian, L.	2767	0-1	2018.07.24
+Caruana, F.	2822	Dominguez Perez, L.	2739	0-1	2018.08.11
+Caruana, F.	2822	Nakamura, Hi	2777	0-1	2018.08.14
+Caruana, F.	2822	Mamedyarov, S.	2801	0-1	2018.08.14
+Caruana, F.	2822	Vachier Lagrave, M.	2779	0-1	2018.08.14
+Caruana, Fabiano	2832	Carlsen, Magnus	2835	0-1	2018.11.28
+Caruana, Fabiano	2832	Nakamura, Hikaru	2746	0-1	2018.12.11
+Caruana, Fabiano	2832	Nakamura, Hikaru	2746	0-1	2018.12.11
+Caruana, Fabiano	2832	Nakamura, Hikaru	2746	0-1	2018.12.11
+Caruana, Fabiano	2832	Aronian, Levon	2765	0-1	2018.12.11
+Caruana, F.	2784	Kramnik, V.	2800	1/2-1/2	2018.03.10
+Caruana, F.	2784	Carlsen, M.	2843	1/2-1/2	2018.03.31
+Caruana, F.	2784	Bluebaum, M.	2631	1/2-1/2	2018.03.31
+Caruana, F.	2784	Aronian, L.	2794	1/2-1/2	2018.03.31
+Caruana, F.	2784	Hou Yifan	2654	1/2-1/2	2018.03.31
+Caruana, F.	2804	Nakamura, Hi	2787	1/2-1/2	2018.04.18
+Caruana, F.	2822	Nakamura, Hi	2769	1/2-1/2	2018.05.27
+Caruana, F.	2822	Mamedyarov, S.	2808	1/2-1/2	2018.05.28
+Caruana, F.	2822	Nakamura, Hi	2769	1/2-1/2	2018.05.28
+Caruana, F.	2816	Giri, A.	2782	1/2-1/2	2018.06.15
+Caruana, F.	2816	Nakamura, Hi	2769	1/2-1/2	2018.06.15
+Caruana, F.	2816	Mamedyarov, S.	2808	1/2-1/2	2018.06.15
+Caruana, F.	2816	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.12
+Caruana, F.	2816	Vachier Lagrave, M.	2789	1/2-1/2	2018.06.23
+Caruana, F.	2816	Anand, V.	2759	1/2-1/2	2018.06.23
+Caruana, F.	2816	Aronian, L.	2764	1/2-1/2	2018.06.23
+Caruana, F.	2816	Anand, V.	2759	1/2-1/2	2018.06.20
+Caruana, F.	2816	Karjakin, Sergey	2782	1/2-1/2	2018.06.20
+Caruana, F.	2816	Grischuk, A.	2766	1/2-1/2	2018.06.23
+Caruana, F.	2816	So, W.	2778	1/2-1/2	2018.06.23
+Caruana, F.	2822	Aronian, L.	2767	1/2-1/2	2018.07.24
+Caruana, F.	2822	Aronian, L.	2767	1/2-1/2	2018.07.24
+Caruana, F.	2822	Aronian, L.	2767	1/2-1/2	2018.07.24
+Caruana, F.	2822	Aronian, L.	2767	1/2-1/2	2018.07.24
+Caruana, F.	2822	Vachier Lagrave, M.	2779	1/2-1/2	2018.08.11
+Anand, V.	2767	Caruana, F.	2811	1-0	2018.01.13
+Mamedyarov, S.	2804	Caruana, F.	2811	1-0	2018.01.13
+Karjakin, Sergey	2753	Caruana, F.	2811	1-0	2018.01.13
+Kramnik, V.	2787	Caruana, F.	2811	1-0	2018.01.13
+Liang, Awonder	2572	Caruana, F.	2811	1-0	2018.01.18
+Karjakin, Sergey	2763	Caruana, F.	2784	1-0	2018.03.10
+Caruana, F.	2822	Dominguez Perez, L.	2739	1/2-1/2	2018.08.14
+Caruana, F.	2822	Grischuk, A.	2766	1/2-1/2	2018.08.14
+Caruana, F.	2822	So, W.	2780	1/2-1/2	2018.08.14
+Caruana, F.	2822	Aronian, L.	2767	1/2-1/2	2018.08.14
+Caruana, F.	2822	Grischuk, A.	2766	1/2-1/2	2018.08.18
+Caruana, F.	2822	Aronian, L.	2767	1/2-1/2	2018.08.18
+Caruana, F.	2822	So, W.	2780	1/2-1/2	2018.08.11
+Caruana, F.	2822	Anand, V.	2768	1/2-1/2	2018.08.18
+Caruana, Fabiano	2832	Carlsen, Magnus	2835	1/2-1/2	2018.11.09
+Caruana, Fabiano	2832	Carlsen, Magnus	2835	1/2-1/2	2018.11.09
+Caruana, Fabiano	2832	Nakamura, Hikaru	2746	1/2-1/2	2018.12.11
+Caruana, Fabiano	2832	Aronian, Levon	2765	1/2-1/2	2018.12.11
+Caruana, Fabiano	2832	Carlsen, Magnus	2835	1/2-1/2	2018.11.09
+Caruana, Fabiano	2832	Carlsen, Magnus	2835	1/2-1/2	2018.11.09
+Caruana, Fabiano	2832	Carlsen, Magnus	2835	1/2-1/2	2018.11.09
+Caruana, Fabiano	2832	Carlsen, Magnus	2835	1/2-1/2	2018.11.09
+Caruana, Fabiano	2827	Ding, Liren	2804	1/2-1/2	2018.09.24
+Caruana,F	2832	Shankland,S	2724	1/2-1/2	2018.11.24
+Fabiano Caruana	0	Vladimir Kramnik	0	1/2-1/2	2018.03.10
+Carlsen, M.	2843	Caruana, F.	2822	1-0	2018.05.28
+Carlsen, M.	2843	Caruana, F.	2822	1-0	2018.05.27
+Vachier Lagrave, M.	2789	Caruana, F.	2822	1-0	2018.05.27
+Giri, A.	2776	Caruana, F.	2822	1-0	2018.05.24
+Karjakin, Sergey	2782	Caruana, F.	2816	1-0	2018.06.15
+Aronian, L.	2764	Caruana, F.	2816	1-0	2018.06.15
+Anand, V.	2759	Caruana, F.	2816	1-0	2018.06.15
+Grischuk, A.	2766	Caruana, F.	2816	1-0	2018.06.15
+Grischuk, A.	2766	Caruana, F.	2816	1-0	2018.06.12
+Anand, V.	2759	Caruana, F.	2816	1-0	2018.06.12
+Aronian, L.	2764	Caruana, F.	2816	1-0	2018.06.23
+Grischuk, A.	2766	Caruana, F.	2816	1-0	2018.06.23
+Anand, V.	2759	Caruana, F.	2816	1-0	2018.06.23
+Vachier Lagrave, M.	2789	Caruana, F.	2816	1-0	2018.06.23
+So, W.	2778	Caruana, F.	2816	1-0	2018.06.20
+Nakamura, Hi	2769	Caruana, F.	2816	1-0	2018.06.20
+Nakamura, Hi	2769	Caruana, F.	2816	1-0	2018.06.23
+Aronian, L.	2767	Caruana, F.	2822	1-0	2018.07.24
+Aronian, L.	2767	Caruana, F.	2822	1-0	2018.07.24
+Aronian, L.	2767	Caruana, F.	2822	1-0	2018.07.24
+Aronian, L.	2767	Caruana, F.	2822	1-0	2018.07.24
+Aronian, L.	2767	Caruana, F.	2822	1-0	2018.07.24
+Aronian, L.	2767	Caruana, F.	2822	1-0	2018.07.24
+Aronian, L.	2767	Caruana, F.	2822	1-0	2018.07.24
+Aronian, L.	2767	Caruana, F.	2822	1-0	2018.07.24
+Hou Yifan	2680	Caruana, F.	2811	0-1	2018.01.13
+Quesada Perez, Yu	2627	Caruana, F.	2811	0-1	2018.01.18
+Rosenthal, Nicholas	2169	Caruana, F.	2811	0-1	2018.01.18
+Dominguez Perez, L.	2739	Caruana, F.	2811	0-1	2018.01.18
+Miroshnichenko, E.	2606	Caruana, F.	2811	0-1	2018.01.18
+Xiong, Jeffery	2634	Caruana, F.	2811	0-1	2018.01.18
+Bora, Safal	2370	Caruana, F.	2811	0-1	2018.01.18
+Degraeve, JM.	2570	Caruana, F.	2811	0-1	2018.01.18
+Hjartarson, J.	2536	Caruana, F.	2811	0-1	2018.01.18
+Salem, AR.	2642	Caruana, F.	2811	0-1	2018.01.18
+Sharafiev, A.	2432	Caruana, F.	2811	0-1	2018.01.18
+Erenburg, S.	2564	Caruana, F.	2811	0-1	2018.01.18
+Patel, Advait	2478	Caruana, F.	2811	0-1	2018.01.18
+Aronian, L.	2794	Caruana, F.	2784	0-1	2018.03.10
+Aronian, L.	2767	Caruana, F.	2822	1-0	2018.07.24
+Aronian, L.	2767	Caruana, F.	2822	1-0	2018.07.24
+Aronian, L.	2767	Caruana, F.	2822	1-0	2018.07.24
+Mamedyarov, S.	2801	Caruana, F.	2822	1-0	2018.08.14
+Vachier Lagrave, M.	2779	Caruana, F.	2822	1-0	2018.08.14
+Grischuk, A.	2766	Caruana, F.	2822	1-0	2018.08.14
+Aronian, Levon	2765	Caruana, Fabiano	2832	1-0	2018.12.11
+Carlsen, Magnus	2835	Caruana, Fabiano	2832	1-0	2018.11.28
+Carlsen, Magnus	2835	Caruana, Fabiano	2832	1-0	2018.11.28
+Nakamura, Hikaru	2746	Caruana, Fabiano	2832	1-0	2018.12.11
+Leko,P	2679	Caruana,F	2832	1-0	2018.11.24
+Kramnik, V.	2800	Caruana, F.	2784	0-1	2018.03.10
+Grischuk, A.	2767	Caruana, F.	2784	0-1	2018.03.10
+Meier, Geo	2648	Caruana, F.	2784	0-1	2018.03.31
+Vachier Lagrave, M.	2789	Caruana, F.	2784	0-1	2018.03.31
+Vitiugov, N.	2735	Caruana, F.	2784	0-1	2018.03.31
+Xiong, Jeffery	2665	Caruana, F.	2804	0-1	2018.04.18
+Zherebukh, Y.	2640	Caruana, F.	2804	0-1	2018.04.18
+Robson, R.	2660	Caruana, F.	2804	0-1	2018.04.18
+Aronian, L.	2764	Caruana, F.	2822	0-1	2018.05.27
+Ding Liren	2791	Caruana, F.	2822	0-1	2018.05.27
+Anand, V.	2760	Caruana, F.	2822	0-1	2018.05.27
+Anand, V.	2760	Caruana, F.	2822	0-1	2018.05.28
+Nakamura, Hi	2769	Caruana, F.	2816	0-1	2018.06.15
+Giri, A.	2782	Caruana, F.	2816	0-1	2018.06.12
+Karjakin, Sergey	2782	Caruana, F.	2816	0-1	2018.06.12
+Mamedyarov, S.	2808	Caruana, F.	2816	0-1	2018.06.23
+Aronian, L.	2764	Caruana, F.	2816	0-1	2018.06.20
+Kramnik, V.	2792	Caruana, F.	2816	0-1	2018.06.23
+Aronian, L.	2767	Caruana, F.	2822	0-1	2018.07.24
+Aronian, L.	2767	Caruana, F.	2822	0-1	2018.08.11
+Grischuk, A.	2766	Caruana, F.	2822	0-1	2018.08.11
+Karjakin, Sergey	2773	Caruana, F.	2822	0-1	2018.08.14
+Dominguez Perez, L.	2739	Caruana, F.	2822	0-1	2018.08.14
+Aronian, L.	2767	Caruana, F.	2822	0-1	2018.08.14
+So, W.	2780	Caruana, F.	2822	0-1	2018.08.14
+Carlsen, M.	2834	Caruana, F.	2811	1/2-1/2	2018.01.13
+Wei Yi	2743	Caruana, F.	2811	1/2-1/2	2018.01.13
+Mamedyarov, S.	2804	Caruana, F.	2811	1/2-1/2	2018.01.18
+Ding Liren	2769	Caruana, F.	2784	1/2-1/2	2018.03.10
+So, W.	2799	Caruana, F.	2784	1/2-1/2	2018.03.10
+Mamedyarov, S.	2809	Caruana, F.	2784	1/2-1/2	2018.03.10
+Anand, V.	2776	Caruana, F.	2784	1/2-1/2	2018.03.31
+Liang, Awonder	2552	Caruana, F.	2804	1/2-1/2	2018.04.18
+Shankland, S.	2671	Caruana, F.	2804	1/2-1/2	2018.04.18
+So, W.	2786	Caruana, F.	2804	1/2-1/2	2018.04.18
+Vachier Lagrave, M.	2789	Caruana, F.	2822	1/2-1/2	2018.05.28
+Aronian, L.	2764	Caruana, F.	2822	1/2-1/2	2018.05.28
+Mamedyarov, S.	2808	Caruana, F.	2816	1/2-1/2	2018.06.15
+Giri, A.	2782	Caruana, F.	2816	1/2-1/2	2018.06.15
+Vachier Lagrave, M.	2789	Caruana, F.	2816	1/2-1/2	2018.06.15
+So, W.	2778	Caruana, F.	2816	1/2-1/2	2018.06.15
+Karjakin, Sergey	2782	Caruana, F.	2816	1/2-1/2	2018.06.23
+So, W.	2778	Caruana, F.	2816	1/2-1/2	2018.06.23
+Mamedyarov, S.	2808	Caruana, F.	2816	1/2-1/2	2018.06.20
+Vachier Lagrave, M.	2789	Caruana, F.	2816	1/2-1/2	2018.06.20
+Aronian, L.	2767	Caruana, F.	2822	1/2-1/2	2018.07.24
+Karjakin, Sergey	2773	Caruana, F.	2822	1/2-1/2	2018.08.11
+Aronian, Levon	2765	Caruana, Fabiano	2832	0-1	2018.12.11
+Kadric, Denis	2543	Caruana, Fabiano	2827	0-1	2018.09.24
+Nakamura, Hikaru	2746	Caruana, Fabiano	2832	0-1	2018.12.11
+Anand, V.	2768	Caruana, F.	2822	1/2-1/2	2018.08.11
+Nakamura, Hi	2777	Caruana, F.	2822	1/2-1/2	2018.08.11
+Nakamura, Hi	2777	Caruana, F.	2822	1/2-1/2	2018.08.14
+Anand, V.	2768	Caruana, F.	2822	1/2-1/2	2018.08.14
+Vachier Lagrave, M.	2779	Caruana, F.	2822	1/2-1/2	2018.08.18
+Carlsen, M.	2842	Caruana, F.	2822	1/2-1/2	2018.08.18
+Mamedyarov, S.	2801	Caruana, F.	2822	1/2-1/2	2018.08.18
+So, W.	2780	Caruana, F.	2822	1/2-1/2	2018.08.18
+So, W.	2780	Caruana, F.	2822	1/2-1/2	2018.08.28
+Aronian, Levon	2765	Caruana, Fabiano	2832	1/2-1/2	2018.12.11
+Aronian, Levon	2780	Caruana, Fabiano	2827	1/2-1/2	2018.09.24
+Aronian, Levon	2765	Caruana, Fabiano	2832	1/2-1/2	2018.12.11
+Carlsen, Magnus	2835	Caruana, Fabiano	2832	1/2-1/2	2018.11.09
+Carlsen, Magnus	2835	Caruana, Fabiano	2832	1/2-1/2	2018.11.09
+Carlsen, Magnus	2835	Caruana, Fabiano	2832	1/2-1/2	2018.11.09
+Carlsen, Magnus	2835	Caruana, Fabiano	2832	1/2-1/2	2018.11.09
+Carlsen, Magnus	2835	Caruana, Fabiano	2832	1/2-1/2	2018.11.09
+Carlsen, Magnus	2835	Caruana, Fabiano	2832	1/2-1/2	2018.11.09
+Duda, Jan-Krzysztof	2739	Caruana, Fabiano	2827	1/2-1/2	2018.09.24
+Giri, Anish	2780	Caruana, Fabiano	2827	1/2-1/2	2018.09.24
+Nakamura, Hikaru	2746	Caruana, Fabiano	2832	1/2-1/2	2018.12.11
+Nakamura, Hikaru	2746	Caruana, Fabiano	2832	1/2-1/2	2018.12.11
+Saric, Ivan	2689	Caruana, Fabiano	2827	1/2-1/2	2018.09.24
+Tutisani, Noe	2471	Caruana, Fabiano	2827	1/2-1/2	2018.09.24
+Mamedyarov,S	2817	Caruana,F	2832	1/2-1/2	2018.11.24
+Caruana, Fabiano	2744	Kovalev, Vladislav	2530	1/2-1/2	2022.04.09
+Caruana, Fabiano	2744	Narayanan.S.L, 	2494	1/2-1/2	2022.04.09
+Caruana, Fabiano	2744	Aronian, Levon	2773	1/2-1/2	2022.04.16
+Caruana, Fabiano	2744	Andreikin, Dmitry	2736	1/2-1/2	2022.04.16
+Caruana, Fabiano	2784	Aronian, Levon	2705	1/2-1/2	2022.04.17
+Caruana, Fabiano	2744	Kovalev, Vladislav	2530	1/2-1/2	2022.05.28
+Caruana, Fabiano	2744	Sjugirov, Sanan	2602	1/2-1/2	2022.02.12
+Caruana, Fabiano	2744	Paravyan, David	2569	1/2-1/2	2022.02.12
+Caruana, Fabiano	2847	Matlakov, Maxim	2669	1/2-1/2	2022.07.16
+Caruana, Fabiano	2783	Bachmann, Axel	2588	1/2-1/2	2022.07.30
+Caruana, Fabiano	2847	Vokhidov, Shamsiddin	2619	1/2-1/2	2022.08.13
+Caruana, Fabiano	2847	Bok, Benjamin	2658	1/2-1/2	2022.08.13
+Caruana, Fabiano	2766	Shankland, Sam	2616	1/2-1/2	2022.08.26
+Caruana, Fabiano	2766	Nepomniachtchi, Ian	2795	1/2-1/2	2022.08.26
+Caruana, Fabiano	2766	Dominguez Perez, Leinier	2705	1/2-1/2	2022.08.27
+Caruana, Fabiano	2766	Aronian, Levon	2728	1/2-1/2	2022.08.27
+Caruana, Fabiano	2847	Vachier-Lagrave, Maxime	2812	1/2-1/2	2022.08.29
+Caruana, Fabiano	2847	Nepomniachtchi, Ian	2791	1/2-1/2	2022.08.29
+Caruana, Fabiano	2847	Aronian, Levon	2850	1/2-1/2	2022.08.30
+Caruana, Fabiano	2776	Dominguez Perez, Leinier	2754	1/2-1/2	2022.09.03
+Caruana, Fabiano	2758	Aronian, Levon	2759	1/2-1/2	2022.09.09
+Caruana, Fabiano	3044	Bortnyk, Olexandr	2998	1/2-1/2	2022.09.20
+Caruana, Fabiano	3046	Lenderman, Aleksandr	2959	1/2-1/2	2022.09.20
+Caruana, Fabiano	2747	Martinez Alcantara, Jose Eduardo	2645	1/2-1/2	2022.09.21
+Caruana, Fabiano	2847	Svane, Rasmus	2674	1/2-1/2	2022.09.27
+Caruana, F.	2827	Batchimeg, Tuvshintugs	2390	1-0	2017.01.24
+Caruana, F.	2827	Rakesh, Kumar Jena	2335	1-0	2017.01.24
+Caruana, F.	2827	Lagno, Kateryna	2530	1-0	2017.01.24
+Caruana, F.	2827	Antipov, M2.	2580	1-0	2017.01.24
+Caruana, F.	2817	Hess, Ro	2571	1-0	2017.03.01
+Caruana, F.	2817	Pichot, A.	2556	1-0	2017.03.01
+Caruana, F.	2817	Rosenthal, Nicholas	2169	1-0	2017.03.01
+Caruana, F.	2817	Finegold, B.	2481	1-0	2017.03.01
+Caruana, F.	2817	Akobian, V.	2645	1-0	2017.03.01
+Caruana, F.	2817	Shabalov, A.	2556	1-0	2017.03.29
+Caruana, F.	2817	Kamsky, G.	2659	1-0	2017.03.29
+Caruana, F.	2817	Naroditsky, D.	2646	1-0	2017.03.29
+Caruana, F.	2817	Meier, Geo	2621	1-0	2017.04.15
+Caruana, F.	2813	Tregubov, P.	2586	1-0	2016.10.15
+Caruana, F.	2808	Vachier Lagrave, M.	2796	1-0	2017.06.05
+Caruana, F.	2808	Nakamura, Hi	2785	1-0	2017.06.06
+Caruana, F.	2808	So, W.	2812	1-0	2017.06.24
+Caruana, F.	2808	Mamedyarov, S.	2800	1-0	2017.06.24
+Caruana, F.	2808	Carlsen, M.	2832	1-0	2017.06.24
+Caruana, F.	2808	Karjakin, Sergey	2781	1-0	2017.06.24
+Caruana, F.	2799	Solomon, K.	2398	1-0	2017.09.03
+Caruana, F.	2799	Lenic, L.	2646	1-0	2017.09.03
+Caruana, F.	2799	Kramnik, V.	2803	1-0	2017.09.23
+Caruana, F.	2799	Vishnu, P.	2543	1-0	2017.09.23
+Caruana, F.	2799	Jones, G.	2668	1-0	2017.09.23
+Caruana, F.	2817	So, W.	2822	0-1	2017.03.01
+Caruana, F.	2808	Anand, V.	2786	0-1	2017.06.05
+Caruana, F.	2799	Xiong, Jeffery	2633	1-0	2017.09.23
+Caruana, F.	2802	Nakamura, Hi	2786	1-0	2017.05.03
+Caruana, F.	2802	Nakamura, Hi	2786	1-0	2017.05.03
+Caruana, F.	2799	Grischuk, A.	2782	1-0	2017.11.12
+Caruana, F.	2799	Grischuk, A.	2782	1-0	2017.11.11
+Caruana, F.	2799	Grischuk, A.	2782	1-0	2017.11.11
+Caruana, F.	2799	Grischuk, A.	2782	1-0	2017.11.12
+Caruana, F.	2799	Grischuk, A.	2782	1-0	2017.11.10
+Caruana, F.	2799	Grischuk, A.	2782	1-0	2017.11.09
+Caruana, F.	2799	Adams, Mi	2715	1-0	2017.12.01
+Caruana, F.	2799	Nepomniachtchi, I.	2729	1-0	2017.12.11
+Caruana, F.	2799	Anand, V.	2782	1-0	2017.12.01
+Caruana, Fabiano	2802	Hou, Yifan	2652	1-0	2017.05.03
+Caruana, Fabiano	2802	Hou, Yifan	2652	1-0	2017.05.03
+Caruana, Fabiano	2802	Hou, Yifan	2652	1-0	2017.05.03
+Caruana, Fabiano	2807	Dominguez Perez, Leinier	2739	1-0	2017.08.14
+Caruana, Fabiano	2807	Kasparov, Garry	2812	1-0	2017.08.14
+Caruana, Fabiano	2807	Karjakin, Sergey	2773	1-0	2017.08.14
+Caruana, Fabiano	2802	Hou, Yifan	2652	1-0	2017.05.03
+Caruana, Fabiano	2802	Hou, Yifan	2652	1-0	2017.05.03
+Caruana, Fabiano	2807	Navara, David	2737	1-0	2017.08.17
+Caruana, Fabiano	2802	Hou, Yifan	2652	1-0	2017.05.03
+Caruana, Fabiano	2802	Hou, Yifan	2652	1-0	2017.05.03
+Caruana, F.	2808	So, W.	2812	0-1	2017.06.05
+Caruana, F.	2808	Anand, V.	2786	0-1	2017.06.06
+Caruana, F.	2808	Topalov, V.	2749	0-1	2017.06.24
+Caruana, F.	2808	Grischuk, A.	2761	0-1	2017.06.24
+Caruana, F.	2808	Nakamura, Hi	2785	0-1	2017.06.24
+Caruana, F.	2808	Bacrot, E.	2708	0-1	2017.06.21
+Caruana, F.	2808	So, W.	2812	0-1	2017.06.21
+Caruana, F.	2808	Nakamura, Hi	2785	0-1	2017.06.21
+Caruana, F.	2808	Mamedyarov, S.	2800	0-1	2017.06.21
+Caruana, F.	2799	Najer, E.	2694	0-1	2017.09.03
+Caruana, F.	2799	Carlsen, M.	2827	0-1	2017.09.23
+Caruana, F.	2802	Nakamura, Hi	2786	0-1	2017.05.03
+Caruana, F.	2802	Nakamura, Hi	2786	0-1	2017.05.03
+Caruana, F.	2802	Nakamura, Hi	2786	0-1	2017.05.03
+Caruana, F.	2802	Nakamura, Hi	2786	0-1	2017.05.03
+Caruana, F.	2799	Grischuk, A.	2782	0-1	2017.11.11
+Caruana, F.	2799	Grischuk, A.	2782	0-1	2017.11.10
+Caruana, F.	2799	Grischuk, A.	2782	0-1	2017.11.11
+Caruana, F.	2799	Grischuk, A.	2782	0-1	2017.11.09
+Caruana, Fabiano	2807	Karjakin, Sergey	2773	0-1	2017.08.17
+Caruana, Fabiano	2807	Nakamura, Hikaru	2792	0-1	2017.08.17
+Caruana, Fabiano	2802	Hou, Yifan	2652	0-1	2017.05.03
+Caruana, Fabiano	2802	Hou, Yifan	2652	0-1	2017.05.03
+Caruana, Fabiano	2807	Le, Quang Liem	2739	0-1	2017.08.17
+Caruana, Fabiano	2807	Nepomniachtchi, Ian	2751	0-1	2017.08.17
+Caruana, F.	2827	Akobian, V.	2633	1/2-1/2	2017.01.24
+Caruana, F.	2827	Tari, A.	2584	1/2-1/2	2017.01.11
+Caruana, F.	2827	Carlsen, M.	2840	1/2-1/2	2017.01.11
+Caruana, F.	2817	Nakamura, Hi	2793	1/2-1/2	2017.03.29
+Caruana, F.	2817	Xiong, Jeffery	2674	1/2-1/2	2017.03.29
+Caruana, F.	2817	Vachier Lagrave, M.	2803	1/2-1/2	2017.04.15
+Caruana, F.	2817	Aronian, L.	2774	1/2-1/2	2017.04.15
+Caruana, F.	2808	Aronian, L.	2793	1/2-1/2	2017.06.05
+Caruana, F.	2808	Kramnik, V.	2808	1/2-1/2	2017.06.06
+Caruana, F.	2808	Carlsen, M.	2832	1/2-1/2	2017.06.06
+Caruana, F.	2808	Vachier Lagrave, M.	2796	1/2-1/2	2017.06.24
+Caruana, F.	2808	Bacrot, E.	2708	1/2-1/2	2017.06.24
+Caruana, F.	2808	Carlsen, M.	2832	1/2-1/2	2017.06.21
+Caruana, F.	2799	Najer, E.	2694	1/2-1/2	2017.09.03
+Caruana, F.	2799	Lenic, L.	2646	1/2-1/2	2017.09.03
+Caruana, F.	2799	Lenic, L.	2646	1/2-1/2	2017.09.03
+Caruana, F.	2802	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Caruana, F.	2802	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Caruana, F.	2802	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Caruana, F.	2802	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Caruana, F.	2802	Nakamura, Hi	2786	1/2-1/2	2017.05.03
+Caruana, Fabiano	2807	Dominguez Perez, Leinier	2739	0-1	2017.08.17
+Caruana, Fabiano	2802	Hou, Yifan	2652	0-1	2017.05.03
+Caruana, Fabiano	2807	Kasparov, Garry	2812	0-1	2017.08.17
+Caruana, Fabiano	2807	Aronian, Levon	2799	0-1	2017.08.17
+Short, N.	2675	Caruana, F.	2827	1-0	2017.01.24
+Akobian, V.	2645	Caruana, F.	2817	1-0	2017.03.29
+Zherebukh, Y.	2605	Caruana, F.	2817	1-0	2017.03.29
+Hou Yifan	2649	Caruana, F.	2817	1-0	2017.04.15
+Nakamura, Hi	2785	Caruana, F.	2808	1-0	2017.06.05
+Carlsen, M.	2832	Caruana, F.	2808	1-0	2017.06.05
+Karjakin, Sergey	2781	Caruana, F.	2808	1-0	2017.06.05
+Mamedyarov, S.	2800	Caruana, F.	2808	1-0	2017.06.24
+Caruana, F.	2799	Grischuk, A.	2782	1/2-1/2	2017.11.12
+Caruana, F.	2799	Grischuk, A.	2782	1/2-1/2	2017.11.12
+Caruana, F.	2799	Grischuk, A.	2782	1/2-1/2	2017.11.12
+Caruana, F.	2799	Grischuk, A.	2782	1/2-1/2	2017.11.12
+Caruana, F.	2799	Grischuk, A.	2782	1/2-1/2	2017.11.10
+Caruana, F.	2799	Aronian, L.	2805	1/2-1/2	2017.12.01
+Caruana, F.	2799	Nepomniachtchi, I.	2729	1/2-1/2	2017.12.11
+Caruana, F.	2799	So, W.	2788	1/2-1/2	2017.12.01
+Caruana, Fabiano	2802	Hou, Yifan	2652	1/2-1/2	2017.05.03
+Caruana, Fabiano	2807	Nepomniachtchi, Ian	2751	1/2-1/2	2017.08.14
+Caruana, Fabiano	2807	Karjakin, Sergey	2773	1/2-1/2	2017.08.02
+Caruana, Fabiano	2807	Nakamura, Hikaru	2792	1/2-1/2	2017.08.02
+Caruana, Fabiano	2807	Nepomniachtchi, Ian	2742	1/2-1/2	2017.08.02
+Caruana, Fabiano	2802	Hou, Yifan	2652	1/2-1/2	2017.05.03
+Caruana, Fabiano	2807	Vachier-Lagrave, Maxime	2791	1/2-1/2	2017.08.02
+Caruana, Fabiano	2807	Carlsen, Magnus	2822	1/2-1/2	2017.08.02
+Caruana, Fabiano	2807	Anand, Viswanathan	2783	1/2-1/2	2017.08.17
+Gopal, G.	2579	Caruana, F.	2827	0-1	2017.01.24
+Grischuk, A.	2761	Caruana, F.	2808	1-0	2017.06.21
+Carlsen, M.	2832	Caruana, F.	2808	1-0	2017.06.24
+Topalov, V.	2749	Caruana, F.	2808	1-0	2017.06.21
+Nakamura, Hi	2786	Caruana, F.	2802	1-0	2017.05.03
+Nakamura, Hi	2786	Caruana, F.	2802	1-0	2017.05.03
+Nakamura, Hi	2786	Caruana, F.	2802	1-0	2017.05.03
+Nakamura, Hi	2786	Caruana, F.	2802	1-0	2017.05.03
+Nakamura, Hi	2786	Caruana, F.	2802	1-0	2017.05.03
+Nakamura, Hi	2786	Caruana, F.	2802	1-0	2017.05.03
+Nakamura, Hi	2786	Caruana, F.	2802	1-0	2017.05.03
+Grischuk, A.	2782	Caruana, F.	2799	1-0	2017.11.12
+Grischuk, A.	2782	Caruana, F.	2799	1-0	2017.11.11
+Grischuk, A.	2782	Caruana, F.	2799	1-0	2017.11.10
+Anand, Viswanathan	2783	Caruana, Fabiano	2807	1-0	2017.08.02
+Aronian, Levon	2799	Caruana, Fabiano	2807	1-0	2017.08.14
+Dominguez Perez, Leinier	2739	Caruana, Fabiano	2807	1-0	2017.08.17
+Hou, Yifan	2652	Caruana, Fabiano	2802	1-0	2017.05.03
+Hou, Yifan	2652	Caruana, Fabiano	2802	1-0	2017.05.03
+Karjakin, Sergey	2773	Caruana, Fabiano	2807	1-0	2017.08.17
+Le, Quang Liem	2739	Caruana, Fabiano	2807	1-0	2017.08.17
+Le, Quang Liem	2739	Caruana, Fabiano	2807	1-0	2017.08.14
+Nakamura, Hikaru	2792	Caruana, Fabiano	2807	1-0	2017.08.17
+Nepomniachtchi, Ian	2751	Caruana, Fabiano	2807	1-0	2017.08.17
+Svidler, Peter	2749	Caruana, Fabiano	2807	1-0	2017.08.02
+Nordquelle, Daniel	2083	Caruana, F.	2827	0-1	2017.01.11
+Charbonneau, P.	2505	Caruana, F.	2817	0-1	2017.03.01
+Cuevas, A.	2288	Caruana, F.	2817	0-1	2017.03.01
+Finegold, B.	2481	Caruana, F.	2817	0-1	2017.03.01
+Akobian, V.	2645	Caruana, F.	2817	0-1	2017.03.01
+Rosenthal, Nicholas	2169	Caruana, F.	2817	0-1	2017.03.01
+Robson, R.	2668	Caruana, F.	2817	0-1	2017.03.29
+Naiditsch, A.	2702	Caruana, F.	2817	0-1	2017.04.15
+Rapport, R.	2729	Caruana, F.	2813	0-1	2016.10.15
+Kramnik, V.	2808	Caruana, F.	2808	0-1	2017.06.05
+Bacrot, E.	2708	Caruana, F.	2808	0-1	2017.06.24
+Topalov, V.	2749	Caruana, F.	2808	0-1	2017.06.24
+Karjakin, Sergey	2781	Caruana, F.	2808	0-1	2017.06.24
+Vachier Lagrave, M.	2796	Caruana, F.	2808	0-1	2017.06.24
+So, W.	2812	Caruana, F.	2808	0-1	2017.06.24
+Solomon, K.	2398	Caruana, F.	2799	0-1	2017.09.03
+Lenic, L.	2646	Caruana, F.	2799	0-1	2017.09.03
+Akobian, V.	2662	Caruana, F.	2799	0-1	2017.09.23
+Nakamura, Hi	2786	Caruana, F.	2802	0-1	2017.05.03
+Nakamura, Hi	2786	Caruana, F.	2802	0-1	2017.05.03
+Nakamura, Hi	2786	Caruana, F.	2802	0-1	2017.05.03
+Grischuk, A.	2782	Caruana, F.	2799	0-1	2017.11.12
+Grischuk, A.	2782	Caruana, F.	2799	0-1	2017.11.12
+Grischuk, A.	2782	Caruana, F.	2799	0-1	2017.11.12
+Grischuk, A.	2782	Caruana, F.	2799	0-1	2017.11.12
+Vocaturo, D.	2606	Caruana, F.	2827	1/2-1/2	2017.01.24
+Krysa, L.	2491	Caruana, F.	2827	1/2-1/2	2017.01.24
+Nakamura, Hi	2785	Caruana, F.	2827	1/2-1/2	2017.01.24
+Hammer, J.	2628	Caruana, F.	2827	1/2-1/2	2017.01.11
+So, W.	2822	Caruana, F.	2817	1/2-1/2	2017.03.01
+So, W.	2822	Caruana, F.	2817	1/2-1/2	2017.03.01
+Shankland, S.	2666	Caruana, F.	2817	1/2-1/2	2017.03.29
+So, W.	2822	Caruana, F.	2817	1/2-1/2	2017.03.29
+Onischuk, Al	2667	Caruana, F.	2817	1/2-1/2	2017.03.29
+Grischuk, A.	2782	Caruana, F.	2799	0-1	2017.11.11
+Karjakin, Sergey	2760	Caruana, F.	2799	0-1	2017.12.01
+Anand, Viswanathan	2783	Caruana, Fabiano	2807	0-1	2017.08.17
+Aronian, Levon	2809	Caruana, Fabiano	2807	0-1	2017.08.02
+Aronian, Levon	2799	Caruana, Fabiano	2807	0-1	2017.08.17
+Hou, Yifan	2652	Caruana, Fabiano	2802	0-1	2017.05.03
+Hou, Yifan	2652	Caruana, Fabiano	2802	0-1	2017.05.03
+Hou, Yifan	2652	Caruana, Fabiano	2802	0-1	2017.05.03
+Hou, Yifan	2652	Caruana, Fabiano	2802	0-1	2017.05.03
+Hou, Yifan	2652	Caruana, Fabiano	2802	0-1	2017.05.03
+Hou, Yifan	2652	Caruana, Fabiano	2802	0-1	2017.05.03
+Hou, Yifan	2652	Caruana, Fabiano	2802	0-1	2017.05.03
+Hou, Yifan	2652	Caruana, Fabiano	2802	0-1	2017.05.03
+Kasparov, Garry	2812	Caruana, Fabiano	2807	0-1	2017.08.17
+Navara, David	2737	Caruana, Fabiano	2807	0-1	2017.08.14
+Navara, David	2737	Caruana, Fabiano	2807	0-1	2017.08.17
+Carlsen, M.	2838	Caruana, F.	2817	1/2-1/2	2017.04.15
+Bluebaum, M.	2634	Caruana, F.	2817	1/2-1/2	2017.04.15
+Giri, A.	2771	Caruana, F.	2808	1/2-1/2	2017.06.05
+Vachier Lagrave, M.	2796	Caruana, F.	2808	1/2-1/2	2017.06.06
+Karjakin, Sergey	2781	Caruana, F.	2808	1/2-1/2	2017.06.06
+Aronian, L.	2793	Caruana, F.	2808	1/2-1/2	2017.06.06
+So, W.	2812	Caruana, F.	2808	1/2-1/2	2017.06.06
+Giri, A.	2771	Caruana, F.	2808	1/2-1/2	2017.06.06
+Nakamura, Hi	2785	Caruana, F.	2808	1/2-1/2	2017.06.24
+Grischuk, A.	2761	Caruana, F.	2808	1/2-1/2	2017.06.24
+Vachier Lagrave, M.	2796	Caruana, F.	2808	1/2-1/2	2017.06.21
+Karjakin, Sergey	2781	Caruana, F.	2808	1/2-1/2	2017.06.21
+Najer, E.	2694	Caruana, F.	2799	1/2-1/2	2017.09.03
+Najer, E.	2694	Caruana, F.	2799	1/2-1/2	2017.09.03
+Lenic, L.	2646	Caruana, F.	2799	1/2-1/2	2017.09.03
+Lenic, L.	2646	Caruana, F.	2799	1/2-1/2	2017.09.03
+Lubbe, N.	2515	Caruana, F.	2799	1/2-1/2	2017.09.23
+Sutovsky, E.	2683	Caruana, F.	2799	1/2-1/2	2017.09.23
+Grandelius, N.	2653	Caruana, F.	2799	1/2-1/2	2017.09.23
+Nakamura, Hi	2786	Caruana, F.	2802	1/2-1/2	2017.05.03
+Nakamura, Hi	2786	Caruana, F.	2802	1/2-1/2	2017.05.03
+Nakamura, Hi	2786	Caruana, F.	2802	1/2-1/2	2017.05.03
+Grischuk, A.	2782	Caruana, F.	2799	1/2-1/2	2017.11.11
+Grischuk, A.	2782	Caruana, F.	2799	1/2-1/2	2017.11.12
+Grischuk, A.	2782	Caruana, F.	2799	1/2-1/2	2017.11.10
+Caruana, F.	2787	Wei Yi	2706	1-0	2016.01.16
+Caruana, F.	2804	Fressinet, L.	2687	1-0	2016.06.11
+Caruana, F.	2804	Carlsen, M.	2855	1-0	2016.06.11
+Caruana, F.	2804	Kramnik, V.	2812	1-0	2016.06.11
+Caruana, F.	2804	Topalov, V.	2761	1-0	2016.06.11
+Caruana, F.	2804	So, W.	2770	1-0	2016.06.11
+Caruana, F.	2804	Kramnik, V.	2812	1-0	2016.06.19
+Caruana, F.	2804	Aronian, L.	2792	1-0	2016.06.19
+Caruana, F.	2804	Anand, V.	2770	1-0	2016.06.19
+Caruana, F.	2804	Giri, A.	2782	1-0	2016.06.19
+Grischuk, A.	2782	Caruana, F.	2799	1/2-1/2	2017.11.10
+Grischuk, A.	2782	Caruana, F.	2799	1/2-1/2	2017.11.11
+Grischuk, A.	2782	Caruana, F.	2799	1/2-1/2	2017.11.09
+Grischuk, A.	2782	Caruana, F.	2799	1/2-1/2	2017.11.09
+Nepomniachtchi, I.	2729	Caruana, F.	2799	1/2-1/2	2017.12.01
+Nakamura, Hi	2781	Caruana, F.	2799	1/2-1/2	2017.12.01
+Nepomniachtchi, I.	2729	Caruana, F.	2799	1/2-1/2	2017.12.11
+Nepomniachtchi, I.	2729	Caruana, F.	2799	1/2-1/2	2017.12.11
+Vachier Lagrave, M.	2789	Caruana, F.	2799	1/2-1/2	2017.12.01
+Anand, Viswanathan	2783	Caruana, Fabiano	2807	1/2-1/2	2017.08.14
+Carlsen, Magnus	2837	Caruana, Fabiano	2799	1/2-1/2	2017.12.01
+Hou, Yifan	2652	Caruana, Fabiano	2802	1/2-1/2	2017.05.03
+Hou, Yifan	2652	Caruana, Fabiano	2802	1/2-1/2	2017.05.03
+Nakamura, Hikaru	2792	Caruana, Fabiano	2807	1/2-1/2	2017.08.14
+So, Wesley	2810	Caruana, Fabiano	2807	1/2-1/2	2017.08.02
+Firouzja, Alireza	2793	Caruana, Fabiano	2783	0-1	2022.06.23
+Nakamura, Hikaru	2760	Caruana, Fabiano	2783	1-0	2022.06.26
+Maghsoodloo, Parham	2630	Caruana, Fabiano	2744	0-1	2022.02.26
+Ponkratov, Pavel	2487	Caruana, Fabiano	2744	0-1	2022.02.26
+Sarana, Alexey	2665	Caruana, Fabiano	2744	0-1	2022.02.26
+Dreev, Aleksey	2636	Caruana, Fabiano	2744	0-1	2022.02.20
+Dubov, Daniil	2791	Caruana, Fabiano	2744	0-1	2022.03.12
+Paravyan, David	2569	Caruana, Fabiano	2744	0-1	2022.03.06
+Guseinov, Gadir	2581	Caruana, Fabiano	2744	0-1	2022.03.05
+Matlakov, Maxim	2669	Caruana, Fabiano	2744	1-0	2022.03.19
+Nakamura, Hikaru	2850	Caruana, Fabiano	2744	1-0	2022.03.13
+Paravyan, David	2569	Caruana, Fabiano	2744	1-0	2022.03.12
+Kovalenko, Igor	2560	Caruana, Fabiano	2744	1-0	2022.04.02
+Le, Quang Liem	2686	Caruana, Fabiano	2744	1-0	2022.04.09
+Grischuk, Alexander	2762	Caruana, Fabiano	2744	1-0	2022.04.09
+Aronian, Levon	2773	Caruana, Fabiano	2744	1-0	2022.04.17
+Paravyan, David	2569	Caruana, Fabiano	2847	1-0	2022.07.16
+Martinez Alcantara, Jose Eduardo	2703	Caruana, Fabiano	2847	1-0	2022.07.16
+Sargissian, Gabriel	2698	Caruana, Fabiano	2776	1-0	2022.08.05
+Andreikin, Dmitry	2675	Caruana, Fabiano	2766	1-0	2022.08.20
+Xiong, Jeffery	2725	Caruana, Fabiano	2766	1-0	2022.08.26
+Vachier-Lagrave, Maxime	2763	Caruana, Fabiano	2766	1-0	2022.08.28
+Nakamura, Hikaru	2850	Caruana, Fabiano	2847	1-0	2022.08.29
+So, Wesley	2773	Caruana, Fabiano	2776	1-0	2022.09.04
+Wachinger, Guenther	2212	Caruana, Fabiano	2847	1-0	2022.09.27
+Abdusattorov, Nodirbek	2663	Caruana, Fabiano	2744	0-1	2022.03.05
+Robson, Ray	2683	Caruana, Fabiano	2744	0-1	2022.03.19
+Kovalev, Vladislav	2530	Caruana, Fabiano	2744	0-1	2022.03.12
+Kamsky, Gata	2645	Caruana, Fabiano	2744	0-1	2022.03.27
+Swiercz, Dariusz	2627	Caruana, Fabiano	2744	0-1	2022.03.26
+Tabatabaei, M. Amin	2544	Caruana, Fabiano	2744	0-1	2022.03.26
+Sevian, Samuel	2698	Caruana, Fabiano	2744	0-1	2022.04.09
+Ponkratov, Pavel	2487	Caruana, Fabiano	2744	0-1	2022.04.02
+Martinez Alcantara, Jose Eduardo	2690	Caruana, Fabiano	2744	0-1	2022.04.16
+Grischuk, Alexander	2762	Caruana, Fabiano	2744	0-1	2022.04.16
+Paravyan, David	2569	Caruana, Fabiano	2744	0-1	2022.05.28
+Bharath, Subramaniyam H	2242	Caruana, Fabiano	2744	0-1	2022.05.28
+Matinian, Nikita	2422	Caruana, Fabiano	2744	0-1	2022.05.28
+Abdusattorov, Nodirbek	2663	Caruana, Fabiano	2744	0-1	2022.02.12
+Robson, Ray	2670	Caruana, Fabiano	2847	0-1	2022.07.16
+Swiercz, Dariusz	2627	Caruana, Fabiano	2847	0-1	2022.07.16
+Mastrovasilis, Dimitrios	2597	Caruana, Fabiano	2776	0-1	2022.08.07
+Azarov, Sergei	2494	Caruana, Fabiano	2847	0-1	2022.08.13
+Vasquez Schroeder, Rodrigo	2567	Caruana, Fabiano	2847	0-1	2022.08.13
+Oparin, Grigoriy	2639	Caruana, Fabiano	2847	0-1	2022.08.13
+Meier, Georg	2494	Caruana, Fabiano	2847	0-1	2022.08.13
+Sarana, Alexey	2666	Caruana, Fabiano	2847	0-1	2022.08.19
+Sarana, Alexey	2654	Caruana, Fabiano	2766	0-1	2022.08.19
+Matlakov, Maxim	2671	Caruana, Fabiano	2766	0-1	2022.08.19
+Aldokhin, Ivan	2246	Caruana, Fabiano	2847	0-1	2022.08.23
+Nepomniachtchi, Ian	2766	Caruana, Fabiano	2783	1/2-1/2	2022.06.18
+Sjugirov, Sanan	2609	Caruana, Fabiano	2847	0-1	2022.08.23
+Moroni, Luca Jr	2573	Caruana, Fabiano	2847	0-1	2022.08.23
+Jones, Gawain C B	2657	Caruana, Fabiano	2847	0-1	2022.08.23
+Salem, A.R. Saleh	2674	Caruana, Fabiano	2847	0-1	2022.08.23
+Firouzja, Alireza	2704	Caruana, Fabiano	2766	0-1	2022.08.27
+Nakamura, Hikaru	2837	Caruana, Fabiano	2766	0-1	2022.08.28
+Aronian, Levon	2850	Caruana, Fabiano	2847	0-1	2022.08.29
+Shankland, Sam	2645	Caruana, Fabiano	2847	0-1	2022.08.29
+Dominguez Perez, Leinier	2708	Caruana, Fabiano	2847	0-1	2022.08.30
+Vachier-Lagrave, Maxime	2812	Caruana, Fabiano	2847	0-1	2022.08.30
+Xiong, Jeffery	2714	Caruana, Fabiano	2847	0-1	2022.08.30
+Niemann, Hans Moke	2688	Caruana, Fabiano	2758	0-1	2022.09.10
+Kravtsiv, Martyn	2675	Caruana, Fabiano	2747	0-1	2022.09.19
+Rosen, Eric	2362	Caruana, Fabiano	2847	0-1	2022.09.20
+Muradli, Mahammad	2901	Caruana, Fabiano	3040	0-1	2022.09.20
+Pakleza, Zbigniew	2411	Caruana, Fabiano	2847	0-1	2022.09.27
+Gabrielian, Artur	2467	Caruana, Fabiano	2847	0-1	2022.09.27
+Moksh, Amit Doshi	2245	Caruana, Fabiano	2847	0-1	2022.09.27
+Bortnyk, Olexandr	2723	Caruana, Fabiano	2847	0-1	2022.09.27
+Kosakowski, Jakub	2453	Caruana, Fabiano	2847	0-1	2022.09.27
+Timmermans, Mark	2460	Caruana, Fabiano	2847	0-1	2022.09.27
+Gabrielian, Artur	2467	Caruana, Fabiano	2847	0-1	2022.09.27
+Bartel, Mateusz	2526	Caruana, Fabiano	2847	0-1	2022.09.27
+Dardha, Daniel	2528	Caruana, Fabiano	2847	0-1	2022.09.27
+Ding, Liren	2806	Caruana, Fabiano	2783	1/2-1/2	2022.06.21
+Sjugirov, Sanan	2602	Caruana, Fabiano	2744	1/2-1/2	2022.02.19
+Sarana, Alexey	2665	Caruana, Fabiano	2744	1/2-1/2	2022.02.19
+Dubov, Daniil	2791	Caruana, Fabiano	2744	1/2-1/2	2022.03.05
+Le, Quang Liem	2686	Caruana, Fabiano	2744	1/2-1/2	2022.02.26
+Matlakov, Maxim	2669	Caruana, Fabiano	2744	1/2-1/2	2022.03.12
+Paravyan, David	2569	Caruana, Fabiano	2744	1/2-1/2	2022.03.05
+Cheparinov, Ivan	2622	Caruana, Fabiano	2744	1/2-1/2	2022.03.19
+Nakamura, Hikaru	2837	Caruana, Fabiano	2784	1/2-1/2	2022.03.13
+Andreikin, Dmitry	2736	Caruana, Fabiano	2744	1/2-1/2	2022.03.27
+Sarana, Alexey	2666	Caruana, Fabiano	2744	1/2-1/2	2022.03.26
+Bok, Benjamin	2658	Caruana, Fabiano	2744	1/2-1/2	2022.03.26
+Vidit, Santosh Gujrathi	2654	Caruana, Fabiano	2744	1/2-1/2	2022.04.16
+Oparin, Grigoriy	2665	Caruana, Fabiano	2744	1/2-1/2	2022.04.16
+Giri, Anish	2744	Caruana, Fabiano	2784	1/2-1/2	2022.02.13
+Nabaty, Tamir	2627	Caruana, Fabiano	2744	1/2-1/2	2022.02.12
+Giri, Anish	2766	Caruana, Fabiano	2744	1/2-1/2	2022.02.12
+Tabatabaei, M. Amin	2585	Caruana, Fabiano	2744	1/2-1/2	2022.02.12
+Sadhwani, Raunak	2616	Caruana, Fabiano	2744	1/2-1/2	2022.02.12
+Niemann, Hans Moke	2632	Caruana, Fabiano	2847	1/2-1/2	2022.07.16
+Jobava, Baadur	2585	Caruana, Fabiano	2783	1/2-1/2	2022.07.31
+Boruchovsky, Avital	2551	Caruana, Fabiano	2783	1/2-1/2	2022.08.02
+Harikrishna, Pentala	2720	Caruana, Fabiano	2776	1/2-1/2	2022.08.09
+Nepomniachtchi, Ian	2795	Caruana, Fabiano	2766	1/2-1/2	2022.08.18
+Firouzja, Alireza	2795	Caruana, Fabiano	2847	1/2-1/2	2022.08.29
+Caruana, Fabiano	2823	Vachier-Lagrave, Maxime	2784	1-0	Sat Jan 23 2021
+Caruana, Fabiano	2820	Vachier-Lagrave, Maxime	2758	1-0	Mon Apr 19 2021
+Caruana, Fabiano	2773	Grischuk, Alexander	2784	1-0	Tue May 25 2021
+Caruana, Fabiano	2820	Giri, Anish	2780	1-0	Mon May 24 2021
+Caruana, Fabiano	2820	Nepomniachtchi, Ian	2792	1-0	Mon May 24 2021
+Caruana, Fabiano	2773	Nepomniachtchi, Ian	2778	1-0	Wed May 26 2021
+Caruana, Fabiano	2773	Lupulescu, Constantin	2628	1-0	2021.06.06
+Caruana, Fabiano	2773	Svidler, Peter	2742	1-0	2021.06.19
+Caruana, Fabiano	2711	Firouzja, Alireza	2770	1-0	2021.06.22
+Caruana, Fabiano	2806	Megaranto, Susanto	2550	1-0	2021.07.15
+Caruana, Fabiano	2758	Mamedyarov, Shakhriyar	2756	1-0	2021.08.13
+Caruana, Fabiano	2758	Dominguez Perez, Leinier	2786	1-0	2021.08.12
+Caruana, Fabiano	2758	Xiong, Jeffery	2730	1-0	2021.08.11
+Caruana, Fabiano	2734	Shankland, Sam	2704	1-0	2021.08.14
+Mamedyarov, Shakhriyar	2710	Caruana, Fabiano	2847	1/2-1/2	2022.08.29
+Nepomniachtchi, Ian	2791	Caruana, Fabiano	2847	1/2-1/2	2022.08.30
+Firouzja, Alireza	2778	Caruana, Fabiano	2776	1/2-1/2	2022.09.02
+Mamedyarov, Shakhriyar	2757	Caruana, Fabiano	2758	1/2-1/2	2022.09.06
+Nepomniachtchi, Ian	2792	Caruana, Fabiano	2758	1/2-1/2	2022.09.08
+Kravtsiv, Martyn	2675	Caruana, Fabiano	2747	1/2-1/2	2022.09.19
+Andreikin, Dmitry	2736	Caruana, Fabiano	2847	1/2-1/2	2022.09.20
+Espinosa, Pedro	1696	Caruana, Fabiano	2847	1/2-1/2	2022.09.20
+Jobava, Baadur	2582	Caruana, Fabiano	2847	1/2-1/2	2022.09.20
+Martinez Alcantara, Jose Eduardo	2645	Caruana, Fabiano	2747	1/2-1/2	2022.09.21
+Martinez Alcantara, Jose Eduardo	2645	Caruana, Fabiano	2747	1/2-1/2	2022.09.21
+Caruana, Fabiano	2783	Nakamura, Hikaru	2760	1-0	2022.06.17
+Caruana, Fabiano	2783	Radjabov, Teimour	2753	1-0	2022.06.25
+Caruana, Fabiano	2744	Maghsoodloo, Parham	2630	1-0	2022.02.19
+Caruana, Fabiano	2744	Anton Guijarro, David	2584	1-0	2022.02.19
+Caruana, Fabiano	2744	Martirosyan, Haik M.	2735	1-0	2022.02.19
+Caruana, Fabiano	2744	Erigaisi, Arjun	2745	1-0	2022.02.19
+Caruana, Fabiano	2784	Nakamura, Hikaru	2823	1-0	2022.02.27
+Caruana, Fabiano	2744	Tari, Aryan	2567	1-0	2022.02.26
+Caruana, Fabiano	2784	Xiong, Jeffery	2729	1-0	2022.02.27
+Caruana, Fabiano	2784	Dubov, Daniil	2712	1-0	2022.02.27
+Caruana, Fabiano	2744	Dubov, Daniil	2791	1-0	2022.02.26
+Caruana, Fabiano	2744	Nakamura, Hikaru	2850	1-0	2022.02.20
+Caruana, Fabiano	2784	Dubov, Daniil	2712	1-0	2022.02.20
+Caruana, Fabiano	2744	Maghsoodloo, Parham	2630	1-0	2022.03.12
+Caruana, Fabiano	2784	Demchenko, Anton	2547	1-0	2022.03.06
+Caruana, Fabiano	2744	Sarana, Alexey	2665	1-0	2022.03.05
+Caruana, Fabiano	2744	Demchenko, Anton	2539	1-0	2022.03.05
+Caruana, Fabiano	2744	Abdusattorov, Nodirbek	2663	1-0	2022.03.19
+Caruana, Fabiano	2744	Swiercz, Dariusz	2627	1-0	2022.03.19
+Caruana, Fabiano	2784	Kamsky, Gata	2717	1-0	2022.03.13
+Caruana, Fabiano	2744	So, Wesley	2814	1-0	2022.03.12
+Caruana, Fabiano	2744	Van Foreest, Jorden	2609	1-0	2022.03.26
+Caruana, Fabiano	2744	Robson, Ray	2683	1-0	2022.03.26
+Caruana, Fabiano	2744	Harika, Dronavalli	2382	1-0	2022.04.09
+Caruana, Fabiano	2784	Martinez Alcantara, Jose Eduardo	2645	1-0	2022.04.17

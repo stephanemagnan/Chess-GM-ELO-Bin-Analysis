@@ -1,0 +1,633 @@
+[Event "2019-world-rapid-championship"]
+[White "Aronian, Levon"]
+[Black "Firouzja, Alireza"]
+[WhiteFideId "13300474"]
+[BlackFideId "12573981"]
+[Result "1/2-1/2"]
+[Round "06"]
+[Date "Fri Dec 27 2019"]
+[WhiteClock "0:02:03"]
+[BlackClock "0:00:23"]
+
+
+1. e4  c5 2. Nf3  d6 3. d4  cxd4 4. Nxd4  Nf6 5. Nc3  a6 6. f3  e5 7. Nb3  Be6 8. Be3  h5 9. Nd5  Bxd5 10. exd5  Nbd7 11. Qd2  g6 12. O-O-O  Qc7 13. Kb1  Bg7 14. Be2  a5 15. a4  O-O 16. Bb5  Nb6 17. h4  Rfc8 18. Bxb6  Qxb6 19. Rhg1  e4 20. Rge1  Rc7 21. fxe4  Ng4 22. Re2  Rcc8 23. Qe1  Ne5 24. Qf2  Qd8 25. g3  Nc4 26. c3  Qe7 27. Nc1  Rc7 28. Nd3  Rac8 29. Ka2  Ne5 30. Nxe5  Bxe5 31. Re3  Kg7 32. Rf3  Rc5 33. Rf1  f6 34. Rg1  Rxb5 35. axb5  Qd7 36. Qe2  Rc5 37. c4  Qc8 38. Rc1  Rxb5 39. cxb5  Qxc1 40. Ra3  b6 41. Ra4  Qg1 42. Rc4  Qxg3 43. Rc6  Qg1 44. Rc8  Qg4 45. Rc7+  Kh6 46. Qe3+  g5 47. Rc2  Qxh4 48. Qxb6  Qxe4 49. Qc6  a4 50. b6  Qb4 51. b7  Qb3+ 52. Kb1  a3 53. Qc8  Bxb2 54. Qh8+  Kg6 55. Qg8+  Kh6 56. Qh8+  Kg6 57. Qg8+  Kh6 1/2-1/2
+
+
+[Event "2019-world-blitz-championship"]
+[White "Mamedyarov, Shakhriyar"]
+[Black "Firouzja, Alireza"]
+[WhiteFideId "13401319"]
+[BlackFideId "12573981"]
+[Result "1/2-1/2"]
+[Round "07"]
+[Date "Sun Dec 29 2019"]
+[WhiteClock "0:00:50"]
+[BlackClock "0:01:04"]
+
+
+1. d4  Nf6 2. c4  g6 3. Nf3  Bg7 4. g3  O-O 5. Bg2  d6 6. O-O  Ne4 7. b3  e5 8. Bb2  Nc6 9. d5  Ne7 10. Nxe5  Nxf2 11. Rxf2  dxe5 12. c5  Nf5 13. Qd2  Qe7 14. e4  Nd4 15. Ba3  c6 16. Nc3 1/2-1/2
+
+
+[Event "2019-world-rapid-championship"]
+[White "Andreikin, Dmitry"]
+[Black "Firouzja, Alireza"]
+[WhiteFideId "4158814"]
+[BlackFideId "12573981"]
+[Result "1/2-1/2"]
+[Round "13"]
+[Date "Sat Dec 28 2019"]
+[WhiteClock "0:00:21"]
+[BlackClock "0:00:29"]
+
+
+1. d4  d5 2. Nf3  Nf6 3. c4  dxc4 4. e3  e6 5. Bxc4  c5 6. O-O  a6 7. dxc5  Qxd1 8. Rxd1  Bxc5 9. Be2  b6 10. Nd4  Bb7 11. Nb3  Be7 12. f3  Nc6 13. e4  Rd8 14. Rxd8+  Bxd8 15. Be3  Nb4 16. Na3  b5 17. Nc5  Bb6 18. Kf2  Bc6 19. Nb3  Bxe3+ 20. Kxe3  Ke7 21. Rc1  Rc8 22. Nc2  Nxa2 23. Ra1  Bd5 24. Nbd4  e5 25. Nf5+  Kf8 26. exd5  Rxc2 27. Rxa2  Nxd5+ 28. Kf2  Nb4 29. Ra3  g6 30. Ne3  Rxb2 31. Nd1  Rd2 32. Ke1  Rd6 33. Rc3  Nc6 34. Rc5  Ke7 35. Nc3  f5 36. Nd5+  Kd7 37. Bd1  Nd4 38. Nb4  Ke6 39. g3  h5 40. h4  f4 41. gxf4  exf4 42. Rg5  Kf7 43. Rd5  Re6+ 44. Kf2  Nc6 45. Nxa6  Ne7 46. Bb3  Kf6 47. Nc7  Nxd5 48. Nxd5+  Kg7 49. Nxf4  Rc6 50. Bd5  Rc2+ 51. Kg3  b4 52. Nxg6  b3 53. Bxb3  Rc3 54. Nf4 1/2-1/2
+
+
+[Event "TCh-TUR Super League 2019"]
+[Site "Konya TUR"]
+[Date "2019.07.18"]
+[Round "2.7"]
+[White "Lobanov,Sergei"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2505"]
+[BlackElo "2685"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[WhiteTeam "HATAY BUYUKSEHIR BELEDIYESI GENCLIK SPOR KULUBU"]
+[BlackTeam "TATVAN SATRANC EGITIMI SPOR KULUBU"]
+[WhiteFideId "24183750"]
+[BlackFideId "12573981"]
+[EventDate "2019.07.17"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. d4 Bb6
+9. a4 Bg4 10. h3 Bh5 11. Bg5 Rb8 12. d5 Na5 13. Ba2 h6 14. Bxf6 Qxf6 15. b4 Nb7
+16. Nbd2 O-O 17. Bb1 Qf4 18. Kh1 bxa4 19. Rxa4 a5 20. g3 Qf6 21. Kg2 axb4 22.
+cxb4 Nd8 23. Nc4 Qe7 24. g4 Bg6 25. Ra6 Bd4 26. Nxd4 exd4 27. Qxd4 Rxb4 28. f3
+c6 29. Bd3 cxd5 30. Qxd5 Ne6 31. Kg3 Qf6 32. Rxd6 Qf4+ 33. Kg2 h5 34. gxh5 Bxh5
+35. Rxe6 Bxf3+ 36. Rxf3 Qxf3+ 37. Kxf3 fxe6+ 38. Ke3 exd5 39. exd5 Rc8 40. Kd4
+Kf7 41. Be2 Kf6 42. Kc3 Ra4 43. Kd4 Rb4 44. d6 Rd8 45. Kc5 Rxc4+ 46. Bxc4 Ke5 0-1
+
+
+[Event "TCh-TUR Super League 2019"]
+[Site "Konya TUR"]
+[Date "2019.07.19"]
+[Round "3.2"]
+[White "Quparadze,G"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2499"]
+[BlackElo "2685"]
+[ECO "B91"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Zagreb (fianchetto) variation"]
+[WhiteTeam "SERTEL GENCLIK VE SPOR KULUBU DERNEGI"]
+[BlackTeam "TATVAN SATRANC EGITIMI SPOR KULUBU"]
+[WhiteFideId "13602250"]
+[BlackFideId "12573981"]
+[EventDate "2019.07.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. Bg2
+b5 9. a4 b4 10. Nd5 Nxd5 11. Qxd5 Ra7 12. Be3 Be6 13. Qd3 Ra8 14. O-O O-O 15. c4
+Nd7 16. b3 Nc5 17. Qc2 Bd7 18. Nc1 Bg5 19. Bxg5 Qxg5 20. Rd1 Bg4 21. Rxd6 Rad8
+22. Rd5 Be6 23. Rxc5 Rd2 24. f4 Qd8 25. Rd5 Rxc2 26. Rxd8 Rxd8 27. Bf3 Rdd2 28.
+f5 Bd7 29. a5 Bc6 0-1
+
+
+[Event "TCh-TUR Super League 2019"]
+[Site "Konya TUR"]
+[Date "2019.07.21"]
+[Round "5.3"]
+[White "Kerigan,D"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2398"]
+[BlackElo "2685"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[WhiteTeam "TARSUS ZEKA SATRANC KULUBU"]
+[BlackTeam "TATVAN SATRANC EGITIMI SPOR KULUBU"]
+[WhiteFideId "6307841"]
+[BlackFideId "12573981"]
+[EventDate "2019.07.17"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. Nge2 Bg7 6. d3 e6 7. Be3 Nd4 8. f4 Ne7
+9. O-O O-O 10. a3 Rb8 11. Rb1 b6 12. b4 Bb7 13. Qd2 Qd7 14. f5 exf5 15. Bh6
+Nxe2+ 16. Nxe2 Bxh6 17. Qxh6 fxe4 18. dxe4 Qe6 19. Qg5 Nc6 20. Rf6 Qc4 21. Qd2
+Ne5 22. Nc3 cxb4 23. axb4 Rbc8 24. Rb3 a5 25. Qxd6 axb4 26. Qxe5 Rfe8 27. Qf4
+bxc3 28. Rfxb6 Bxe4 29. Bxe4 Rxe4 30. Qf2 Rd4 31. Qf1 Qd5 32. R3b5 Qe4 33. Rb7
+Rf8 0-1
+
+
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2019.07.09"]
+[Round "2.2"]
+[White "Sevian,Samuel"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2666"]
+[BlackElo "2682"]
+[ECO "B59"]
+[Opening "Sicilian"]
+[Variation "Boleslavsky variation, 7.Nb3"]
+[WhiteFideId "2040506"]
+[BlackFideId "12573981"]
+[EventDate "2019.05.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 a5 10. a4 Nb4 11. f4 Bd7 12. Nd2 Bc6 13. Bf3 d5 14. fxe5 d4 15. exf6
+Bxf6 16. e5 dxe3 17. exf6 exd2 18. Bxc6 Qd4+ 19. Rf2 bxc6 20. Qxd2 Qxd2 21. Rxd2
+gxf6 22. Rad1 Rfe8 23. Ne2 Nd5 24. b3 Ne3 25. Re1 Rad8 26. Nd4 Re4 27. Nf3 Rde8
+28. Rde2 f5 29. Nd2 R4e6 30. Rc1 Kg7 31. Nf3 c5 32. h3 h6 33. Rd2 f4 34. Re1
+R8e7 35. Kf2 Re4 36. Kg1 c4 37. Rc1 Nf5 38. Rd5 Ng3 39. Kh2 Rc7 40. Re1 Rxe1 41.
+Nxe1 cxb3 42. cxb3 Rc1 43. Re5 f6 44. Re7+ Kf8 45. Re6 Kf7 0-1
+
+
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2019.07.09"]
+[Round "2.10"]
+[White "Sevian,Samuel"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2666"]
+[BlackElo "2682"]
+[ECO "B67"]
+[Opening "Sicilian"]
+[Variation "Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7"]
+[WhiteFideId "2040506"]
+[BlackFideId "12573981"]
+[EventDate "2019.05.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Bxf6 gxf6 11. Kb1 Qb6 12. Nxc6 Bxc6 13. f5 b4 14. Ne2 e5
+15. Ng3 h5 16. Bc4 h4 17. Nf1 Bxe4 18. Qe2 Bxf5 19. Ne3 Be6 20. Bxe6 fxe6 21.
+Qf3 O-O-O 22. Qxf6 Rh6 23. Qg5 Rh7 24. Rhf1 Rc7 25. Ng4 Qc6 26. Rd2 Bg7 27. Rfd1
+Rdd7 28. Qxh4 e4 29. Nf6 e3 30. Re2 Rf7 31. Nh5 Be5 32. Qg4 d5 33. Ng3 Rf2 34.
+Rde1 d4 35. Qg6 Bxg3 36. hxg3 Qxg2 37. Qxe6+ Kb7 38. Qg4 Qc6 39. b3 d3 40. cxd3
+Qc3 0-1
+
+
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2019.07.09"]
+[Round "2.12"]
+[White "Sevian,Samuel"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2666"]
+[BlackElo "2682"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[WhiteFideId "2040506"]
+[BlackFideId "12573981"]
+[EventDate "2019.05.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8.
+Qxd8+ Kxd8 9. h3 Be7 10. Nc3 Nh4 11. Nxh4 Bxh4 12. f4 Bd7 13. f5 Re8 14. g4 Rxe5
+15. Bf4 Re7 16. Rad1 Kc8 17. Rd3 b6 18. Rfd1 g6 19. Bh6 gxf5 20. g5 f4 21. Kg2
+Bf5 22. Rd4 Bg3 23. R1d2 Kb7 24. Bg7 Rae8 25. Bf6 Re3 26. Rd8 Rxd8 27. Bxd8 Be1 0-1
+
+
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2019.07.09"]
+[Round "2.8"]
+[White "Sevian,Samuel"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2666"]
+[BlackElo "2682"]
+[ECO "E06"]
+[Opening "Catalan"]
+[Variation "closed, 5.Nf3"]
+[WhiteFideId "2040506"]
+[BlackFideId "12573981"]
+[EventDate "2019.05.16"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 Qd6 8. Na3
+Rd8 9. Naxc4 Qxd4 10. Be3 Qxd1 11. Rfxd1 Nd5 12. Rac1 Na6 13. Bd2 f6 14. Nd3 e5
+15. Na5 Rb8 16. a3 c6 17. b4 Nac7 18. a4 Be6 19. b5 cxb5 20. e4 bxa4 21. exd5
+Nxd5 22. Be1 a3 23. Nc5 Bxc5 24. Rxc5 a2 25. Rcc1 Ne7 26. Rxd8+ Rxd8 27. Nxb7
+Rb8 28. Ra1 Nd5 29. Rxa2 Rxb7 30. Ra6 Kf7 31. Rd6 Rb1 32. Kf1 Nf4 33. Rc6 Nxg2 0-1
+
+
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2019.07.09"]
+[Round "2.20"]
+[White "Sevian,Samuel"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2666"]
+[BlackElo "2682"]
+[ECO "B89"]
+[Opening "Sicilian"]
+[Variation "Velimirovic attack"]
+[WhiteFideId "2040506"]
+[BlackFideId "12573981"]
+[EventDate "2019.05.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Be3 Be7 8. Qe2
+O-O 9. O-O-O Qc7 10. Bb3 Na5 11. Rhg1 Nxb3+ 12. axb3 e5 13. Nf5 Bxf5 14. exf5
+Qa5 15. g4 Qa1+ 16. Kd2 Qxb2 17. g5 Rac8 18. gxf6 Qxc3+ 19. Kc1 Bxf6 20. Rg3
+Qa1+ 21. Kd2 Rxc2+ 22. Kxc2 Qa2+ 23. Kd3 e4+ 0-1
+
+
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2019.07.09"]
+[Round "2.22"]
+[White "Sevian,Samuel"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2666"]
+[BlackElo "2682"]
+[ECO "A06"]
+[Opening "Reti"]
+[Variation "old Indian attack"]
+[WhiteFideId "2040506"]
+[BlackFideId "12573981"]
+[EventDate "2019.05.16"]
+
+1. d3 d5 2. Nf3 Nf6 3. g3 Nc6 4. Bg2 e5 5. O-O Be7 6. Nbd2 O-O 7. e4 Re8 8. exd5
+Nxd5 9. Re1 Bf8 10. Nc4 f6 11. c3 Be6 12. Nh4 Qd7 13. Qc2 Rad8 14. a4 Nb6 15.
+Nxb6 axb6 16. Bf1 Na5 17. Be3 Nb3 18. Rad1 Qxa4 19. d4 exd4 20. cxd4 Nc5 21. Qb1
+Ba2 22. Qc1 Bb3 23. Rd2 Ne4 24. Rd3 Bd5 25. Qxc7 Qb4 26. Rc1 Qxb2 27. Ng2 Bd6
+28. Qc2 Qxc2 29. Rxc2 Rc8 30. Rxc8 Rxc8 31. Bf4 g5 32. Bxd6 Nxd6 33. Ne3 Bf7 34.
+d5 b5 35. Ra3 f5 36. f4 gxf4 37. gxf4 b4 38. Ra4 Rc3 39. Nd1 Rc1 40. Nb2 b3 41.
+Nd3 Rc2 42. Rd4 Rc4 43. Rxc4 Nxc4 44. Kf2 b2 45. Nxb2 Nxb2 46. d6 Kf8 47. Ke3
+Nc4+ 48. Kd4 Nxd6 0-1
+
+
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2019.07.09"]
+[Round "2.24"]
+[White "Sevian,Samuel"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2666"]
+[BlackElo "2682"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteFideId "2040506"]
+[BlackFideId "12573981"]
+[EventDate "2019.05.16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Rg1 g6 7. g4 Bg7 8. g5
+Nfd7 9. Be3 Nc6 10. Qd2 Nde5 11. Be2 b5 12. a3 Bb7 13. h4 Na5 14. b3 Rc8 15. Nd5
+O-O 16. f4 Nec6 17. Nxc6 Rxc6 18. Rd1 e6 19. Nf6+ Bxf6 20. gxf6 Rc8 21. h5 Bxe4
+22. hxg6 Bxg6 23. f5 exf5 24. Bd4 Kh8 25. Rxg6 Rg8 26. Rg7 Rxg7 27. fxg7+ Kg8
+28. Qf4 Rxc2 29. Rc1 Rxc1+ 30. Qxc1 Qh4+ 31. Bf2 Qh1+ 32. Bf1 Qe4+ 33. Qe3 Qb1+
+34. Ke2 Nxb3 35. Bh3 Qc2+ 36. Kf3 Nd2+ 37. Kg2 Qc6+ 38. Kh2 Qd5 39. Bg2 Ne4 40.
+Kg1 Kxg7 41. Be1 f6 42. Bf3 Qe5 43. Qe2 Ng5 44. Kf1 Kf7 45. Qa2+ Kg7 46. Be2
+Qf4+ 47. Bf2 Ne4 48. Bd3 Qf3 49. Bxe4 fxe4 50. Qd5 Qh1+ 51. Ke2 Qf3+ 52. Ke1 h5
+53. Qxd6 Qh1+ 54. Ke2 Qf3+ 55. Ke1 Kg6 56. Bd4 e3 57. Qh2 Qe4 58. Qg1+ Kf7 59.
+Qxe3 Qxe3+ 60. Bxe3 Ke6 61. Kd2 Kd5 62. Kc3 Ke4 63. Bg1 h4 64. Kb4 f5 65. Ka5 f4
+66. Kxa6 h3 67. Kxb5 f3 68. a4 f2 69. Bxf2 h2 70. a5 h1=Q 71. a6 Qf1+ 72. Kc6
+Qxf2 73. Kb7 Qb2+ 74. Ka8 Qc3 75. a7 Qc8# 0-1
+
+
+[Event "TCh-TUR Super League 2019"]
+[Site "Konya TUR"]
+[Date "2019.07.23"]
+[Round "7.4"]
+[White "Selbes,T"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[WhiteElo "2342"]
+[BlackElo "2685"]
+[ECO "B90"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteTeam "TAS DUVAR SPOR KULUBU DERNEGI"]
+[BlackTeam "TATVAN SATRANC EGITIMI SPOR KULUBU"]
+[WhiteFideId "6302513"]
+[BlackFideId "12573981"]
+[EventDate "2019.07.17"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Qf3 Bg4 7. Qg3 e5 8. Nf3
+h6 9. Nd2 Nc6 10. Nc4 Be6 11. Ne3 Nd4 12. f3 Rc8 13. Qf2 d5 14. Bd3 dxe4 15.
+fxe4 Bc5 16. O-O O-O 17. Kh1 Nh5 18. Qe1 Nf4 19. Rxf4 exf4 20. Ned5 g5 21. Nxf4
+gxf4 22. Bxf4 Qf6 23. Qd2 Qh4 24. Re1 Kh8 25. Nd5 Nc6 26. Rf1 Bd4 27. Bg3 Qh5
+28. Be2 Qg6 29. Ne7 Qg5 30. Bf4 Qxe7 31. Be5+ Bxe5 32. Qxh6+ Kg8 0-1
+
+
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2019.07.28"]
+[Round "3.5"]
+[White "Wei Yi"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2682"]
+[ECO "E90"]
+[Opening "King's Indian"]
+[Variation "5.Nf3"]
+[WhiteFideId "8603405"]
+[BlackFideId "12573981"]
+[EventDate "2019.05.16"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 e5 7. d5 a5 8. Bg5 Na6
+9. Be2 Nc5 10. Nd2 Bd7 11. g4 c6 12. h4 Qb6 13. Bxf6 Bxf6 14. Qc2 a4 15. g5 Bg7
+16. h5 a3 17. b3 Na6 18. Qd1 Nb4 19. Kf1 f6 20. hxg6 fxg5 21. gxh7+ Kh8 22. Rh2
+Rf4 0-1
+
+
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2019.07.28"]
+[Round "3.9"]
+[White "Wei Yi"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2682"]
+[ECO "C46"]
+[Opening "Four knights game"]
+[WhiteFideId "8603405"]
+[BlackFideId "12573981"]
+[EventDate "2019.05.16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 Bc5 5. Bg2 d6 6. d3 a6 7. O-O O-O 8. Kh1
+Ng4 9. Qe1 f5 10. Nd5 fxe4 11. dxe4 h6 12. c3 Be6 13. Ne3 Qe8 14. Nxg4 Bxg4 15.
+Nh4 Qe6 16. Be3 Bxe3 17. Qxe3 Ne7 18. f4 Rae8 19. f5 Qf6 20. Bf3 Bh3 21. Bg2
+Bxg2+ 22. Kxg2 Rd8 23. Rad1 d5 24. Ng6 Nxg6 25. fxg6 Qxg6 26. Rxd5 Qe6 27. Rxf8+
+Rxf8 28. a3 c6 29. Rd2 Qg4 30. Qe2 Qg5 31. Rd1 Qg6 32. Rd2 Kh7 33. Rd1 Rf7 34.
+Kh1 a5 35. a4 Qe6 36. Qc2 Qg4 37. Kg1 Qf3 38. Re1 Rf6 39. Qe2 Qxe2 40. Rxe2 Rd6
+41. Kf2 Rd1 42. Ke3 Ra1 43. Rd2 Rxa4 44. Rd7 b5 45. Rd6 Ra2 46. b4 axb4 47. cxb4
+Rc2 48. Kd3 Rc4 49. Re6 Rd4+ 50. Kc3 Rc4+ 51. Kd3 Rxb4 52. Rxc6 Rb3+ 53. Ke2
+Rb2+ 54. Kf3 Rxh2 55. Rc5 Rb2 56. Rxe5 b4 57. Rb5 b3 58. Rb6 Rb1 59. e5 b2 60.
+Kg2 Kg8 61. Rb7 Kf8 62. e6 h5 63. Kh2 Ke8 64. Kg2 g5 65. Kh2 Kd8 66. Kg2 Kc8 67.
+Rb3 Kc7 68. Kh2 Kd6 69. Rb6+ Ke7 70. Kg2 Kf6 71. Kh2 Ke7 72. Kg2 Kf6 73. Kh2 Re1
+74. e7+ Re6 75. Rxb2 Rxe7 76. Rb6+ Kf5 77. Rb5+ Re5 78. Rb2 Kg4 79. Kg2 Re4 80.
+Ra2 Rd4 81. Rb2 Kf5 82. Rb5+ Kg4 83. Rb2 Re4 84. Ra2 Rb4 85. Rc2 Kf5 0-1
+
+
+[Event "chess.com Junior Speed"]
+[Site "chess.com INT"]
+[Date "2019.07.28"]
+[Round "3.23"]
+[White "Wei Yi"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2736"]
+[BlackElo "2682"]
+[ECO "A05"]
+[Opening "Reti"]
+[Variation "King's Indian attack"]
+[WhiteFideId "8603405"]
+[BlackFideId "12573981"]
+[EventDate "2019.05.16"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d6 6. d4 Nbd7 7. O-O Re8 8. Re1
+e5 9. dxe5 dxe5 10. e4 b6 11. Nxe5 Nxe5 12. Qxd8 Rxd8 13. Bxe5 Bb7 14. Bxf6 Bxf6
+15. e5 Bxg2 16. exf6 Bh3 17. Nc3 Rd2 18. Re3 Rxc2 19. Rae1 Be6 20. Nb5 Rd8 21.
+a4 a6 22. Nc3 h6 23. Ne4 g5 24. h4 gxh4 25. gxh4 Kh7 26. Rg3 Rg8 27. Rxg8 Kxg8
+28. Re3 Rb2 29. Rg3+ Kh8 30. Rd3 Rxb3 31. Rd8+ Kh7 32. h5 Rb4 33. Ng3 Rxa4 34.
+Re8 Rf4 35. Re7 c5 36. Ra7 a5 37. Rb7 a4 38. Rxb6 a3 39. Ra6 a2 40. Kg2 Rb4 0-1
+
+
+[Event "Chess24 Banter Blitz Cup"]
+[Site "chess24.com INT"]
+[Date "2019.10.13"]
+[Round "1.2"]
+[White "Skripchenko,A"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2403"]
+[BlackElo "2702"]
+[ECO "A07"]
+[Opening "Reti"]
+[Variation "King's Indian attack (Barcza system)"]
+[WhiteFideId "13900145"]
+[BlackFideId "12573981"]
+[EventDate "2019.09.25"]
+[EventType "blitz"]
+
+1. Nf3 d5 2. g3 Nc6 3. Bg2 e5 4. d3 Nf6 5. O-O Be7 6. Nbd2 O-O 7. e4 Re8 8. Re1
+dxe4 9. dxe4 Bc5 10. h3 Nh5 11. Nf1 Qf6 12. c3 a5 13. Be3 Bxe3 14. Nxe3 Be6 15.
+Nd5 Qd8 16. a4 Nf6 17. Ng5 Bc8 18. Nf3 h6 19. Nd2 Be6 20. Nc4 Nd7 21. Nce3 Ne7
+22. Qh5 c6 23. Rad1 cxd5 24. exd5 Nf6 25. Qxe5 Bd7 26. d6 Nf5 27. Qc5 Rc8 28.
+Qa7 Nxe3 29. Rxe3 Rxe3 30. Qxe3 Bxa4 31. Rd4 Bc6 32. d7 Bxd7 33. Qd2 Qc7 0-1
+
+
+[Event "Chess24 Banter Blitz Cup"]
+[Site "chess24.com INT"]
+[Date "2019.10.13"]
+[Round "1.8"]
+[White "Skripchenko,A"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2403"]
+[BlackElo "2702"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[WhiteFideId "13900145"]
+[BlackFideId "12573981"]
+[EventDate "2019.09.25"]
+[EventType "blitz"]
+
+1. e4 e6 2. d3 d5 3. Nd2 g6 4. Ngf3 Bg7 5. g3 Ne7 6. Bg2 O-O 7. O-O c5 8. Re1
+Nd7 9. c3 Nc6 10. h4 b5 11. h5 b4 12. Qc2 bxc3 13. bxc3 Qa5 14. Nb1 Rb8 15. Bf4
+Nde5 16. Nxe5 Bxe5 17. Bxe5 Nxe5 18. Qd2 dxe4 19. dxe4 Qd8 20. Qe3 Ba6 21. h6
+Qf6 22. Nd2 Rb2 23. Red1 Ng4 24. Qxc5 Be2 25. e5 Qxe5 26. Qa3 Rbb8 27. Re1 Rbc8
+28. Ne4 Bd3 0-1
+
+
+[Event "Chess24 Banter Blitz Cup"]
+[Site "chess24.com INT"]
+[Date "2019.10.13"]
+[Round "1.6"]
+[White "Skripchenko,A"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2403"]
+[BlackElo "2702"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[WhiteFideId "13900145"]
+[BlackFideId "12573981"]
+[EventDate "2019.09.25"]
+[EventType "blitz"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bc4 Bc5 4. O-O d6 5. c3 Nf6 6. d3 O-O 7. Bb3 d5 8. Nbd2
+Re8 9. Re1 h6 10. exd5 Nxd5 11. Ne4 Be7 12. d4 exd4 13. Nxd4 Nxd4 14. Qxd4 Be6
+15. Nc5 Bxc5 16. Qxc5 Nf6 17. Bf4 Bxb3 18. axb3 Qd5 19. Qxd5 Nxd5 20. Bg3 c6 21.
+h3 a6 22. Kf1 f6 23. Red1 Re7 24. Bd6 Rd7 25. Bc5 Rad8 26. Re1 Nf4 27. Bd4 c5
+28. Be3 Nd3 29. Re2 f5 30. g3 g5 31. b4 cxb4 32. Bd4 Rc8 33. Re6 Rc6 34. Re8+
+Kf7 35. Rh8 Kg6 36. Rg8+ Kh5 37. Ke2 Nxb2 38. Kf3 bxc3 39. Be3 Rd1 40. g4+ Kh4
+41. Ra3 f4 0-1
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2019.10.03"]
+[Round "1.17"]
+[White "Aronian,L"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2702"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, Capablanca variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "12573981"]
+[EventDate "2019.09.02"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. d3 Bb4 5. Bd2 O-O 6. g3 d6 7. Bg2 Be6 8. O-O
+Qc8 9. a3 Bxc3 10. Bxc3 Bh3 11. b4 Bxg2 12. Kxg2 Ne7 13. e4 Ng6 14. Re1 Re8 15.
+Rc1 c5 16. bxc5 dxc5 17. Nd2 Qd7 18. Re3 Rad8 19. h3 b6 20. Bb2 Qc6 21. Qe2 h6
+22. Nb1 Nh7 23. Kh2 Ng5 24. Nc3 Qd7 25. Qf1 f5 26. exf5 Qxf5 27. Ne4 Nxe4 28.
+Rxe4 Rf8 29. Kg1 Qf3 30. Rd1 Rd7 31. Bc1 Rfd8 32. Re3 Qf5 33. h4 b5 34. cxb5 c4
+35. d4 exd4 36. Qxc4+ Kh8 37. Rb3 Ne5 38. Qf1 d3 39. Bf4 Nf3+ 40. Kh1 Nxh4 41.
+gxh4 Qxf4 42. Rdxd3 Rxd3 0-1
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2019.10.03"]
+[Round "1.21"]
+[White "Aronian,L"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2702"]
+[ECO "E67"]
+[Opening "King's Indian"]
+[Variation "fianchetto, classical variation"]
+[WhiteFideId "13300474"]
+[BlackFideId "12573981"]
+[EventDate "2019.09.02"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 d6 4. Bg2 Bg7 5. Nf3 O-O 6. O-O e5 7. d4 Nbd7 8. Qc2
+c6 9. b3 exd4 10. Nxd4 Re8 11. Bb2 Nc5 12. Rad1 Qe7 13. Rfe1 h5 14. h3 a5 15.
+Qc1 Bd7 16. Qf4 a4 17. b4 Ne6 18. Nxe6 Bxe6 19. Ba3 Nd7 20. Ne4 Be5 21. Qc1 Bf5
+22. Ng5 Nb6 23. c5 dxc5 24. bxc5 Nc4 25. Qxc4 Qxg5 26. f4 Qxg3 27. fxe5 Qxa3 28.
+Rd6 Be6 29. Qd4 Qxa2 30. Be4 a3 31. Bd3 Qb2 32. Kf2 Qxd4+ 33. Rxd4 Ra5 34. Rb4
+Rxc5 35. Rxb7 Rxe5 36. Ra7 a2 37. Rc1 Rb8 38. Rxc6 Rb1 39. Rca6 Rh1 0-1
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2019.10.03"]
+[Round "1.23"]
+[White "Aronian,L"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2702"]
+[ECO "A28"]
+[Opening "English"]
+[Variation "four knights, 4.e3"]
+[WhiteFideId "13300474"]
+[BlackFideId "12573981"]
+[EventDate "2019.09.02"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e3 Bb4 5. Qc2 d6 6. Be2 O-O 7. O-O Bxc3 8.
+Qxc3 Ne4 9. Qc2 f5 10. d4 Qe7 11. b3 g5 12. dxe5 dxe5 13. Nd2 Nb4 14. Qb2 Nf6
+15. Qc3 c5 16. Bb2 Nc6 17. Rae1 g4 18. f3 h5 19. f4 e4 20. h4 g3 21. Nf3 exf3
+22. Rxf3 Kh7 23. Rxg3 Ng4 24. e4 Nd4 25. exf5 Qxe2 26. Kh1 Qf2 27. Re7+ Kh6 0-1
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2019.10.03"]
+[Round "1.1"]
+[White "Aronian,L"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2758"]
+[BlackElo "2702"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[WhiteFideId "13300474"]
+[BlackFideId "12573981"]
+[EventDate "2019.09.02"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 Nc6 4. O-O Nf6 5. d3 e6 6. Bb3 Be7 7. Re1 O-O 8. c3 b6
+9. d4 Bb7 10. Nbd2 Rc8 11. Nf1 cxd4 12. cxd4 Qc7 13. Bd2 d5 14. exd5 Nxd5 15.
+Bxd5 exd5 16. Ne3 Qd7 17. Bc3 Rfe8 18. Ne5 Qe6 19. Qh5 g6 20. Qh6 Nxe5 21. dxe5
+Rcd8 22. Rad1 Bc5 23. h3 d4 24. Ng4 Bf8 25. Qg5 Be7 26. Nf6+ Bxf6 27. exf6 dxc3
+28. bxc3 Rxd1 29. Rxd1 h6 30. Qh4 Qe4 31. Qg3 Bd5 32. Rd4 Qf5 33. c4 Be6 34. Qh4
+Qg5 0-1
+
+
+[Event "World Rapid 2019"]
+[Site "Moscow RUS"]
+[Date "2019.12.26"]
+[Round "2.60"]
+[White "Ismagambetov,An"]
+[Black "Firouzja,Alireza"]
+[Result "0-1"]
+[BlackElo "2723"]
+[BlackFideId "12573981"]
+[BlackTitle "GM"]
+[ECO "C46"]
+[EventDate "2019.12.26"]
+[EventType "rapid"]
+[Opening "Four knights game"]
+[WhiteElo "2528"]
+[WhiteFideId "13701525"]
+[WhiteTitle "GM"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 Bc5 5. Bg2 d6 6. O-O h5 7. d3 h4
+8. Nxh4 Bg4 9. Bf3 Bxf3 10. Qxf3 Nd4 11. Qg2 Nxc2 12. Rb1 Ng4 13. h3 Nh6
+14. Na4 Nb4 15. Nxc5 dxc5 16. Bxh6 Rxh6 17. Nf5 Rh7 18. a3 Nc6 19. Rbc1 g6
+20. Ne3 b6 21. b4 Nd4 22. f4 Nb3 23. Rce1 Qd4 24. Kh2 O-O-O 25. Ng4 exf4
+26. Rxf4 g5 27. Rf5 Rdh8 28. Nf2 cxb4 29. axb4 Qxb4 30. Rb1 Qc3 31. Rxg5 Nd4
+32. h4 Qd2 33. Rd5 Qe3 34. Nh3 Nf3+ 35. Kh1 Nxh4 36. Qf2 Qxf2 37. Nxf2 Nf5+
+38. Kg1 Nxg3 39. Rg5 Ne2+ 40. Kf1 Nf4 41. Rbb5 Rd8 42. Rg3 c5 43. Rb3 Kc7
+44. Rf3 Ne6 45. Rg3 a5 46. Ra3 Ra8 47. Nd1 Rh1+ 48. Ke2 Nd4+ 49. Kd2 Rh2+
+0-1

@@ -1,0 +1,692 @@
+[Event "2019-world-blitz-championship"]
+[White "Nakamura, Hikaru"]
+[Black "Firouzja, Alireza"]
+[WhiteFideId "2016192"]
+[BlackFideId "12573981"]
+[Result "0-1"]
+[Round "03"]
+[Date "Sun Dec 29 2019"]
+[WhiteClock "0:00:03"]
+[BlackClock "0:00:07"]
+
+
+1. e4  c5 2. Nf3  d6 3. Nc3  Nf6 4. h3  Nc6 5. d4  cxd4 6. Nxd4  e5 7. Nf3  Be7 8. Bc4  O-O 9. O-O  Be6 10. Bb3  h6 11. Re1  Na5 12. Be3  a6 13. Qe2  Qc7 14. Rad1  Nxb3 15. cxb3  b5 16. b4  Qb7 17. Nd2  Rac8 18. a3  d5 19. exd5  Nxd5 20. Qf3  Qc6 21. Nxd5  Bxd5 22. Qg3  f5 23. Qxe5  Bd6 24. Qc3  Bxg2 25. Qxc6  Bxc6 26. Bc5  Rf6 27. Kf1  Bf4 28. Be3  Bh2 29. Rc1  Rg6 30. Ke2  Rd8 31. Nf3  Bb8 32. Rg1  Rxg1 33. Rxg1  Kf7 34. Nd4  Bd7 35. f4  Re8 36. Kf2  Re4 37. Ne2  Be6 38. Rd1  g5 39. Kf3  gxf4 40. Nxf4  Bxf4 41. Bxf4  h5 42. Rd6  Rc4 43. h4  Rc2 44. Be5  Rc4 45. Rxa6  Rxh4 46. Ra7+  Ke8 47. Bf6  Bd5+ 48. Ke2  Re4+ 49. Kd3  Bc4+ 50. Kc3  f4 51. b3  f3 52. Bg7  f2 53. Ra8+  Kd7 0-1
+
+
+[Event "Champions Showdown Blitz"]
+[Site "Saint Louis USA"]
+[Date "2019.02.24"]
+[Round "24.2"]
+[White "Nakamura,Hi"]
+[Black "Duda,J"]
+[Result "0-1"]
+[BlackElo "2731"]
+[BlackFideId "1170546"]
+[BlackTitle "GM"]
+[ECO "E15"]
+[EventDate "2019.02.23"]
+[Opening "Queen's Indian"]
+[Variation "Nimzovich variation (exaggerated fianchetto)"]
+[WhiteElo "2749"]
+[WhiteFideId "2016192"]
+[WhiteTitle "GM"]
+
+1. Nf3 Nf6 2. d4 e6 3. c4 b6 4. g3 Ba6 5. b3 c6 6. Bg2 d5 7. Qc2 Be7 8. O-O Nbd7
+9. Rd1 Rc8 10. Bf4 O-O 11. Nc3 dxc4 12. e4 b5 13. bxc4 bxc4 14. d5 cxd5
+15. exd5 Nxd5 16. Nxd5 exd5 17. Rxd5 Bb7 18. Rdd1 Bf6 19. Ng5 Bxg5 20. Bxb7 Bxf4
+21. Bxc8 Qxc8 22. gxf4 Nc5 23. Qe2 Nd3 24. Qf3 Qf5 25. Rab1 g6 26. Rb7 Rc8
+27. Kg2 Nxf4+ 28. Kh1 c3 29. Rb3 c2 30. Rc1 Rc4 31. Re3 Kg7 32. Rc3 Rb4
+33. Rb3 Rd4 34. Rc3 Rd2 35. Re3 Nd3 36. Qxf5 gxf5 37. Rxd3 Rxd3 38. Rxc2 Ra3
+39. Kg2 Kg6 40. Rc6+ f6 41. Rc2 f4 42. f3 Kg5 43. Rc5+ Kg6 44. Rc2 a5 45. Rb2 a4
+46. Rc2 Kg5 47. Rc5+ f5 48. Rc2 Rd3 49. Rc7 Rd2+ 50. Kh3 h6 51. Rc4 Rxa2
+52. Rb4 a3 53. Ra4 Kf6 54. Ra5 Ke6 55. Ra6+ Ke5 56. Ra4 Ke6 57. Ra5 Kf6
+58. Ra7 Ke5 59. Ra4 Kd5 60. Rxf4 Rc2 61. Rxf5+ Kc4 62. Ra5 a2 63. f4 Kb4
+64. Ra8 Rc3+ 65. Kg4 Ra3 66. Rb8+ Ka4 67. Ra8+ Kb3 68. Rb8+ Kc2 69. Rc8+ Kd2
+70. Rd8+ Ke2 71. Re8+ Kf2
+0-1
+
+
+[Event "PRO League Group Stage"]
+[Site "chess.com INT"]
+[Date "2019.03.13"]
+[Round "10"]
+[White "Nakamura,Hi"]
+[Black "Corrales Jimenez,F"]
+[Result "0-1"]
+[BlackElo "2559"]
+[BlackFideId "3506690"]
+[BlackTeam "Minnesota Blizzard"]
+[BlackTitle "GM"]
+[ECO "A04"]
+[EventDate "2019.01.08"]
+[Opening "Reti opening"]
+[WhiteElo "2749"]
+[WhiteFideId "2016192"]
+[WhiteTeam "Seattle Sluggers"]
+[WhiteTitle "GM"]
+
+1. Nf3 c5 2. b3 Nc6 3. Bb2 d5 4. e3 Nf6 5. Bb5 g6 6. c4 dxc4 7. Ne5 Bd7
+8. Nxc6 Bxc6 9. Bxc6+ bxc6 10. bxc4 Bg7 11. Qc2 O-O 12. O-O Qd6 13. Nc3 Rfd8
+14. Rad1 Ng4 15. f4 Qd3 16. Qc1 Rab8 17. h3 Nf6 18. Ba3 Qxc4 19. d4 cxd4
+20. Bxe7 Nd5 21. Nxd5 Qxc1 22. Rxc1 Rxd5 23. exd4 Bxd4+ 24. Kh2 c5 25. Rc2 f6
+26. Rfc1 Rc8 27. Re2 Kf7 28. Rce1 Rd7 29. f5 Re8 30. Bxc5 Rxe2 31. fxg6+ hxg6
+32. Rxe2 Bxc5 33. Kg3 Rd3+ 34. Kf4 Rd4+ 35. Kf3 Ra4 36. Rc2 Bb6 37. g3 f5
+38. h4 Kg7 39. Rd2 Kh6 40. Kg2 Ra3 41. Rc2 Kh5 42. Rc4 Rd3 43. a4 Bd4 44. Rc7
+0-1
+
+
+[Event "Cote d'Ivoire Blitz 2019"]
+[Site "Abidjan CIV"]
+[Date "2019.05.11"]
+[Round "2.3"]
+[White "Nakamura,Hi"]
+[Black "Amin,B"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2761"]
+[BlackElo "2704"]
+[ECO "A05"]
+[Opening "Reti opening"]
+[WhiteFideId "2016192"]
+[BlackFideId "10601457"]
+[EventDate "2019.05.11"]
+
+1. Nf3 Nf6 2. b3 g6 3. Bb2 Bg7 4. d4 O-O 5. e3 d6 6. Be2 Nbd7 7. O-O Re8 8. a4
+a5 9. Re1 c6 10. Bf1 e5 11. dxe5 dxe5 12. Na3 e4 13. Nd2 Nd5 14. Bxg7 Kxg7 15.
+Ndc4 Qf6 16. Qd4 Qxd4 17. exd4 N7f6 18. Ne5 Bf5 19. Nac4 Re6 20. Ne3 Nxe3 21.
+fxe3 h5 22. Bc4 Re7 23. Rf1 Rd8 24. h3 h4 25. c3 Nd5 26. Bxd5 cxd5 27. c4 f6 28.
+Ng4 Bxg4 29. hxg4 Rc7 30. cxd5 Rc3 31. Rac1 Rxe3 32. g5 fxg5 33. Rfe1 Rxe1+ 34.
+Rxe1 Rxd5 35. Rxe4 Kf6 36. Kf2 Kf5 37. Kf3 b6 38. Ke3 g4 39. Re8 h3 40. g3 Kf6
+41. Rc8 Rf5 42. Ke4 Rf3 43. d5 Rxg3 44. Kf4 Rg1 45. Rh8 g5+ 46. Ke4 Re1+ 47. Kd4
+g3 0-1
+
+
+[Event "Cote d'Ivoire Blitz 2019"]
+[Site "Abidjan CIV"]
+[Date "2019.05.12"]
+[Round "18.1"]
+[White "Nakamura,Hi"]
+[Black "Carlsen,M"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2761"]
+[BlackElo "2861"]
+[ECO "D30"]
+[Opening "Queen's gambit declined"]
+[WhiteFideId "2016192"]
+[BlackFideId "1503014"]
+[EventDate "2019.05.11"]
+
+1. d4 d5 2. c4 e6 3. Nf3 a6 4. Bg5 Be7 5. Bxe7 Qxe7 6. e3 Nf6 7. Nc3 O-O 8. Rc1
+Rd8 9. Qc2 dxc4 10. Bxc4 c5 11. dxc5 Qxc5 12. Bd3 Nc6 13. a3 Ne5 14. Nxe5 Qxe5
+15. Ne4 Bd7 16. Nxf6+ Qxf6 17. O-O Rac8 18. Qb1 Rxc1 19. Rxc1 g6 20. Be4 Bb5 21.
+Qc2 b6 22. g3 Qe5 23. Bf3 a5 24. h4 h6 25. Qc7 Qxc7 26. Rxc7 Rd6 27. Rb7 Kg7 28.
+Kg2 Kf6 29. g4 g5 30. hxg5+ hxg5 31. Kg3 a4 32. Bg2 Bc4 33. Be4 b5 34. f4 e5 35.
+Rc7 exf4+ 36. exf4 Rd2 37. Rc6+ Kg7 38. fxg5 Rxb2 39. g6 Rb3+ 40. Kf4 Rxa3 41.
+gxf7 Ra1 42. Rc8 Bxf7 43. Rc7 a3 44. Kg5 Rd1 45. Bc2 Rc1 0-1
+
+
+[Event "GCT Rapid Paris 2019"]
+[Site "Paris FRA"]
+[Date "2019.07.27"]
+[Round "1.1"]
+[White "Nakamura,Hi"]
+[Black "Caruana,F"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2819"]
+[ECO "E47"]
+[Opening "Nimzo-Indian"]
+[Variation "4.e3 O-O, 5.Bd3"]
+[WhiteFideId "2016192"]
+[BlackFideId "2020009"]
+[EventDate "2019.07.27"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. cxd5 exd5 8. O-O
+c4 9. Bc2 Nc6 10. a3 Ba5 11. f3 Re8 12. b3 cxb3 13. Bxb3 Bf5 14. g4 Bg6 15. Bd2
+Rc8 16. Rc1 Bc7 17. g5 Nh5 18. f4 Ne7 19. Ba4 Rf8 20. Ng3 Nxg3 21. hxg3 Ba5 22.
+g4 Bd3 23. Rf2 Qd6 24. Be1 Qa6 25. Bb3 Bxc3 26. Bxc3 Be4 27. Bb4 Rxc1 28. Qxc1
+Rc8 29. Qf1 Qb6 30. Qd1 Qc7 31. Rf1 a5 32. Bd2 Qd6 33. a4 h6 34. g6 Nxg6 35.
+Bxa5 Qa3 36. Bd2 Nh4 37. g5 Nf3+ 0-1
+
+
+[Event "GCT Rapid Paris 2019"]
+[Site "Paris FRA"]
+[Date "2019.07.29"]
+[Round "8.2"]
+[White "Nakamura,Hi"]
+[Black "Nepomniachtchi,I"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2775"]
+[ECO "D85"]
+[Opening "Gruenfeld"]
+[Variation "exchange variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "4168119"]
+[EventDate "2019.07.27"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
+Qd2 Qa5 9. Rc1 Nd7 10. Nf3 O-O 11. Bd3 e5 12. d5 f5 13. Qc2 f4 14. Bd2 b5 15. c4
+b4 16. O-O Qc7 17. a3 a5 18. axb4 axb4 19. Ra1 Ra7 20. Rxa7 Qxa7 21. Bc1 Nb6 22.
+Bb2 Qe7 23. Ra1 g5 24. Ne1 g4 25. Bf1 Bd7 26. Nd3 Ra8 27. Rxa8+ Nxa8 28. Qc1 Nb6
+29. Qa1 Nxc4 30. Nxb4 cxb4 31. Bxc4 Qc5 32. Bb3 g3 33. Qe1 Bf6 34. hxg3 fxg3 35.
+Qe2 Bh4 36. Bc4 Qxf2+ 37. Qxf2 gxf2+ 38. Kh2 Ba4 39. g3 Bb3 40. Bf1 Bd8 41. Kg2
+Bc2 42. Kf3 Bc7 43. Kxf2 Bxe4 44. Bc4 Kg7 45. Bb3 Kf6 46. Bc1 Bb6+ 47. Ke2 Bc5
+48. g4 Bb1 49. Bd2 Bg6 50. Bh6 Be8 51. Kf3 Kg6 52. Bd2 Bd6 53. Bc1 Bb5 54. Bc2+
+Kg7 55. Ke4 Be8 56. Kf3 Bg6 57. Bb3 Kf6 58. Be3 Bd3 59. Bb6 Kg5 60. Bd8+ Kg6 61.
+Ke3 Bb1 62. Kf3 e4+ 63. Ke3 Bc5+ 64. Kf4 e3 65. Bh4 e2 66. d6 Bxd6+ 67. Ke3 Be7
+68. Be1 Kg5 69. Be6 Bc2 70. Bd2 Bd1 71. Kf2+ Kf6 72. Bc4 b3 73. Bxe2 Bc5+ 74.
+Ke1 Bxe2 75. Kxe2 Bd4 76. Kd3 b2 77. Kc2 Ke5 78. Bg5 Ke4 79. Bd8 Kf3 80. g5 Kg4
+81. Bf6 Be3 82. Bxb2 Bxg5 83. Kd3 Kf3 84. Bc3 h5 85. Be1 Bf6 86. Kd2 Bg5+ 87.
+Kd3 Bd8 88. Kd4 Bb6+ 89. Ke5 Bc7+ 90. Kf5 Bg3 91. Bc3 h4 92. Bd4 h3 93. Bg1 Bf2 0-1
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2019.10.01"]
+[Round "1.17"]
+[White "Nakamura,Hi"]
+[Black "Dobrov,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2745"]
+[BlackElo "2478"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[WhiteFideId "2016192"]
+[BlackFideId "4136594"]
+[EventDate "2019.09.02"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 Nf6 4. Bb5 Qc7 5. Nd5 Nxd5 6. exd5 Nd4 7. Nxd4 cxd4
+8. O-O Qc5 9. c4 a6 10. Ba4 b5 11. cxb5 Bb7 12. bxa6 Bxd5 13. d3 Rxa6 14. Bb3 e6
+15. Bxd5 Qxd5 16. Bd2 Rxa2 17. Qc2 Be7 18. Qc8+ Bd8 19. Bb4 Rxa1 20. Rxa1 Qc6
+21. Qb8 f6 22. h3 Kf7 23. Bd6 Re8 24. Ra8 Qb6 25. Qxb6 Bxb6 26. Ra6 Bd8 27. Ra7
+e5 28. Bc5 Ke6 29. Ra6+ Kd5 30. b4 Be7 31. Bxe7 Rxe7 32. f3 d6 33. Ra5+ Kc6 34.
+Ra6+ Kd5 35. Ra5+ Ke6 36. Kf2 Rc7 37. Ra2 Rc3 38. Rb2 Rxd3 39. b5 Kd7 40. b6 Kc8
+41. Rc2+ Rc3 42. Ra2 0-1
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2019.10.01"]
+[Round "1.21"]
+[White "Nakamura,Hi"]
+[Black "Dobrov,V"]
+[Result "0-1"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2745"]
+[BlackElo "2478"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "4136594"]
+[EventDate "2019.09.02"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Ne2 Bg4 7. f3 Bd7 8. Bf4
+e5 9. dxe5 Nxe5 10. O-O Bd6 11. Bc2 Nf6 12. Nd2 O-O 13. Kh1 Rfe8 14. Nb3 Nc4 15.
+Bxd6 Qxd6 16. Re1 Ne3 17. Qd2 Nc4 18. Qc1 Re5 19. Bd3 Rae8 20. Nbd4 Rh5 21. Qf4
+Rhe5 22. Bxc4 dxc4 23. Red1 Nd5 24. Qg3 Ne3 25. Rd2 Qh6 26. Qf4 Qh5 27. Ng3 Nd5 0-1
+
+
+[Event "FIDE Chess.com Grand Swiss"]
+[Site "Douglas ENG"]
+[Date "2019.10.15"]
+[Round "6.17"]
+[White "Nakamura,Hi"]
+[Black "Riazantsev,A"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2745"]
+[BlackElo "2645"]
+[ECO "B19"]
+[Opening "Caro-Kann"]
+[Variation "classical, Spassky variation"]
+[WhiteFideId "2016192"]
+[BlackFideId "4125029"]
+[EventDate "2019.10.10"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Qc7 13. Ne4 O-O-O 14. g3 Be7
+15. Nxf6 Nxf6 16. Qe2 Rhe8 17. Kb1 Nd7 18. Rhe1 Kb8 19. c4 Ka8 20. c5 Qc8 21.
+Qc4 Nf6 22. Ne5 Rf8 23. Qa4 Rd5 24. Nc4 Bd8 25. Bf4 Rxh5 26. Re3 a6 27. Nd6 Qc7
+28. Nxb7 Qxb7 29. Rb3 Nd5 30. Rxb7 Kxb7 31. Qb3+ Kc8 32. Qb8+ 1-0
+
+
+[Event "FIDE Chess.com Grand Swiss"]
+[Site "Douglas ENG"]
+[Date "2019.10.18"]
+[Round "8.10"]
+[White "Nakamura,Hi"]
+[Black "Melkumyan,H"]
+[Result "1-0"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2745"]
+[BlackElo "2650"]
+[ECO "C88"]
+[Opening "Ruy Lopez"]
+[Variation "closed, anti-Marshall 8.a4"]
+[WhiteFideId "2016192"]
+[BlackFideId "13302485"]
+[EventDate "2019.10.10"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. a5 d6 10. c3 Rb8 11. d3 bxc3 12. bxc3 Be6 13. Bxe6 fxe6 14. Nbd2 Rb5 15.
+d4 exd4 16. cxd4 Nxa5 17. Qc2 Qd7 18. Ra4 Rfb8 19. Ba3 Ne8 20. Qa2 Nb3 21. Rxa6
+Nxd2 22. Nxd2 R5b6 23. Ra7 R6b7 24. Rxb7 Rxb7 25. e5 Ra7 26. Qb3 dxe5 27. Bxe7
+Qxe7 28. dxe5 Ra5 29. Nf3 Rd5 30. Ra1 Qd7 31. h4 h6 32. Ra8 Qc6 33. Rb8 Qc1+ 34.
+Kh2 Qf4+ 35. g3 Qf7 36. Kg2 Qd7 37. h5 Qc6 38. Kh2 Qd7 39. Qb4 Kf7 40. Qf4+ Kg8
+41. Nh4 g5 42. hxg6 Kg7 43. Rd8 1-0
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2019.12.04"]
+[Round "2.3"]
+[White "Nakamura,Hi"]
+[Black "Duda,J"]
+[Result "1-0"]
+[BlackElo "2730"]
+[BlackFideId "1170546"]
+[BlackTitle "GM"]
+[ECO "B90"]
+[EventDate "2019.09.02"]
+[Opening "Sicilian"]
+[Variation "Najdorf"]
+[WhiteElo "2745"]
+[WhiteFideId "2016192"]
+[WhiteTitle "GM"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bc1 Nf6
+8. a4 g6 9. Be2 Bg7 10. Be3 Nc6 11. Qd2 O-O 12. O-O Bd7 13. Nb3 Na5 14. f3 Rc8
+15. Rfd1 Nxb3 16. cxb3 Be6 17. b4 Bb3 18. Rdc1 d5 19. e5 Nd7 20. f4 e6
+21. Bg4 Qe7 22. Ne2 h5 23. Bf3 g5 24. Rxc8 Rxc8 25. Nd4 gxf4 26. Bxf4 Bc4
+27. Re1 Bf8 28. Bxh5 Qxb4 29. Qf2 Qe7 30. Re3 Bg7 31. Rg3 Kf8 32. Bg5 Qe8
+33. Bxf7 Qxf7 34. Rf3 Nxe5 35. Rxf7+ Nxf7 36. Nxe6+ Kg8 37. Nxg7 Nxg5
+38. Nf5 Rf8 39. Qf4 Ne6 40. Qe5 d4 41. h4 d3 42. Ne3 Ba2 43. Qe4 d2 44. Kh2 Rd8
+45. h5 Rd7 46. h6 Kf8 47. Qg6 d1=Q 48. Nxd1
+1-0
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2019.12.04"]
+[Round "2.5"]
+[White "Nakamura,Hi"]
+[Black "Duda,J"]
+[Result "1-0"]
+[BlackElo "2730"]
+[BlackFideId "1170546"]
+[BlackTitle "GM"]
+[ECO "B50"]
+[EventDate "2019.09.02"]
+[Opening "Sicilian"]
+[WhiteElo "2745"]
+[WhiteFideId "2016192"]
+[WhiteTitle "GM"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Bd3 Bg4 5. h3 Bh5 6. Bc2 e6 7. d3 Nc6
+8. Nbd2 Be7 9. Nf1 d5 10. Qe2 Qb6 11. Ng3 Bg6 12. O-O Qa6 13. e5 Nd7 14. h4 h6
+15. a3 O-O-O 16. h5 Bh7 17. Rb1 c4 18. d4 Bxc2 19. Qxc2 Nb6 20. Be3 Qa4
+21. Qe2 Na5 22. Nh2 Rde8 23. Ng4 Bh4 24. Kh2 Nd7 25. Kh3 Be7 26. f4 f5
+27. exf6 Nxf6 28. Ne5 Rhf8 29. Rbe1 Bd6 30. Nh1 Kb8 31. g4 Ne4 32. Nf2 Nxf2+
+33. Bxf2 Nc6 34. Ng6 Rf7 35. f5 Nd8 36. Bh4 Qd7 37. Bxd8 Qxd8 38. fxe6 Rf6
+39. e7 Qb6 40. Rxf6 gxf6 41. Qf2 Bc7 42. Re3 a6 43. Rf3 Qe6 44. Rxf6 Qe4
+45. Qf3 Qe1 46. Rf8
+1-0
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2019.12.04"]
+[Round "2.13"]
+[White "Nakamura,Hi"]
+[Black "Duda,J"]
+[Result "1-0"]
+[BlackElo "2730"]
+[BlackFideId "1170546"]
+[BlackTitle "GM"]
+[ECO "C28"]
+[EventDate "2019.09.02"]
+[Opening "Vienna game"]
+[WhiteElo "2745"]
+[WhiteFideId "2016192"]
+[WhiteTitle "GM"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. d3 Bc5 5. h3 Na5 6. Nge2 Nxc4 7. dxc4 h6
+8. Qd3 d6 9. Be3 Bxe3 10. Qxe3 Be6 11. b3 c6 12. O-O Qb6 13. Qg3 O-O
+14. Rad1 Rad8 15. Kh1 Qc7 16. f4 Nh5 17. Qe3 Nxf4 18. Nxf4 exf4 19. Rxf4 a6
+20. Rf3 b5 21. cxb5 cxb5 22. Rd2 Rd7 23. Ne2 Qc5 24. Qf4 Rc8 25. Rfd3 Qg5
+26. Qxg5 hxg5 27. Nd4 d5 28. e5 g4 29. h4 Rdc7 30. Kh2 b4 31. Kg3 Rc5
+32. Rd1 Ra5 33. Ra1 Rc7 34. Kf4 Bd7 35. Re3 Rcc5 36. a4 bxa3 37. b4 Ra4
+38. bxc5 Rxd4+ 39. Kg3 Rc4 40. Raxa3 d4 41. Re4 Bf5 42. Rf4 Bxc2 43. Rxa6 Rc3+
+44. Kf2 g3+ 45. Ke1 Rxc5 46. Kd2 Bb3 47. Kd3 Rxe5 48. Rg4 Bd1 49. Rxg3 Be2+
+50. Kxd4 Bxa6 51. Kxe5 Bc8 52. Rc3 Be6 53. Rc6 Bd7 54. Rd6 Bg4 55. Kf4 Be6
+56. g4 Kh7 57. Rxe6 fxe6 58. Ke5 Kg8 59. Kxe6 Kf8 60. Kf5 Kf7 61. Kg5 Kf8
+62. Kg6 Kg8 63. g5 Kh8 64. Kf5 Kh7 65. Kf4 Kg6 66. Kg4 Kf7 67. Kf5 g6+
+68. Ke4 Ke6 69. Kf4 Kd6 70. Kg4 Ke6 71. h5 Kf7 72. h6 Kf8 73. Kf4 Kf7 74. Ke5
+1-0
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2019.12.04"]
+[Round "2.17"]
+[White "Nakamura,Hi"]
+[Black "Duda,J"]
+[Result "1-0"]
+[BlackElo "2730"]
+[BlackFideId "1170546"]
+[BlackTitle "GM"]
+[ECO "B47"]
+[EventDate "2019.09.02"]
+[Opening "Sicilian"]
+[Variation "Taimanov (Bastrikov) variation"]
+[WhiteElo "2745"]
+[WhiteFideId "2016192"]
+[WhiteTitle "GM"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 6. g3 a6 7. Bg2 Nf6
+8. O-O Bc5 9. Be3 Nxd4 10. Bxd4 d6 11. Bxc5 dxc5 12. Re1 Nd7 13. f4 b5
+14. e5 Bb7 15. Bxb7 Qxb7 16. Ne4 O-O 17. Qf3 Qa7 18. Rad1 c4+ 19. Qf2 Qxf2+
+20. Kxf2 Nb6 21. Rd6 Nd5 22. c3 a5 23. f5 b4 24. fxe6 fxe6+ 25. Kg2 Rab8
+26. Re2 bxc3 27. bxc3 a4 28. Ra6 Rf5 29. Nd6 Rff8 30. Ne4 Rf5 31. Rxa4 Rxe5
+32. Rxc4 h6 33. Rd4 Kh8 34. a4 Nf6 35. Kf3 Rf5+ 36. Kg2 Re5 37. Kf2 Rf5+
+38. Ke3 Nd5+ 39. Kd2 Rf1 40. Re1 Rf3 41. Rd3 Rb2+ 42. Kc1 Rxd3 43. Kxb2 Nb6
+44. Kb3 Rd5 45. Ra1 Ra5 46. Kb4 Re5 47. Nd6 Nd5+ 48. Kb3 Re3 49. Nb5 Re2
+50. a5 Rxh2 51. a6 Nb6 52. a7 Rg2 53. Ra6
+1-0
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2019.12.04"]
+[Round "2.19"]
+[White "Nakamura,Hi"]
+[Black "Duda,J"]
+[Result "1-0"]
+[BlackElo "2730"]
+[BlackFideId "1170546"]
+[BlackTitle "GM"]
+[ECO "B07"]
+[EventDate "2019.09.02"]
+[Opening "Pirc"]
+[Variation "Holmov system"]
+[WhiteElo "2745"]
+[WhiteFideId "2016192"]
+[WhiteTitle "GM"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bc4 Bg7 5. Qe2 Nfd7 6. Nf3 Nc6 7. Bxf7+ Kxf7
+8. Ng5+ Ke8 9. Ne6 Nxd4 10. Nxg7+ Kf8 11. Qd3 Nxc2+ 12. Qxc2 Kxg7 13. Be3 c6
+14. O-O-O Qa5 15. Bd4+ Nf6 16. f4 e5 17. Be3 Ng4 18. Bg1 exf4 19. Rxd6 Ne3
+20. Qd3 Rf8 21. g3 Qb4 22. Rd4 Qe7 23. gxf4 Ng2 24. f5 Qg5+ 25. Qd2 Qxd2+
+26. Rxd2 Nh4 27. Bd4+ Kg8 28. Bc5 Re8 29. Rf2 b6 30. Bd6 gxf5 31. Rg1+ Kf7
+32. Bg3 Ng6 33. exf5 Ne5 34. Kb1 Ba6 35. Ka1 Bd3 36. Bf4 Rad8 37. Rfg2 Bxf5
+38. Rg7+ Ke6 39. Rxa7 Nf3 40. Rf1 Rd3 41. Ra6 Nd4 42. Re1+ Kf7 43. Ra7+ Kf6
+44. Rxe8 Nc2+ 45. Kb1 Nb4 46. Rf8+ Kg6 47. Rxf5 Kxf5 48. a3 Kxf4 49. axb4 Rh3
+50. Ra6 Rxh2 51. Rxb6 h5 52. Rxc6 h4 53. b5 h3 54. Rh6 Rh1+ 55. Ka2 Kg5 56. Rh8
+1-0
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2019.12.04"]
+[Round "2.25"]
+[White "Nakamura,Hi"]
+[Black "Duda,J"]
+[Result "1-0"]
+[BlackElo "2730"]
+[BlackFideId "1170546"]
+[BlackTitle "GM"]
+[ECO "B00"]
+[EventDate "2019.09.02"]
+[Opening "Owen defence"]
+[WhiteElo "2745"]
+[WhiteFideId "2016192"]
+[WhiteTitle "GM"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. Nd2 d5 5. e5 Ba6 6. Bxa6 Nxa6 7. c3 Nb8
+8. f4 Qd7 9. Ne2 f5 10. exf6 Nxf6 11. Nf3 Nc6 12. Ng3 O-O-O 13. O-O Bd6
+14. a4 a5 15. Ne5 Bxe5 16. fxe5 Ng8 17. b4 axb4 18. a5 bxc3 19. axb6 cxb6
+20. Ne2 Kb7 21. Nxc3 Nge7 22. Nb5 Ra8 23. Nd6+ Kc7 24. Nb5+ Kb7 25. Nd6+ Kc7
+26. Ba3 Ra5 27. Rc1 Rha8 28. Qd3 Nf5 29. Rc3 Nxd6 30. Bxd6+ Kb7 31. Qxh7 Ra1
+32. Qd3 Rxf1+ 33. Qxf1 Ra4 34. Rf3 Nd8 35. Rf4 Rc4 36. h4 Qc6 37. Kh2 Rc1
+38. Qf3 Qc2 39. Rf8 Nc6 40. Qf7+ Ka6 41. Ra8+ Kb5 42. Qb7 Nb4 43. Bxb4 Qe4
+44. Qa6+ Kxb4 45. Qa3+
+1-0
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2020.01.05"]
+[Round "3.1"]
+[White "Nakamura,Hi"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[BlackElo "2776"]
+[BlackFideId "4168119"]
+[BlackTitle "GM"]
+[ECO "B50"]
+[EventDate "2019.09.02"]
+[Opening "Sicilian"]
+[WhiteElo "2745"]
+[WhiteFideId "2016192"]
+[WhiteTitle "GM"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. h3 a6 5. a4 e6 6. d4 cxd4 7. Nxd4 Be7 8. g4 h6
+9. Bg2 Nc6 10. Be3 Bd7 11. Nb3 Ne5 12. a5 Nc4 13. Bc1 Rc8 14. O-O O-O
+15. Qe2 Qc7 16. f4 b5 17. axb6 Qxb6+ 18. Qf2 Rb8 19. Qxb6 Rxb6 20. Rd1 Rc8
+21. Bf1 Be8 22. Kh2 Kf8 23. Rd4 Bb5 24. Bxc4 Bxc4 25. Na5 d5 26. Nxc4 dxc4
+27. e5 Ne8 28. Ra4 Rbc6 29. Kg2 f6 30. Ne4 f5 31. Nc3 Kf7 32. Kf3 g6
+33. Nd1 fxg4+ 34. hxg4 h5 35. Rd7 hxg4+ 36. Kxg4 Ng7 37. Ne3 Nf5 38. Ra7 c3
+39. b3 Rh8 40. Nxf5 gxf5+ 41. Kf3 Rcc8 42. Ba3 Rce8 43. Rc4 Rh3+ 44. Ke2 Rd8
+45. Rxe7+ Kg8 46. Bd6
+1-0
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2020.01.05"]
+[Round "3.7"]
+[White "Nakamura,Hi"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[BlackElo "2776"]
+[BlackFideId "4168119"]
+[BlackTitle "GM"]
+[ECO "B23"]
+[EventDate "2019.09.02"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[WhiteElo "2745"]
+[WhiteFideId "2016192"]
+[WhiteTitle "GM"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nf6 4. h3 a6 5. a4 e6 6. d4 cxd4 7. Nxd4 Be7 8. a5 Nc6
+9. Nb3 O-O 10. Bd3 e5 11. Nd5 Nxd5 12. exd5 Nb8 13. O-O Nd7 14. f4 exf4
+15. Bxf4 Ne5 16. c3 Bg5 17. Bh2 Be3+ 18. Kh1 Qg5 19. Bc2 Bd7 20. Nd4 Rae8
+21. Nf5 Bxf5 22. Rxf5 Qd8 23. Rxe5 dxe5 24. Qd3 f5 25. Qxe3 Qxd5 26. Qe2 Kh8
+27. Re1 e4 28. Bg1 Qxa5 29. Bd4 Qc7 30. Rf1 Qg3 31. Qe1 Qg5 32. Qe2 e3
+33. Bd3 f4 34. Qf3 Qe7 35. Qh5
+1-0
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2020.01.05"]
+[Round "3.3"]
+[White "Nakamura,Hi"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[BlackElo "2776"]
+[BlackFideId "4168119"]
+[BlackTitle "GM"]
+[ECO "B23"]
+[EventDate "2019.09.02"]
+[Opening "Sicilian"]
+[Variation "closed"]
+[WhiteElo "2745"]
+[WhiteFideId "2016192"]
+[WhiteTitle "GM"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 Nf6 4. h3 a6 5. a4 e6 6. d4 cxd4 7. Nxd4 Be7 8. g4 h6
+9. Bg2 Nc6 10. Nb3 Bd7 11. a5 b5 12. axb6 Qxb6 13. Be3 Qc7 14. f4 O-O 15. O-O a5
+16. Nc1 Rab8 17. Nd3 Nb4 18. Rf2 Bc6 19. g5 hxg5 20. fxg5 Nd7 21. h4 d5
+22. exd5 Nxd5 23. Nxd5 Bxd5 24. Bxd5 exd5 25. Nf4 Bc5 26. Bxc5 Nxc5 27. Nxd5 Qe5
+28. Re2 Qg3+ 29. Rg2 Qe5 30. Rxa5 Rbc8 31. c4 Rfd8 32. b4 Ne4 33. Qd3 Kh8
+34. Re2 Re8 35. Nf6 Qf4 36. Nxe4 Red8 37. Rd5 Rxd5 38. Qxd5
+1-0
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2020.01.05"]
+[Round "3.17"]
+[White "Nakamura,Hi"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[BlackElo "2776"]
+[BlackFideId "4168119"]
+[BlackTitle "GM"]
+[ECO "B50"]
+[EventDate "2019.09.02"]
+[Opening "Sicilian"]
+[WhiteElo "2745"]
+[WhiteFideId "2016192"]
+[WhiteTitle "GM"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. h3 a6 5. a4 e6 6. d4 cxd4 7. Nxd4 Be7 8. g4 h6
+9. Bg2 Nc6 10. Nb3 O-O 11. a5 Rb8 12. Be3 Nd7 13. O-O b6 14. axb6 Nxb6
+15. Qe2 Ne5 16. f4 Nec4 17. Bc1 Qc7 18. Rd1 Bf6 19. Kh1 Nxb2 20. Bxb2 Bxc3
+21. Bxc3 Qxc3 22. Rxd6 Qc7 23. Rd3 Bd7 24. Qf2 Bb5 25. Rdd1 Rfd8 26. Nd4 Bc4
+27. f5 e5 28. Nf3 Rxd1+ 29. Rxd1 a5 30. f6 a4 31. fxg7 Kxg7 32. g5 hxg5
+33. Nxg5 f6 34. Nf3 Rh8 35. Rg1 Kf8 36. Nxe5 Qxe5 37. Qxb6 Be6 38. Qd8+ Kg7
+39. Bf3+
+1-0
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2020.01.05"]
+[Round "3.11"]
+[White "Nakamura,Hi"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[BlackElo "2776"]
+[BlackFideId "4168119"]
+[BlackTitle "GM"]
+[ECO "B51"]
+[EventDate "2019.09.02"]
+[Opening "Sicilian"]
+[Variation "Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack"]
+[WhiteElo "2745"]
+[WhiteFideId "2016192"]
+[WhiteTitle "GM"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. Ba4 Nf6 5. O-O a6 6. d3 b5 7. Bb3 e6 8. c3 Bb7
+9. Re1 Be7 10. Nbd2 O-O 11. Nf1 c4 12. dxc4 bxc4 13. Bc2 Nc5 14. Ng3 Nfd7
+15. Qe2 Nb6 16. e5 Bxf3 17. Qxf3 dxe5 18. Rxe5 Nd3 19. Re2 Qd5 20. Qxd5 Nxd5
+21. Bxd3 cxd3 22. Rd2 Nf4 23. Rd1 Ne2+ 24. Nxe2 dxe2 25. Re1 Rfd8 26. Be3 Rab8
+27. Rxe2 e5 28. f3 f6 29. Kf1 Kf7 30. Ke1 h5 31. Rd1 Ke6 32. Rxd8 Bxd8
+33. Kd1 g5 34. b4 Bc7 35. Kc2 g4 36. a4 Kf5 37. Kb3 h4 38. fxg4+ Kxg4
+39. h3+ Kf5 40. c4 e4 41. b5 Ke6 42. Kb4 f5 43. c5 axb5 44. axb5 f4 45. Bc1 Kf5
+46. Rf2 Kg5 47. Kc4 e3 48. Ra2 Kf5 49. c6 Ke4 50. Bb2 Rd8 51. Bc3 Rd3
+52. Be1 Rd1 53. Bxh4 Rc1+ 54. Kb3 Kd3 55. Ra7 Rc3+ 56. Kb4 Rc4+ 57. Kb3 Rc3+
+58. Kb2 Be5 59. Ra3 Kc4 60. Rxc3+ Bxc3+ 61. Kc2 Ba5 62. Be1 Bd8 63. h4 Kxb5
+64. Kd3 Kxc6 65. Ke4 Kc5 66. Kxf4 Kd4 67. Kf3 Kd3 68. g4 e2 69. g5 Be7
+70. g6 Bf8 71. h5 Bg7 72. Kg4 Bh6 73. Kf5 Bd2 74. Bh4 Bh6 75. Kf6 Ke4 76. g7
+1-0
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2020.01.05"]
+[Round "3.23"]
+[White "Nakamura,Hi"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[BlackElo "2776"]
+[BlackFideId "4168119"]
+[BlackTitle "GM"]
+[ECO "A04"]
+[EventDate "2019.09.02"]
+[Opening "Reti opening"]
+[WhiteElo "2745"]
+[WhiteFideId "2016192"]
+[WhiteTitle "GM"]
+
+1. Nf3 c5 2. b3 Nc6 3. Bb2 d6 4. e3 e5 5. Bb5 Bd7 6. O-O Nf6 7. d4 cxd4
+8. exd4 e4 9. d5 exf3 10. dxc6 bxc6 11. Re1+ Be7 12. Bxf6 gxf6 13. Bd3 fxg2
+14. Qh5 Qb6 15. Nc3 Qc5 16. Qxc5 dxc5 17. Rad1 h5 18. Bc4 Rd8 19. Ne4 Kf8
+20. h4 Bf5 21. Rxd8+ Bxd8 22. Nd6 Bg6 23. Re8+ Kg7 24. Rxh8 Kxh8 25. Bxf7 Bc7
+26. Bxg6 Bxd6 27. Bxh5 Kg7 28. Bf3 Kg6 29. Kxg2 c4 30. Bxc6 cxb3 31. axb3 f5
+32. Be8+ Kf6 33. Kf1 Bc5 34. Ke2 Bd4 35. f3 Bc3 36. Kd3 Be1 37. h5 Bh4 38. h6
+1-0
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2020.01.05"]
+[Round "3.27"]
+[White "Nakamura,Hi"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[BlackElo "2776"]
+[BlackFideId "4168119"]
+[BlackTitle "GM"]
+[ECO "B90"]
+[EventDate "2019.09.02"]
+[Opening "Sicilian"]
+[Variation "Najdorf, Lipnitzky attack"]
+[WhiteElo "2745"]
+[WhiteFideId "2016192"]
+[WhiteTitle "GM"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 a6 4. d4 cxd4 5. Nxd4 Nf6 6. Bc4 e6 7. Bb3 Be7
+8. O-O O-O 9. f4 Qc7 10. Be3 Nc6 11. f5 Nxd4 12. Bxd4 Bd7 13. Qf3 b5 14. a3 Rab8
+15. g4 b4 16. Ne2 e5 17. Be3 bxa3 18. g5 axb2 19. Rab1 Ne8 20. Qh5 Rxb3
+21. cxb3 Qc2 22. Ng3 Qxb3 23. Rfe1 Bb5 24. f6 g6 25. Qf3 Bd8 26. Qg2 Qe6
+27. Rxb2 Ba5 28. Rd1 Nc7 29. Rc1 Qg4 30. Rbc2 Ne6 31. h3 Qh4 32. Rc8 Bd7
+33. Rxf8+ Nxf8 34. Rd1 Bc7 35. Kh2 Ne6 36. Ne2 Nf4 37. Bxf4 exf4 38. Nd4 f3
+39. Nxf3 d5+ 40. e5 Qe4 41. Re1 Qf4+ 42. Qg3 Qf5 43. Nd4
+1-0
+
+
+[Event "chess.com Speed 2019"]
+[Site "chess.com INT"]
+[Date "2020.01.05"]
+[Round "3.25"]
+[White "Nakamura,Hi"]
+[Black "Nepomniachtchi,I"]
+[Result "1-0"]
+[BlackElo "2776"]
+[BlackFideId "4168119"]
+[BlackTitle "GM"]
+[ECO "A05"]
+[EventDate "2019.09.02"]
+[Opening "Reti opening"]
+[WhiteElo "2745"]
+[WhiteFideId "2016192"]
+[WhiteTitle "GM"]
+
+1. Nf3 Nf6 2. b3 c5 3. Bb2 Nc6 4. e3 e6 5. d4 cxd4 6. Nxd4 Qc7 7. Nxc6 dxc6
+8. Nd2 b6 9. c4 Bb7 10. Be2 c5 11. Bf3 Bd6 12. Bxb7 Qxb7 13. Qf3 Qxf3
+14. gxf3 Ke7 15. f4 Rhd8 16. Ke2 g6 17. h4 h5 18. Nf3 Ng4 19. Ng5 Nh6
+20. Ne4 Ng8 21. Rhg1 Ke8 22. Ng3 Be7 23. Nxh5 Bxh4 24. Rh1 Be7 25. Ng7+ Kd7
+26. Rad1+ Kc6 27. Rdg1 Rd7 28. Nxe6 fxe6 29. Rxg6 Rad8 30. Bc3 Rd3 31. Rxe6+ Kb7
+32. Bd4 cxd4 33. Kxd3 dxe3+ 34. Kxe3 Bc5+ 35. Kf3 Rf8 36. Rh8 Bd4 37. Rh7+ Ka6
+38. b4 Nf6 39. Rhe7 Bc3 40. a3 Ra8 41. Rf7 Ng8 42. Ke4 Bb2 43. Kd3 Bxa3
+44. Kc3 Bc1 45. Re1
+1-0

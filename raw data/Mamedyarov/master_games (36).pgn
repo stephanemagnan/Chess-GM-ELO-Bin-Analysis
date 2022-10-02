@@ -1,0 +1,653 @@
+[Event "PRO League Group Stage"]
+[Site "chess.com INT"]
+[Date "2018.02.14"]
+[Round "6"]
+[White "Wang Yue"]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "A50"]
+[WhiteElo "2690"]
+[BlackElo "2804"]
+[PlyCount "135"]
+[EventDate "2018.01.18"]
+[EventType "team (rapid)"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[WhiteTeam "Chengdu Pandas"]
+[BlackTeam "San Jose Hackers"]
+
+1. d4 Nf6 2. c4 b6 3. Nc3 Bb7 4. Nf3 g6 5. g3 Bg7 6. Bg2 O-O 7. O-O e6 8. Bf4
+d6 9. Qc2 Nbd7 10. Rad1 Qe7 11. e4 e5 12. Bc1 Rfe8 13. Nd5 Nxd5 14. cxd5 Rac8
+15. dxe5 dxe5 16. Bg5 f6 17. Be3 c6 18. Qa4 a6 19. dxc6 Rxc6 20. Bh3 Nf8 21.
+Rc1 b5 22. Qb3+ Qf7 23. Nd2 Qxb3 24. Nxb3 Rxc1 25. Rxc1 Bxe4 26. Nc5 Bd5 27.
+Nxa6 Bxa2 28. Bf1 Rd8 29. Bxb5 Ne6 30. Nc5 Nd4 31. Bc4+ Bxc4 32. Rxc4 Nf5 33.
+Bc1 Bf8 34. Ne4 Kf7 35. Bd2 Rb8 36. Bc3 Rb7 37. Rc6 Be7 38. Kg2 Rd7 39. h4 Nd4
+40. Rc4 Ne6 41. b4 Rb7 42. Kf3 Nc7 43. Bd2 Nb5 44. Kg2 Rb8 45. Rc6 Rb7 46. Be3
+Nd4 47. Bxd4 exd4 48. Nd6+ Bxd6 49. Rxd6 Rxb4 50. Rd7+ Ke6 51. Rxh7 d3 52. Rh8
+Rd4 53. Re8+ Kd7 54. Re1 Kd6 55. Kf3 Kd5 56. Rd1 f5 57. Ke3 f4+ 58. gxf4 Re4+
+59. Kxd3 Rd4+ 60. Ke2 Rxd1 61. Kxd1 Ke4 62. Ke2 Kxf4 63. Kf1 Kg4 64. h5 gxh5
+65. Kg2 h4 66. Kh2 Kf3 67. Kh3 Kxf2 68. Kxh4 1/2-1/2
+
+
+[Event "11th Tal Mem Blitz 2018"]
+[Site "Moscow RUS"]
+[Date "2018.03.05"]
+[Round "10.6"]
+[White "Karjakin, Sergey"]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "C17"]
+[WhiteElo "2763"]
+[BlackElo "2809"]
+[PlyCount "88"]
+[EventDate "2018.03.05"]
+[EventType "tourn (blitz)"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "20"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxd4 7. Nb5 Bc7 8. f4 Bd7
+9. Nf3 Bxb5 10. Bxb5+ Nc6 11. O-O Nge7 12. Bd3 Bb6 13. Kh1 Qd7 14. Bb2 Rc8 15.
+Qd2 Nf5 16. Bxf5 exf5 17. a4 a6 18. Ba3 Nd8 19. b5 Bc5 20. Bxc5 Rxc5 21. Nxd4
+O-O 22. bxa6 bxa6 23. Qd3 g6 24. Qxa6 Rc4 25. Rfd1 Ne6 26. Nxe6 Qxe6 27. Qb7
+Qc6 28. Qxc6 Rxc6 29. Rxd5 Rxc2 30. a5 Ra8 31. h4 Rc4 32. g3 Rc2 33. a6 Ra7 34.
+Rb5 Kg7 35. Rb7 Rxb7 36. axb7 Rb2 37. Ra7 Kh6 38. b8=R Rxb8 39. Rxf7 Kh5 40.
+Kg2 Kg4 41. Rxh7 Rb2+ 42. Kf1 Kxg3 43. Rg7 Kxf4 44. Rxg6 Kxe5 1/2-1/2
+
+
+[Event "11th Tal Mem Blitz 2018"]
+[Site "Moscow RUS"]
+[Date "2018.03.05"]
+[Round "6.4"]
+[White "Artemiev, V."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2697"]
+[BlackElo "2809"]
+[PlyCount "150"]
+[EventDate "2018.03.05"]
+[EventType "tourn (blitz)"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "20"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d6 6. d4 c5 7. c4 Ne4 8. Qc2
+Qa5+ 9. Nbd2 Bf5 10. Nh4 Nxg3 11. Nxf5 Nxf5 12. Bxb7 Nxd4 13. Bxd4 Bxd4 14. Rd1
+Na6 15. Bxa8 Rxa8 16. O-O Re8 17. e3 Nb4 18. Qe4 Bf6 19. a4 Na2 20. Qc6 Rb8 21.
+Ne4 Bg7 22. Qd7 Bf8 23. Rd3 Qb6 24. a5 Qa6 25. f4 Nb4 26. Rd2 Nc6 27. Ng5 Qc8
+28. Rxd6 Nxa5 29. Qxc8 Rxc8 30. Ra6 Nxb3 31. Rd1 Rc7 32. Ra3 Rb7 33. Ne4 Rb4
+34. Rd8 a5 35. Rc8 e6 36. Nf6+ Kg7 37. Ne8+ Kh6 38. Rc7 Bg7 39. Rxf7 Bc3 40. h4
+Kh5 41. Rxh7+ Kg4 42. Kg2 Bd2 43. Nf6+ Kf5 44. Rf7 Bxe3 45. Kf3 Nd2+ 46. Ke2
+Nxc4 47. Rxe3 Nxe3 48. Kxe3 Rb3+ 49. Kd2 Kxf4 50. Nd7+ Kg4 51. Rh7 Rb5 52. Ne5+
+Kf5 53. Nc4 Kg4 54. Rh6 a4 55. Kc3 Rb3+ 56. Kc2 Rb4 57. Rxg6+ Kxh4 58. Kc3 Rb3+
+59. Kc2 Rb4 60. Ne5 a3 61. Rxe6 Ra4 62. Kb1 a2+ 63. Ka1 Kg5 64. Rc6 Kf5 65.
+Rxc5 Ke4 66. Nc6 Kd3 67. Rh5 Re4 68. Kxa2 Kc4 69. Ne5+ Kd4 70. Nf3+ Ke3 71. Ng5
+Re5 72. Rh3+ Kf4 73. Nf7 Re7 74. Nd6 Re1 75. Kb3 Re3+ 1/2-1/2
+
+
+[Event "11th Tal Mem Blitz 2018"]
+[Site "Moscow RUS"]
+[Date "2018.03.05"]
+[Round "4.3"]
+[White "Grischuk, A."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2767"]
+[BlackElo "2809"]
+[PlyCount "90"]
+[EventDate "2018.03.05"]
+[EventType "tourn (blitz)"]
+[EventRounds "13"]
+[EventCountry "RUS"]
+[EventCategory "20"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nbd2 Bg7 4. e4 O-O 5. Bd3 d6 6. O-O c5 7. c3 Qc7 8. h3
+Nc6 9. d5 Ne5 10. Nxe5 dxe5 11. Re1 Ne8 12. a4 Nd6 13. Nc4 e6 14. Nxd6 Qxd6 15.
+Bc4 exd5 16. Bxd5 Rd8 17. Bg5 Bf6 18. Be3 Rb8 19. a5 Be6 20. c4 Bxd5 21. cxd5
+b5 22. axb6 axb6 23. Ra6 Be7 24. Qb3 Qd7 25. Rxb6 Qa7 26. Rxb8 Rxb8 27. Qc3 Qc7
+28. Rc1 Bd6 29. Bxc5 Qxc5 30. Qxc5 Bxc5 31. Rxc5 Rxb2 32. Rc8+ Kg7 33. Re8 f6
+34. Re7+ Kh6 35. d6 Rd2 36. d7 g5 37. Kf1 Kg6 38. Ke1 Rd4 39. f3 h5 40. g3 g4
+41. hxg4 hxg4 42. Ke2 gxf3+ 43. Kxf3 Rd3+ 44. Ke2 Rd4 45. Ke3 Rd1 1/2-1/2
+
+
+[Event "11th Tal Mem Rapid 2018"]
+[Site "Moscow RUS"]
+[Date "2018.03.04"]
+[Round "7.4"]
+[White "Gelfand, B."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "A33"]
+[WhiteElo "2695"]
+[BlackElo "2809"]
+[PlyCount "33"]
+[EventDate "2018.03.02"]
+[EventType "tourn (rapid)"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "21"]
+
+1. Nf3 c5 2. c4 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g3 Bc5 7. Nb3 Be7 8.
+Bg2 O-O 9. Bf4 b6 10. O-O Ba6 11. Nb5 Rc8 12. Nd6 Rc7 13. Rc1 Nh5 14. Be3 Nf6
+15. Bf4 Nh5 16. Be3 Nf6 17. Bf4 1/2-1/2
+
+
+[Event "11th Tal Mem Rapid 2018"]
+[Site "Moscow RUS"]
+[Date "2018.03.04"]
+[Round "9.5"]
+[White "Nepomniachtchi, I."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "C43"]
+[WhiteElo "2751"]
+[BlackElo "2809"]
+[PlyCount "61"]
+[EventDate "2018.03.02"]
+[EventType "tourn (rapid)"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "21"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. dxe5 d5 5. Nbd2 Nxd2 6. Bxd2 Be7 7. Be2 O-O
+8. O-O c5 9. Bf4 Nc6 10. Qd2 Be6 11. c3 Qd7 12. h3 Rad8 13. Rfd1 h6 14. Bd3 Bf5
+15. Bg3 Bxd3 16. Qxd3 Qe6 17. a3 b6 18. b4 d4 19. cxd4 Nxd4 20. Nxd4 Rxd4 21.
+Qa6 Rxd1+ 22. Rxd1 cxb4 23. axb4 Bxb4 24. Qxa7 Bc5 25. Kh2 h5 26. h4 Rc8 27.
+Qb7 Qf5 28. Rd2 Re8 29. Qc6 Rc8 30. Qb7 Re8 31. Qc6 1/2-1/2
+
+
+[Event "11th Tal Mem Rapid 2018"]
+[Site "Moscow RUS"]
+[Date "2018.03.03"]
+[Round "5.3"]
+[White "Karjakin, Sergey"]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2763"]
+[BlackElo "2809"]
+[PlyCount "74"]
+[EventDate "2018.03.02"]
+[EventType "tourn (rapid)"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[EventCategory "21"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 dxc4 5. e4 Bb4 6. Bxc4 Nxe4 7. O-O Nxc3 8.
+bxc3 Be7 9. Ne5 O-O 10. Re1 Nc6 11. Qg4 f5 12. Qf3 Nxe5 13. Rxe5 Kh8 14. Bf4
+Bd6 15. Re2 Bxf4 16. Qxf4 Qd6 17. Re5 Bd7 18. Rae1 Rf6 19. h4 h6 20. Bb3 a5 21.
+Qe3 b5 22. d5 a4 23. dxe6 axb3 24. exd7 Qxd7 25. axb3 f4 26. Qf3 Rd8 27. b4 c6
+28. h5 Rf5 29. R1e4 Qd1+ 30. Qxd1 Rxd1+ 31. Kh2 Rd5 32. Rxf5 Rxf5 33. Kg1 c5
+34. bxc5 Rxc5 35. Rxf4 Rxc3 36. Rf8+ Kh7 37. Rb8 Rc1+ 1/2-1/2
+
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.12"]
+[Round "3.1"]
+[White "Caruana, F."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "2784"]
+[BlackElo "2809"]
+[PlyCount "98"]
+[EventDate "2018.03.10"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "GER"]
+[EventCategory "22"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+Be7 9. Qd2 Nbd7 10. g4 O-O 11. g5 Nh5 12. O-O-O b5 13. Nd5 Bxd5 14. exd5 f6 15.
+gxf6 Bxf6 16. Kb1 Nf4 17. Rg1 Kh8 18. Bd3 Bg5 19. Na5 Bh6 20. Nc6 Qh4 21. Qb4
+Rf6 22. a4 Qxh2 23. Be4 Qe2 24. Bxf4 Bxf4 25. Qa5 Nc5 26. Qc7 Bh6 27. Nd8 Nxe4
+28. fxe4 Rf8 29. Nf7+ Rxf7 30. Qxf7 Rc8 31. Rc1 Qxe4 32. Rgf1 Bf4 33. Rg1 Bh6
+34. Rgf1 Rg8 35. Rcd1 bxa4 36. Qe7 Qg6 37. Rf8 Bg5 38. Rxg8+ Kxg8 39. Qd7 h5
+40. Rg1 e4 41. Qxa4 e3 42. Qxa6 Qf5 43. Qa8+ Kh7 44. Qe8 Bf4 45. Qe6 g6 46. Rf1
+Kg7 47. Qxf5 gxf5 48. c4 Bg3 49. Rg1 h4 1/2-1/2
+
+
+[Event "Region Blitz Moscow 2018"]
+[Site "Moscow RUS"]
+[Date "2018.03.01"]
+[Round "7.2"]
+[White "Nakamura, Hi"]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2787"]
+[BlackElo "2809"]
+[PlyCount "88"]
+[EventDate "2018.03.01"]
+[EventType "swiss (blitz)"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
+9. Be2 Bg7 10. e5 Nh5 11. O-O O-O 12. Qc2 Nxg3 13. hxg3 g4 14. Nh2 h5 15. Rad1
+Nd7 16. f3 c5 17. dxc5 Qc7 18. fxg4 Nxc5 19. gxh5 b4 20. Ne4 Qxe5 21. Nf6+ Bxf6
+22. Ng4 b3 23. axb3 cxb3 24. Qc1 Bg5 25. Nxe5 Bxc1 26. Rxc1 Ba6 27. Bxa6 Nxa6
+28. Rc6 Nb4 29. Rc4 Nd5 30. Rg4+ Kh7 31. Rxf7+ Rxf7 32. Nxf7 Rg8 33. Ng5+ Kh6
+34. Nf7+ Kh7 35. Re4 Rxg3 36. Rxe6 Rxg2+ 37. Kf1 Rg4 38. Re5 Nb4 39. Rb5 Nd3
+40. Rxb3 Rf4+ 41. Kg1 Nxb2 42. Rb7 Nc4 43. Nd6+ Kh6 44. Nxc4 Rxc4 1/2-1/2
+
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.18"]
+[Round "7.3"]
+[White "Grischuk, A."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[WhiteElo "2767"]
+[BlackElo "2809"]
+[PlyCount "31"]
+[EventDate "2018.03.10"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "GER"]
+[EventCategory "22"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bh4 g5 7. Bg3 Ne4 8. Qc2
+h5 9. h3 Nc6 10. e3 Bxc3+ 11. bxc3 Nxg3 12. fxg3 Qd6 13. Qf2 Qa3 14. Qc2 Qd6
+15. Qf2 Qa3 16. Qc2 1/2-1/2
+
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.15"]
+[Round "5.4"]
+[White "Ding Liren"]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[WhiteElo "2769"]
+[BlackElo "2809"]
+[PlyCount "61"]
+[EventDate "2018.03.10"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "GER"]
+[EventCategory "22"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Qxc4 Bc6 10. Bf4 Bd6 11. Bg5 Nbd7 12. Nc3 h6 13. Bc1 a5 14. b3 Qe7 15.
+Bb2 Rfd8 16. Rac1 Ba3 17. Bxa3 Qxa3 18. Nb5 Qe7 19. Qc2 Bxf3 20. Bxf3 c6 21.
+Nc3 Nb6 22. e3 e5 23. dxe5 Qxe5 24. Rfd1 g6 25. Rd2 Rd7 26. Rxd7 Nbxd7 27. Rd1
+h5 28. Rd4 Nc5 29. h4 Kg7 30. Kg2 Ne6 31. Rd1 1/2-1/2
+
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.20"]
+[Round "9.3"]
+[White "Aronian, L."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[WhiteElo "2794"]
+[BlackElo "2809"]
+[PlyCount "82"]
+[EventDate "2018.03.10"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "GER"]
+[EventCategory "22"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 b6 8. Qxc4
+Bb7 9. Nc3 c5 10. Rd1 Nbd7 11. Ne5 Bxg2 12. Kxg2 Qc8 13. Nxd7 Qxd7 14. dxc5
+Qc6+ 15. f3 Qxc5 16. Qxc5 Bxc5 17. Bf4 Rfd8 18. e4 Ne8 19. Kf1 Kf8 20. Ke2 Ke7
+21. Nb5 Rdc8 22. Rac1 a6 23. Nc3 b5 24. a4 Bd6 25. Be3 Rab8 26. axb5 axb5 27.
+Ba7 Rb7 28. Bd4 Rc4 29. e5 Bc5 30. Nd5+ exd5 31. Bxc5+ Ke6 32. b3 Rxc1 33. Rxc1
+Kxe5 34. Kd3 Ke6 35. Bb4 Kd7 36. Kd4 Nc7 37. Ba5 Ne6+ 38. Kxd5 Ra7 39. b4 Ra6
+40. f4 Rd6+ 41. Ke4 Rd4+ 1/2-1/2
+
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.23"]
+[Round "11.4"]
+[White "So, W."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[WhiteElo "2799"]
+[BlackElo "2809"]
+[PlyCount "81"]
+[EventDate "2018.03.10"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "GER"]
+[EventCategory "22"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 c6 8. Qxc4
+b5 9. Qc2 Bb7 10. Nc3 Nbd7 11. Rd1 Qb6 12. Ne5 Rfd8 13. Be3 Nd5 14. Nxd5 cxd5
+15. Rac1 Rac8 16. Qd3 b4 17. Rxc8 Bxc8 18. Qc2 Nxe5 19. dxe5 d4 20. Bxd4 Rxd4
+21. Qxc8+ Rd8 22. Rxd8+ Qxd8 23. Qxd8+ Bxd8 24. b3 Bc7 25. f4 Bb6+ 26. Kf1 Be3
+27. h4 h5 28. Bh3 Kf8 29. Kg2 Ke7 30. Kf3 Bd2 31. e3 Be1 32. f5 exf5 33. Bxf5
+g6 34. Bd3 Bc3 35. Kf4 Be1 36. Bc4 Bf2 37. Bd5 Be1 38. g4 hxg4 39. Kxg4 Bc3 40.
+Kf4 Be1 41. Kg4 1/2-1/2
+
+
+[Event "FIDE Candidates 2018"]
+[Site "Berlin GER"]
+[Date "2018.03.27"]
+[Round "14.3"]
+[White "Kramnik, V."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "E06"]
+[WhiteElo "2800"]
+[BlackElo "2809"]
+[PlyCount "108"]
+[EventDate "2018.03.10"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "GER"]
+[EventCategory "22"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 Qd6 8. Na3
+Rd8 9. Naxc4 Qa6 10. Qc2 Rxd4 11. Bg5 Nbd7 12. Rfd1 Rxd1+ 13. Rxd1 Nxe5 14.
+Nxe5 Qa5 15. Bf4 Nd5 16. Be4 g6 17. Bh6 Qc5 18. Qd2 Qb4 19. Qc2 Qc5 20. Qd3 Qd6
+21. Nc4 Qc5 22. Qf3 c6 23. Bd3 Nf6 24. e4 e5 25. Be3 Qb4 26. Nxe5 Qxb2 27. Bf4
+Be6 28. Rb1 Qxa2 29. Rxb7 Bc5 30. Kg2 Re8 31. h3 Bxf2 32. Qxf2 Bxh3+ 33. Kg1
+Qxf2+ 34. Kxf2 Rxe5 35. Bxe5 Ng4+ 36. Kg1 Nxe5 37. Be2 Kg7 38. Rxa7 Kf6 39. Ra5
+Bd7 40. Kf2 Ke6 41. Ke3 Kd6 42. Ra1 h5 43. Rd1+ Ke7 44. Kd4 f6 45. Kc5 Bh3 46.
+Ra1 Bg2 47. Ra4 Ke6 48. Rd4 Nf3 49. Rd8 Ng5 50. Bc4+ Ke7 51. Rg8 Nxe4+ 52. Kxc6
+Nd6+ 53. Kc5 Nxc4 54. Kxc4 Kf7 1/2-1/2
+
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.20"]
+[Round "2.4"]
+[White "Wojtaszek, R."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "E04"]
+[WhiteElo "2744"]
+[BlackElo "2814"]
+[PlyCount "62"]
+[EventDate "2018.04.19"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "AZE"]
+[EventCategory "21"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 Nc6 6. Qa4 Bb4+ 7. Bd2 Nd5 8.
+Bxb4 Ndxb4 9. Ne5 O-O 10. Nxc6 Nxc6 11. e3 e5 12. d5 Ne7 13. Qxc4 c6 14. dxc6
+Nxc6 15. Nc3 Be6 16. Qb5 Qb6 17. Qxb6 axb6 18. O-O Rfd8 19. Rfd1 Kf8 20. Bd5
+Ke7 21. Kf1 f5 22. f3 b5 23. Bxe6 Rxd1+ 24. Rxd1 Kxe6 25. a3 b4 26. axb4 Nxb4
+27. Ke2 Na2 28. Rb1 Nb4 29. Rd1 Na2 30. Rb1 Nb4 31. Rd1 Na2 1/2-1/2
+
+
+[Event "2nd Bundesliga Sud 2017-18"]
+[Site "Germany GER"]
+[Date "2018.02.24"]
+[Round "9.1"]
+[White "Gozzoli, Y."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "D43"]
+[WhiteElo "2569"]
+[BlackElo "2791"]
+[PlyCount "90"]
+[EventDate "2017.10.21"]
+[EventType "team"]
+[EventRounds "10"]
+[EventCountry "GER"]
+[WhiteTeam "OSG Baden Baden II"]
+[BlackTeam "SC Viernheim"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
+9. Be2 Bg7 10. e5 Nh5 11. a4 a6 12. O-O O-O 13. Qc2 Nxg3 14. hxg3 g4 15. Nh2 h5
+16. Rad1 Ra7 17. Ne4 f5 18. exf6 Bxf6 19. Nxf6+ Rxf6 20. Qc3 Rg7 21. f3 gxf3
+22. Rxf3 Nd7 23. Rdf1 Rfg6 24. Bd1 Qc7 25. Qe3 Qd6 26. Bc2 Rg5 27. b3 c5 28.
+dxc5 Qxc5 29. axb5 axb5 30. bxc4 bxc4 31. Qxc5 Rxc5 32. Re3 Re5 33. Rc3 Bb7 34.
+Rf2 Nb6 35. Nf3 Ra5 36. Re3 Bd5 37. Nd4 Rf7 38. Rf4 Ra2 39. Re2 Ra1+ 40. Kf2 c3
+41. Nxe6 Bxe6 42. Rxe6 Nd5 43. Rf3 Ra2 44. Re2 Rb2 45. Ke1 Rxf3 1/2-1/2
+
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.28"]
+[Round "9.1"]
+[White "Mamedov, Rau"]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2704"]
+[BlackElo "2814"]
+[PlyCount "54"]
+[EventDate "2018.04.19"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "AZE"]
+[EventCategory "21"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5
+8. Rxe5 O-O 9. Nc3 Ne8 10. Nd5 Bd6 11. Re1 c6 12. Ne3 Bc7 13. Nf5 d5 14. Ne7+
+Kh8 15. Nxc8 Rxc8 16. d3 Nf6 17. Qf3 Qd7 18. g3 Ng4 19. d4 Rce8 20. Bd2 f5 21.
+Rxe8 Rxe8 22. Re1 Rxe1 23. Bxe1 Qe6 24. Qe2 Qd7 25. Qf3 Qe6 26. Qe2 Qd7 27. Qf3
+Qe6 1/2-1/2
+
+
+[Event "Vugar Gashimov Mem 2018"]
+[Site "Shamkir AZE"]
+[Date "2018.04.25"]
+[Round "6.1"]
+[White "Ding Liren"]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "D60"]
+[WhiteElo "2778"]
+[BlackElo "2814"]
+[PlyCount "74"]
+[EventDate "2018.04.19"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "AZE"]
+[EventCategory "21"]
+
+1. c4 Nf6 2. Nc3 e6 3. Nf3 d5 4. d4 Be7 5. Bg5 O-O 6. e3 Nbd7 7. Be2 h6 8. Bh4
+c5 9. cxd5 Nxd5 10. Bxe7 Nxe7 11. O-O cxd4 12. Nxd4 Nf6 13. Qb3 Qa5 14. a3 Rd8
+15. Qb4 Qxb4 16. axb4 Nc6 17. Nc2 Rd2 18. Rfc1 Nd5 19. Nxd5 exd5 20. b5 Rxe2
+21. bxc6 d4 22. exd4 bxc6 23. Kf1 Re4 24. f3 Rh4 25. Nb4 Bd7 26. Nxc6 Bxc6 27.
+Rxc6 Rxd4 28. Rc2 a5 29. b3 Rb4 30. Ra3 Rab8 31. Rxa5 Rxb3 32. Kf2 Rb2 33. Rxb2
+Rxb2+ 34. Kf1 Rb1+ 35. Kf2 Rb2+ 36. Kf1 Rb1+ 37. Kf2 Rb2+ 1/2-1/2
+
+
+[Event "6th Norway Blitz 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.27"]
+[Round "1.3"]
+[White "Anand, V."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[WhiteElo "2760"]
+[BlackElo "2808"]
+[PlyCount "63"]
+[EventDate "2018.05.27"]
+[EventType "tourn (blitz)"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. Nc3 d6 8. Nd5
+h6 9. O-O O-O 10. Be3 Bxe3 11. fxe3 Na5 12. Nxf6+ Qxf6 13. Bd5 c6 14. Nd4 Qg5
+15. Nxc6 Nxc6 16. Bxc6 Qxe3+ 17. Kh1 Rb8 18. Bd5 Be6 19. Bxe6 fxe6 20. Qg4
+Rxf1+ 21. Rxf1 Rf8 22. Qxe6+ Kh7 23. Rg1 Qc5 24. c3 Rf2 25. b4 Qxc3 26. Qxd6
+Rxa2 27. h3 Rd2 28. Qxa6 Rxd3 29. Qe6 Qxb4 30. Qf5+ Kh8 31. Qc8+ Kh7 32. Qf5+
+1/2-1/2
+
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.05.29"]
+[Round "2.2"]
+[White "Caruana, F."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2822"]
+[BlackElo "2808"]
+[PlyCount "52"]
+[EventDate "2018.05.28"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O
+8. Qd2 b6 9. O-O-O Bb7 10. h4 Nd7 11. Bd3 Re8 12. Kb1 Bf6 13. Rh3 Nc5 14. Bxc5
+bxc5 15. g4 c4 16. Bxc4 Re4 17. Qd3 d5 18. Bxd5 Qxd5 19. Qxd5 Bxd5 20. Rxd5
+Rxg4 21. Ra5 Rg2 22. a4 Rxf2 23. h5 Rf1+ 24. Ka2 Rf2 25. Kb1 Rf1+ 26. Ka2 Rf2
+1/2-1/2
+
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.03"]
+[Round "6.4"]
+[White "Anand, V."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "C60"]
+[WhiteElo "2760"]
+[BlackElo "2808"]
+[PlyCount "64"]
+[EventDate "2018.05.28"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 g6 4. c3 a6 5. Ba4 Bg7 6. O-O Nge7 7. d4 exd4 8.
+cxd4 b5 9. Bc2 d5 10. exd5 Nxd5 11. Re1+ Be6 12. Bg5 Qd7 13. Nc3 O-O 14. Be4
+Rae8 15. Bxd5 Bxd5 16. Ne5 Nxe5 17. dxe5 c6 18. f4 f6 19. Bxf6 Bxf6 20. Nxd5
+cxd5 21. exf6 Rxe1+ 22. Qxe1 Rxf6 23. Qd2 d4 24. Rd1 d3 25. Qxd3 Qxd3 26. Rxd3
+Rxf4 27. Rd6 Rc4 28. Rxa6 Rc1+ 29. Kf2 Rc2+ 30. Kg1 Rc1+ 31. Kf2 Rc2+ 32. Kg1
+Rc1+ 1/2-1/2
+
+
+[Event "6th Norway Chess 2018"]
+[Site "Stavanger NOR"]
+[Date "2018.06.06"]
+[Round "8.1"]
+[White "Carlsen, M."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "C83"]
+[WhiteElo "2843"]
+[BlackElo "2808"]
+[PlyCount "100"]
+[EventDate "2018.05.28"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "NOR"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Re1 O-O 11. Nbd2 Nxd2 12. Qxd2 Qd7 13. Qd3 Rad8 14. Bc2 g6
+15. Bh6 Rfe8 16. Rad1 d4 17. Nxd4 Nxd4 18. Qxd4 Qxd4 19. Rxd4 Rxd4 20. cxd4 c5
+21. dxc5 Bxc5 22. b3 a5 23. h3 b4 24. Rd1 Rc8 25. Rd2 Be7 26. Bd1 Rc5 27. Bf4
+g5 28. Bg3 Kg7 29. f4 Rc1 30. Kh2 Bc5 31. fxg5 Be3 32. Rd3 Bxg5 33. h4 Bf5 34.
+Rf3 Bg4 35. hxg5 Rxd1 36. Rf2 Be6 37. Bf4 Rd3 38. Rf3 Rxf3 39. gxf3 Bf5 40. e6
+fxe6 41. Bc7 Bb1 42. Bxa5 Bxa2 43. Bxb4 Bxb3 44. Bc3+ Kg6 45. f4 Kf7 46. Kg3
+Kg6 47. Be5 Kf7 48. Bc3 Kg6 49. Be5 Kf7 50. Bc3 Kg6 1/2-1/2
+
+
+[Event "GCT Blitz YourNextMove"]
+[Site "Leuven BEL"]
+[Date "2018.06.16"]
+[Round "10.1"]
+[White "Aronian, L."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "C55"]
+[WhiteElo "2764"]
+[BlackElo "2808"]
+[PlyCount "66"]
+[EventDate "2018.06.15"]
+[EventType "tourn (blitz)"]
+[EventRounds "18"]
+[EventCountry "BEL"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. O-O d6 6. Nc3 Na5 7. Bb5+ c6 8. Ba4
+b5 9. Bb3 Be7 10. Ne2 O-O 11. Ng3 Re8 12. Bd2 Bf8 13. Re1 Qc7 14. Bxa5 Qxa5 15.
+a4 Qb6 16. Nh4 d5 17. axb5 dxe4 18. bxc6 exd3 19. Qxd3 Bc5 20. Rf1 e4 21. Qc3
+e3 22. Nhf5 exf2+ 23. Kh1 Be6 24. Nxh6+ Kf8 25. Nhf5 Bxb3 26. cxb3 Rac8 27.
+Nxg7 Bd4 28. Qd2 Be3 29. Qd6+ Kxg7 30. Nf5+ Kg6 31. Nh4+ Kg7 32. Nf5+ Kg6 33.
+Nh4+ Kg7 1/2-1/2
+
+
+[Event "GCT Blitz YourNextMove"]
+[Site "Leuven BEL"]
+[Date "2018.06.15"]
+[Round "6.5"]
+[White "Caruana, F."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "B29"]
+[WhiteElo "2816"]
+[BlackElo "2808"]
+[PlyCount "108"]
+[EventDate "2018.06.15"]
+[EventType "tourn (blitz)"]
+[EventRounds "18"]
+[EventCountry "BEL"]
+[EventCategory "22"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. exd5 Nxd5 5. Bb5+ Bd7 6. Ne5 Bxb5 7. Qf3 f6 8.
+Nxb5 Na6 9. Qh5+ g6 10. Nxg6 hxg6 11. Qxh8 Qd7 12. Nc3 Nab4 13. O-O Nxc2 14.
+Rb1 O-O-O 15. Qh4 Nd4 16. Qe4 e6 17. d3 f5 18. Qe1 Bd6 19. Bg5 Rh8 20. f4 Nb4
+21. Rd1 a6 22. h3 Kb8 23. Qf2 Rh5 24. Bf6 Nbc6 25. Rfe1 Qf7 26. Bxd4 cxd4 27.
+Ne2 e5 28. Rc1 Qd5 29. Qg3 e4 30. Qxg6 Rh8 31. Ng3 Bxf4 32. dxe4 Qe5 33. exf5
+Be3+ 34. Kh1 Ne7 35. Qe6 Qxg3 36. f6 Nd5 37. f7 Nf4 38. Qd6+ Ka7 39. Qc5+ Ka8
+40. f8=Q+ Rxf8 41. Qxf8+ Ka7 42. Qc5+ Ka8 43. Qc8+ Ka7 44. Qg4 Qf2 45. Rcd1 Nd3
+46. Qe2 Nxe1 47. Rxe1 Qg3 48. Rf1 Bf4 49. Rxf4 Qxf4 50. Kg1 Qc1+ 51. Kf2 Qf4+
+52. Qf3 Qd2+ 53. Qe2 Qf4+ 54. Qf3 Qd2+ 1/2-1/2
+
+
+[Event "GCT Rapid YourNextMove"]
+[Site "Leuven BEL"]
+[Date "2018.06.14"]
+[Round "8.2"]
+[White "Grischuk, A."]
+[Black "Mamedyarov, S."]
+[Result "1/2-1/2"]
+[ECO "C87"]
+[WhiteElo "2766"]
+[BlackElo "2808"]
+[PlyCount "240"]
+[EventDate "2018.06.12"]
+[EventType "tourn (rapid)"]
+[EventRounds "9"]
+[EventCountry "BEL"]
+[EventCategory "22"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 d6 7. c3 Bg4 8. d3
+Nd7 9. Bc2 O-O 10. Nbd2 Bg5 11. h3 Bxf3 12. Nxf3 Bxc1 13. Rxc1 Qf6 14. d4 Rad8
+15. a3 Ne7 16. Nh2 c5 17. Ng4 Qg5 18. dxc5 Nxc5 19. Ne3 h5 20. Re2 Rd7 21. Rd2
+Rfd8 22. Rb1 Ne6 23. Qf3 g6 24. Rbd1 Kg7 25. Kh2 b5 26. Bb3 Qf6 27. Qxf6+ Kxf6
+28. h4 a5 29. Bc2 Nc7 30. a4 b4 31. cxb4 axb4 32. a5 Ne6 33. Ba4 Ra7 34. Rxd6
+Rxa5 35. Bb3 Rxd6 36. Rxd6 Rc5 37. Rb6 Nc6 38. Nd5+ Kg7 39. Nxb4 Nxb4 40. Bxe6
+Nc6 41. Bd5 Ne7 42. Bb3 f5 43. Rb7 Kf6 44. Rb6+ Kg7 45. Re6 Ng8 46. exf5 gxf5
+47. Bd1 Nf6 48. b4 Rd5 49. Be2 Rd4 50. Rxe5 Rxh4+ 51. Kg1 Rxb4 52. Rxf5 Kg6 53.
+Bd3 Rb3 54. Rd5+ Kg7 55. Rd4 Ra3 56. g3 Ra2 57. Bf5 Ra5 58. Bh3 Ra1+ 59. Kg2
+Ra2 60. Be6 Re2 61. Bf5 Re5 62. Bd3 Ra5 63. Rb4 Ra7 64. Rb6 Rd7 65. Bb1 Rc7 66.
+Kh3 Rd7 67. Kh4 Rd4+ 68. f4 Rc4 69. Rb7+ Kh6 70. Rb6 Kg7 71. Rb7+ Kh6 72. Rf7
+Rc6 73. Bf5 Ra6 74. Bd3 Rd6 75. Bf5 Ra6 76. Rb7 Ra1 77. Kh3 Rh1+ 78. Kg2 Ra1
+79. Rf7 Ra6 80. Bd3 Rd6 81. Bf5 Ra6 82. Kh3 Rb6 83. Re7 Rb5 84. Re5 Rxe5 85.
+fxe5 Nd5 86. Kh4 Ne3 87. Be4 Ng4 88. e6 Kg7 89. Kg5 Kf8 90. Bf3 Ne5 91. Bxh5
+Ke7 92. Kf5 Nc6 93. Bf7 Nd4+ 94. Ke5 Nf3+ 95. Kf4 Nd4 96. g4 Kf6 97. g5+ Ke7
+98. Kg4 Kf8 99. Kh4 Nf5+ 100. Kh5 Kg7 101. Bg6 Ne7 102. Be4 Nc8 103. Kg4 Kf8
+104. Kf4 Ke7 105. Ke5 Nd6 106. Bd3 Ne8 107. Be4 Ng7 108. Bd5 Ne8 109. Bb3 Ng7
+110. Bc4 Ne8 111. Be2 Nc7 112. Bg4 Ne8 113. Bh5 Nd6 114. Bg6 Nc4+ 115. Kd4 Nd2
+116. Ke3 Nc4+ 117. Kd4 Nd2 118. Bh5 Kxe6 119. Kd3 Nf3 120. Bg4+ Ke5 1/2-1/2

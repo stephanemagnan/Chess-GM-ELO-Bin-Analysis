@@ -1,0 +1,1251 @@
+White	White ELO	Black	Black ELO	Result	Date
+Nakamura, Hikaru	2850	Anton Guijarro, David	2584	1-0	2022.02.20
+Nakamura, Hikaru	2850	So, Wesley	2814	1-0	2022.03.12
+Nakamura, Hikaru	2850	Matlakov, Maxim	2669	1-0	2022.03.12
+Nakamura, Hikaru	2850	Sadhwani, Raunak	2616	1-0	2022.03.05
+Nakamura, Hikaru	2850	Kosteniuk, Alexandra	2469	1-0	2022.03.05
+Nakamura, Hikaru	2850	Vachier-Lagrave, Maxime	2813	1-0	2022.03.13
+Nakamura, Hikaru	2850	Naroditsky, Daniel	2608	1-0	2022.03.12
+Nakamura, Hikaru	2850	Caruana, Fabiano	2744	1-0	2022.03.13
+Nakamura, Hikaru	2850	Tabatabaei, M. Amin	2544	1-0	2022.04.02
+Nakamura, Hikaru	2850	Matlakov, Maxim	2669	1-0	2022.04.09
+Nakamura, Hikaru	2850	Tabatabaei, M. Amin	2544	1-0	2022.04.09
+Nakamura, Hikaru	2850	Jumabayev, Rinat	2561	1-0	2022.04.02
+Nakamura, Hikaru	2850	Esipenko, Andrey	2617	1-0	2022.04.16
+Nakamura, Hikaru	2850	Andreikin, Dmitry	2736	1-0	2022.04.16
+Nakamura, Hikaru	2850	Xiong, Jeffery	2727	1-0	2022.04.16
+Nakamura, Hikaru	2837	Grischuk, Alexander	2759	1-0	2022.04.10
+Nakamura, Hikaru	2850	Fedoseev, Vladimir	2726	1-0	2022.04.10
+Nakamura, Hikaru	2850	Narayanan.S.L, 	2494	1-0	2022.04.09
+Nakamura, Hikaru	2850	Matlakov, Maxim	2669	1-0	2022.04.30
+Nakamura, Hikaru	2837	Martinez Alcantara, Jose Eduardo	2645	1-0	2022.04.24
+Nakamura, Hikaru	2850	Narayanan.S.L, 	2494	1-0	2022.04.23
+Nakamura, Hikaru	2850	Andreikin, Dmitry	2736	1-0	2022.04.23
+Nakamura, Hikaru	2837	Xiong, Jeffery	2729	1-0	2022.04.17
+Nakamura, Hikaru	2850	Giri, Anish	2766	1-0	2022.05.07
+Nakamura, Hikaru	2837	Vidit, Santosh Gujrathi	2617	1-0	2022.05.01
+Stepanencu, Nicodim-Cosmin	1945	Nakamura, Hikaru	2850	0-1	2022.06.14
+Vakhlamov, Igor L.	2401	Nakamura, Hikaru	2850	0-1	2022.06.14
+Shirov, Alexei	2678	Nakamura, Hikaru	2850	0-1	2022.06.14
+Steinberg, Nitzan	2471	Nakamura, Hikaru	2850	0-1	2022.06.14
+Tifferet, Shaked	2083	Nakamura, Hikaru	2850	0-1	2022.06.14
+Zakhartsov, Vladimir	2490	Nakamura, Hikaru	2850	0-1	2022.06.14
+Kozak, Adam	2459	Nakamura, Hikaru	2850	0-1	2022.06.14
+Bortnyk, Olexandr	2723	Nakamura, Hikaru	2850	0-1	2022.06.14
+Xiong, Jeffery	2714	Nakamura, Hikaru	2850	0-1	2022.06.28
+Van Foreest, Jorden	2609	Nakamura, Hikaru	2850	0-1	2022.06.28
+Przybylski, Wojciech	2133	Nakamura, Hikaru	2850	0-1	2022.06.28
+Sorokin, Aleksey	2476	Nakamura, Hikaru	2850	0-1	2022.06.11
+Sarana, Alexey	2666	Nakamura, Hikaru	2850	0-1	2022.06.11
+So, Wesley	2763	Nakamura, Hikaru	2850	0-1	2022.07.10
+Bortnyk, Olexandr	2643	Nakamura, Hikaru	2837	0-1	2022.07.10
+Popilski, Gil	2537	Nakamura, Hikaru	2850	0-1	2022.07.09
+Erigaisi, Arjun	2745	Nakamura, Hikaru	2850	0-1	2022.02.19
+Deac, Bogdan-Daniel	2646	Nakamura, Hikaru	2850	0-1	2022.02.19
+Svidler, Peter	2725	Nakamura, Hikaru	2850	0-1	2022.02.19
+Keymer, Vincent	2557	Nakamura, Hikaru	2850	0-1	2022.02.26
+Sarana, Alexey	2665	Nakamura, Hikaru	2850	0-1	2022.02.26
+Erigaisi, Arjun	2745	Nakamura, Hikaru	2850	0-1	2022.03.12
+Sarana, Alexey	2665	Nakamura, Hikaru	2850	0-1	2022.03.05
+Abdusattorov, Nodirbek	2663	Nakamura, Hikaru	2850	0-1	2022.03.05
+Aronian, Levon	2705	Nakamura, Hikaru	2837	0-1	2022.03.13
+Sarana, Alexey	2666	Nakamura, Hikaru	2850	0-1	2022.04.02
+Saric, Ivan	2550	Nakamura, Hikaru	2850	0-1	2022.04.02
+Hansen, Eric	2568	Nakamura, Hikaru	2850	0-1	2022.04.02
+Sevian, Samuel	2698	Nakamura, Hikaru	2850	0-1	2022.04.16
+Aronian, Levon	2773	Nakamura, Hikaru	2850	0-1	2022.04.16
+Aronian, Levon	2705	Nakamura, Hikaru	2837	0-1	2022.04.10
+Matlakov, Maxim	2669	Nakamura, Hikaru	2850	0-1	2022.04.23
+Nepomniachtchi, Ian	2740	Nakamura, Hikaru	2850	0-1	2022.04.23
+Jones, Gawain C B	2657	Nakamura, Hikaru	2850	0-1	2022.05.07
+Martinez Alcantara, Jose Eduardo	2690	Nakamura, Hikaru	2850	0-1	2022.05.07
+Ponkratov, Pavel	2487	Nakamura, Hikaru	2850	0-1	2022.05.14
+Fedoseev, Vladimir	2739	Nakamura, Hikaru	2851	0-1	2022.05.08
+Durarbayli, Vasif	2528	Nakamura, Hikaru	2850	0-1	2022.05.14
+Hevia Alejano, Carlos Antonio	2498	Nakamura, Hikaru	2850	0-1	2022.05.21
+Paravyan, David	2636	Nakamura, Hikaru	2851	0-1	2022.05.22
+Dubov, Daniil	2791	Nakamura, Hikaru	2850	0-1	2022.05.21
+Bluebaum, Matthias	2556	Nakamura, Hikaru	2850	0-1	2022.06.04
+Xiong, Jeffery	2727	Nakamura, Hikaru	2850	0-1	2022.06.04
+Swiercz, Dariusz	2627	Nakamura, Hikaru	2850	0-1	2022.05.28
+Bortnyk, Olexandr	2723	Nakamura, Hikaru	2850	0-1	2022.06.04
+Toncheva, Nadya	1888	Nakamura, Hikaru	2850	0-1	2022.07.26
+Xu, Yi	2471	Nakamura, Hikaru	2850	0-1	2022.07.26
+Suleymanli, Aydin	2481	Nakamura, Hikaru	2850	0-1	2022.07.26
+Pesotskiy, Mikhail	2010	Nakamura, Hikaru	2850	0-1	2022.07.26
+Ismagilov, Damir	2138	Nakamura, Hikaru	2850	0-1	2022.07.26
+Maksimovic, Bojan	2453	Nakamura, Hikaru	2850	0-1	2022.07.26
+Shimanov, Aleksandr	2605	Nakamura, Hikaru	2850	0-1	2022.07.30
+Shimanov, Aleksandr	2605	Nakamura, Hikaru	2850	0-1	2022.08.02
+Paravyan, David	2569	Nakamura, Hikaru	2850	0-1	2022.08.02
+Andreikin, Dmitry	2736	Nakamura, Hikaru	2850	0-1	2022.08.02
+Barria Zuniga, Daniel	2414	Nakamura, Hikaru	2850	0-1	2022.08.02
+Harsha, Bharathakoti	2876	Nakamura, Hikaru	3204	0-1	2022.08.02
+Alekseenko, Kirill	2682	Nakamura, Hikaru	2850	0-1	2022.08.02
+Zhigalko, Sergei	2905	Nakamura, Hikaru	3206	0-1	2022.08.02
+Wu, Rochelle	2168	Nakamura, Hikaru	2850	0-1	2022.08.02
+Grischuk, Alexander	2762	Nakamura, Hikaru	2850	0-1	2022.08.06
+Dubov, Daniil	2791	Nakamura, Hikaru	2850	0-1	2022.08.09
+Gareyev, Timur	2528	Nakamura, Hikaru	2850	0-1	2022.08.09
+Wieczorek, Oskar	2728	Nakamura, Hikaru	3202	0-1	2022.08.09
+Salem, A.R. Saleh	2674	Nakamura, Hikaru	2850	0-1	2022.08.09
+Garcia, Erick	2202	Nakamura, Hikaru	2850	0-1	2022.08.09
+Przybylski, Wojciech	2133	Nakamura, Hikaru	2850	0-1	2022.08.09
+Galperin, Platon	2435	Nakamura, Hikaru	2850	0-1	2022.08.09
+Kravtsiv, Martyn	2694	Nakamura, Hikaru	2850	0-1	2022.08.09
+Sarana, Alexey	2666	Nakamura, Hikaru	2850	0-1	2022.08.09
+Yanchenko, Roman	2514	Nakamura, Hikaru	2850	0-1	2022.08.09
+Tari, Aryan	2612	Nakamura, Hikaru	2850	0-1	2022.08.13
+Bok, Benjamin	2658	Nakamura, Hikaru	2850	0-1	2022.08.14
+Olivares Olivares, Claudio	2249	Nakamura, Hikaru	2850	0-1	2022.08.16
+Mitrabha, Guha	2499	Nakamura, Hikaru	2850	0-1	2022.08.16
+Potapova, Margarita	2225	Nakamura, Hikaru	2850	0-1	2022.08.16
+Djordjevic, Vuk	2456	Nakamura, Hikaru	2850	0-1	2022.08.16
+Shimanov, Aleksandr	2605	Nakamura, Hikaru	2850	0-1	2022.08.16
+So, Wesley	2784	Nakamura, Hikaru	2837	0-1	2022.08.19
+Kadric, Denis	2657	Nakamura, Hikaru	2850	0-1	2022.08.23
+Jian, Alex	2095	Nakamura, Hikaru	2850	0-1	2022.08.23
+Suder, Jakub	2095	Nakamura, Hikaru	2850	0-1	2022.08.23
+Pinheiro, Iung Alicio de O.	2283	Nakamura, Hikaru	2850	0-1	2022.08.23
+Fawzy, Adham	2541	Nakamura, Hikaru	2850	0-1	2022.08.23
+Aronian, Levon	2728	Nakamura, Hikaru	2837	0-1	2022.08.26
+Xiong, Jeffery	2725	Nakamura, Hikaru	2837	0-1	2022.08.28
+Dominguez Perez, Leinier	2708	Nakamura, Hikaru	2850	0-1	2022.08.29
+Xiong, Jeffery	2714	Nakamura, Hikaru	2850	0-1	2022.08.29
+Caruana, Fabiano	2847	Nakamura, Hikaru	2850	0-1	2022.08.30
+Shankland, Sam	2645	Nakamura, Hikaru	2850	0-1	2022.08.30
+Vachier-Lagrave, Maxime	2812	Nakamura, Hikaru	2850	0-1	2022.08.30
+Nepomniachtchi, Ian	2791	Nakamura, Hikaru	2850	0-1	2022.08.30
+Mladek, Richard	2666	Nakamura, Hikaru	3246	0-1	2022.09.20
+Iliaguev, Nisim	2107	Nakamura, Hikaru	2850	0-1	2022.09.20
+Navara, David	2659	Nakamura, Hikaru	2789	0-1	2022.09.24
+Iturrizaga Bonelli, Eduardo	2629	Nakamura, Hikaru	2850	0-1	2022.09.27
+Zelbel, Patrick	2474	Nakamura, Hikaru	2850	0-1	2022.09.27
+Kodinets, Konstantin L.	2447	Nakamura, Hikaru	2850	0-1	2022.09.27
+Caruana, Fabiano	2847	Nakamura, Hikaru	2850	0-1	2022.09.27
+Sargsyan, Anna M.	2271	Nakamura, Hikaru	2850	0-1	2022.09.27
+Terry, Renato	2577	Nakamura, Hikaru	2850	1/2-1/2	2022.06.14
+Ivic, Velimir	2610	Nakamura, Hikaru	2850	1/2-1/2	2022.06.14
+Firouzja, Alireza	2793	Nakamura, Hikaru	2760	1/2-1/2	2022.06.19
+Rapport, Richard	2764	Nakamura, Hikaru	2760	1/2-1/2	2022.06.21
+Duda, Jan-Krzysztof	2750	Nakamura, Hikaru	2760	1/2-1/2	2022.06.25
+Madaminov, Mukhiddin	2771	Nakamura, Hikaru	3159	1/2-1/2	2022.06.28
+Steinberg, Nitzan	2471	Nakamura, Hikaru	2850	1/2-1/2	2022.06.28
+Andreikin, Dmitry	2736	Nakamura, Hikaru	2850	1/2-1/2	2022.06.28
+Andreikin, Dmitry	2736	Nakamura, Hikaru	2850	1/2-1/2	2022.06.11
+Bok, Benjamin	2658	Nakamura, Hikaru	2850	1/2-1/2	2022.07.09
+Fedoseev, Vladimir	2739	Nakamura, Hikaru	2837	1/2-1/2	2022.07.10
+Anton Guijarro, David	2584	Nakamura, Hikaru	2850	1/2-1/2	2022.02.20
+Aronian, Levon	2773	Nakamura, Hikaru	2850	1/2-1/2	2022.03.05
+Demchenko, Anton	2539	Nakamura, Hikaru	2850	1/2-1/2	2022.03.05
+Vachier-Lagrave, Maxime	2813	Nakamura, Hikaru	2850	1/2-1/2	2022.03.13
+Caruana, Fabiano	2744	Nakamura, Hikaru	2850	1/2-1/2	2022.03.13
+Grischuk, Alexander	2762	Nakamura, Hikaru	2850	1/2-1/2	2022.03.12
+Martinez Alcantara, Jose Eduardo	2690	Nakamura, Hikaru	2850	1/2-1/2	2022.04.09
+Fedoseev, Vladimir	2726	Nakamura, Hikaru	2850	1/2-1/2	2022.04.09
+Fedoseev, Vladimir	2739	Nakamura, Hikaru	2837	1/2-1/2	2022.04.10
+Sarana, Alexey	2666	Nakamura, Hikaru	2850	1/2-1/2	2022.04.09
+Giri, Anish	2766	Nakamura, Hikaru	2850	1/2-1/2	2022.04.30
+Bluebaum, Matthias	2633	Nakamura, Hikaru	2850	0-1	2022.09.27
+Van Foreest, Jorden	2649	Nakamura, Hikaru	2850	0-1	2022.09.27
+Jobava, Baadur	2582	Nakamura, Hikaru	2850	0-1	2022.09.27
+Sarana, Alexey	2666	Nakamura, Hikaru	2850	1/2-1/2	2022.04.23
+Martinez Alcantara, Jose Eduardo	2690	Nakamura, Hikaru	2850	1/2-1/2	2022.04.23
+Andreikin, Dmitry	2736	Nakamura, Hikaru	2850	1/2-1/2	2022.05.07
+Kovalev, Vladislav	2530	Nakamura, Hikaru	2850	1/2-1/2	2022.04.30
+Nepomniachtchi, Ian	2740	Nakamura, Hikaru	2850	1/2-1/2	2022.04.30
+Vidit, Santosh Gujrathi	2654	Nakamura, Hikaru	2850	1/2-1/2	2022.05.08
+Andreikin, Dmitry	2675	Nakamura, Hikaru	2851	1/2-1/2	2022.05.15
+Xiong, Jeffery	2725	Nakamura, Hikaru	2851	1/2-1/2	2022.05.15
+Bortnyk, Olexandr	2723	Nakamura, Hikaru	2850	1/2-1/2	2022.05.15
+Vidit, Santosh Gujrathi	2727	Nakamura, Hikaru	2846	1/2-1/2	2022.05.28
+Andreikin, Dmitry	2675	Nakamura, Hikaru	2851	1/2-1/2	2022.05.22
+Sychev, Klementy	2564	Nakamura, Hikaru	2850	1/2-1/2	2022.06.11
+Moussard, Jules	2626	Nakamura, Hikaru	2837	1/2-1/2	2022.06.05
+Lazavik, Denis	2437	Nakamura, Hikaru	2850	1/2-1/2	2022.07.26
+Nyzhnyk, Illya	2643	Nakamura, Hikaru	2850	1/2-1/2	2022.07.30
+Alekseenko, Kirill	2682	Nakamura, Hikaru	2850	1/2-1/2	2022.07.30
+Le, Quang Liem	2657	Nakamura, Hikaru	2850	1/2-1/2	2022.07.30
+Xiong, Jeffery	2714	Nakamura, Hikaru	2850	1/2-1/2	2022.08.06
+Sevian, Samuel	2569	Nakamura, Hikaru	2837	1/2-1/2	2022.08.07
+Niemann, Hans Moke	2529	Nakamura, Hikaru	2837	1/2-1/2	2022.08.07
+Andreikin, Dmitry	2736	Nakamura, Hikaru	2850	1/2-1/2	2022.08.09
+So, Wesley	2763	Nakamura, Hikaru	2850	1/2-1/2	2022.08.13
+Bok, Benjamin	2658	Nakamura, Hikaru	2850	1/2-1/2	2022.08.13
+Bok, Benjamin	2608	Nakamura, Hikaru	2837	1/2-1/2	2022.08.14
+Timofeev, Artyom	2578	Nakamura, Hikaru	2850	1/2-1/2	2022.08.16
+Nakamura, Hikaru	2736	Giri, Anish	2764	1-0	Sat Feb 06 2021
+Nakamura, Hikaru	2736	Ding, Liren	2791	1-0	Sun Feb 07 2021
+Nakamura, Hikaru	2736	Pichot, Alan	2630	1-0	Sun Mar 14 2021
+Nakamura, Hikaru	2736	Aronian, Levon	2781	1-0	Sun Mar 14 2021
+Nakamura, Hikaru	2736	Nepomniachtchi, Ian	2789	1-0	Tue Mar 16 2021
+Nakamura, Hikaru	2736	Erigaisi, Arjun	2567	1-0	Tue Apr 06 2021
+Nakamura, Hikaru	2736	Erigaisi, Arjun	2567	1-0	Tue Apr 06 2021
+Nakamura, Hikaru	2736	Erigaisi, Arjun	2567	1-0	Tue Apr 06 2021
+Nakamura, Hikaru	2736	Erigaisi, Arjun	2567	1-0	Tue Apr 06 2021
+Nakamura, Hikaru	2736	Erigaisi, Arjun	2567	1-0	Tue Apr 06 2021
+Bortnyk, Olexandr	2723	Nakamura, Hikaru	2850	1/2-1/2	2022.08.16
+Hansen, Eric	2568	Nakamura, Hikaru	2850	1/2-1/2	2022.08.16
+Maghsoodloo, Parham	2589	Nakamura, Hikaru	2837	1/2-1/2	2022.08.18
+Sarana, Alexey	2654	Nakamura, Hikaru	2837	1/2-1/2	2022.08.18
+Petrovic, Aleksa	2262	Nakamura, Hikaru	2850	1/2-1/2	2022.08.23
+Bluebaum, Matthias	2603	Nakamura, Hikaru	2850	1/2-1/2	2022.08.23
+Nepomniachtchi, Ian	2795	Nakamura, Hikaru	2837	1/2-1/2	2022.08.27
+Mamedyarov, Shakhriyar	2695	Nakamura, Hikaru	2837	1/2-1/2	2022.08.27
+Firouzja, Alireza	2795	Nakamura, Hikaru	2850	1/2-1/2	2022.08.29
+Mamedyarov, Shakhriyar	2710	Nakamura, Hikaru	2850	1/2-1/2	2022.08.29
+Vasquez Schroeder, Rodrigo	2603	Nakamura, Hikaru	2789	1/2-1/2	2022.09.19
+Vasquez Schroeder, Rodrigo	2603	Nakamura, Hikaru	2789	1/2-1/2	2022.09.19
+Paravyan, David	2892	Nakamura, Hikaru	3248	1/2-1/2	2022.09.20
+Carlsen, Magnus	2830	Nakamura, Hikaru	2850	1/2-1/2	2022.09.27
+Saraci, Nderim	2553	Nakamura, Hikaru	2850	1/2-1/2	2022.09.27
+Nakamura, Hikaru	2736	Erigaisi, Arjun	2567	1-0	Tue Apr 06 2021
+Nakamura, Hikaru	2736	Erigaisi, Arjun	2567	1-0	Tue Apr 06 2021
+Nakamura, Hikaru	2736	Erigaisi, Arjun	2567	1-0	Tue Apr 06 2021
+Nakamura, Hikaru	2736	Firouzja, Alireza	2759	1-0	Wed Apr 07 2021
+Nakamura, Hikaru	2736	Firouzja, Alireza	2759	1-0	Wed Apr 07 2021
+Nakamura, Hikaru	2736	Firouzja, Alireza	2759	1-0	Wed Apr 07 2021
+Nakamura, Hikaru	2736	Firouzja, Alireza	2759	1-0	Wed Apr 07 2021
+Nakamura, Hikaru	2736	Firouzja, Alireza	2759	1-0	Wed Apr 07 2021
+Nakamura, Hikaru	2736	Mamedyarov, Shakhriyar	2770	1-0	Sat Apr 24 2021
+Nakamura, Hikaru	2736	Le, Quang Liem	2709	1-0	Tue Apr 27 2021
+Nakamura, Hikaru	2736	Tari, Aryan	2639	1-0	Sun Apr 25 2021
+Nakamura, Hikaru	2736	Christiansen, Johan-Sebastian	2618	1-0	Sun Apr 25 2021
+Nakamura, Hikaru	2736	Jones, Gawain C B	2670	1-0	Mon Apr 26 2021
+Nakamura, Hikaru	2736	Mamedyarov, Shakhriyar	2770	1-0	Thu Apr 29 2021
+Nakamura, Hikaru	2736	Mamedyarov, Shakhriyar	2770	1-0	Thu Apr 29 2021
+Nakamura, Hikaru	2736	Carlsen, Magnus	2847	1-0	Sun May 02 2021
+Nakamura, Hikaru	2736	Kraemer, Martin	2574	1-0	Tue May 04 2021
+Nakamura, Hikaru	2736	Quesada Perez, Yuniesky	2593	1-0	Tue May 04 2021
+Nakamura, Hikaru	2736	Yilmaz, Mustafa	2630	1-0	Tue May 04 2021
+Nakamura, Hikaru	2736	Vukovic, Zdravko	2406	1-0	Tue May 04 2021
+Nakamura, Hikaru	2736	Shimelkov, Vasiliy	2159	1-0	Tue May 04 2021
+Nakamura, Hikaru	2736	Praggnanandhaa, R	2608	1-0	Tue May 11 2021
+Nakamura, Hikaru	2736	Hess, Robert	2591	1-0	Tue May 11 2021
+Nakamura, Hikaru	2736	Pert, Richard G	2416	1-0	Tue May 11 2021
+Nakamura, Hikaru	2736	Timmermans, Mark	2385	1-0	Tue May 11 2021
+Nakamura, Hikaru	2736	Zhigalko, Sergei	2572	1-0	Tue May 18 2021
+Nakamura, Hikaru	2736	Pert, Richard G	2416	1-0	Tue May 18 2021
+Nakamura, Hikaru	2736	Timmermans, Mark	2385	1-0	Tue May 18 2021
+Nakamura, Hikaru	2736	Mamedyarov, Shakhriyar	2770	1-0	Sun May 23 2021
+Nakamura, Hikaru	2736	Pichot, Alan	2630	1-0	Mon May 24 2021
+Nakamura, Hikaru	2829	Carlsen, Magnus	2881	1-0	Wed May 26 2021
+Nakamura, Hikaru	2829	Carlsen, Magnus	2881	1-0	Wed May 26 2021
+Nakamura, Hikaru	2900	Visakh, N R	2428	1-0	Tue Jun 01 2021
+Nakamura, Hikaru	2900	Urazayev, Arystanbek	2321	1-0	Tue Jun 01 2021
+Nakamura, Hikaru	2900	Moskalenko, Alexander	2495	1-0	Tue Jun 01 2021
+Nakamura, Hikaru	2900	ValeriyGrinev	2621	1-0	Tue Jun 01 2021
+Nakamura, Hikaru	2900	Sonis, Francesco	2373	1-0	Tue Jun 01 2021
+Nakamura, Hikaru	2900	Andreikin, Dmitry	2782	1-0	2021.06.08
+Nakamura, Hikaru	2900	Svane, Frederik	2459	1-0	2021.06.08
+Nakamura, Hikaru	2900	Gavrilescu, David	2370	1-0	2021.06.08
+Nakamura, Hikaru	2900	Kamsky, Gata	2644	1-0	2021.06.08
+Nakamura, Hikaru	2900	Solon, Nathan	2619	1-0	2021.06.08
+Nakamura, Hikaru	2900	Andrews, Todd	2424	1-0	2021.06.15
+Nakamura, Hikaru	2900	Araujo Sanchez, Josue	2140	1-0	2021.06.15
+Nakamura, Hikaru	2900	Mickiewicz, Piotr	2263	1-0	2021.06.15
+Nakamura, Hikaru	2900	Rustemov, Alexander	2721	1-0	2021.06.15
+Nakamura, Hikaru	2900	Bluebaum, Matthias	2685	1-0	2021.06.15
+Nakamura, Hikaru	2900	Avila Pavas, Santiago	2244	1-0	2021.06.22
+Nakamura, Hikaru	2900	Timofeev, Artyom	2582	1-0	2021.06.22
+Nakamura, Hikaru	2900	Holt, Conrad	2586	1-0	2021.06.22
+Nakamura, Hikaru	2900	Visakh, N R	2428	1-0	2021.06.22
+Nakamura, Hikaru	2900	Andreikin, Dmitry	2782	1-0	2021.07.06
+Nakamura, Hikaru	2900	Deepan, Chakkravarthy J.	2490	1-0	2021.07.06
+Nakamura, Hikaru	2900	Jobava, Baadur	2748	1-0	2021.07.06
+Nakamura, Hikaru	2900	Garcia, Gabriel Gonzaga	2240	1-0	2021.07.06
+Nakamura, Hikaru	2900	Lodici, Lorenzo	2265	1-0	2021.07.06
+Nakamura, Hikaru	2900	Martinez Alcantara, Jose Eduardo	2690	1-0	2021.07.13
+Nakamura, Hikaru	2900	Cabarkapa, Novak	2469	1-0	2021.07.13
+Nakamura, Hikaru	2900	Zubritskiy, Artyom	2559	1-0	2021.07.13
+Nakamura, Hikaru	2900	Chigaev, Maksim	2646	1-0	2021.07.13
+Nakamura, Hikaru	3223	Vasquez Schroeder, Rodrigo	2753	1-0	2021.07.13
+Nakamura, Hikaru	2900	Manukyan, Sargis A.	2187	1-0	2021.07.13
+Nakamura, Hikaru	2900	Pichot, Alan	2622	1-0	2021.07.20
+Nakamura, Hikaru	2900	Rustemov, Alexander	2857	1-0	2021.07.20
+Nakamura, Hikaru	2900	Zubov, Alexander	2740	1-0	2021.07.20
+Nakamura, Hikaru	2900	Tin, Jingyao	2374	1-0	2021.07.20
+Nakamura, Hikaru	2900	Leve, Nitai	2144	1-0	2021.07.20
+Nakamura, Hikaru	2900	Aradhya, Garg	2146	1-0	2021.07.20
+Nakamura, Hikaru	2900	Nogerbek, Kazybek	2466	1-0	2021.07.27
+Nakamura, Hikaru	2900	Le, Tuan Minh	2450	1-0	2021.07.27
+Nakamura, Hikaru	2900	Sarana, Alexey	2646	1-0	2021.07.27
+Nakamura, Hikaru	2900	Sadhwani, Raunak	2514	1-0	2021.07.27
+Nakamura, Hikaru	2829	Mishra, Abhimanyu	2504	1-0	2021.07.31
+Nakamura, Hikaru	2829	Harikrishna, Pentala	2705	1-0	2021.07.31
+Nakamura, Hikaru	2829	Tari, Aryan	2531	1-0	2021.08.02
+Nakamura, Hikaru	2850	Erigaisi, Arjun	2745	1-0	2022.04.30
+Nakamura, Hikaru	2850	Martinez Alcantara, Jose Eduardo	2690	1-0	2022.04.30
+Nakamura, Hikaru	2850	Tabatabaei, M. Amin	2544	1-0	2022.05.14
+Nakamura, Hikaru	2850	Matlakov, Maxim	2669	1-0	2022.05.14
+Nakamura, Hikaru	2851	Demchenko, Anton	2547	1-0	2022.05.08
+Nakamura, Hikaru	2850	Vidit, Santosh Gujrathi	2654	1-0	2022.05.08
+Nakamura, Hikaru	2850	Donchenko, Alexander	2572	1-0	2022.05.07
+Nakamura, Hikaru	2850	Swiercz, Dariusz	2627	1-0	2022.05.21
+Nakamura, Hikaru	2850	Maghsoodloo, Parham	2630	1-0	2022.05.21
+Nakamura, Hikaru	2850	Andreikin, Dmitry	2736	1-0	2022.05.15
+Nakamura, Hikaru	2850	Xiong, Jeffery	2727	1-0	2022.05.15
+Nakamura, Hikaru	2850	Praggnanandhaa, R	2599	1-0	2022.05.14
+Nakamura, Hikaru	2850	Bortnyk, Olexandr	2723	1-0	2022.05.15
+Nakamura, Hikaru	2850	Andreikin, Dmitry	2736	1-0	2022.05.28
+Nakamura, Hikaru	2851	Xu, Yi	2354	1-0	2022.05.22
+Nakamura, Hikaru	2850	Andreikin, Dmitry	2736	1-0	2022.05.22
+Nakamura, Hikaru	2850	Theodorou, Nikolas	2472	1-0	2022.05.21
+Nakamura, Hikaru	2850	Le, Quang Liem	2686	1-0	2022.05.28
+Nakamura, Hikaru	2850	Kobo, Ori	2420	1-0	2022.05.28
+Nakamura, Hikaru	2850	Sanal, Vahap	2574	1-0	2022.06.04
+Nakamura, Hikaru	2850	Korchmar, Vasiliy	2370	1-0	2022.07.26
+Nakamura, Hikaru	2850	Ibarra Jerez, Jose Carlos	2628	1-0	2022.07.26
+Nakamura, Hikaru	2850	Le, Tuan Minh	2530	1-0	2022.07.26
+Nakamura, Hikaru	2850	Shimanov, Aleksandr	2605	1-0	2022.07.26
+Nakamura, Hikaru	2850	Sarana, Alexey	2666	1-0	2022.07.26
+Nakamura, Hikaru	2829	Ju, Wenjun	2610	1-0	2021.08.02
+Nakamura, Hikaru	2829	Artemiev, Vladislav	2757	1-0	2021.08.04
+Nakamura, Hikaru	2900	Artemiev, Vladislav	2783	1-0	2021.08.04
+Nakamura, Hikaru	2900	Quintiliano Pinto, Renato R.	2439	1-0	2021.08.10
+Nakamura, Hikaru	2900	Solon, Nathan	2660	1-0	2021.08.10
+Nakamura, Hikaru	2900	Lintchevski, Daniil	2494	1-0	2021.08.10
+Nakamura, Hikaru	2900	Bok, Benjamin	2658	1-0	2021.08.10
+Nakamura, Hikaru	2900	Timofeev, Artyom	2582	1-0	2021.08.10
+Nakamura, Hikaru	2829	Dominguez Perez, Leinier	2786	1-0	2021.08.13
+Nakamura, Hikaru	2829	Caruana, Fabiano	2758	1-0	2021.08.13
+Nakamura, Hikaru	2829	Svidler, Peter	2745	1-0	2021.08.11
+Nakamura, Hikaru	2900	Le, Quang Liem	2690	1-0	2021.08.15
+Nakamura, Hikaru	2900	Xiong, Jeffery	2724	1-0	2021.08.14
+Nakamura, Hikaru	2900	Caruana, Fabiano	2734	1-0	2021.08.15
+Nakamura, Hikaru	2900	Mamedyarov, Shakhriyar	2755	1-0	2021.08.15
+Nakamura, Hikaru	2900	Yoo, Christopher Woojin	2105	1-0	2021.08.17
+Nakamura, Hikaru	2900	Esipenko, Andrey	2595	1-0	2021.08.17
+Nakamura, Hikaru	2900	Bacrot, Etienne	2673	1-0	2021.08.17
+Nakamura, Hikaru	2900	AlexOstrovskiy	2848	1-0	2021.08.17
+Nakamura, Hikaru	2900	Shahaliyev, Ismayil	2105	1-0	2021.08.17
+Nakamura, Hikaru	2900	Zhigalko, Sergei	2662	1-0	2021.08.24
+Nakamura, Hikaru	2900	Zierk, Steven	2494	1-0	2021.08.24
+Nakamura, Hikaru	2900	Fedoseev, Vladimir	2756	1-0	2021.08.24
+Nakamura, Hikaru	2900	Czopor, Maciej	1999	1-0	2021.08.24
+Nakamura, Hikaru	2900	Molina, Roberto Junio Brito	2402	1-0	2021.08.24
+Nakamura, Hikaru	2884	Herrera Reyes, Jose Antonio	2361	1-0	2021.09.15
+Nakamura, Hikaru	3176	Samadov, Read	2848	1-0	2021.09.15
+Nakamura, Hikaru	3181	Zhigalko, Sergei	2956	1-0	2021.09.15
+Nakamura, Hikaru	2884	Bluebaum, Matthias	2681	1-0	2021.09.15
+Nakamura, Hikaru	2884	Drozdowski, Kacper	2507	1-0	2021.09.18
+Nakamura, Hikaru	2884	Leiva, Giuseppe	2355	1-0	2021.09.18
+Nakamura, Hikaru	2884	Rustemov, Alexander	2773	1-0	2021.09.18
+Nakamura, Hikaru	2884	Le, Tuan Minh	2450	1-0	2021.09.18
+Nakamura, Hikaru	3196	Lashkin, Jegor	2911	1-0	2021.09.21
+Nakamura, Hikaru	3202	Kozak, Adam	2799	1-0	2021.09.21
+Nakamura, Hikaru	2884	Materia, Marco	2613	1-0	2021.09.21
+Nakamura, Hikaru	2884	Svane, Rasmus	2643	1-0	2021.09.21
+Nakamura, Hikaru	3209	Tang, Andrew	2980	1-0	2021.09.28
+Nakamura, Hikaru	3200	Hjartarson, Johann	2595	1-0	2021.09.28
+Nakamura, Hikaru	2884	Pichot, Alan	2600	1-0	2021.09.28
+Nakamura, Hikaru	3206	Demidov, Mikhail	2928	1-0	2021.09.28
+Nakamura, Hikaru	2884	Pridorozhni, Aleksei	2565	1-0	2021.10.05
+Nakamura, Hikaru	2884	Hamidi, Amir Mohammad	2239	1-0	2021.10.05
+Nakamura, Hikaru	3200	Bilan, Danila	2486	1-0	2021.10.05
+Nakamura, Hikaru	2884	Timmermans, Mark	2460	1-0	2021.10.05
+Nakamura, Hikaru	3201	Stribuk, Artiom	2726	1-0	2021.10.05
+Nakamura, Hikaru	2884	Lysyj, Igor	2655	1-0	2021.10.09
+Nakamura, Hikaru	2884	Savchenko, Boris	2526	1-0	2021.10.09
+Nakamura, Hikaru	2884	Deac, Bogdan-Daniel	2605	1-0	2021.10.12
+Nakamura, Hikaru	2884	Vokhidov, Shamsiddin	2616	1-0	2021.10.12
+Nakamura, Hikaru	2884	Tabatabaei, M. Amin	2555	1-0	2021.10.12
+Nakamura, Hikaru	2884	Slizhevsky, Alexander	2380	1-0	2021.10.12
+Nakamura, Hikaru	2884	Macovei, Andrei	2389	1-0	2021.10.12
+Nakamura, Hikaru	2884	Pichot, Alan	2600	1-0	2021.10.12
+Nakamura, Hikaru	2836	Koneru, Humpy	2483	1-0	2021.10.11
+Nakamura, Hikaru	2836	Wang, Hao	2750	1-0	2021.10.14
+Nakamura, Hikaru	2884	Sjugirov, Sanan	2654	1-0	2021.10.16
+Nakamura, Hikaru	2884	Nesterov, Arseniy	2494	1-0	2021.10.16
+Nakamura, Hikaru	2884	Yaksin, Oleg	2256	1-0	2021.10.16
+Nakamura, Hikaru	2884	Guseinov, Gadir	2581	1-0	2021.10.16
+Nakamura, Hikaru	2884	Tasdogen, Dincer	1895	1-0	2021.10.16
+Nakamura, Hikaru	2884	Yilmaz, Mustafa	2518	1-0	2021.10.19
+Nakamura, Hikaru	2884	Kamsky, Gata	2603	1-0	2021.10.19
+Nakamura, Hikaru	2884	Demchenko, Anton	2583	1-0	2021.10.19
+Nakamura, Hikaru	2884	Khanin, Semen	2436	1-0	2021.10.19
+Nakamura, Hikaru	2884	Bilan, Danila	2164	1-0	2021.10.19
+Nakamura, Hikaru	2884	Abarca Gonzalez, Nicolas	2504	1-0	2021.10.26
+Nakamura, Hikaru	2884	Garriga Cazorla, Pere	2458	1-0	2021.10.26
+Nakamura, Hikaru	2884	Yeletsky, Ivan	2352	1-0	2021.10.26
+Nakamura, Hikaru	2884	Abdulov, Orkhan	2250	1-0	2021.10.26
+Nakamura, Hikaru	2884	Cunjalo, Faris	2234	1-0	2021.11.02
+Nakamura, Hikaru	2884	Timofeev, Artyom	2591	1-0	2021.11.02
+Nakamura, Hikaru	2884	Abdrlauf, Elham	2362	1-0	2021.11.02
+Nakamura, Hikaru	2884	Postny, Evgeny	2521	1-0	2021.11.02
+Nakamura, Hikaru	2884	Nguyen, Hong Nhung	1661	1-0	2021.11.02
+Nakamura, Hikaru	2884	Svidler, Peter	2709	1-0	2021.11.12
+Nakamura, Hikaru	2884	Svidler, Peter	2709	1-0	2021.11.12
+Nakamura, Hikaru	2884	Svidler, Peter	2709	1-0	2021.11.12
+Nakamura, Hikaru	2884	Svidler, Peter	2709	1-0	2021.11.12
+Nakamura, Hikaru	2884	Svidler, Peter	2709	1-0	2021.11.12
+Nakamura, Hikaru	2884	Svidler, Peter	2709	1-0	2021.11.12
+Nakamura, Hikaru	2884	Svidler, Peter	2709	1-0	2021.11.12
+Nakamura, Hikaru	2884	Svidler, Peter	2709	1-0	2021.11.12
+Nakamura, Hikaru	2884	Svidler, Peter	2709	1-0	2021.11.12
+Nakamura, Hikaru	2884	Svidler, Peter	2709	1-0	2021.11.12
+Nakamura, Hikaru	2884	Khusnutdinov, Rustam	2571	1-0	2021.11.09
+Nakamura, Hikaru	2884	Omariev, Maksim	2488	1-0	2021.11.09
+Nakamura, Hikaru	2884	Perez Gormaz, Matias	2352	1-0	2021.11.09
+Nakamura, Hikaru	2884	Arabidze, Meri	2432	1-0	2021.11.30
+Nakamura, Hikaru	2884	Samunenkov, Ihor	2348	1-0	2021.11.30
+Nakamura, Hikaru	2884	Sviridov, Valery	2454	1-0	2021.11.30
+Nakamura, Hikaru	2884	Giri, Anish	2778	1-0	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1-0	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1-0	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1-0	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1-0	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1-0	2021.12.06
+Nakamura, Hikaru	2884	Obolenskikh, Dmitry	2512	1-0	2021.12.07
+Nakamura, Hikaru	2884	Kamsky, Gata	2645	1-0	2021.12.07
+Nakamura, Hikaru	2884	Stoyanov, Tsvetan	2191	1-0	2021.12.07
+Nakamura, Hikaru	2736	Shankland, Sam	2691	0-1	Mon Feb 08 2021
+Nakamura, Hikaru	2736	Nepomniachtchi, Ian	2789	0-1	Wed Mar 17 2021
+Nakamura, Hikaru	2736	Firouzja, Alireza	2759	0-1	Wed Apr 07 2021
+Nakamura, Hikaru	2736	Firouzja, Alireza	2759	0-1	Wed Apr 07 2021
+Nakamura, Hikaru	2736	Firouzja, Alireza	2759	0-1	Wed Apr 07 2021
+Nakamura, Hikaru	2736	Firouzja, Alireza	2759	0-1	Wed Apr 07 2021
+Nakamura, Hikaru	2736	Mamedyarov, Shakhriyar	2770	0-1	Fri Apr 30 2021
+Nakamura, Hikaru	2736	Carlsen, Magnus	2847	0-1	Sat May 01 2021
+Nakamura, Hikaru	2736	Carlsen, Magnus	2847	0-1	Sun May 02 2021
+Nakamura, Hikaru	2736	Jobava, Baadur	2603	0-1	Tue May 11 2021
+Nakamura, Hikaru	2736	Pantsulaia, Levan	2553	0-1	Tue May 18 2021
+Nakamura, Hikaru	2829	Firouzja, Alireza	2703	0-1	Tue May 25 2021
+Nakamura, Hikaru	2829	Carlsen, Magnus	2881	0-1	Thu May 27 2021
+Nakamura, Hikaru	2900	Carlsen, Magnus	2886	0-1	Thu May 27 2021
+Nakamura, Hikaru	2900	Korobov, Anton	2668	0-1	2021.06.22
+Nakamura, Hikaru	2900	Grischuk, Alexander	2765	0-1	2021.07.06
+Nakamura, Hikaru	2900	Le, Tuan Minh	2450	0-1	2021.08.24
+Nakamura, Hikaru	3191	Khusnutdinov, Rustam	2906	0-1	2021.09.15
+Nakamura, Hikaru	2884	Svane, Rasmus	2643	0-1	2021.09.15
+Nakamura, Hikaru	3207	Deac, Bogdan-Daniel	2966	0-1	2021.09.21
+Nakamura, Hikaru	3205	Savchenko, Boris	2857	0-1	2021.09.28
+Nakamura, Hikaru	2884	Bortnyk, Olexandr	2723	0-1	2021.10.09
+Nakamura, Hikaru	2836	Radjabov, Teimour	2747	0-1	2021.10.12
+Nakamura, Hikaru	2884	Mamedyarov, Shakhriyar	2754	0-1	2021.10.26
+Nakamura, Hikaru	2884	Bortnyk, Olexandr	2723	1-0	2021.12.07
+Nakamura, Hikaru	2736	Duda, Jan-Krzysztof	2743	1/2-1/2	Sat Feb 06 2021
+Nakamura, Hikaru	2736	Vidit, Santosh Gujrathi	2726	1/2-1/2	Sun Feb 07 2021
+Nakamura, Hikaru	2736	Aronian, Levon	2781	1/2-1/2	Mon Feb 08 2021
+Nakamura, Hikaru	2736	Vachier-Lagrave, Maxime	2784	1/2-1/2	Mon Feb 08 2021
+Nakamura, Hikaru	2736	Anton Guijarro, David	2673	1/2-1/2	Sat Mar 13 2021
+Nakamura, Hikaru	2736	Mamedyarov, Shakhriyar	2770	1/2-1/2	Sat Mar 13 2021
+Nakamura, Hikaru	2736	Van Foreest, Jorden	2701	1/2-1/2	Mon Mar 15 2021
+Nakamura, Hikaru	2736	Nepomniachtchi, Ian	2789	1/2-1/2	Tue Mar 16 2021
+Nakamura, Hikaru	2736	Vidit, Santosh Gujrathi	2726	1/2-1/2	Sat Apr 24 2021
+Nakamura, Hikaru	2736	Le, Quang Liem	2709	1/2-1/2	Sat Apr 24 2021
+Nakamura, Hikaru	2736	Le, Quang Liem	2709	1/2-1/2	Tue Apr 27 2021
+Nakamura, Hikaru	2736	Praggnanandhaa, R	2608	1/2-1/2	Mon Apr 26 2021
+Nakamura, Hikaru	2736	Le, Quang Liem	2709	1/2-1/2	Wed Apr 28 2021
+Nakamura, Hikaru	2736	Mamedyarov, Shakhriyar	2770	1/2-1/2	Fri Apr 30 2021
+Nakamura, Hikaru	2736	Carlsen, Magnus	2847	1/2-1/2	Sat May 01 2021
+Nakamura, Hikaru	2736	dropstoneDP	2916	1/2-1/2	Tue May 11 2021
+Nakamura, Hikaru	2736	Abdusattorov, Nodirbek	2627	1/2-1/2	Tue May 18 2021
+Nakamura, Hikaru	2884	Svidler, Peter	2709	0-1	2021.11.12
+Nakamura, Hikaru	2884	Svidler, Peter	2709	0-1	2021.11.12
+Nakamura, Hikaru	2884	Svidler, Peter	2709	0-1	2021.11.12
+Nakamura, Hikaru	2884	Svidler, Peter	2709	0-1	2021.11.12
+Nakamura, Hikaru	2884	Zhigalko, Sergei	2662	0-1	2021.11.30
+Nakamura, Hikaru	2884	Giri, Anish	2778	0-1	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	0-1	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	0-1	2021.12.06
+Nakamura, Hikaru	2736	Ding, Liren	2799	1/2-1/2	Mon May 24 2021
+Nakamura, Hikaru	2736	Dubov, Daniil	2710	1/2-1/2	Mon May 24 2021
+Nakamura, Hikaru	2829	Carlsen, Magnus	2881	1/2-1/2	Thu May 27 2021
+Nakamura, Hikaru	2900	Demidov, Mikhail	2583	1/2-1/2	Tue Jun 01 2021
+Nakamura, Hikaru	2900	Popilski, Gil	2537	1/2-1/2	2021.06.15
+Nakamura, Hikaru	2900	Ozen, Bahadir	2503	1/2-1/2	2021.07.27
+Nakamura, Hikaru	2829	Koneru, Humpy	2483	1/2-1/2	2021.07.31
+Nakamura, Hikaru	2829	Van Foreest, Jorden	2543	1/2-1/2	2021.08.01
+Nakamura, Hikaru	2829	Mamedyarov, Shakhriyar	2761	1/2-1/2	2021.08.01
+Nakamura, Hikaru	2829	Artemiev, Vladislav	2757	1/2-1/2	2021.08.03
+Nakamura, Hikaru	2829	Artemiev, Vladislav	2757	1/2-1/2	2021.08.03
+Nakamura, Hikaru	2829	Artemiev, Vladislav	2757	1/2-1/2	2021.08.04
+Nakamura, Hikaru	2829	Xiong, Jeffery	2730	1/2-1/2	2021.08.12
+Nakamura, Hikaru	2900	Dominguez Perez, Leinier	2654	1/2-1/2	2021.08.14
+Nakamura, Hikaru	2900	Rapport, Richard	2776	1/2-1/2	2021.08.15
+Nakamura, Hikaru	2900	Shankland, Sam	2704	1/2-1/2	2021.08.15
+Nakamura, Hikaru	2900	Svidler, Peter	2743	1/2-1/2	2021.08.15
+Nakamura, Hikaru	2884	Najer, Evgeniy	2551	1/2-1/2	2021.09.18
+Nakamura, Hikaru	3216	Bortnyk, Olexandr	2966	1/2-1/2	2021.09.28
+Nakamura, Hikaru	2884	Le, Tuan Minh	2450	1/2-1/2	2021.10.05
+Nakamura, Hikaru	2884	Popilski, Gil	2537	1/2-1/2	2021.10.09
+Nakamura, Hikaru	2884	Rychagov, Andrey	2500	1/2-1/2	2021.10.09
+Nakamura, Hikaru	2884	Sarana, Alexey	2671	1/2-1/2	2021.10.16
+Nakamura, Hikaru	2884	Bortnyk, Olexandr	2723	1/2-1/2	2021.10.16
+Nakamura, Hikaru	2884	Deac, Bogdan-Daniel	2605	1/2-1/2	2021.10.16
+Nepomniachtchi, Ian	2789	Nakamura, Hikaru	2736	1-0	Sat Feb 06 2021
+Carlsen, Magnus	2862	Nakamura, Hikaru	2736	1-0	Sun Feb 07 2021
+Nepomniachtchi, Ian	2789	Nakamura, Hikaru	2736	1-0	Tue Mar 16 2021
+Nepomniachtchi, Ian	2789	Nakamura, Hikaru	2736	1-0	Wed Mar 17 2021
+Erigaisi, Arjun	2567	Nakamura, Hikaru	2736	1-0	Tue Apr 06 2021
+Erigaisi, Arjun	2567	Nakamura, Hikaru	2736	1-0	Tue Apr 06 2021
+Erigaisi, Arjun	2567	Nakamura, Hikaru	2736	1-0	Tue Apr 06 2021
+Firouzja, Alireza	2759	Nakamura, Hikaru	2736	1-0	Wed Apr 07 2021
+Firouzja, Alireza	2759	Nakamura, Hikaru	2736	1-0	Wed Apr 07 2021
+Nakamura, Hikaru	2884	Jobava, Baadur	2731	1/2-1/2	2021.10.19
+Nakamura, Hikaru	2884	Nesterov, Arseniy	2494	1/2-1/2	2021.10.26
+Nakamura, Hikaru	2884	Zhigalko, Sergei	2662	1/2-1/2	2021.11.02
+Nakamura, Hikaru	2884	Svidler, Peter	2709	1/2-1/2	2021.11.12
+Nakamura, Hikaru	2884	Svidler, Peter	2709	1/2-1/2	2021.11.12
+Nakamura, Hikaru	2884	Lazavik, Denis	2436	1/2-1/2	2021.11.09
+Nakamura, Hikaru	2884	Jobava, Baadur	2731	1/2-1/2	2021.11.09
+Nakamura, Hikaru	2884	Petrovskyi, Vadym	2377	1/2-1/2	2021.11.16
+Nakamura, Hikaru	2884	Awatramani, Janak	2819	1/2-1/2	2021.11.30
+Nakamura, Hikaru	2884	Giri, Anish	2778	1/2-1/2	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1/2-1/2	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1/2-1/2	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1/2-1/2	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1/2-1/2	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1/2-1/2	2021.12.06
+Nakamura, Hikaru	3147	Jobava, Baadur	2942	1/2-1/2	2021.12.07
+Firouzja, Alireza	2759	Nakamura, Hikaru	2736	1-0	Wed Apr 07 2021
+Firouzja, Alireza	2759	Nakamura, Hikaru	2736	1-0	Wed Apr 07 2021
+Firouzja, Alireza	2759	Nakamura, Hikaru	2736	1-0	Wed Apr 07 2021
+Firouzja, Alireza	2759	Nakamura, Hikaru	2736	1-0	Wed Apr 07 2021
+Mamedyarov, Shakhriyar	2770	Nakamura, Hikaru	2736	1-0	Thu Apr 29 2021
+Mamedyarov, Shakhriyar	2770	Nakamura, Hikaru	2736	1-0	Fri Apr 30 2021
+Mamedyarov, Shakhriyar	2770	Nakamura, Hikaru	2736	1-0	Fri Apr 30 2021
+Carlsen, Magnus	2847	Nakamura, Hikaru	2736	1-0	Sat May 01 2021
+Quparadze, Giga	2463	Nakamura, Hikaru	2736	1-0	Tue May 04 2021
+Holt, Conrad	2549	Nakamura, Hikaru	2736	1-0	Tue May 11 2021
+Kovalev, Vladislav	2637	Nakamura, Hikaru	2736	1-0	Tue May 18 2021
+Carlsen, Magnus	2886	Nakamura, Hikaru	2900	1-0	Thu May 27 2021
+Carlsen, Magnus	2881	Nakamura, Hikaru	2829	1-0	Wed May 26 2021
+Carlsen, Magnus	2881	Nakamura, Hikaru	2829	1-0	Wed May 26 2021
+Jones, Gawain C B	2657	Nakamura, Hikaru	2900	1-0	2021.06.15
+Indjic, Aleksandar	2643	Nakamura, Hikaru	2900	1-0	2021.06.15
+Bortnyk, Olexandr	2723	Nakamura, Hikaru	2900	1-0	2021.06.22
+Quparadze, Giga	2658	Nakamura, Hikaru	2900	1-0	2021.07.20
+Artemiev, Vladislav	2783	Nakamura, Hikaru	2900	1-0	2021.08.04
+Artemiev, Vladislav	2783	Nakamura, Hikaru	2900	1-0	2021.08.04
+Artemiev, Vladislav	2757	Nakamura, Hikaru	2829	1-0	2021.08.04
+Jobava, Baadur	2748	Nakamura, Hikaru	2900	1-0	2021.08.10
+Maghsoodloo, Parham	2601	Nakamura, Hikaru	2900	1-0	2021.08.24
+Andreikin, Dmitry	2782	Nakamura, Hikaru	2900	1-0	2021.08.24
+Warmerdam, Max	2537	Nakamura, Hikaru	2884	1-0	2021.10.05
+Bluebaum, Matthias	2670	Nakamura, Hikaru	2736	0-1	Mon Feb 08 2021
+Grandelius, Nils	2670	Nakamura, Hikaru	2736	0-1	Sat Mar 13 2021
+Erigaisi, Arjun	2567	Nakamura, Hikaru	2736	0-1	Tue Apr 06 2021
+Erigaisi, Arjun	2567	Nakamura, Hikaru	2736	0-1	Tue Apr 06 2021
+Erigaisi, Arjun	2567	Nakamura, Hikaru	2736	0-1	Tue Apr 06 2021
+Erigaisi, Arjun	2567	Nakamura, Hikaru	2736	0-1	Tue Apr 06 2021
+Erigaisi, Arjun	2567	Nakamura, Hikaru	2736	0-1	Tue Apr 06 2021
+Firouzja, Alireza	2759	Nakamura, Hikaru	2736	0-1	Wed Apr 07 2021
+Firouzja, Alireza	2759	Nakamura, Hikaru	2736	0-1	Wed Apr 07 2021
+Firouzja, Alireza	2759	Nakamura, Hikaru	2736	0-1	Wed Apr 07 2021
+Le, Quang Liem	2709	Nakamura, Hikaru	2736	0-1	Wed Apr 28 2021
+Mamedyarov, Shakhriyar	2770	Nakamura, Hikaru	2736	0-1	Thu Apr 29 2021
+Mamedyarov, Shakhriyar	2770	Nakamura, Hikaru	2736	0-1	Fri Apr 30 2021
+Iniyan, P	2506	Nakamura, Hikaru	2736	0-1	Tue May 04 2021
+Dobrov, Vladimir	2478	Nakamura, Hikaru	2736	0-1	Tue May 04 2021
+Tang, Andrew	2538	Nakamura, Hikaru	2736	0-1	Tue May 04 2021
+Papasimakopoulos, Alexandros	2251	Nakamura, Hikaru	2736	0-1	Tue May 04 2021
+Van Foreest, Jorden	2600	Nakamura, Hikaru	2884	1-0	2021.10.12
+Svidler, Peter	2709	Nakamura, Hikaru	2884	1-0	2021.11.12
+Svidler, Peter	2709	Nakamura, Hikaru	2884	1-0	2021.11.12
+Svidler, Peter	2709	Nakamura, Hikaru	2884	1-0	2021.11.12
+Grischuk, Alexander	2757	Nakamura, Hikaru	2884	1-0	2021.11.09
+Jobava, Baadur	2731	Nakamura, Hikaru	2884	1-0	2021.11.30
+Giri, Anish	2778	Nakamura, Hikaru	2884	1-0	2021.12.06
+Babazada, Khazar	2302	Nakamura, Hikaru	2884	1-0	2021.12.07
+Nakamura, Hikaru	2850	Zhu, Jiner	2281	1-0	2022.07.26
+Nakamura, Hikaru	2850	Manukian, Artak	2355	1-0	2022.07.26
+Nakamura, Hikaru	2850	Suder, Jakub	2071	1-0	2022.07.26
+Nakamura, Hikaru	2850	Lashkin, Jegor	2368	1-0	2022.07.26
+Nakamura, Hikaru	2850	Kamsky, Gata	2645	1-0	2022.07.26
+Nakamura, Hikaru	2850	Darini, Pouria	2483	1-0	2022.07.30
+Nakamura, Hikaru	2850	Kravtsiv, Martyn	2694	1-0	2022.07.30
+Nakamura, Hikaru	2850	Oparin, Grigoriy	2639	1-0	2022.08.02
+Nakamura, Hikaru	2850	Chigaev, Maksim	2438	1-0	2022.08.02
+Nakamura, Hikaru	2850	Sorkin, Igor	2401	1-0	2022.08.02
+Nakamura, Hikaru	2850	Martinez Alcantara, Jose Eduardo	2703	1-0	2022.08.02
+Nakamura, Hikaru	2850	Martinez Alcantara, Jose Eduardo	2703	1-0	2022.08.02
+Nakamura, Hikaru	2850	Toncheva, Nadya	1888	1-0	2022.08.02
+Nakamura, Hikaru	2850	Beerdsen, Thomas	2585	1-0	2022.08.02
+Nakamura, Hikaru	2850	Thorhallsson, Simon	2137	1-0	2022.08.02
+Nakamura, Hikaru	2850	Sevian, Samuel	2692	1-0	2022.08.02
+Nakamura, Hikaru	2850	Matlakov, Maxim	2669	1-0	2022.08.06
+Nakamura, Hikaru	2850	Bortnyk, Olexandr	2723	1-0	2022.08.06
+Nakamura, Hikaru	2850	Salem, A.R. Saleh	2674	1-0	2022.08.06
+Nakamura, Hikaru	2850	Sevian, Samuel	2692	1-0	2022.08.07
+Nakamura, Hikaru	3203	Seo, Jung Min	2823	1-0	2022.08.09
+Nakamura, Hikaru	3214	Bortnyk, Olexandr	3068	1-0	2022.08.09
+Nakamura, Hikaru	3207	Martinez Alcantara, Jose Eduardo	3041	1-0	2022.08.09
+Nakamura, Hikaru	2850	Pulpan, Jakub	2451	1-0	2022.08.09
+Nakamura, Hikaru	2850	Dimitrov, Atanas	2692	1-0	2022.08.09
+Kovalev, Vladislav	2637	Nakamura, Hikaru	2736	0-1	Tue May 11 2021
+Farahat, Ali	2404	Nakamura, Hikaru	2736	0-1	Tue May 11 2021
+Kazakouski, Valery	2495	Nakamura, Hikaru	2736	0-1	Tue May 11 2021
+Asis Gargatagli, Hipolito	2464	Nakamura, Hikaru	2736	0-1	Tue May 18 2021
+Golubev, Mikhail	2461	Nakamura, Hikaru	2736	0-1	Tue May 18 2021
+Fernandez, Daniel Howard	2491	Nakamura, Hikaru	2736	0-1	Tue May 18 2021
+Sanal, Vahap	2563	Nakamura, Hikaru	2736	0-1	Tue May 18 2021
+Nepomniachtchi, Ian	2792	Nakamura, Hikaru	2736	0-1	Sun May 23 2021
+Carlsen, Magnus	2881	Nakamura, Hikaru	2829	0-1	Thu May 27 2021
+Svidler, Peter	2742	Nakamura, Hikaru	2829	0-1	Tue May 25 2021
+Fedoseev, Vladimir	2756	Nakamura, Hikaru	2900	0-1	Tue Jun 01 2021
+Turzo, Attila	2475	Nakamura, Hikaru	2900	0-1	Tue Jun 01 2021
+Fier, Alexandr	2569	Nakamura, Hikaru	2900	0-1	Tue Jun 01 2021
+Zierk, Steven	2502	Nakamura, Hikaru	2900	0-1	Tue Jun 01 2021
+Tabatabaei, M.amin	2555	Nakamura, Hikaru	2900	0-1	2021.06.08
+Guo, Arthur	2825	Nakamura, Hikaru	2900	0-1	2021.06.08
+Woodward, Andy	2716	Nakamura, Hikaru	2900	0-1	2021.06.08
+Sadykov, Ramil	2300	Nakamura, Hikaru	2900	0-1	2021.06.08
+Khanin, Semen	2521	Nakamura, Hikaru	2900	0-1	2021.06.15
+Willow, Jonah B	2261	Nakamura, Hikaru	2900	0-1	2021.06.22
+Karimov, Alisher	2186	Nakamura, Hikaru	2900	0-1	2021.06.22
+Shahaliyev, Ismayil	2105	Nakamura, Hikaru	2900	0-1	2021.06.22
+Kovalev, Vladislav	2573	Nakamura, Hikaru	2900	0-1	2021.06.22
+Afanasiev, Nikita	2521	Nakamura, Hikaru	2900	0-1	2021.07.06
+Zubov, Alexander	2740	Nakamura, Hikaru	2900	0-1	2021.07.06
+Yakubboev, Nodirbek	2519	Nakamura, Hikaru	2900	0-1	2021.07.06
+Sammed_Shete	2584	Nakamura, Hikaru	2900	0-1	2021.07.06
+Gunina, Valentina	2399	Nakamura, Hikaru	2900	0-1	2021.07.06
+Mezentsev, Ivan	2295	Nakamura, Hikaru	2900	0-1	2021.07.13
+Nabaty, Tamir	2627	Nakamura, Hikaru	2900	0-1	2021.07.13
+Bortnyk, Olexandr	2723	Nakamura, Hikaru	2900	0-1	2021.07.20
+Song, Michael	2274	Nakamura, Hikaru	2900	0-1	2021.07.20
+Wagner, Dennis	2355	Nakamura, Hikaru	2900	0-1	2021.07.20
+Ulko, Jaroslav	2304	Nakamura, Hikaru	2900	0-1	2021.07.27
+Muradli, Mahammad	2482	Nakamura, Hikaru	2900	0-1	2021.07.27
+Adhiban, B.	2624	Nakamura, Hikaru	2829	0-1	2021.08.01
+Iturrizaga Bonelli, Eduardo	2647	Nakamura, Hikaru	2829	0-1	2021.08.02
+Maximov, Dmitry	2494	Nakamura, Hikaru	2900	0-1	2021.08.10
+Quispe Arteaga, Gabriel	2172	Nakamura, Hikaru	2900	0-1	2021.08.10
+Martins, Igor Carvalho Ribeiro	2499	Nakamura, Hikaru	2900	0-1	2021.08.10
+Shankland, Sam	2704	Nakamura, Hikaru	2900	0-1	2021.08.14
+Xiong, Jeffery	2724	Nakamura, Hikaru	2900	0-1	2021.08.15
+Zhigalko, Sergei	2662	Nakamura, Hikaru	2900	0-1	2021.08.17
+Sarana, Alexey	2646	Nakamura, Hikaru	2900	0-1	2021.08.17
+Wagh, Suyog	2219	Nakamura, Hikaru	2900	0-1	2021.08.17
+Holt, Conrad	2586	Nakamura, Hikaru	2900	0-1	2021.08.17
+Awatramani, Janak	2930	Nakamura, Hikaru	2900	0-1	2021.08.17
+Ljukin, Sergei	2309	Nakamura, Hikaru	2900	0-1	2021.08.17
+Nesterov, Arseniy	2477	Nakamura, Hikaru	2900	0-1	2021.08.24
+Eynullayev, Atilla	1997	Nakamura, Hikaru	2900	0-1	2021.08.24
+Srihari, L R	2121	Nakamura, Hikaru	2900	0-1	2021.08.24
+Jones, Gawain C B	2657	Nakamura, Hikaru	2884	0-1	2021.09.15
+Kamsky, Gata	2603	Nakamura, Hikaru	2884	0-1	2021.09.15
+Wagner, Dennis	2686	Nakamura, Hikaru	3175	0-1	2021.09.15
+Ekdyshman, Mikhail	2256	Nakamura, Hikaru	2884	0-1	2021.09.15
+Jobava, Baadur	2731	Nakamura, Hikaru	2884	0-1	2021.09.15
+Terry, Renato	2577	Nakamura, Hikaru	2884	0-1	2021.09.18
+Glavina, Pablo	2369	Nakamura, Hikaru	2884	0-1	2021.09.18
+Jobava, Baadur	2731	Nakamura, Hikaru	2884	0-1	2021.09.18
+Pajeken, Jakob Leon	2351	Nakamura, Hikaru	2884	0-1	2021.09.21
+Arabidze, Meri	2718	Nakamura, Hikaru	3201	0-1	2021.09.21
+Visakh, N R	2454	Nakamura, Hikaru	2884	0-1	2021.09.21
+Drozdowski, Kacper	2877	Nakamura, Hikaru	3204	0-1	2021.09.28
+Galego, Luis	2524	Nakamura, Hikaru	2884	0-1	2021.09.28
+Andreikin, Dmitry	2736	Nakamura, Hikaru	2884	0-1	2021.09.28
+Bologan, Victor	2737	Nakamura, Hikaru	3201	0-1	2021.09.28
+Siva, Mahadevan	2875	Nakamura, Hikaru	3187	0-1	2021.10.05
+Demchenko, Anton	2867	Nakamura, Hikaru	3184	0-1	2021.10.05
+Harshavardhan, G B	1825	Nakamura, Hikaru	2884	0-1	2021.10.05
+Demidov, Mikhail	2527	Nakamura, Hikaru	2884	0-1	2021.10.09
+Kamsky, Gata	2603	Nakamura, Hikaru	2884	0-1	2021.10.09
+Yakubboev, Nodirbek	2464	Nakamura, Hikaru	2884	0-1	2021.10.09
+Dordzhieva, Dinara	2216	Nakamura, Hikaru	2884	0-1	2021.10.09
+Wagner, Dennis	2355	Nakamura, Hikaru	2884	0-1	2021.10.09
+Bortnyk, Olexandr	2723	Nakamura, Hikaru	2884	0-1	2021.10.12
+Demchenko, Anton	2583	Nakamura, Hikaru	2884	0-1	2021.10.12
+Hnydiuk, Aleksander	2374	Nakamura, Hikaru	2884	0-1	2021.10.12
+Gupta, Abhijeet	2551	Nakamura, Hikaru	2836	0-1	2021.10.15
+Shimanov, Aleksandr	2570	Nakamura, Hikaru	2884	0-1	2021.10.16
+Niemann, Hans Moke	2592	Nakamura, Hikaru	2884	0-1	2021.10.16
+Sviridov, Valery	2454	Nakamura, Hikaru	2884	0-1	2021.10.16
+Kokarev, Dmitry	2581	Nakamura, Hikaru	2884	0-1	2021.10.16
+Zubov, Alexander	2685	Nakamura, Hikaru	2884	0-1	2021.10.16
+Zierk, Steven	2494	Nakamura, Hikaru	2884	0-1	2021.10.19
+Svidler, Peter	2709	Nakamura, Hikaru	2884	0-1	2021.10.19
+Tang, Andrew	2588	Nakamura, Hikaru	2884	0-1	2021.10.19
+Paltrinieri, Nicholas	2254	Nakamura, Hikaru	2884	0-1	2021.10.19
+Jobava, Baadur	2731	Nakamura, Hikaru	2884	0-1	2021.10.26
+Ambartsumova, Karina	2262	Nakamura, Hikaru	2884	0-1	2021.10.26
+Gokerkan, Cem Kaan	2382	Nakamura, Hikaru	2884	0-1	2021.10.26
+Gupta, Abhijeet	2549	Nakamura, Hikaru	2884	0-1	2021.10.26
+Demidov, Mikhail	2527	Nakamura, Hikaru	2884	0-1	2021.11.02
+Le, Tuan Minh	2450	Nakamura, Hikaru	2884	0-1	2021.11.02
+Iskusnyh, Sergei	2492	Nakamura, Hikaru	2884	0-1	2021.11.02
+Svidler, Peter	2709	Nakamura, Hikaru	2884	0-1	2021.11.12
+Svidler, Peter	2709	Nakamura, Hikaru	2884	0-1	2021.11.12
+Svidler, Peter	2709	Nakamura, Hikaru	2884	0-1	2021.11.12
+Svidler, Peter	2709	Nakamura, Hikaru	2884	0-1	2021.11.12
+Svidler, Peter	2709	Nakamura, Hikaru	2884	0-1	2021.11.12
+Svidler, Peter	2709	Nakamura, Hikaru	2884	0-1	2021.11.12
+Grischuk, Alexander	2777	Nakamura, Hikaru	2736	1/2-1/2	Sat Feb 06 2021
+Dominguez Perez, Leinier	2758	Nakamura, Hikaru	2736	1/2-1/2	Sat Feb 06 2021
+Radjabov, Teimour	2765	Nakamura, Hikaru	2736	1/2-1/2	Sun Feb 07 2021
+Dubov, Daniil	2710	Nakamura, Hikaru	2736	1/2-1/2	Sun Feb 07 2021
+Svidler, Peter	2709	Nakamura, Hikaru	2884	0-1	2021.11.12
+Svidler, Peter	2709	Nakamura, Hikaru	2884	0-1	2021.11.12
+Svidler, Peter	2709	Nakamura, Hikaru	2884	0-1	2021.11.12
+Tari, Aryan	2656	Nakamura, Hikaru	2884	0-1	2021.11.09
+Kollars, Dmitrij	2584	Nakamura, Hikaru	2884	0-1	2021.11.09
+Talcrifice	2641	Nakamura, Hikaru	2884	0-1	2021.11.09
+Pichot, Alan	2600	Nakamura, Hikaru	2884	0-1	2021.11.09
+Perez Leiva, Jerzy Jesus	2295	Nakamura, Hikaru	2884	0-1	2021.11.16
+Gusarov, Grigory	2254	Nakamura, Hikaru	2884	0-1	2021.11.30
+Seo, Jung Min	2472	Nakamura, Hikaru	2884	0-1	2021.11.30
+Pourkashiyan, Atousa	2285	Nakamura, Hikaru	2884	0-1	2021.11.30
+Nikologorskiy, Konstantin	2346	Nakamura, Hikaru	2884	0-1	2021.11.30
+Bluebaum, Matthias	2681	Nakamura, Hikaru	2884	0-1	2021.11.30
+Giri, Anish	2778	Nakamura, Hikaru	2884	0-1	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	0-1	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	0-1	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	0-1	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	0-1	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	0-1	2021.12.06
+Seul, Georg	2507	Nakamura, Hikaru	3147	0-1	2021.12.07
+Gabrielian, Artur	2440	Nakamura, Hikaru	2884	0-1	2021.12.07
+So, Wesley	2770	Nakamura, Hikaru	2736	1/2-1/2	Mon Feb 08 2021
+Nepomniachtchi, Ian	2789	Nakamura, Hikaru	2736	1/2-1/2	Sat Mar 13 2021
+Carlsen, Magnus	2847	Nakamura, Hikaru	2736	1/2-1/2	Mon Mar 15 2021
+Nepomniachtchi, Ian	2789	Nakamura, Hikaru	2736	1/2-1/2	Tue Mar 16 2021
+Nepomniachtchi, Ian	2789	Nakamura, Hikaru	2736	1/2-1/2	Wed Mar 17 2021
+Duda, Jan-Krzysztof	2729	Nakamura, Hikaru	2736	1/2-1/2	Mon Apr 26 2021
+Le, Quang Liem	2709	Nakamura, Hikaru	2736	1/2-1/2	Tue Apr 27 2021
+Le, Quang Liem	2709	Nakamura, Hikaru	2736	1/2-1/2	Tue Apr 27 2021
+Le, Quang Liem	2709	Nakamura, Hikaru	2736	1/2-1/2	Wed Apr 28 2021
+Carlsen, Magnus	2847	Nakamura, Hikaru	2736	1/2-1/2	Sun Apr 25 2021
+Aronian, Levon	2781	Nakamura, Hikaru	2736	1/2-1/2	Sun Apr 25 2021
+Mamedyarov, Shakhriyar	2770	Nakamura, Hikaru	2736	1/2-1/2	Fri Apr 30 2021
+Carlsen, Magnus	2847	Nakamura, Hikaru	2736	1/2-1/2	Sun May 02 2021
+Carlsen, Magnus	2847	Nakamura, Hikaru	2736	1/2-1/2	Sun May 02 2021
+Carlsen, Magnus	2847	Nakamura, Hikaru	2736	1/2-1/2	Sat May 01 2021
+Martirosyan, Haik M.	2620	Nakamura, Hikaru	2736	1/2-1/2	Tue May 04 2021
+Kamsky, Gata	2665	Nakamura, Hikaru	2736	1/2-1/2	Tue May 11 2021
+Aronian, Levon	2778	Nakamura, Hikaru	2829	1/2-1/2	Tue May 25 2021
+Carlsen, Magnus	2881	Nakamura, Hikaru	2829	1/2-1/2	Tue May 25 2021
+Giri, Anish	2780	Nakamura, Hikaru	2736	1/2-1/2	Mon May 24 2021
+Grischuk, Alexander	2776	Nakamura, Hikaru	2736	1/2-1/2	Mon May 24 2021
+Carlsen, Magnus	2881	Nakamura, Hikaru	2829	1/2-1/2	Thu May 27 2021
+Jobava, Baadur	2748	Nakamura, Hikaru	2900	1/2-1/2	2021.06.08
+Abdusattorov, Nodirbek	2662	Nakamura, Hikaru	2900	1/2-1/2	2021.06.08
+Gunina, Valentina	2399	Nakamura, Hikaru	2900	1/2-1/2	2021.06.15
+Demchenko, Anton	2593	Nakamura, Hikaru	2900	1/2-1/2	2021.06.22
+Howell, David W L	2643	Nakamura, Hikaru	2900	1/2-1/2	2021.07.13
+Le, Tuan Minh	2929	Nakamura, Hikaru	3229	1/2-1/2	2021.07.13
+Quparadze, Giga	2961	Nakamura, Hikaru	3228	1/2-1/2	2021.07.13
+Lazavik, Denis	2436	Nakamura, Hikaru	2900	1/2-1/2	2021.07.20
+Parkhov, Yair	2131	Nakamura, Hikaru	2900	1/2-1/2	2021.07.27
+Quparadze, Giga	2658	Nakamura, Hikaru	2900	1/2-1/2	2021.07.27
+Anton Guijarro, David	2674	Nakamura, Hikaru	2829	1/2-1/2	2021.07.31
+Firouzja, Alireza	2696	Nakamura, Hikaru	2829	1/2-1/2	2021.08.01
+Le, Quang Liem	2744	Nakamura, Hikaru	2829	1/2-1/2	2021.07.31
+Artemiev, Vladislav	2757	Nakamura, Hikaru	2829	1/2-1/2	2021.08.03
+Artemiev, Vladislav	2757	Nakamura, Hikaru	2829	1/2-1/2	2021.08.03
+Artemiev, Vladislav	2757	Nakamura, Hikaru	2829	1/2-1/2	2021.08.02
+Artemiev, Vladislav	2757	Nakamura, Hikaru	2829	1/2-1/2	2021.08.04
+Lashkin, Jegor	2293	Nakamura, Hikaru	2900	1/2-1/2	2021.08.10
+Bortnyk, Olexandr	2723	Nakamura, Hikaru	2900	1/2-1/2	2021.08.10
+Rapport, Richard	2724	Nakamura, Hikaru	2829	1/2-1/2	2021.08.11
+Mamedyarov, Shakhriyar	2756	Nakamura, Hikaru	2829	1/2-1/2	2021.08.11
+So, Wesley	2774	Nakamura, Hikaru	2829	1/2-1/2	2021.08.13
+Le, Quang Liem	2744	Nakamura, Hikaru	2829	1/2-1/2	2021.08.12
+Shankland, Sam	2609	Nakamura, Hikaru	2829	1/2-1/2	2021.08.12
+Rapport, Richard	2724	Nakamura, Hikaru	2829	1/2-1/2	2021.08.14
+Svidler, Peter	2743	Nakamura, Hikaru	2900	1/2-1/2	2021.08.14
+Caruana, Fabiano	2734	Nakamura, Hikaru	2900	1/2-1/2	2021.08.14
+Mamedyarov, Shakhriyar	2755	Nakamura, Hikaru	2900	1/2-1/2	2021.08.14
+Dominguez Perez, Leinier	2654	Nakamura, Hikaru	2900	1/2-1/2	2021.08.15
+Le, Quang Liem	2690	Nakamura, Hikaru	2900	1/2-1/2	2021.08.16
+Sjugirov, Sanan	2654	Nakamura, Hikaru	2884	1/2-1/2	2021.09.18
+Perez Ponsa, Federico	2672	Nakamura, Hikaru	2884	1/2-1/2	2021.09.28
+Babazada, Khazar	2302	Nakamura, Hikaru	2884	1/2-1/2	2021.10.05
+Giri, Anish	2767	Nakamura, Hikaru	2836	1/2-1/2	2021.10.13
+Obregon, Andres Carlos	2572	Nakamura, Hikaru	2884	1/2-1/2	2021.10.12
+Bok, Benjamin	2658	Nakamura, Hikaru	2884	1/2-1/2	2021.10.16
+Zubov, Alexander	2685	Nakamura, Hikaru	2884	1/2-1/2	2021.10.19
+Sviridov, Valery	2454	Nakamura, Hikaru	2884	1/2-1/2	2021.10.26
+Naroditsky, Daniel	2608	Nakamura, Hikaru	2884	1/2-1/2	2021.11.02
+Yeletsky, Ivan	2352	Nakamura, Hikaru	2884	1/2-1/2	2021.11.02
+Svidler, Peter	2709	Nakamura, Hikaru	2884	1/2-1/2	2021.11.12
+Svidler, Peter	2709	Nakamura, Hikaru	2884	1/2-1/2	2021.11.12
+Svidler, Peter	2709	Nakamura, Hikaru	2884	1/2-1/2	2021.11.12
+Svidler, Peter	2709	Nakamura, Hikaru	2884	1/2-1/2	2021.11.12
+Makhnev, Denis	2537	Nakamura, Hikaru	2884	1/2-1/2	2021.11.09
+Giri, Anish	2778	Nakamura, Hikaru	2884	1/2-1/2	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	1/2-1/2	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	1/2-1/2	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	1/2-1/2	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	1/2-1/2	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	1/2-1/2	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	1/2-1/2	2021.12.06
+Svane, Rasmus	2643	Nakamura, Hikaru	2884	1/2-1/2	2021.12.07
+Tan,Ju2	2511	Nakamura,Hi	2736	1/2-1/2	2020.01.06
+Nakamura,Hi	2736	Roberson,P	2435	1-0	2020.01.06
+Haydon,D	2294	Nakamura,Hi	2736	0-1	2020.01.06
+Nakamura,Hi	2736	Palliser,R	2399	1-0	2020.01.06
+Le,Quang Liem	2713	Nakamura,Hi	2736	0-1	2020.01.06
+Nakamura,Hi	2736	So,W	2765	0-1	2020.01.06
+Dominguez Perez,L	2758	Nakamura,Hi	2736	0-1	2020.01.06
+Nakamura,Hi	2736	Caruana,F	2822	0-1	2020.01.06
+Tang,Andrew	2521	Nakamura,Hi	2736	1-0	2020.01.06
+Nakamura,Hi	2736	Bruzon Batista,L	2640	1-0	2020.01.06
+Nyzhnyk,I	2662	Nakamura,Hi	2736	1/2-1/2	2020.01.06
+Nakamura,Hi	2736	Robson,R	2673	1-0	2020.01.06
+Nakamura, Hikaru	2736	Aronian, Levon	2767	1/2-1/2	Tue Dec 29 2020
+Aronian, Levon	2767	Nakamura, Hikaru	2736	1-0	Wed Dec 30 2020
+Nakamura, Hikaru	2736	Aronian, Levon	2767	0-1	Wed Dec 30 2020
+Nakamura, Hikaru	2736	Aronian, Levon	2767	1/2-1/2	Tue Dec 29 2020
+Aronian, Levon	2767	Nakamura, Hikaru	2736	1-0	Tue Dec 29 2020
+Nakamura, Hikaru	2736	Anton Guijarro, David	2681	1-0	Mon Dec 28 2020
+Carlsen, Magnus	2863	Nakamura, Hikaru	2736	1-0	Mon Dec 28 2020
+Nakamura, Hikaru	2736	Giri, Anish	2764	1-0	Mon Dec 28 2020
+Grischuk, Alexander	2777	Nakamura, Hikaru	2736	0-1	Sat Dec 26 2020
+Nakamura, Hikaru	2736	Nepomniachtchi, Ian	2784	1/2-1/2	Sat Dec 26 2020
+Nakamura, Hikaru	2736	Harikrishna, Pentala	2732	1/2-1/2	Sun Dec 27 2020
+Paravyan, David	3029	Nakamura, Hikaru	3150	1/2-1/2	2021.12.07
+Manafov, Vugar	2277	Nakamura, Hikaru	2884	1/2-1/2	2021.12.07
+Nakamura, Hikaru	0	Giri, Anish	0	1-0	Fri Nov 22 2019
+Nakamura, Hikaru	0	Harikrishna, P.	0	1-0	Tue Nov 26 2019
+Nakamura, Hikaru	0	Aronian, Levon	0	1-0	Tue Nov 26 2019
+Nakamura, Hikaru	0	Sjugirov, Sanan	0	1-0	Fri Dec 27 2019
+Nakamura, Hikaru	0	Sychev, Klementy	0	1-0	Thu Dec 26 2019
+Nakamura, Hikaru	0	Andriasian, Zaven	0	1-0	Thu Dec 26 2019
+Nakamura, Hikaru	0	Khanin, Semen	0	1-0	Thu Dec 26 2019
+Nakamura, Hikaru	0	Bosiocic, Marin	0	1-0	Sun Dec 29 2019
+Nakamura, Hikaru	0	Sarana, Alexey	0	1-0	Sun Dec 29 2019
+Nakamura, Hikaru	0	Duda, Jan-Krzysztof	0	1-0	Mon Dec 30 2019
+Nakamura, Hikaru	0	Yu, Yangyi	0	1-0	Mon Dec 30 2019
+Nakamura, Hikaru	0	Artemiev, Vladislav	0	1-0	Sun Dec 29 2019
+Nakamura, Hikaru	0	Duda, Jan-Krzysztof	0	1-0	Sat Dec 28 2019
+Nakamura, Hikaru	0	Vachier-Lagrave, Maxime	0	1-0	Mon Dec 30 2019
+Nakamura, Hikaru	0	Zubov, Alexander	0	1-0	Mon Dec 30 2019
+Nakamura,Hi	2749	Hilby,Craig	2445	1-0	2019.01.08
+Nakamura,Hi	2749	Gavrilescu,David	2479	1-0	2019.01.22
+Nakamura,Hi	2749	Preotu,Razvan	2524	1-0	2019.01.08
+Nakamura,Hi	2749	Iturrizaga,E	2637	1-0	2019.01.22
+Nakamura,Hi	2749	Svane,R	2594	1-0	2019.01.22
+Nakamura,Hi	2749	Hong,Andrew	2390	1-0	2019.01.08
+Aronian, Levon	2767	Nakamura, Hikaru	2736	1/2-1/2	Tue Dec 29 2020
+Vachier-Lagrave, Maxime	2784	Nakamura, Hikaru	2736	1/2-1/2	Sat Dec 26 2020
+Aronian, Levon	2767	Nakamura, Hikaru	2736	1/2-1/2	Sat Dec 26 2020
+Dubov, Daniil	2699	Nakamura, Hikaru	2736	1/2-1/2	Sun Dec 27 2020
+Nakamura, Hikaru	2850	Demchenko, Anton	2539	1-0	2022.08.09
+Nakamura, Hikaru	2850	Harvey, Marcus R	2485	1-0	2022.08.09
+Nakamura, Hikaru	2850	Kovalev, Vladislav	2530	1-0	2022.08.13
+Nakamura, Hikaru	2850	Bortnyk, Olexandr	2723	1-0	2022.08.13
+Nakamura, Hikaru	2850	So, Wesley	2763	1-0	2022.08.16
+Nakamura, Hikaru	2850	Babazada, Khazar	2409	1-0	2022.08.16
+Nakamura, Hikaru	2850	Ibarra Jerez, Jose Carlos	2628	1-0	2022.08.16
+Nakamura, Hikaru	2850	Averjanov, Alexey	2655	1-0	2022.08.16
+Nakamura, Hikaru	2850	Hess, Robert	2557	1-0	2022.08.16
+Nakamura, Hikaru	2850	Hansen, Eric	2568	1-0	2022.08.16
+Nakamura, Hikaru	2850	Tatarinov, Dmitry	2324	1-0	2022.08.16
+Nakamura, Hikaru	2850	Tristan, Leonardo	2404	1-0	2022.08.16
+Nakamura, Hikaru	2850	Wieczorek, Oskar	2302	1-0	2022.08.16
+Nakamura, Hikaru	2850	Paravyan, David	2569	1-0	2022.08.16
+Nakamura, Hikaru	2850	Bortnyk, Olexandr	2723	1-0	2022.08.16
+Nakamura, Hikaru	2837	Sarana, Alexey	2654	1-0	2022.08.18
+Nakamura, Hikaru	2837	Maghsoodloo, Parham	2589	1-0	2022.08.18
+Nakamura, Hikaru	2837	Nepomniachtchi, Ian	2795	1-0	2022.08.20
+Nakamura, Hikaru	2850	Gholami Orimi, Mahdi	2354	1-0	2022.08.23
+Nakamura, Hikaru	2850	Chigaev, Maksim	2487	1-0	2022.08.23
+Nakamura, Hikaru	2850	Borgaonkar, Akshay	1755	1-0	2022.08.23
+Nakamura, Hikaru	2850	Hansen, Eric	2568	1-0	2022.08.23
+Nakamura, Hikaru	2850	Howell, David W L	2559	1-0	2022.08.23
+Nakamura, Hikaru	2850	Paravyan, David	2569	1-0	2022.08.23
+Nakamura, Hikaru	2850	Caruana, Fabiano	2847	1-0	2022.08.29
+Nakamura,Hi	2749	Naroditsky,D	2616	1-0	2019.01.08
+Nakamura,Hi	2749	Corrales Jimenez,F	2559	1-0	2019.01.08
+Nakamura,Hi	2749	Duda,J	2731	1-0	2019.02.20
+Nakamura,Hi	2749	Duda,J	2731	1-0	2019.02.20
+Nakamura,Hi	2749	Duda,J	2731	1-0	2019.02.20
+Nakamura,Hi	2749	Duda,J	2731	1-0	2019.02.23
+Nakamura,Hi	2749	Duda,J	2731	1-0	2019.02.23
+Nakamura,Hi	2749	Duda,J	2731	1-0	2019.02.23
+Nakamura,Hi	2749	Duda,J	2731	1-0	2019.02.23
+Nakamura,Hi	2749	Duda,J	2731	1-0	2019.02.23
+Nakamura,Hi	2749	Duda,J	2731	1-0	2019.02.23
+Nakamura,Hi	2749	Duda,J	2731	1-0	2019.02.23
+Nakamura,Hi	2749	Adly,A	2611	1-0	2019.01.08
+Nakamura,Hi	2749	Smirnov,Ant	2569	1-0	2019.01.08
+Nakamura,Hi	2746	Sevian,Samuel	2642	1-0	2019.03.20
+Nakamura,Hi	2749	Sarana,A	2630	1-0	2019.01.08
+Nakamura,Hi	2746	Gareev,T	2557	1-0	2019.03.20
+Nakamura,Hi	2761	Vachier Lagrave,M	2780	1-0	2019.05.08
+Nakamura,Hi	2761	Ding Liren	2805	1-0	2019.05.08
+Nakamura,Hi	2761	Topalov,V	2740	1-0	2019.05.08
+Nakamura,Hi	2761	Ding Liren	2805	1-0	2019.05.11
+Nakamura,Hi	2761	So,W	2754	1-0	2019.05.11
+Nakamura,Hi	2761	Vachier Lagrave,M	2780	1-0	2019.05.11
+Nakamura,Hi	2761	Topalov,V	2740	1-0	2019.05.11
+Nakamura,Hi	2761	Nepomniachtchi,I	2773	1-0	2019.05.11
+Nakamura,Hi	2761	Radjabov,T	2759	1-0	2019.05.17
+Nakamura,Hi	2754	Mamedyarov,S	2765	1-0	2019.07.27
+Nakamura,Hi	2754	Dubov,Daniil	2700	1-0	2019.07.27
+Nakamura,Hi	2754	Grischuk,A	2766	1-0	2019.07.31
+Nakamura,Hi	2754	Vachier Lagrave,M	2775	1-0	2019.07.31
+Nakamura,Hi	2754	Mamedyarov,S	2765	1-0	2019.07.31
+Nakamura,Hi	2754	Caruana,F	2819	1-0	2019.07.31
+Nakamura,Hi	2754	Giri,A	2779	1-0	2019.07.31
+Nakamura,Hi	2754	Dubov,Daniil	2700	1-0	2019.07.31
+Nakamura,Hi	2745	Bellahcene,B	2540	1-0	2019.09.10
+Nakamura,Hi	2745	Bachmann,Ax	2629	1-0	2019.10.10
+Nakamura,Hi	2745	Dobrov,V	2478	1-0	2019.09.02
+Nakamura,Hi	2745	Dobrov,V	2478	1-0	2019.09.02
+Nakamura,Hi	2745	Dobrov,V	2478	1-0	2019.09.02
+Nakamura,Hi	2745	Dobrov,V	2478	1-0	2019.09.02
+Nakamura,Hi	2745	Dobrov,V	2478	1-0	2019.09.02
+Nakamura,Hi	2745	Dobrov,V	2478	1-0	2019.09.02
+Nakamura,Hi	2745	Dobrov,V	2478	1-0	2019.09.02
+Nakamura,Hi	2745	Dobrov,V	2478	1-0	2019.09.02
+Nakamura,Hi	2745	Dobrov,V	2478	1-0	2019.09.02
+Nakamura,Hi	2745	Dobrov,V	2478	1-0	2019.09.02
+Nakamura,Hi	2745	Dobrov,V	2478	1-0	2019.09.02
+Nakamura,Hi	2745	Dobrov,V	2478	1-0	2019.09.02
+Nakamura,Hi	2745	Dobrov,V	2478	1-0	2019.09.02
+Nakamura,Hi	2745	Dobrov,V	2478	1-0	2019.09.02
+Nakamura, Hikaru	0	Firouzja, Alireza	0	0-1	Sun Dec 29 2019
+Nakamura,Hi	2749	Duda,J	2731	0-1	2019.02.23
+Nakamura,Hi	2749	Corrales Jimenez,F	2559	0-1	2019.01.08
+Nakamura,Hi	2761	Amin,B	2704	0-1	2019.05.11
+Nakamura,Hi	2761	Carlsen,M	2861	0-1	2019.05.11
+Nakamura,Hi	2754	Caruana,F	2819	0-1	2019.07.27
+Nakamura,Hi	2754	Nepomniachtchi,I	2775	0-1	2019.07.27
+Nakamura,Hi	2745	Dobrov,V	2478	0-1	2019.09.02
+Nakamura,Hi	2745	Dobrov,V	2478	0-1	2019.09.02
+Nakamura,Hi	2745	Riazantsev,A	2645	1-0	2019.10.10
+Nakamura,Hi	2745	Melkumyan,H	2650	1-0	2019.10.10
+Nakamura,Hi	2745	Duda,J	2730	1-0	2019.09.02
+Nakamura,Hi	2745	Duda,J	2730	1-0	2019.09.02
+Nakamura,Hi	2745	Duda,J	2730	1-0	2019.09.02
+Nakamura,Hi	2745	Duda,J	2730	1-0	2019.09.02
+Nakamura,Hi	2745	Duda,J	2730	1-0	2019.09.02
+Nakamura,Hi	2745	Duda,J	2730	1-0	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1-0	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1-0	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1-0	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1-0	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1-0	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1-0	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1-0	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1-0	2019.09.02
+Nakamura, Hikaru	0	Anand, Viswanathan	0	1/2-1/2	Sat Nov 23 2019
+Nakamura, Hikaru	0	Ding, Liren	0	1/2-1/2	Sun Nov 24 2019
+Nakamura, Hikaru	0	Nepomniachtchi, Ian	0	1/2-1/2	Sun Nov 24 2019
+Nakamura, Hikaru	0	Carlsen, Magnus	0	1/2-1/2	Mon Nov 25 2019
+Nakamura, Hikaru	0	Anand, Viswanathan	0	1/2-1/2	Mon Nov 25 2019
+Nakamura, Hikaru	0	Nepomniachtchi, Ian	0	1/2-1/2	Mon Nov 25 2019
+Nakamura, Hikaru	0	Vidit, Santosh Gujrathi	0	1/2-1/2	Mon Nov 25 2019
+Nakamura, Hikaru	0	Giri, Anish	0	1/2-1/2	Tue Nov 26 2019
+Nakamura, Hikaru	0	Ding, Liren	0	1/2-1/2	Tue Nov 26 2019
+Nakamura, Hikaru	0	So, Wesley	0	1/2-1/2	Tue Nov 26 2019
+Nakamura, Hikaru	0	Gareyev, Timur	0	1/2-1/2	Sun Dec 29 2019
+Nakamura, Hikaru	0	Carlsen, Magnus	0	1/2-1/2	Sun Dec 29 2019
+Nakamura, Hikaru	0	Carlsen, Magnus	0	1/2-1/2	Sat Dec 28 2019
+Nakamura, Hikaru	0	Giri, Anish	0	1/2-1/2	Fri Dec 27 2019
+Nakamura, Hikaru	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Sat Dec 28 2019
+Nakamura,Hi	2741	Topalov,V	2736	0-1	2019.11.05
+Nakamura,Hi	2745	Duda,J	2730	0-1	2019.09.02
+Nakamura,Hi	2745	Duda,J	2730	0-1	2019.09.02
+Nakamura,Hi	2745	Duda,J	2730	0-1	2019.09.02
+Nakamura,Hi	2745	Duda,J	2730	0-1	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	0-1	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	0-1	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	0-1	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	0-1	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	0-1	2019.09.02
+Nakamura, Hikaru	0	Carlsen, Magnus	0	1/2-1/2	Mon Dec 30 2019
+Nakamura, Hikaru	0	Giri, Anish	0	1/2-1/2	Mon Dec 30 2019
+Nakamura,Hi	2749	Dreev,A	2670	1/2-1/2	2019.01.08
+Nakamura,Hi	2749	Merario Alarcon,Andres	2405	1/2-1/2	2019.01.22
+Nakamura,Hi	2749	Xiong,Jeffery	2672	1/2-1/2	2019.01.08
+Nakamura,Hi	2749	Grandelius,N	2682	1/2-1/2	2019.01.22
+Nakamura,Hi	2749	Iturrizaga,E	2637	1/2-1/2	2019.01.08
+Nakamura,Hi	2749	Movsesian,S	2629	1/2-1/2	2019.01.08
+Nakamura,Hi	2749	Salem,AR	2672	1/2-1/2	2019.01.08
+Nakamura,Hi	2749	Duda,J	2731	1/2-1/2	2019.02.20
+Nakamura,Hi	2749	Duda,J	2731	1/2-1/2	2019.02.20
+Nakamura,Hi	2749	Duda,J	2731	1/2-1/2	2019.02.20
+Nakamura,Hi	2749	Duda,J	2731	1/2-1/2	2019.02.23
+Nakamura,Hi	2749	Duda,J	2731	1/2-1/2	2019.02.23
+Nakamura,Hi	2749	Duda,J	2731	1/2-1/2	2019.02.23
+Nakamura,Hi	2749	Duda,J	2731	1/2-1/2	2019.02.23
+Nakamura,Hi	2749	Caruana,F	2828	1/2-1/2	2019.01.08
+Nakamura,Hi	2749	Le Quang Liem	2714	1/2-1/2	2019.01.08
+Nakamura,Hi	2746	So,W	2762	1/2-1/2	2019.03.20
+Nakamura,Hi	2746	Caruana,F	2828	1/2-1/2	2019.03.20
+Nakamura,Hi	2749	Brown,Michael William	2524	1/2-1/2	2019.01.08
+Nakamura,Hi	2749	Mamedyarov,S	2817	1/2-1/2	2019.01.08
+Nakamura,Hi	2746	Dominguez Perez,L	2739	1/2-1/2	2019.03.20
+Nakamura,Hi	2746	Shankland,S	2731	1/2-1/2	2019.03.20
+Nakamura,Hi	2761	Karjakin,Sergey	2752	1/2-1/2	2019.05.08
+Nakamura,Hi	2761	So,W	2754	1/2-1/2	2019.05.08
+Nakamura,Hi	2761	Wei Yi	2736	1/2-1/2	2019.05.11
+Nakamura,Hi	2761	Karjakin,Sergey	2752	1/2-1/2	2019.05.11
+Nakamura,Hi	2761	Radjabov,T	2759	1/2-1/2	2019.05.17
+Nakamura,Hi	2761	Dubov,Daniil	2690	1/2-1/2	2019.05.17
+Nakamura,Hi	2761	Grischuk,A	2772	1/2-1/2	2019.05.17
+Nakamura,Hi	2761	Dubov,Daniil	2690	1/2-1/2	2019.05.17
+Nakamura,Hi	2754	Mamedyarov,S	2774	1/2-1/2	2019.06.26
+Nakamura,Hi	2754	Nepomniachtchi,I	2775	1/2-1/2	2019.06.26
+Nakamura,Hi	2754	Aronian,L	2752	1/2-1/2	2019.06.26
+Nakamura,Hi	2754	Anand,V	2767	1/2-1/2	2019.06.26
+Nakamura,Hi	2754	Vachier Lagrave,M	2779	1/2-1/2	2019.06.26
+Nakamura,Hi	2754	Topalov,V	2740	1/2-1/2	2019.07.12
+Nakamura,Hi	2754	Topalov,V	2740	1/2-1/2	2019.07.12
+Nakamura,Hi	2754	Duda,J	2729	1/2-1/2	2019.07.27
+Nakamura,Hi	2754	Nepomniachtchi,I	2775	1/2-1/2	2019.07.31
+Nakamura,Hi	2754	Anand,V	2764	1/2-1/2	2019.07.31
+Nakamura,Hi	2754	Duda,J	2729	1/2-1/2	2019.07.31
+Nakamura,Hi	2743	Caruana,F	2818	1/2-1/2	2019.08.17
+Nakamura,Hi	2743	Ding Liren	2805	1/2-1/2	2019.08.17
+Nakamura,Hi	2743	Karjakin,Sergey	2750	1/2-1/2	2019.08.17
+Nakamura,Hi	2743	Carlsen,M	2882	1/2-1/2	2019.08.17
+Nakamura,Hi	2743	So,W	2776	1/2-1/2	2019.08.17
+Nakamura,Hi	2743	Giri,A	2779	1/2-1/2	2019.08.17
+Nakamura,Hi	2745	Nisipeanu,LD	2656	1/2-1/2	2019.09.10
+Carlsen, Magnus	0	Nakamura, Hikaru	0	1-0	Sat Nov 23 2019
+Shirov, Alexei	0	Nakamura, Hikaru	0	1-0	Thu Dec 26 2019
+Carlsen, Magnus	0	Nakamura, Hikaru	0	1-0	Mon Dec 30 2019
+Artemiev,V	2709	Nakamura,Hi	2749	1-0	2019.01.22
+Duda,J	2731	Nakamura,Hi	2749	1-0	2019.02.20
+Duda,J	2731	Nakamura,Hi	2749	1-0	2019.02.20
+Duda,J	2731	Nakamura,Hi	2749	1-0	2019.02.23
+Duda,J	2731	Nakamura,Hi	2749	1-0	2019.02.23
+Duda,J	2731	Nakamura,Hi	2749	1-0	2019.02.23
+Duda,J	2731	Nakamura,Hi	2749	1-0	2019.02.23
+Duda,J	2731	Nakamura,Hi	2749	1-0	2019.02.23
+Nakamura,Hi	2745	Bellahcene,B	2540	1/2-1/2	2019.09.10
+Nakamura,Hi	2745	Mamedov,Rau	2645	1/2-1/2	2019.10.10
+Nakamura,Hi	2745	Dobrov,V	2478	1/2-1/2	2019.09.02
+Nakamura,Hi	2745	Dobrov,V	2478	1/2-1/2	2019.09.02
+Nakamura,Hi	2745	Aronian,L	2758	1/2-1/2	2019.10.10
+Nakamura,Hi	2745	Caruana,F	2812	1/2-1/2	2019.10.10
+Nakamura,Hi	2741	Giri,A	2776	1/2-1/2	2019.11.25
+Nakamura,Hi	2745	Duda,J	2730	1/2-1/2	2019.09.02
+Nakamura,Hi	2745	Duda,J	2730	1/2-1/2	2019.09.02
+Nakamura,Hi	2745	Duda,J	2730	1/2-1/2	2019.09.02
+Nakamura,Hi	2745	Duda,J	2730	1/2-1/2	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Nakamura,Hi	2745	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Ding Liren	2813	Nakamura,Hi	2749	1-0	2019.01.08
+Naroditsky,D	2616	Nakamura,Hi	2749	1-0	2019.01.08
+Xiong,Jeffery	2672	Nakamura,Hi	2749	1-0	2019.01.08
+Amin,B	2704	Nakamura,Hi	2761	1-0	2019.05.08
+Vachier Lagrave,M	2780	Nakamura,Hi	2761	1-0	2019.05.11
+Grischuk,A	2772	Nakamura,Hi	2761	1-0	2019.05.17
+Caruana,F	2819	Nakamura,Hi	2754	1-0	2019.06.26
+Carlsen,M	2875	Nakamura,Hi	2754	1-0	2019.06.26
+So,W	2754	Nakamura,Hi	2754	1-0	2019.06.26
+Topalov,V	2740	Nakamura,Hi	2754	1-0	2019.07.12
+Grischuk,A	2766	Nakamura,Hi	2754	1-0	2019.07.27
+Caruana,F	2819	Nakamura,Hi	2754	1-0	2019.07.31
+Grischuk,A	2766	Nakamura,Hi	2754	1-0	2019.07.31
+Vachier Lagrave,M	2775	Nakamura,Hi	2754	1-0	2019.07.31
+Anand,V	2764	Nakamura,Hi	2754	1-0	2019.07.31
+Mamedyarov,S	2765	Nakamura,Hi	2754	1-0	2019.07.31
+Nepomniachtchi,I	2774	Nakamura,Hi	2743	1-0	2019.08.17
+Nisipeanu,LD	2656	Nakamura,Hi	2745	1-0	2019.09.10
+Dobrov,V	2478	Nakamura,Hi	2745	1-0	2019.09.02
+Dobrov,V	2478	Nakamura,Hi	2745	1-0	2019.09.02
+Dobrov,V	2478	Nakamura,Hi	2745	1-0	2019.09.02
+Dobrov,V	2478	Nakamura,Hi	2745	1-0	2019.09.02
+Duda,J	2730	Nakamura,Hi	2745	1-0	2019.09.02
+Duda,J	2730	Nakamura,Hi	2745	1-0	2019.09.02
+Duda,J	2730	Nakamura,Hi	2745	1-0	2019.09.02
+Harikrishna, P.	0	Nakamura, Hikaru	0	0-1	Sat Nov 23 2019
+So, Wesley	0	Nakamura, Hikaru	0	0-1	Sun Nov 24 2019
+Harikrishna, P.	0	Nakamura, Hikaru	0	0-1	Mon Nov 25 2019
+Aronian, Levon	0	Nakamura, Hikaru	0	0-1	Mon Nov 25 2019
+Nepomniachtchi, Ian	0	Nakamura, Hikaru	0	0-1	Tue Nov 26 2019
+Vidit, Santosh Gujrathi	0	Nakamura, Hikaru	0	0-1	Tue Nov 26 2019
+Ponkratov, Pavel	0	Nakamura, Hikaru	0	0-1	Sun Dec 29 2019
+Riazantsev, Alexander	0	Nakamura, Hikaru	0	0-1	Sun Dec 29 2019
+Sasikiran, Krishnan	0	Nakamura, Hikaru	0	0-1	Sun Dec 29 2019
+Perunovic, Milos	0	Nakamura, Hikaru	0	0-1	Sun Dec 29 2019
+Matlakov, Maxim	0	Nakamura, Hikaru	0	0-1	Mon Dec 30 2019
+Smirin, Ilia	0	Nakamura, Hikaru	0	0-1	Sat Dec 28 2019
+Zhigalko, Sergei	0	Nakamura, Hikaru	0	0-1	Fri Dec 27 2019
+Mamedov, Rauf	0	Nakamura, Hikaru	0	0-1	Mon Dec 30 2019
+Kiewra,K	2362	Nakamura,Hi	2749	0-1	2019.01.08
+Brown,Michael William	2524	Nakamura,Hi	2749	0-1	2019.01.08
+Seeman,T	2386	Nakamura,Hi	2749	0-1	2019.01.22
+Zhu,Jiner	2424	Nakamura,Hi	2749	0-1	2019.01.08
+Duda,J	2730	Nakamura,Hi	2745	1-0	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	1-0	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	1-0	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	1-0	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	1-0	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	1-0	2019.09.02
+Nepomniachtchi,I	2776	Nakamura,Hi	2745	1-0	2019.09.02
+Holt,C	2548	Nakamura,Hi	2749	0-1	2019.01.08
+Karthikeyan,M2	2570	Nakamura,Hi	2749	0-1	2019.01.22
+Jirasek,Ladia	2376	Nakamura,Hi	2749	0-1	2019.01.08
+Wang Hao	2714	Nakamura,Hi	2749	0-1	2019.01.08
+Shankland,S	2725	Nakamura,Hi	2749	0-1	2019.01.08
+Duda,J	2731	Nakamura,Hi	2749	0-1	2019.02.20
+Duda,J	2731	Nakamura,Hi	2749	0-1	2019.02.23
+Duda,J	2731	Nakamura,Hi	2749	0-1	2019.02.23
+Duda,J	2731	Nakamura,Hi	2749	0-1	2019.02.23
+Duda,J	2731	Nakamura,Hi	2749	0-1	2019.02.23
+Duda,J	2731	Nakamura,Hi	2749	0-1	2019.02.23
+Duda,J	2731	Nakamura,Hi	2749	0-1	2019.02.23
+Adhiban,Baskaran	2689	Nakamura,Hi	2749	0-1	2019.01.08
+Xiong,Jeffery	2663	Nakamura,Hi	2746	0-1	2019.03.20
+Akobian,V	2625	Nakamura,Hi	2746	0-1	2019.03.20
+Robson,R	2667	Nakamura,Hi	2746	0-1	2019.03.20
+Nepomniachtchi,I	2773	Nakamura,Hi	2761	0-1	2019.05.08
+Wei Yi	2736	Nakamura,Hi	2761	0-1	2019.05.11
+So,W	2754	Nakamura,Hi	2761	0-1	2019.05.11
+Dubov,Daniil	2690	Nakamura,Hi	2761	0-1	2019.05.17
+Duda,J	2729	Nakamura,Hi	2754	0-1	2019.07.31
+Dubov,Daniil	2700	Nakamura,Hi	2754	0-1	2019.07.31
+Bellahcene,B	2540	Nakamura,Hi	2745	0-1	2019.09.10
+Dobrov,V	2478	Nakamura,Hi	2745	0-1	2019.09.02
+Dobrov,V	2478	Nakamura,Hi	2745	0-1	2019.09.02
+Nakamura, Hikaru	2850	Halkias, Stelios	2453	0-1	2022.06.14
+Nakamura, Hikaru	2850	Sadhwani, Raunak	2616	0-1	2022.06.14
+Nakamura, Hikaru	2837	Aronian, Levon	2728	0-1	2022.06.12
+Nakamura, Hikaru	2850	Xiong, Jeffery	2727	0-1	2022.02.26
+Nakamura, Hikaru	2837	Abdusattorov, Nodirbek	2670	0-1	2022.04.03
+Nakamura, Hikaru	2850	Demchenko, Anton	2539	0-1	2022.04.02
+Nakamura, Hikaru	2837	Esipenko, Andrey	2679	0-1	2022.04.24
+Nakamura, Hikaru	2850	Aronian, Levon	2850	1-0	2022.08.29
+Nakamura, Hikaru	2850	Shankland, Sam	2645	1-0	2022.08.29
+Nakamura, Hikaru	2850	Vachier-Lagrave, Maxime	2812	1-0	2022.08.29
+Nakamura, Hikaru	2850	Dominguez Perez, Leinier	2708	1-0	2022.08.30
+Nakamura, Hikaru	2850	Xiong, Jeffery	2714	1-0	2022.08.30
+Nakamura, Hikaru	2789	Vasquez Schroeder, Rodrigo	2603	1-0	2022.09.19
+Nakamura, Hikaru	3246	Adewumi, Tanitoluwa	2545	1-0	2022.09.20
+Nakamura, Hikaru	2850	Vasquez Schroeder, Rodrigo	2577	1-0	2022.09.20
+Nakamura, Hikaru	2850	Pakleza, Zbigniew	2411	1-0	2022.09.20
+Nakamura, Hikaru	2789	Navara, David	2659	1-0	2022.09.24
+Nakamura, Hikaru	2850	Abdisalimov, Abdimalik	2401	1-0	2022.09.27
+Nakamura, Hikaru	2850	Perez Gormaz, Matias	2341	1-0	2022.09.27
+Nakamura, Hikaru	2850	Hafiz, Arif Abdul	2198	1-0	2022.09.27
+Nakamura, Hikaru	2850	Wojtaszek, Radoslaw	2606	1-0	2022.09.27
+Nakamura, Hikaru	2850	Cruz Mendez, Jean Marco	2064	1-0	2022.09.27
+Nakamura, Hikaru	2850	Beerdsen, Thomas	2567	1-0	2022.09.27
+Nakamura, Hikaru	2850	Atanasov, Anthony	1933	1-0	2022.09.27
+Nakamura, Hikaru	2850	Bortnyk, Mykola	2582	1-0	2022.09.27
+Nakamura, Hikaru	2850	Sarana, Alexey	2666	1/2-1/2	2022.06.14
+Nakamura, Hikaru	2850	Dardha, Daniel	2482	1/2-1/2	2022.06.14
+Nakamura, Hikaru	2850	Bernadskiy, Vitaliy	2473	1/2-1/2	2022.06.14
+Nakamura, Hikaru	2760	Nepomniachtchi, Ian	2766	1/2-1/2	2022.06.22
+Nakamura, Hikaru	2760	Ding, Liren	2806	1/2-1/2	2022.06.23
+Nakamura, Hikaru	2850	Fedoseev, Vladimir	2726	1/2-1/2	2022.06.28
+Nakamura, Hikaru	2850	Fedoseev, Vladimir	2726	1/2-1/2	2022.07.09
+Nakamura, Hikaru	2850	So, Wesley	2763	1/2-1/2	2022.07.10
+Nakamura, Hikaru	2850	Paravyan, David	2569	1/2-1/2	2022.02.19
+Nakamura, Hikaru	2823	Anton Guijarro, David	2633	1/2-1/2	2022.02.20
+Nakamura, Hikaru	2823	Aronian, Levon	2719	1/2-1/2	2022.03.06
+Nakamura, Hikaru	2837	Grischuk, Alexander	2759	0-1	2022.04.17
+Nakamura, Hikaru	2850	Paravyan, David	2569	0-1	2022.05.21
+Nakamura, Hikaru	2850	Moussard, Jules	2589	0-1	2022.06.05
+Nakamura, Hikaru	2850	Fedoseev, Vladimir	2726	0-1	2022.07.30
+Nakamura, Hikaru	2850	Kovalev, Vladislav	2530	0-1	2022.07.30
+Nakamura, Hikaru	2850	Niemann, Hans Moke	2632	0-1	2022.08.07
+Nakamura, Hikaru	2850	Kamsky, Gata	2666	0-1	2022.08.09
+Nakamura, Hikaru	2850	Andreikin, Dmitry	2736	0-1	2022.08.09
+Nakamura, Hikaru	2850	Bortnyk, Olexandr	2723	0-1	2022.08.09
+Nakamura, Hikaru	2850	Salem, A.R. Saleh	2674	0-1	2022.08.23
+Nakamura, Hikaru	2837	Firouzja, Alireza	2704	0-1	2022.08.26
+Nakamura, Hikaru	2837	Shankland, Sam	2616	0-1	2022.08.28
+Nakamura, Hikaru	2837	Caruana, Fabiano	2766	0-1	2022.08.28
+Nakamura, Hikaru	2850	Firouzja, Alireza	2795	0-1	2022.08.30
+Nakamura, Hikaru	2837	Caruana, Fabiano	2784	1/2-1/2	2022.03.13
+Nakamura, Hikaru	2837	Vachier-Lagrave, Maxime	2743	1/2-1/2	2022.03.13
+Nakamura, Hikaru	2850	Dubov, Daniil	2791	1/2-1/2	2022.03.12
+Nakamura, Hikaru	2850	So, Wesley	2814	1/2-1/2	2022.04.09
+Nakamura, Hikaru	2850	Grischuk, Alexander	2762	1/2-1/2	2022.04.09
+Nakamura, Hikaru	2850	Niemann, Hans Moke	2632	1/2-1/2	2022.04.02
+Nakamura, Hikaru	2850	Abdusattorov, Nodirbek	2663	1/2-1/2	2022.04.30
+Nakamura, Hikaru	2850	Fedoseev, Vladimir	2726	1/2-1/2	2022.04.23
+Nakamura, Hikaru	2850	Vidit, Santosh Gujrathi	2654	1/2-1/2	2022.04.23
+Nakamura, Hikaru	2850	Abdusattorov, Nodirbek	2663	1/2-1/2	2022.05.07
+Nakamura, Hikaru	2850	Vidit, Santosh Gujrathi	2654	1/2-1/2	2022.04.30
+Nakamura, Hikaru	2837	Abdusattorov, Nodirbek	2670	1/2-1/2	2022.05.01
+Nakamura, Hikaru	2850	Xiong, Jeffery	2727	1/2-1/2	2022.05.14
+Nakamura, Hikaru	2851	Vidit, Santosh Gujrathi	2617	1/2-1/2	2022.05.08
+Nakamura, Hikaru	2851	Bortnyk, Olexandr	2643	1/2-1/2	2022.05.15
+Nakamura, Hikaru	2850	Santos Ruiz, Miguel	2486	1/2-1/2	2022.05.28
+Nakamura, Hikaru	2850	Dubov, Daniil	2791	1/2-1/2	2022.05.28
+Nakamura, Hikaru	2850	Matlakov, Maxim	2669	1/2-1/2	2022.06.04
+Nakamura, Hikaru	2850	Sadhwani, Raunak	2616	1/2-1/2	2022.06.04
+Nakamura, Hikaru	2851	Grischuk, Alexander	2759	1/2-1/2	2022.05.29
+Nakamura, Hikaru	2850	Sadhwani, Raunak	2616	1/2-1/2	2022.06.11
+Nakamura, Hikaru	2850	Sarana, Alexey	2666	1/2-1/2	2022.06.04
+Nakamura, Hikaru	2850	Salem, A.R. Saleh	2679	1/2-1/2	2022.07.26
+Nakamura, Hikaru	2850	Yoo, Christopher Woojin	2105	1/2-1/2	2022.07.30
+Nakamura, Hikaru	2850	Andreikin, Dmitry	2736	1/2-1/2	2022.08.02
+Andreikin, Dmitry	2736	Nakamura, Hikaru	2850	1-0	2022.06.14
+Caruana, Fabiano	2783	Nakamura, Hikaru	2760	1-0	2022.06.17
+Radjabov, Teimour	2753	Nakamura, Hikaru	2760	1-0	2022.06.27
+Bortnyk, Olexandr	2723	Nakamura, Hikaru	2850	1-0	2022.07.09
+Nakamura, Hikaru	2850	Kevlishvili, Robby	2577	1/2-1/2	2022.08.02
+Nakamura, Hikaru	2850	Fedoseev, Vladimir	2726	1/2-1/2	2022.08.02
+Nakamura, Hikaru	2850	Chigaev, Maksim	2487	1/2-1/2	2022.08.06
+Nakamura, Hikaru	2850	Sarana, Alexey	2666	1/2-1/2	2022.08.06
+Nakamura, Hikaru	2850	Nepomniachtchi, Ian	2791	1/2-1/2	2022.08.13
+Nakamura, Hikaru	2850	Sevian, Samuel	2692	1/2-1/2	2022.08.13
+Nakamura, Hikaru	2850	Grischuk, Alexander	2762	1/2-1/2	2022.08.13
+Nakamura, Hikaru	2850	Bok, Benjamin	2658	1/2-1/2	2022.08.14
+Nakamura, Hikaru	2850	Salem, A.R. Saleh	2674	1/2-1/2	2022.08.16
+Nakamura, Hikaru	2837	So, Wesley	2784	1/2-1/2	2022.08.19
+Nakamura, Hikaru	2837	Andreikin, Dmitry	2675	1/2-1/2	2022.08.21
+Nakamura, Hikaru	2850	Maksimovic, Bojan	2447	1/2-1/2	2022.08.23
+Nakamura, Hikaru	2837	Vachier-Lagrave, Maxime	2763	1/2-1/2	2022.08.27
+Nakamura, Hikaru	2850	Nepomniachtchi, Ian	2791	1/2-1/2	2022.08.29
+Nakamura, Hikaru	2850	Mamedyarov, Shakhriyar	2710	1/2-1/2	2022.08.30
+Nakamura, Hikaru	2789	Vasquez Schroeder, Rodrigo	2603	1/2-1/2	2022.09.19
+Nakamura, Hikaru	2850	Donchenko, Alexander	2572	1/2-1/2	2022.09.20
+Nakamura, Hikaru	2789	Navara, David	2659	1/2-1/2	2022.09.24
+Nakamura, Hikaru	2850	Andreikin, Dmitry	2736	1/2-1/2	2022.09.27
+Nakamura, Hikaru	2850	Naroditsky, Daniel	2628	1/2-1/2	2022.09.27
+Nakamura, Hikaru	2850	Carlsen, Magnus	2830	1/2-1/2	2022.09.27
+Caruana, Fabiano	2784	Nakamura, Hikaru	2823	1-0	2022.02.27
+Dubov, Daniil	2791	Nakamura, Hikaru	2850	1-0	2022.02.26
+Caruana, Fabiano	2744	Nakamura, Hikaru	2850	1-0	2022.02.20
+Aronian, Levon	2773	Nakamura, Hikaru	2850	1-0	2022.03.06
+Grischuk, Alexander	2762	Nakamura, Hikaru	2850	1-0	2022.04.02
+Sevian, Samuel	2698	Nakamura, Hikaru	2850	1-0	2022.05.07
+Abdusattorov, Nodirbek	2663	Nakamura, Hikaru	2850	1-0	2022.05.01
+Andreikin, Dmitry	2736	Nakamura, Hikaru	2850	1-0	2022.05.14
+Grischuk, Alexander	2762	Nakamura, Hikaru	2850	1-0	2022.05.29
+Fedoseev, Vladimir	2726	Nakamura, Hikaru	2850	1-0	2022.06.04
+Vasquez Schroeder, Rodrigo	2567	Nakamura, Hikaru	2850	1-0	2022.07.26
+Weetik, Vjacheslav	2469	Nakamura, Hikaru	2850	1-0	2022.07.26
+Fedoseev, Vladimir	2726	Nakamura, Hikaru	2850	1-0	2022.08.02
+Bortnyk, Olexandr	2723	Nakamura, Hikaru	2850	1-0	2022.08.02
+Rasulov, Vugar	2509	Nakamura, Hikaru	2850	1-0	2022.08.06
+Salem, A.R. Saleh	2674	Nakamura, Hikaru	2850	1-0	2022.08.09
+So, Wesley	2784	Nakamura, Hikaru	2837	1-0	2022.08.14
+Nepomniachtchi, Ian	2795	Nakamura, Hikaru	2837	1-0	2022.08.20
+Nepomniachtchi, Ian	2791	Nakamura, Hikaru	2850	1-0	2022.08.20
+Andreikin, Dmitry	2675	Nakamura, Hikaru	2837	1-0	2022.08.21
+Le, Tuan Minh	2530	Nakamura, Hikaru	2850	1-0	2022.08.23
+Xiong, Jeffery	2714	Nakamura, Hikaru	2850	1-0	2022.08.23
+Dominguez Perez, Leinier	2705	Nakamura, Hikaru	2837	1-0	2022.08.26
+Aronian, Levon	2850	Nakamura, Hikaru	2850	1-0	2022.08.30
+Lenderman, Aleksandr	2946	Nakamura, Hikaru	3238	1-0	2022.09.20
+Nakamura, Hikaru	2850	Begmuratov, Khumoyun	1982	1-0	2022.06.14
+Nakamura, Hikaru	2850	Maximov, Dmitry	2494	1-0	2022.06.14
+Nakamura, Hikaru	2850	Rosen, Eric	2362	1-0	2022.06.14
+Nakamura, Hikaru	2850	Swiercz, Dariusz	2627	1-0	2022.06.14
+Nakamura, Hikaru	2850	Xiong, Jeffery	2714	1-0	2022.06.14
+Nakamura, Hikaru	2760	Radjabov, Teimour	2753	1-0	2022.06.18
+Nakamura, Hikaru	2760	Caruana, Fabiano	2783	1-0	2022.06.26
+Nakamura, Hikaru	3155	Vachier-Lagrave, Maxime	3021	1-0	2022.06.28
+Nakamura, Hikaru	2850	Yaksin, Oleg	2256	1-0	2022.06.28
+Nakamura, Hikaru	3148	Warmerdam, Max	2867	1-0	2022.06.28
+Nakamura, Hikaru	2850	Popilski, Gil	2537	1-0	2022.06.28
+Nakamura, Hikaru	2850	Xiong, Jeffery	2714	1-0	2022.06.11
+Nakamura, Hikaru	2850	Bortnyk, Olexandr	2723	1-0	2022.06.11
+Nakamura, Hikaru	2850	Fedoseev, Vladimir	2726	1-0	2022.07.10
+Nakamura, Hikaru	2850	Sychev, Klementy	2564	1-0	2022.07.09
+Nakamura, Hikaru	2850	Kovalev, Vladislav	2530	1-0	2022.07.09
+Nakamura, Hikaru	2850	Paravyan, David	2569	1-0	2022.07.09
+Nakamura, Hikaru	2850	Dreev, Aleksey	2636	1-0	2022.02.19
+Nakamura, Hikaru	2850	Fedoseev, Vladimir	2726	1-0	2022.02.19
+Nakamura, Hikaru	2823	Le, Quang Liem	2660	1-0	2022.02.27
+Nakamura, Hikaru	2850	Maghsoodloo, Parham	2630	1-0	2022.03.05
+Nakamura, Hikaru	2850	Vidit, Santosh Gujrathi	2654	1-0	2022.02.26
+Nakamura, Hikaru	2850	So, Wesley	2814	1-0	2022.02.26
+Nakamura, Hikaru	2850	Abdusattorov, Nodirbek	2663	1-0	2022.02.26
+Nakamura, Hikaru	2823	Paravyan, David	2636	1-0	2022.02.20

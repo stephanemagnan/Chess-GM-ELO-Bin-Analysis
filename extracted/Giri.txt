@@ -1,0 +1,1251 @@
+White	White ELO	Black	Black ELO	Result	Date
+Giri, Anish	2761	Radjabov, Teimour	2753	1-0	2022.06.05
+Giri, Anish	2761	Tari, Aryan	2663	1-0	2022.06.09
+Giri, Anish	2761	Topalov, Veselin	2730	1-0	2022.05.31
+Giri, Anish	2721	Radjabov, Teimour	2747	1-0	2022.07.11
+Giri, Anish	2721	Wojtaszek, Radoslaw	2636	1-0	2022.07.11
+Giri, Anish	2766	Movsesian, Sergei	2584	1-0	2022.04.02
+Giri, Anish	2766	Bortnyk, Olexandr	2723	1-0	2022.04.02
+Giri, Anish	2766	Dreev, Aleksey	2625	1-0	2022.04.02
+Giri, Anish	2766	Hess, Robert	2557	1-0	2022.04.16
+Giri, Anish	2766	Vidit, Santosh Gujrathi	2654	1-0	2022.04.16
+Giri, Anish	2766	Erigaisi, Arjun	2745	1-0	2022.04.30
+Giri, Anish	2766	Bluebaum, Matthias	2556	1-0	2022.05.07
+Giri, Anish	2766	Kamsky, Gata	2645	1-0	2022.05.07
+Giri, Anish	2766	Niemann, Hans Moke	2632	1-0	2022.04.30
+Giri, Anish	2766	Sadhwani, Raunak	2616	1-0	2022.05.14
+Giri, Anish	2766	Dreev, Aleksey	2636	1-0	2022.02.12
+Giri, Anish	2721	Niemann, Hans Moke	2529	1-0	2022.07.13
+Giri, Anish	2721	Tari, Aryan	2531	1-0	2022.07.15
+Giri, Anish	2760	Hansen, Eric	2606	1-0	2022.08.02
+Giri, Anish	2760	Jobava, Baadur	2585	1-0	2022.08.03
+Giri, Anish	2760	Erdos, Viktor	2589	1-0	2022.08.06
+Giri, Anish	2721	Niemann, Hans Moke	2529	1-0	2022.08.18
+Giri, Anish	2721	Aronian, Levon	2728	1-0	2022.08.19
+Giri, Anish	2721	Ju, Wenjun	2600	1-0	2022.09.15
+Giri, Anish	2721	Adhiban, B.	2538	1-0	2022.09.18
+Giri, Anish	2766	Anand, Viswanathan	2728	1/2-1/2	2022.06.06
+Giri, Anish	2761	Anand, Viswanathan	2751	1/2-1/2	2022.06.06
+Giri, Anish	2761	Topalov, Veselin	2730	1/2-1/2	2022.05.31
+Giri, Anish	2766	So, Wesley	2814	1/2-1/2	2022.06.02
+Giri, Anish	2761	So, Wesley	2766	1/2-1/2	2022.06.02
+Anish Giri	0	Lars Vistisen	0	0-1	2022.06.19
+Giri, Anish	2721	Xiong, Jeffery	2725	0-1	2022.07.10
+Giri, Anish	2721	Sevian, Samuel	2569	1/2-1/2	2022.07.10
+Giri, Anish	2766	Maghsoodloo, Parham	2630	0-1	2022.04.02
+Giri, Anish	2766	Andreikin, Dmitry	2736	1/2-1/2	2022.04.16
+Giri, Anish	2766	Paravyan, David	2569	1/2-1/2	2022.04.16
+Giri, Anish	2766	Nakamura, Hikaru	2850	1/2-1/2	2022.04.30
+Giri, Anish	2766	Xiong, Jeffery	2727	0-1	2022.05.14
+Giri, Anish	2730	Maghsoodloo, Parham	2634	0-1	2022.05.08
+Giri, Anish	2721	Duda, Jan-Krzysztof	2808	0-1	2022.07.14
+Giri, Anish	2721	Carlsen, Magnus	2834	0-1	2022.08.15
+Giri, Anish	2721	Praggnanandhaa, R	1927	0-1	2022.08.16
+Giri, Anish	2721	Niemann, Hans Moke	2529	0-1	2022.08.18
+Giri, Anish	2721	Le, Quang Liem	2661	0-1	2022.08.20
+Giri, Anish	2721	Duda, Jan-Krzysztof	2808	0-1	2022.08.21
+Giri, Anish	2721	Navara, David	2659	1-0	2022.09.19
+Giri, Anish	2721	Niemann, Hans Moke	2529	1-0	2022.09.20
+Giri, Anish	2721	Aronian, Levon	2720	0-1	2022.09.20
+Giri, Anish	2721	Sadhwani, Raunak	2533	1-0	2022.09.24
+Giri, Anish	2721	Sadhwani, Raunak	2533	1-0	2022.09.24
+Giri, Anish	2766	Sevian, Samuel	2698	1/2-1/2	2022.05.07
+Giri, Anish	2766	Oparin, Grigoriy	2665	1/2-1/2	2022.04.30
+Giri, Anish	2766	Ponkratov, Pavel	2487	1/2-1/2	2022.05.14
+Giri, Anish	2766	Azarov, Sergei	2494	1/2-1/2	2022.05.14
+Giri, Anish	2744	Nepomniachtchi, Ian	2821	1/2-1/2	2022.02.13
+Giri, Anish	2744	Kovalev, Vladislav	2505	1/2-1/2	2022.02.13
+Giri, Anish	2744	Caruana, Fabiano	2784	1/2-1/2	2022.02.13
+Giri, Anish	2766	So, Wesley	2814	1/2-1/2	2022.02.12
+Giri, Anish	2766	Caruana, Fabiano	2744	1/2-1/2	2022.02.12
+Giri, Anish	2766	Paravyan, David	2569	1/2-1/2	2022.02.12
+Giri, Anish	2721	Erigaisi, Arjun	2450	1/2-1/2	2022.07.13
+Giri, Anish	2721	Wei, Yi	2752	1/2-1/2	2022.07.12
+Giri, Anish	2721	Duda, Jan-Krzysztof	2808	1/2-1/2	2022.07.12
+Giri, Anish	2721	Duda, Jan-Krzysztof	2808	1/2-1/2	2022.07.14
+Giri, Anish	2760	Maghsoodloo, Parham	2701	1/2-1/2	2022.08.07
+Giri, Anish	2721	Carlsen, Magnus	2834	1/2-1/2	2022.08.15
+Giri, Anish	2721	Praggnanandhaa, R	1927	1/2-1/2	2022.08.16
+Giri, Anish	2721	Firouzja, Alireza	2704	1/2-1/2	2022.08.17
+Giri, Anish	2721	Firouzja, Alireza	2704	1/2-1/2	2022.08.17
+Giri, Anish	2721	Firouzja, Alireza	2704	1/2-1/2	2022.08.17
+Giri, Anish	2721	Le, Quang Liem	2661	1/2-1/2	2022.08.20
+Giri, Anish	2721	Ju, Wenjun	2600	1/2-1/2	2022.09.15
+Giri, Anish	2721	Carlsen, Magnus	2834	1/2-1/2	2022.09.18
+Giri, Anish	2721	Le, Quang Liem	2661	1/2-1/2	2022.09.19
+Giri, Anish	2721	Praggnanandhaa, R	1927	1/2-1/2	2022.09.21
+Carlsen, Magnus	2864	Giri, Anish	2761	1-0	2022.06.03
+Mamedyarov, Shakhriyar	2751	Giri, Anish	2761	1-0	2022.06.07
+Bart Konijn	0	Anish Giri	0	0-1	2022.06.18
+Tarun Kanyamarala	0	Anish Giri	0	0-1	2022.06.18
+David Pardo Simon	0	Anish Giri	0	0-1	2022.06.19
+Loek Van Wely	0	Anish Giri	0	0-1	2022.06.19
+Shankland, Sam	2616	Giri, Anish	2721	0-1	2022.07.11
+Xiong, Jeffery	2727	Giri, Anish	2766	1-0	2022.04.02
+Kovalev, Vladislav	2530	Giri, Anish	2766	0-1	2022.04.02
+Bluebaum, Matthias	2550	Giri, Anish	2766	1-0	2022.04.16
+Grandelius, Nils	2617	Giri, Anish	2766	1-0	2022.04.16
+Tari, Aryan	2567	Giri, Anish	2766	0-1	2022.04.16
+Fedoseev, Vladimir	2726	Giri, Anish	2766	0-1	2022.04.16
+Nakamura, Hikaru	2850	Giri, Anish	2766	1-0	2022.05.07
+Nepomniachtchi, Ian	2821	Giri, Anish	2730	1-0	2022.05.01
+Abdusattorov, Nodirbek	2663	Giri, Anish	2766	1-0	2022.04.30
+Tabatabaei, M. Amin	2544	Giri, Anish	2766	1-0	2022.05.14
+Nepomniachtchi, Ian	2740	Giri, Anish	2766	1-0	2022.02.13
+Carlsen, Magnus	2834	Giri, Anish	2721	1-0	2022.08.15
+Firouzja, Alireza	2704	Giri, Anish	2721	1-0	2022.08.17
+Le, Quang Liem	2661	Giri, Anish	2721	1-0	2022.08.20
+Duda, Jan-Krzysztof	2808	Giri, Anish	2721	1-0	2022.08.21
+Ivanchuk, Vasyl	2686	Giri, Anish	2721	1-0	2022.09.18
+Duda, Jan-Krzysztof	2808	Giri, Anish	2721	1-0	2022.09.19
+Yoo, Christopher Woojin	1861	Giri, Anish	2721	1-0	2022.09.20
+Wang, Hao	2744	Giri, Anish	2761	1/2-1/2	2022.06.01
+Wang, Hao	2712	Giri, Anish	2766	1/2-1/2	2022.06.01
+Tari, Aryan	2531	Giri, Anish	2721	1/2-1/2	2022.07.10
+Rapport, Richard	2802	Giri, Anish	2721	1/2-1/2	2022.07.11
+Aronian, Levon	2728	Giri, Anish	2721	1/2-1/2	2022.07.10
+Sarana, Alexey	2666	Giri, Anish	2766	1/2-1/2	2022.04.02
+Demchenko, Anton	2539	Giri, Anish	2766	1/2-1/2	2022.04.02
+Kovalenko, Igor	2560	Giri, Anish	2766	0-1	2022.04.30
+Fedoseev, Vladimir	2726	Giri, Anish	2766	0-1	2022.05.07
+Abdusattorov, Nodirbek	2663	Giri, Anish	2766	0-1	2022.05.07
+Predke, Alexandr	2614	Giri, Anish	2766	0-1	2022.05.14
+Oparin, Grigoriy	2665	Giri, Anish	2766	0-1	2022.05.07
+Hovhannisyan, Robert	2570	Giri, Anish	2766	0-1	2022.05.14
+Caruana, Fabiano	2744	Giri, Anish	2766	0-1	2022.02.13
+Kovalev, Vladislav	2530	Giri, Anish	2766	0-1	2022.02.13
+Ivanchuk, Vasyl	2710	Giri, Anish	2766	0-1	2022.02.12
+Martinez Alcantara, Jose Eduardo	2690	Giri, Anish	2766	0-1	2022.02.12
+Nepomniachtchi, Ian	2740	Giri, Anish	2766	0-1	2022.02.12
+Ju, Wenjun	2610	Giri, Anish	2721	0-1	2022.07.13
+Grandelius, Nils	2655	Giri, Anish	2760	0-1	2022.07.31
+Niemann, Hans Moke	2529	Giri, Anish	2721	0-1	2022.08.18
+Aronian, Levon	2728	Giri, Anish	2721	0-1	2022.08.19
+Wojtaszek, Radoslaw	2636	Giri, Anish	2721	0-1	2022.09.20
+Erigaisi, Arjun	2450	Giri, Anish	2721	0-1	2022.09.21
+Sadhwani, Raunak	2533	Giri, Anish	2721	0-1	2022.09.24
+Matlakov, Maxim	2669	Giri, Anish	2766	1/2-1/2	2022.04.02
+Vidit, Santosh Gujrathi	2654	Giri, Anish	2766	1/2-1/2	2022.05.07
+Le, Quang Liem	2686	Giri, Anish	2766	1/2-1/2	2022.04.30
+Kovalev, Vladislav	2530	Giri, Anish	2766	1/2-1/2	2022.04.30
+Matlakov, Maxim	2669	Giri, Anish	2766	1/2-1/2	2022.05.14
+Matlakov, Maxim	2661	Giri, Anish	2766	1/2-1/2	2022.02.12
+Mamedyarov, Shakhriyar	2699	Giri, Anish	2721	1/2-1/2	2022.07.12
+Dominguez Perez, Leinier	2726	Giri, Anish	2721	1/2-1/2	2022.07.12
+Duda, Jan-Krzysztof	2808	Giri, Anish	2721	1/2-1/2	2022.07.14
+Duda, Jan-Krzysztof	2808	Giri, Anish	2721	1/2-1/2	2022.07.14
+Boruchovsky, Avital	2551	Giri, Anish	2760	1/2-1/2	2022.08.01
+Moussard, Jules	2670	Giri, Anish	2760	1/2-1/2	2022.08.05
+Indjic, Aleksandar	2613	Giri, Anish	2760	1/2-1/2	2022.08.08
+Abdusattorov, Nodirbek	2677	Giri, Anish	2760	1/2-1/2	2022.08.09
+Carlsen, Magnus	2834	Giri, Anish	2721	1/2-1/2	2022.08.15
+Praggnanandhaa, R	1927	Giri, Anish	2721	1/2-1/2	2022.08.16
+Praggnanandhaa, R	1927	Giri, Anish	2721	1/2-1/2	2022.08.16
+Firouzja, Alireza	2704	Giri, Anish	2721	1/2-1/2	2022.08.17
+Firouzja, Alireza	2704	Giri, Anish	2721	1/2-1/2	2022.08.17
+Firouzja, Alireza	2704	Giri, Anish	2721	1/2-1/2	2022.08.17
+Niemann, Hans Moke	2529	Giri, Anish	2721	1/2-1/2	2022.08.18
+Aronian, Levon	2728	Giri, Anish	2721	1/2-1/2	2022.08.19
+Duda, Jan-Krzysztof	2808	Giri, Anish	2721	1/2-1/2	2022.08.21
+Ju, Wenjun	2600	Giri, Anish	2721	1/2-1/2	2022.09.15
+Ju, Wenjun	2600	Giri, Anish	2721	1/2-1/2	2022.09.15
+Giri, Anish	2764	Wojtaszek, Radoslaw	2705	1-0	Wed Jan 27 2021
+Giri, Anish	2764	Grandelius, Nils	2663	1-0	Sat Jan 23 2021
+Giri, Anish	2764	Vachier-Lagrave, Maxime	2784	1-0	Tue Jan 26 2021
+Giri, Anish	2764	Nepomniachtchi, Ian	2789	1-0	Sat Feb 06 2021
+Giri, Anish	2764	Vidit, Santosh Gujrathi	2726	1-0	Sat Feb 06 2021
+Giri, Anish	2764	Vachier-Lagrave, Maxime	2784	1-0	Sun Feb 07 2021
+Giri, Anish	2764	Ding, Liren	2791	1-0	Sun Feb 07 2021
+Giri, Anish	2776	Carlsen, Magnus	2847	1-0	Sat Mar 13 2021
+Giri, Anish	2776	Anton Guijarro, David	2673	1-0	Sun Mar 14 2021
+Giri, Anish	2776	Mamedyarov, Shakhriyar	2770	1-0	Sun Mar 14 2021
+Giri, Anish	2776	Vachier-Lagrave, Maxime	2758	1-0	Wed Mar 17 2021
+Giri, Anish	2776	Vachier-Lagrave, Maxime	2758	1-0	Wed Mar 17 2021
+Giri, Anish	2776	So, Wesley	2770	1-0	Thu Mar 18 2021
+Giri, Anish	2776	Nepomniachtchi, Ian	2789	1-0	Sun Mar 21 2021
+Giri, Anish	2776	Nepomniachtchi, Ian	2789	1-0	Sun Mar 21 2021
+Giri, Anish	2776	Nepomniachtchi, Ian	2789	1-0	Sun Mar 21 2021
+Giri, Anish	2776	Nepomniachtchi, Ian	2789	1-0	Sun Mar 21 2021
+Giri, Anish	2776	Wang, Hao	2763	1-0	Tue Apr 20 2021
+Giri, Anish	2776	Ding, Liren	2791	1-0	Fri Apr 23 2021
+Giri, Anish	2780	Cuenca Jimenez, Jose Fernando	2524	1-0	Wed May 12 2021
+Giri, Anish	2780	Cuenca Jimenez, Jose Fernando	2524	1-0	Wed May 12 2021
+Giri, Anish	2780	Cuenca Jimenez, Jose Fernando	2524	1-0	Wed May 12 2021
+Saric, Ivan	2635	Giri, Anish	2721	1/2-1/2	2022.09.18
+Gelfand, Boris	2641	Giri, Anish	2721	1/2-1/2	2022.09.19
+Keymer, Vincent	2542	Giri, Anish	2721	1/2-1/2	2022.09.21
+Giri, Anish	2780	Cuenca Jimenez, Jose Fernando	2524	1-0	Wed May 12 2021
+Giri, Anish	2780	Jobava, Baadur	2603	1-0	Sun May 16 2021
+Giri, Anish	2780	Jobava, Baadur	2603	1-0	Sun May 16 2021
+Giri, Anish	2780	Jobava, Baadur	2603	1-0	Sun May 16 2021
+Giri, Anish	2780	Jobava, Baadur	2603	1-0	Sun May 16 2021
+Giri, Anish	2780	Dubov, Daniil	2710	1-0	Sat May 15 2021
+Giri, Anish	2780	Dubov, Daniil	2710	1-0	Sat May 15 2021
+Giri, Anish	2780	Grandelius, Nils	2670	1-0	Fri May 14 2021
+Giri, Anish	2780	Grandelius, Nils	2670	1-0	Fri May 14 2021
+Giri, Anish	2780	Grandelius, Nils	2670	1-0	Fri May 14 2021
+Giri, Anish	2780	Grandelius, Nils	2670	1-0	Fri May 14 2021
+Giri, Anish	2780	Ding, Liren	2799	1-0	Sun May 23 2021
+Giri, Anish	2731	Radjabov, Teimour	2758	1-0	Tue May 25 2021
+Giri, Anish	2780	Vachier-Lagrave, Maxime	2760	1-0	2021.06.12
+Giri, Anish	2731	Firouzja, Alireza	2703	1-0	2021.06.26
+Giri, Anish	2731	So, Wesley	2741	1-0	2021.06.26
+Giri, Anish	2731	Anand, Viswanathan	2751	1-0	2021.07.09
+Giri, Anish	2744	Anand, Viswanathan	2785	1-0	2021.07.10
+Giri, Anish	2744	Vachier-Lagrave, Maxime	2794	1-0	2021.07.10
+Giri, Anish	2744	Nepomniachtchi, Ian	2807	1-0	2021.07.11
+Giri, Anish	2744	Mamedyarov, Shakhriyar	2716	1-0	2021.07.11
+Giri, Anish	2776	Savchenko, Boris	2553	1-0	2021.07.15
+Giri, Anish	2744	Van Foreest, Jorden	2563	1-0	2021.08.29
+Giri, Anish	2712	Matlakov, Maxim	2663	1-0	2021.09.11
+Giri, Anish	2712	Vitiugov, Nikita	2619	1-0	2021.09.11
+Giri, Anish	2764	Van Foreest, Jorden	2671	0-1	Sun Jan 31 2021
+Giri, Anish	2764	Radjabov, Teimour	2765	0-1	Tue Feb 09 2021
+Giri, Anish	2776	Nepomniachtchi, Ian	2789	0-1	Mon Mar 15 2021
+Giri, Anish	2776	Vachier-Lagrave, Maxime	2758	0-1	Tue Mar 16 2021
+Giri, Anish	2776	So, Wesley	2770	0-1	Thu Mar 18 2021
+Giri, Anish	2776	Alekseenko, Kirill	2696	0-1	Tue Apr 27 2021
+Giri, Anish	2780	Dubov, Daniil	2710	0-1	Sat May 15 2021
+Giri, Anish	2780	Dubov, Daniil	2710	0-1	Sat May 15 2021
+Giri, Anish	2780	Svidler, Peter	2714	0-1	Mon May 24 2021
+Giri, Anish	2731	Artemiev, Vladislav	2757	0-1	2021.06.29
+Giri, Anish	2731	Artemiev, Vladislav	2757	0-1	2021.06.30
+Giri, Anish	2744	Korobov, Anton	2668	0-1	2021.07.10
+Giri, Anish	2731	Abdusattorov, Nodirbek	2501	0-1	2021.07.20
+Giri, Anish	2712	Gelfand, Boris	2631	1-0	2021.09.11
+Giri, Anish	2712	Paravyan, David	2676	1-0	2021.09.12
+Giri, Anish	2778	Duda, Jan-Krzysztof	2792	0-1	2021.11.08
+Giri, Anish	2778	Duda, Jan-Krzysztof	2792	1-0	2021.11.08
+Giri, Anish	2778	Duda, Jan-Krzysztof	2792	0-1	2021.11.08
+Giri, Anish	2778	Duda, Jan-Krzysztof	2792	1-0	2021.11.08
+Giri, Anish	2778	Duda, Jan-Krzysztof	2792	1-0	2021.11.08
+Giri, Anish	2778	Duda, Jan-Krzysztof	2792	0-1	2021.11.08
+Giri, Anish	2778	Duda, Jan-Krzysztof	2792	1-0	2021.11.08
+Giri, Anish	2774	Saric, Ivan	2665	1-0	2021.11.14
+Giri, Anish	2774	Jobava, Baadur	2582	1-0	2021.11.12
+Giri, Anish	2778	Nakamura, Hikaru	2884	1-0	2021.12.06
+Giri, Anish	2764	Firouzja, Alireza	2749	1/2-1/2	Sat Jan 30 2021
+Giri, Anish	2764	Van Foreest, Jorden	2671	1/2-1/2	Sun Jan 31 2021
+Giri, Anish	2764	Harikrishna, Pentala	2732	1/2-1/2	Thu Jan 21 2021
+Giri, Anish	2764	Donchenko, Alexander	2668	1/2-1/2	Mon Jan 18 2021
+Giri, Anish	2764	Aronian, Levon	2781	1/2-1/2	Mon Feb 08 2021
+Giri, Anish	2764	Duda, Jan-Krzysztof	2743	1/2-1/2	Mon Feb 08 2021
+Giri, Anish	2764	Shankland, Sam	2691	1/2-1/2	Mon Feb 08 2021
+Giri, Anish	2764	Radjabov, Teimour	2765	1/2-1/2	Tue Feb 09 2021
+Giri, Anish	2764	Radjabov, Teimour	2765	1/2-1/2	Wed Feb 10 2021
+Giri, Anish	2764	Radjabov, Teimour	2765	1/2-1/2	Wed Feb 10 2021
+Giri, Anish	2764	Radjabov, Teimour	2765	1/2-1/2	Wed Feb 10 2021
+Giri, Anish	2776	Firouzja, Alireza	2759	1/2-1/2	Sat Mar 13 2021
+Giri, Anish	2776	Grandelius, Nils	2670	1/2-1/2	Sun Mar 14 2021
+Giri, Anish	2776	Karjakin, Sergey	2757	1/2-1/2	Mon Mar 15 2021
+Giri, Anish	2776	Vachier-Lagrave, Maxime	2758	1/2-1/2	Tue Mar 16 2021
+Giri, Anish	2776	So, Wesley	2770	1/2-1/2	Fri Mar 19 2021
+Giri, Anish	2776	So, Wesley	2770	1/2-1/2	Fri Mar 19 2021
+Giri, Anish	2776	Nepomniachtchi, Ian	2789	1/2-1/2	Sat Mar 20 2021
+Giri, Anish	2778	Duda, Jan-Krzysztof	2792	0-1	2021.11.08
+Giri, Anish	2778	Nakamura, Hikaru	2884	0-1	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	0-1	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	0-1	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	0-1	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	0-1	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	0-1	2021.12.06
+Giri, Anish	2776	Nepomniachtchi, Ian	2789	1/2-1/2	Sat Mar 20 2021
+Giri, Anish	2776	Nepomniachtchi, Ian	2789	1/2-1/2	Sat Mar 20 2021
+Giri, Anish	2780	Jobava, Baadur	2603	1/2-1/2	Sun May 16 2021
+Giri, Anish	2780	Dubov, Daniil	2710	1/2-1/2	Sat May 15 2021
+Giri, Anish	2780	Dubov, Daniil	2710	1/2-1/2	Sat May 15 2021
+Giri, Anish	2780	Grandelius, Nils	2670	1/2-1/2	Fri May 14 2021
+Giri, Anish	2780	Dubov, Daniil	2710	1/2-1/2	Sun May 23 2021
+Giri, Anish	2731	Nepomniachtchi, Ian	2778	1/2-1/2	Tue May 25 2021
+Giri, Anish	2780	Nakamura, Hikaru	2736	1/2-1/2	Mon May 24 2021
+Giri, Anish	2731	Radjabov, Teimour	2758	1/2-1/2	Thu May 27 2021
+Giri, Anish	2731	Radjabov, Teimour	2758	1/2-1/2	Thu May 27 2021
+Giri, Anish	2731	Radjabov, Teimour	2758	1/2-1/2	Wed May 26 2021
+Giri, Anish	2731	Radjabov, Teimour	2758	1/2-1/2	Wed May 26 2021
+Giri, Anish	2731	Radjabov, Teimour	2758	1/2-1/2	2021.06.06
+Giri, Anish	2780	Aronian, Levon	2781	1/2-1/2	2021.06.08
+Giri, Anish	2780	Grischuk, Alexander	2776	1/2-1/2	2021.06.14
+Giri, Anish	2731	Salem, A.R. Saleh	2718	1/2-1/2	2021.06.27
+Giri, Anish	2731	Duda, Jan-Krzysztof	2774	1/2-1/2	2021.06.27
+Giri, Anish	2731	Ding, Liren	2836	1/2-1/2	2021.06.28
+Giri, Anish	2731	Artemiev, Vladislav	2757	1/2-1/2	2021.06.28
+Giri, Anish	2731	Erigaisi, Arjun	2289	1/2-1/2	2021.06.28
+Giri, Anish	2731	Artemiev, Vladislav	2757	1/2-1/2	2021.06.30
+Giri, Anish	2731	Van Foreest, Jorden	2543	1/2-1/2	2021.07.08
+Giri, Anish	2731	Duda, Jan-Krzysztof	2774	1/2-1/2	2021.07.07
+Giri, Anish	2731	Nepomniachtchi, Ian	2791	1/2-1/2	2021.07.09
+Giri, Anish	2744	Van Foreest, Jorden	2622	1/2-1/2	2021.07.10
+Giri, Anish	2744	Duda, Jan-Krzysztof	2799	1/2-1/2	2021.07.10
+Giri, Anish	2744	Kasparov, Garry	2801	1/2-1/2	2021.07.11
+Giri, Anish	2744	Grischuk, Alexander	2765	1/2-1/2	2021.07.11
+Giri, Anish	2776	Abdusattorov, Nodirbek	2634	1/2-1/2	2021.07.19
+Giri, Anish	2744	Vachier-Lagrave, Maxime	2817	1/2-1/2	2021.08.28
+Giri, Anish	2744	Naroditsky, Daniel	2639	1/2-1/2	2021.08.28
+Giri, Anish	2744	Mamedyarov, Shakhriyar	2756	1/2-1/2	2021.08.28
+Giri, Anish	2744	So, Wesley	2774	1/2-1/2	2021.08.30
+Giri, Anish	2744	Le, Quang Liem	2744	1/2-1/2	2021.08.30
+Giri, Anish	2744	Duda, Jan-Krzysztof	2775	1/2-1/2	2021.08.29
+Giri, Anish	2744	Liang, Awonder	2397	1/2-1/2	2021.08.29
+Giri, Anish	2712	Andreikin, Dmitry	2705	1/2-1/2	2021.09.12
+Giri, Anish	2767	Nakamura, Hikaru	2836	1/2-1/2	2021.10.13
+Giri, Anish	2767	Wang, Hao	2750	1/2-1/2	2021.10.11
+Giri, Anish	2767	Gupta, Abhijeet	2551	1/2-1/2	2021.10.16
+Giri, Anish	2778	Duda, Jan-Krzysztof	2792	1/2-1/2	2021.11.08
+Giri, Anish	2778	Duda, Jan-Krzysztof	2792	1/2-1/2	2021.11.08
+Giri, Anish	2778	Duda, Jan-Krzysztof	2792	1/2-1/2	2021.11.08
+Giri, Anish	2778	Duda, Jan-Krzysztof	2792	1/2-1/2	2021.11.08
+Giri, Anish	2778	Duda, Jan-Krzysztof	2792	1/2-1/2	2021.11.08
+Giri, Anish	2774	Mamedyarov, Shakhriyar	2765	1/2-1/2	2021.11.19
+Giri, Anish	2774	Indjic, Aleksandar	2612	1/2-1/2	2021.11.16
+Giri, Anish	2778	Nakamura, Hikaru	2884	1/2-1/2	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	1/2-1/2	2021.12.06
+Nakamura, Hikaru	2736	Giri, Anish	2764	1-0	Sat Feb 06 2021
+Radjabov, Teimour	2765	Giri, Anish	2764	1-0	Wed Feb 10 2021
+Grischuk, Alexander	2777	Giri, Anish	2776	1-0	Mon Apr 26 2021
+Jobava, Baadur	2603	Giri, Anish	2780	1-0	Sun May 16 2021
+Jobava, Baadur	2603	Giri, Anish	2780	1-0	Sun May 16 2021
+Dubov, Daniil	2710	Giri, Anish	2780	1-0	Sat May 15 2021
+Dubov, Daniil	2710	Giri, Anish	2780	1-0	Sat May 15 2021
+Grandelius, Nils	2670	Giri, Anish	2780	1-0	Fri May 14 2021
+Grandelius, Nils	2670	Giri, Anish	2780	1-0	Fri May 14 2021
+Caruana, Fabiano	2820	Giri, Anish	2780	1-0	Mon May 24 2021
+Radjabov, Teimour	2758	Giri, Anish	2731	1-0	Wed May 26 2021
+Lupulescu, Constantin	2656	Giri, Anish	2780	1-0	2021.06.07
+Svidler, Peter	2742	Giri, Anish	2731	1-0	2021.06.26
+Adhiban, B.	2624	Giri, Anish	2731	1-0	2021.06.28
+Artemiev, Vladislav	2757	Giri, Anish	2731	1-0	2021.06.29
+Artemiev, Vladislav	2757	Giri, Anish	2731	1-0	2021.06.29
+Saric, Ivan	2650	Giri, Anish	2731	1-0	2021.07.07
+Vachier-Lagrave, Maxime	2794	Giri, Anish	2744	1-0	2021.07.11
+Duda, Jan-Krzysztof	2799	Giri, Anish	2744	1-0	2021.07.11
+Abdusattorov, Nodirbek	2501	Giri, Anish	2731	1-0	2021.07.20
+Giri, Anish	2778	Nakamura, Hikaru	2884	1/2-1/2	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	1/2-1/2	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	1/2-1/2	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	1/2-1/2	2021.12.06
+Giri, Anish	2778	Nakamura, Hikaru	2884	1/2-1/2	2021.12.06
+Bluebaum, Matthias	2670	Giri, Anish	2764	0-1	Mon Feb 08 2021
+Radjabov, Teimour	2765	Giri, Anish	2764	0-1	Tue Feb 09 2021
+Pichot, Alan	2630	Giri, Anish	2776	0-1	Sat Mar 13 2021
+So, Wesley	2770	Giri, Anish	2776	0-1	Sat Mar 13 2021
+Aronian, Levon	2781	Giri, Anish	2776	0-1	Sun Mar 14 2021
+Vachier-Lagrave, Maxime	2758	Giri, Anish	2776	0-1	Tue Mar 16 2021
+So, Wesley	2770	Giri, Anish	2776	0-1	Thu Mar 18 2021
+Caruana, Fabiano	2820	Giri, Anish	2776	0-1	Sat Apr 24 2021
+Cuenca Jimenez, Jose Fernando	2524	Giri, Anish	2780	0-1	Wed May 12 2021
+Cuenca Jimenez, Jose Fernando	2524	Giri, Anish	2780	0-1	Wed May 12 2021
+Cuenca Jimenez, Jose Fernando	2524	Giri, Anish	2780	0-1	Wed May 12 2021
+Jobava, Baadur	2603	Giri, Anish	2780	0-1	Sun May 16 2021
+Jobava, Baadur	2603	Giri, Anish	2780	0-1	Sun May 16 2021
+Ding, Liren	2836	Giri, Anish	2767	1-0	2021.10.17
+Duda, Jan-Krzysztof	2792	Giri, Anish	2778	1-0	2021.11.08
+Duda, Jan-Krzysztof	2792	Giri, Anish	2778	1-0	2021.11.08
+Duda, Jan-Krzysztof	2792	Giri, Anish	2778	1-0	2021.11.08
+Duda, Jan-Krzysztof	2792	Giri, Anish	2778	1-0	2021.11.08
+Duda, Jan-Krzysztof	2792	Giri, Anish	2778	1-0	2021.11.08
+Nakamura, Hikaru	2884	Giri, Anish	2778	1-0	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1-0	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1-0	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1-0	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1-0	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1-0	2021.12.06
+Dubov, Daniil	2710	Giri, Anish	2780	0-1	Sat May 15 2021
+Dubov, Daniil	2710	Giri, Anish	2780	0-1	Sat May 15 2021
+Dubov, Daniil	2710	Giri, Anish	2780	0-1	Sat May 15 2021
+Dubov, Daniil	2710	Giri, Anish	2780	0-1	Sat May 15 2021
+Grandelius, Nils	2670	Giri, Anish	2780	0-1	Fri May 14 2021
+Grandelius, Nils	2670	Giri, Anish	2780	0-1	Fri May 14 2021
+Pichot, Alan	2630	Giri, Anish	2780	0-1	Sun May 23 2021
+Grischuk, Alexander	2776	Giri, Anish	2780	0-1	Sun May 23 2021
+Firouzja, Alireza	2759	Giri, Anish	2780	0-1	Mon May 24 2021
+Dubov, Daniil	2770	Giri, Anish	2731	0-1	2021.06.27
+Korobov, Anton	2781	Giri, Anish	2731	0-1	2021.07.08
+Kasparov, Garry	2801	Giri, Anish	2744	0-1	2021.07.10
+Korobov, Anton	2668	Giri, Anish	2744	0-1	2021.07.11
+Savchenko, Boris	2553	Giri, Anish	2776	0-1	2021.07.16
+Alekseenko, Kirill	2656	Giri, Anish	2712	0-1	2021.09.11
+Abdusattorov, Nodirbek	2542	Giri, Anish	2712	0-1	2021.09.11
+Tomashevsky, Evgeny	2635	Giri, Anish	2712	0-1	2021.09.12
+Gupta, Abhijeet	2551	Giri, Anish	2767	0-1	2021.10.12
+Duda, Jan-Krzysztof	2792	Giri, Anish	2778	0-1	2021.11.08
+Duda, Jan-Krzysztof	2792	Giri, Anish	2778	0-1	2021.11.08
+Duda, Jan-Krzysztof	2792	Giri, Anish	2778	0-1	2021.11.08
+Duda, Jan-Krzysztof	2792	Giri, Anish	2778	0-1	2021.11.08
+Duda, Jan-Krzysztof	2792	Giri, Anish	2778	0-1	2021.11.08
+Duda, Jan-Krzysztof	2792	Giri, Anish	2778	0-1	2021.11.08
+Duda, Jan-Krzysztof	2792	Giri, Anish	2778	0-1	2021.11.08
+Carlsen, Magnus	2862	Giri, Anish	2764	1/2-1/2	Fri Jan 29 2021
+Anton Guijarro, David	2679	Giri, Anish	2764	1/2-1/2	Sun Jan 31 2021
+Van Foreest, Jorden	2671	Giri, Anish	2764	1/2-1/2	Sun Jan 31 2021
+Esipenko, Andrey	2677	Giri, Anish	2764	1/2-1/2	Fri Jan 22 2021
+Caruana, Fabiano	2823	Giri, Anish	2764	1/2-1/2	Sun Jan 24 2021
+Van Foreest, Jorden	2671	Giri, Anish	2764	1/2-1/2	Sun Jan 17 2021
+Duda, Jan-Krzysztof	2743	Giri, Anish	2764	1/2-1/2	Tue Jan 19 2021
+Grischuk, Alexander	2777	Giri, Anish	2764	1/2-1/2	Sat Feb 06 2021
+Dubov, Daniil	2710	Giri, Anish	2764	1/2-1/2	Sat Feb 06 2021
+Carlsen, Magnus	2862	Giri, Anish	2764	1/2-1/2	Sun Feb 07 2021
+Radjabov, Teimour	2765	Giri, Anish	2764	1/2-1/2	Sun Feb 07 2021
+Dominguez Perez, Leinier	2758	Giri, Anish	2764	1/2-1/2	Mon Feb 08 2021
+Radjabov, Teimour	2765	Giri, Anish	2764	1/2-1/2	Tue Feb 09 2021
+Radjabov, Teimour	2765	Giri, Anish	2764	1/2-1/2	Wed Feb 10 2021
+Radjabov, Teimour	2765	Giri, Anish	2764	1/2-1/2	Wed Feb 10 2021
+Radjabov, Teimour	2765	Giri, Anish	2776	1/2-1/2	Sat Mar 13 2021
+Dubov, Daniil	2710	Giri, Anish	2776	1/2-1/2	Sun Mar 14 2021
+Vachier-Lagrave, Maxime	2758	Giri, Anish	2776	1/2-1/2	Mon Mar 15 2021
+Van Foreest, Jorden	2701	Giri, Anish	2776	1/2-1/2	Mon Mar 15 2021
+Vachier-Lagrave, Maxime	2758	Giri, Anish	2776	1/2-1/2	Tue Mar 16 2021
+Vachier-Lagrave, Maxime	2758	Giri, Anish	2776	1/2-1/2	Wed Mar 17 2021
+Toczek, Grzegorz	2296	Giri, Anish	2774	0-1	2021.11.13
+Nakamura, Hikaru	2884	Giri, Anish	2778	0-1	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	0-1	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	0-1	2021.12.06
+Vachier-Lagrave, Maxime	2758	Giri, Anish	2776	1/2-1/2	Wed Mar 17 2021
+So, Wesley	2770	Giri, Anish	2776	1/2-1/2	Thu Mar 18 2021
+So, Wesley	2770	Giri, Anish	2776	1/2-1/2	Fri Mar 19 2021
+So, Wesley	2770	Giri, Anish	2776	1/2-1/2	Fri Mar 19 2021
+So, Wesley	2770	Giri, Anish	2776	1/2-1/2	Fri Mar 19 2021
+Nepomniachtchi, Ian	2789	Giri, Anish	2776	1/2-1/2	Sun Mar 21 2021
+Nepomniachtchi, Ian	2789	Giri, Anish	2776	1/2-1/2	Sun Mar 21 2021
+Nepomniachtchi, Ian	2789	Giri, Anish	2776	1/2-1/2	Sun Mar 21 2021
+Nepomniachtchi, Ian	2789	Giri, Anish	2776	1/2-1/2	Sun Mar 21 2021
+Nepomniachtchi, Ian	2789	Giri, Anish	2776	1/2-1/2	Sun Mar 21 2021
+Nepomniachtchi, Ian	2789	Giri, Anish	2776	1/2-1/2	Mon Apr 19 2021
+Vachier-Lagrave, Maxime	2758	Giri, Anish	2776	1/2-1/2	Wed Apr 21 2021
+Jobava, Baadur	2603	Giri, Anish	2780	1/2-1/2	Sun May 16 2021
+Aronian, Levon	2781	Giri, Anish	2780	1/2-1/2	Sun May 23 2021
+Mamedyarov, Shakhriyar	2761	Giri, Anish	2731	1/2-1/2	Tue May 25 2021
+Carlsen, Magnus	2847	Giri, Anish	2780	1/2-1/2	Mon May 24 2021
+Radjabov, Teimour	2758	Giri, Anish	2731	1/2-1/2	Wed May 26 2021
+Deac, Bogdan-Daniel	2556	Giri, Anish	2731	1/2-1/2	2021.06.05
+So, Wesley	2770	Giri, Anish	2780	1/2-1/2	2021.06.11
+Caruana, Fabiano	2820	Giri, Anish	2780	1/2-1/2	2021.06.09
+Vidit, Santosh Gujrathi	2636	Giri, Anish	2731	1/2-1/2	2021.06.26
+Hou, Yifan	2621	Giri, Anish	2731	1/2-1/2	2021.06.26
+Carlsen, Magnus	2881	Giri, Anish	2731	1/2-1/2	2021.06.27
+Gukesh, D	1927	Giri, Anish	2731	1/2-1/2	2021.06.28
+Artemiev, Vladislav	2757	Giri, Anish	2731	1/2-1/2	2021.06.30
+Vachier-Lagrave, Maxime	2831	Giri, Anish	2731	1/2-1/2	2021.07.08
+Grischuk, Alexander	2784	Giri, Anish	2731	1/2-1/2	2021.07.07
+Mamedyarov, Shakhriyar	2761	Giri, Anish	2731	1/2-1/2	2021.07.09
+Nepomniachtchi, Ian	2807	Giri, Anish	2744	1/2-1/2	2021.07.10
+Grischuk, Alexander	2765	Giri, Anish	2744	1/2-1/2	2021.07.10
+Mamedyarov, Shakhriyar	2716	Giri, Anish	2744	1/2-1/2	2021.07.10
+Anand, Viswanathan	2785	Giri, Anish	2744	1/2-1/2	2021.07.11
+Van Foreest, Jorden	2622	Giri, Anish	2744	1/2-1/2	2021.07.11
+Abdusattorov, Nodirbek	2634	Giri, Anish	2776	1/2-1/2	2021.07.18
+Dominguez Perez, Leinier	2786	Giri, Anish	2744	1/2-1/2	2021.08.28
+Hansen, Eric	2579	Giri, Anish	2744	1/2-1/2	2021.08.28
+Carlsen, Magnus	2881	Giri, Anish	2744	1/2-1/2	2021.08.30
+Vidit, Santosh Gujrathi	2636	Giri, Anish	2744	1/2-1/2	2021.08.30
+Firouzja, Alireza	2696	Giri, Anish	2744	1/2-1/2	2021.08.30
+Artemiev, Vladislav	2757	Giri, Anish	2744	1/2-1/2	2021.08.29
+Korobov, Anton	2740	Giri, Anish	2712	1/2-1/2	2021.09.12
+Koneru, Humpy	2483	Giri, Anish	2767	1/2-1/2	2021.10.15
+Gupta, Abhijeet	2551	Giri, Anish	2767	1/2-1/2	2021.10.17
+Duda, Jan-Krzysztof	2792	Giri, Anish	2778	1/2-1/2	2021.11.08
+Lenic, Luka	2633	Giri, Anish	2774	1/2-1/2	2021.11.15
+Erdos, Viktor	2615	Giri, Anish	2774	1/2-1/2	2021.11.20
+Shirov, Alexei	2673	Giri, Anish	2774	1/2-1/2	2021.11.21
+Korobov, Anton	2684	Giri, Anish	2774	1/2-1/2	2021.11.18
+Nakamura, Hikaru	2884	Giri, Anish	2778	1/2-1/2	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1/2-1/2	2021.12.06
+Giri, Anish	0	Caruana, Fabiano	0	1/2-1/2	Sun Jan 12 2020
+Giri, Anish	0	Vitiugov, Nikita	0	1/2-1/2	Tue Jan 14 2020
+Giri, Anish	0	Kovalev, Vladislav	0	1-0	Fri Jan 17 2020
+Giri, Anish	0	Artemiev, Vladislav	0	1/2-1/2	Sun Jan 19 2020
+Giri, Anish	0	Yu, Yangyi	0	1/2-1/2	Fri Jan 24 2020
+Giri, Anish	0	Van Foreest, Jorden	0	1/2-1/2	Sun Jan 26 2020
+Giri, Anish	2784	Nepomniachtchi, Ian	2707	0-1	Tue Mar 17 2020
+Giri, Anish	2784	Vachier-Lagrave, Maxime	2773	1/2-1/2	Thu Mar 19 2020
+Giri, Anish	2784	Caruana, Fabiano	2787	1/2-1/2	Sun Mar 22 2020
+Giri, Anish	2764	Wang, Hao	2763	1-0	Mon Dec 07 2020
+Giri, Anish	2764	Yu, Yangyi	2709	1/2-1/2	Mon Dec 07 2020
+Giri, Anish	2764	Grischuk, Alexander	2777	0-1	Sat Dec 05 2020
+Giri, Anish	2764	Wei, Yi	2732	0-1	Sat Dec 05 2020
+Giri, Anish	2764	Topalov, Veselin	2735	1-0	Fri Dec 04 2020
+Giri, Anish	2764	Rapport, Richard	2759	1/2-1/2	Tue Dec 08 2020
+Giri, Anish	2764	Ding, Liren	2791	1/2-1/2	Wed Dec 09 2020
+Giri, Anish	2764	Vachier-Lagrave, Maxime	2784	1-0	Mon Dec 28 2020
+Giri, Anish	2764	Grischuk, Alexander	2777	1/2-1/2	Mon Dec 28 2020
+Giri, Anish	2764	Nepomniachtchi, Ian	2784	1/2-1/2	Sat Dec 26 2020
+Giri, Anish	2764	So, Wesley	2770	0-1	Sat Dec 26 2020
+Giri, Anish	2764	Harikrishna, Pentala	2732	1-0	Sun Dec 27 2020
+Nakamura, Hikaru	2884	Giri, Anish	2778	1/2-1/2	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1/2-1/2	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1/2-1/2	2021.12.06
+Nakamura, Hikaru	2884	Giri, Anish	2778	1/2-1/2	2021.12.06
+Giri, Anish	0	Aronian, Levon	0	1-0	Mon Nov 25 2019
+Carlsen, Magnus	0	Giri, Anish	0	1/2-1/2	Sat Jan 11 2020
+Anand, Viswanathan	0	Giri, Anish	0	1/2-1/2	Mon Jan 13 2020
+Firouzja, Alireza	0	Giri, Anish	0	1-0	Thu Jan 16 2020
+Duda, Jan-Krzysztof	0	Giri, Anish	0	1/2-1/2	Sat Jan 18 2020
+So, Wesley	0	Giri, Anish	0	1/2-1/2	Tue Jan 21 2020
+Dubov, Daniil	0	Giri, Anish	0	1/2-1/2	Wed Jan 22 2020
+Xiong, Jeffery	0	Giri, Anish	0	1/2-1/2	Sat Jan 25 2020
+Wang, Hao	2707	Giri, Anish	2784	1/2-1/2	Wed Mar 18 2020
+Ding, Liren	2776	Giri, Anish	2784	1/2-1/2	Sat Mar 21 2020
+Wang, Hao	2763	Giri, Anish	2764	0-1	Thu Dec 03 2020
+Yu, Yangyi	2709	Giri, Anish	2764	1/2-1/2	Thu Dec 03 2020
+Topalov, Veselin	2735	Giri, Anish	2764	0-1	Mon Dec 07 2020
+Ding, Liren	2791	Giri, Anish	2764	1-0	Sat Dec 05 2020
+Rapport, Richard	2759	Giri, Anish	2764	1/2-1/2	Fri Dec 04 2020
+Wei, Yi	2732	Giri, Anish	2764	1/2-1/2	Tue Dec 08 2020
+Grischuk, Alexander	2777	Giri, Anish	2764	1/2-1/2	Wed Dec 09 2020
+Carlsen, Magnus	2863	Giri, Anish	2764	1/2-1/2	Sun Dec 27 2020
+Nakamura, Hikaru	2736	Giri, Anish	2764	1-0	Mon Dec 28 2020
+Aronian, Levon	2767	Giri, Anish	2764	1-0	Sat Dec 26 2020
+Radjabov, Teimour	2765	Giri, Anish	2764	1/2-1/2	Sat Dec 26 2020
+Dubov, Daniil	2699	Giri, Anish	2764	1-0	Sun Dec 27 2020
+Giri, Anish	2764	Anton Guijarro, David	2681	1/2-1/2	Sun Dec 27 2020
+Giri, Anish	2764	Grischuk, Alexander	2777	1/2-1/2	Wed Mar 25 2020
+Alekseenko, Kirill	2696	Giri, Anish	2764	0-1	Mon Mar 23 2020
+Giri, Anish	0	Anand, Viswanathan	0	1-0	Tue Nov 26 2019
+Giri, Anish	0	Vidit, Santosh Gujrathi	0	1-0	Tue Nov 26 2019
+Giri, Anish	0	Tregubov, Pavel V.	0	1-0	Thu Dec 26 2019
+Giri, Anish	0	Tengis, Tsog-Ochir	0	1-0	Sun Dec 29 2019
+Giri, Anish	0	Jumabayev, Rinat	0	1-0	Sun Dec 29 2019
+Giri, Anish	0	Gasanov, Eldar	0	1-0	Sun Dec 29 2019
+Giri, Anish	0	Iturrizaga Bonelli, Eduardo	0	1-0	Sun Dec 29 2019
+Giri, Anish	0	Sarana, Alexey	0	1-0	Mon Dec 30 2019
+Giri, Anish	0	Mamedyarov, Shakhriyar	0	1-0	Mon Dec 30 2019
+Giri,A	2783	Shankland,S	2725	1-0	2019.01.12
+Giri,A	2783	Jobava,Ba	2629	1-0	2019.01.08
+Giri,A	2797	Harikrishna,P	2723	1-0	2019.04.17
+Giri,A	2797	Jakovenko,D	2719	1-0	2019.04.17
+Giri,A	2797	Yu Yangyi	2751	1-0	2019.04.17
+Giri,A	2779	Mamedyarov,S	2774	1-0	2019.06.26
+Giri,A	2779	Karjakin,Sergey	2748	1-0	2019.07.12
+Giri,A	2779	Mamedyarov,S	2765	1-0	2019.07.31
+Giri,A	2779	Dubov,Daniil	2700	1-0	2019.07.31
+Giri,A	2779	Vachier Lagrave,M	2775	1-0	2019.07.31
+Giri,A	2779	Bareev,E	2643	1-0	2019.08.03
+Giri,A	2779	Bareev,E	2643	1-0	2019.08.04
+Giri,A	2779	Nepomniachtchi,I	2774	1-0	2019.08.04
+Giri,A	2779	Nepomniachtchi,I	2774	1-0	2019.08.17
+Giri,A	2780	Duda,J	2730	1-0	2019.09.02
+Giri,A	2780	Duda,J	2730	1-0	2019.09.02
+Giri, Anish	0	Karjakin, Sergey	0	0-1	Sat Nov 09 2019
+Giri, Anish	0	Carlsen, Magnus	0	0-1	Sat Nov 23 2019
+Giri, Anish	0	So, Wesley	0	0-1	Mon Nov 25 2019
+Giri, Anish	0	Firouzja, Alireza	0	0-1	Mon Dec 30 2019
+Giri,A	2783	Nepomniachtchi,I	2763	0-1	2019.01.12
+Giri,A	2797	Karjakin,Sergey	2753	0-1	2019.03.31
+Giri,A	2779	Carlsen,M	2875	0-1	2019.06.26
+Giri,A	2779	Ding Liren	2805	0-1	2019.06.26
+Giri,A	2779	Anand,V	2764	0-1	2019.07.27
+Giri,A	2779	Vachier Lagrave,M	2775	0-1	2019.07.27
+Giri,A	2779	Nepomniachtchi,I	2775	0-1	2019.07.31
+Giri,A	2779	Anand,V	2764	0-1	2019.07.31
+Giri,A	2779	Duda,J	2729	0-1	2019.07.31
+Giri,A	2779	Svidler,P	2729	0-1	2019.08.03
+Giri,A	2780	Duda,J	2730	1-0	2019.09.02
+Giri,A	2780	Duda,J	2730	0-1	2019.09.02
+Giri,A	2780	Duda,J	2730	1-0	2019.09.02
+Giri,A	2780	Duda,J	2730	1-0	2019.09.02
+Giri,A	2780	Duda,J	2730	1-0	2019.09.02
+Giri,A	2780	Mohammad Fahad,Rahman	2250	1-0	2019.09.10
+Giri,A	2780	Anton Guijarro,D	2674	1-0	2019.10.24
+Giri,A	2776	So,W	2760	1-0	2019.11.06
+Giri,A	2776	Le,Quang Liem	2713	1-0	2019.11.06
+Giri,A	2776	Le,Quang Liem	2713	1-0	2019.11.09
+Giri,A	2769	Alekseev,Evgeny	2620	1-0	2019.12.26
+Giri, Anish	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Sun Nov 10 2019
+Giri, Anish	0	Macovei, Andrei	0	1/2-1/2	Thu Oct 24 2019
+Giri, Anish	0	Aronian, Levon	0	1/2-1/2	Fri Nov 22 2019
+Giri, Anish	0	So, Wesley	0	1/2-1/2	Sun Nov 24 2019
+Giri, Anish	0	Nakamura, Hikaru	0	1/2-1/2	Mon Nov 25 2019
+Giri, Anish	0	Harikrishna, P.	0	1/2-1/2	Sun Nov 24 2019
+Giri, Anish	0	Ding, Liren	0	1/2-1/2	Mon Nov 25 2019
+Giri, Anish	0	Harikrishna, P.	0	1/2-1/2	Mon Nov 25 2019
+Giri, Anish	0	Carlsen, Magnus	0	1/2-1/2	Tue Nov 26 2019
+Giri, Anish	0	Nepomniachtchi, Ian	0	1/2-1/2	Tue Nov 26 2019
+Giri, Anish	0	Wei, Yi	0	1/2-1/2	Thu Dec 12 2019
+Giri, Anish	0	Wei, Yi	0	1/2-1/2	Fri Dec 13 2019
+Giri, Anish	0	Amin, Bassem	0	1/2-1/2	Fri Dec 27 2019
+Giri, Anish	0	Riazantsev, Alexander	0	1/2-1/2	Thu Dec 26 2019
+Giri, Anish	0	Kobalia, Mikhail	0	1/2-1/2	Sun Dec 29 2019
+Giri, Anish	0	Yu, Yangyi	0	1/2-1/2	Mon Dec 30 2019
+Giri, Anish	0	Jobava, Baadur	0	1/2-1/2	Mon Dec 30 2019
+Giri, Anish	0	Safarli, Eltaj	0	1/2-1/2	Sun Dec 29 2019
+Giri, Anish	0	Korobov, Anton	0	1/2-1/2	Sat Dec 28 2019
+Giri, Anish	0	Smirin, Ilia	0	1/2-1/2	Sat Dec 28 2019
+Giri, Anish	0	Grachev, Boris	0	1/2-1/2	Fri Dec 27 2019
+Giri, Anish	0	Antipov, Mikhail Al.	0	1/2-1/2	Sat Dec 28 2019
+Giri,A	2780	Duda,J	2730	0-1	2019.09.02
+Giri,A	2780	Najer,E	2635	0-1	2019.09.10
+Giri,A	2780	Xiong,Jeffery	2707	0-1	2019.09.10
+Giri,A	2783	Mamedyarov,S	2817	1/2-1/2	2019.01.12
+Giri,A	2783	Anand,V	2773	1/2-1/2	2019.01.12
+Giri,A	2783	Ding Liren	2813	1/2-1/2	2019.01.12
+Giri,A	2783	Van Foreest,Jorden	2612	1/2-1/2	2019.01.12
+Giri,A	2783	Carlsen,M	2835	1/2-1/2	2019.01.12
+Giri,A	2783	Lenic,L	2645	1/2-1/2	2019.01.08
+Giri,A	2783	Grigoriants,S RUS	2541	1/2-1/2	2019.01.08
+Giri,A	2797	Topalov,V	2740	1/2-1/2	2019.03.31
+Giri,A	2797	Radjabov,T	2756	1/2-1/2	2019.03.31
+Giri,A	2797	Navara,D	2739	1/2-1/2	2019.03.31
+Giri,A	2797	Mamedyarov,S	2790	1/2-1/2	2019.03.31
+Giri,A	2797	Rapport,R	2726	1/2-1/2	2019.04.17
+Giri,A	2797	Ding Liren	2809	1/2-1/2	2019.04.17
+Giri,A	2787	Dubov,Daniil	2690	1/2-1/2	2019.05.17
+Giri,A	2779	So,W	2754	1/2-1/2	2019.06.26
+Giri,A	2779	Anand,V	2767	1/2-1/2	2019.06.26
+Giri,A	2779	Nakamura,Hi	2754	1/2-1/2	2019.06.26
+Giri,A	2779	Karjakin,Sergey	2748	1/2-1/2	2019.07.12
+Giri,A	2779	Karjakin,Sergey	2748	1/2-1/2	2019.07.12
+Giri,A	2779	Karjakin,Sergey	2748	1/2-1/2	2019.07.12
+Giri,A	2779	Caruana,F	2819	1/2-1/2	2019.07.27
+Giri,A	2779	Nakamura,Hi	2754	1/2-1/2	2019.07.27
+Giri,A	2779	Nakamura,Hi	2754	1/2-1/2	2019.07.31
+Giri,A	2779	Grischuk,A	2766	1/2-1/2	2019.07.31
+Giri,A	2779	Caruana,F	2819	1/2-1/2	2019.07.31
+Giri,A	2779	Nepomniachtchi,I	2774	1/2-1/2	2019.08.03
+Giri,A	2779	Kramnik,V	2753	1/2-1/2	2019.08.04
+Giri,A	2779	Aronian,L	2765	1/2-1/2	2019.08.17
+Giri,A	2779	Vachier Lagrave,M	2778	1/2-1/2	2019.08.17
+Giri,A	2779	Caruana,F	2818	1/2-1/2	2019.08.17
+Giri,A	2779	Karjakin,Sergey	2750	1/2-1/2	2019.08.17
+Giri,A	2780	Duda,J	2730	1/2-1/2	2019.09.02
+Giri,A	2780	Duda,J	2730	1/2-1/2	2019.09.02
+Giri,A	2780	Duda,J	2730	1/2-1/2	2019.09.02
+Giri,A	2780	Duda,J	2730	1/2-1/2	2019.09.02
+Giri,A	2780	Duda,J	2730	1/2-1/2	2019.09.02
+Giri,A	2780	Duda,J	2730	1/2-1/2	2019.09.02
+Giri,A	2780	Najer,E	2635	1/2-1/2	2019.09.10
+Giri,A	2780	Najer,E	2635	1/2-1/2	2019.09.10
+Giri,A	2780	Xiong,Jeffery	2707	1/2-1/2	2019.09.10
+Giri,A	2780	Najer,E	2635	1/2-1/2	2019.09.10
+Giri,A	2780	Xiong,Jeffery	2707	1/2-1/2	2019.09.10
+Giri,A	2780	Nisipeanu,LD	2656	1/2-1/2	2019.10.24
+Giri,A	2780	Ragger,M	2684	1/2-1/2	2019.10.24
+Giri,A	2776	Anand,V	2757	1/2-1/2	2019.11.09
+Giri,A	2776	Caruana,F	2822	1/2-1/2	2019.11.06
+Giri,A	2776	Anand,V	2757	1/2-1/2	2019.11.06
+Giri,A	2776	Artemiev,V	2731	1/2-1/2	2019.11.09
+Giri,A	2776	Korobov,A	2670	1/2-1/2	2019.11.06
+Giri,A	2776	Caruana,F	2822	1/2-1/2	2019.11.09
+Mamedyarov, Shakhriyar	0	Giri, Anish	0	1-0	Fri Nov 08 2019
+Nakamura, Hikaru	0	Giri, Anish	0	1-0	Fri Nov 22 2019
+Nepomniachtchi, Ian	0	Giri, Anish	0	1-0	Mon Nov 25 2019
+Wei, Yi	0	Giri, Anish	0	1-0	Fri Dec 13 2019
+Dominguez Perez, Leinier	0	Giri, Anish	0	1-0	Thu Dec 26 2019
+Predke, Alexandr	0	Giri, Anish	0	1-0	Sun Dec 29 2019
+Aravindh, Chithambaram VR.	0	Giri, Anish	0	1-0	Sun Dec 29 2019
+Anand,V	2779	Giri,A	2797	1-0	2019.03.31
+Carlsen,M	2845	Giri,A	2797	1-0	2019.03.31
+Dubov,Daniil	2690	Giri,A	2787	1-0	2019.05.17
+Karjakin,Sergey	2748	Giri,A	2779	1-0	2019.07.12
+Karjakin,Sergey	2748	Giri,A	2779	1-0	2019.07.12
+Duda,J	2729	Giri,A	2779	1-0	2019.07.27
+Mamedyarov,S	2765	Giri,A	2779	1-0	2019.07.27
+Dubov,Daniil	2700	Giri,A	2779	1-0	2019.07.31
+Caruana,F	2819	Giri,A	2779	1-0	2019.07.31
+Mamedyarov,S	2765	Giri,A	2779	1-0	2019.07.31
+Grischuk,A	2766	Giri,A	2779	1-0	2019.07.31
+Nakamura,Hi	2754	Giri,A	2779	1-0	2019.07.31
+Anand,V	2756	Giri,A	2779	1-0	2019.08.03
+Giri,A	2776	Korobov,A	2670	1/2-1/2	2019.11.09
+Giri,A	2776	Aronian,L	2772	1/2-1/2	2019.11.09
+Giri,A	2776	So,W	2760	1/2-1/2	2019.11.09
+Giri,A	2776	Nakamura,Hi	2741	1/2-1/2	2019.11.25
+Giri,A	2769	Grachev,B	2614	1/2-1/2	2019.12.26
+Karjakin, Sergey	0	Giri, Anish	0	0-1	Wed Nov 06 2019
+Nepomniachtchi, Ian	0	Giri, Anish	0	0-1	Fri Nov 22 2019
+Anand, Viswanathan	0	Giri, Anish	0	0-1	Sat Nov 23 2019
+Rozum, Ivan	0	Giri, Anish	0	0-1	Thu Dec 26 2019
+Moiseenko, Vadim	0	Giri, Anish	0	0-1	Thu Dec 26 2019
+Vidit, Santosh Gujrathi	0	Giri, Anish	0	0-1	Mon Dec 30 2019
+Shimanov, Aleksandr	0	Giri, Anish	0	0-1	Sun Dec 29 2019
+Demchenko, Anton	0	Giri, Anish	0	0-1	Sat Dec 28 2019
+Kramnik,V	2777	Giri,A	2783	0-1	2019.01.12
+Rapport,R	2731	Giri,A	2783	0-1	2019.01.12
+Duda,J	2738	Giri,A	2783	0-1	2019.01.12
+Fedoseev,Vl3	2724	Giri,A	2783	0-1	2019.01.12
+Grischuk,A	2759	Giri,A	2779	1-0	2019.08.03
+Kramnik,V	2753	Giri,A	2779	1-0	2019.08.03
+Ding Liren	2805	Giri,A	2779	1-0	2019.08.17
+Duda,J	2730	Giri,A	2780	1-0	2019.09.02
+Duda,J	2730	Giri,A	2780	1-0	2019.09.02
+Duda,J	2730	Giri,A	2780	1-0	2019.09.02
+Duda,J	2730	Giri,A	2780	1-0	2019.09.02
+Duda,J	2730	Giri,A	2780	1-0	2019.09.02
+Duda,J	2730	Giri,A	2780	1-0	2019.09.02
+Duda,J	2730	Giri,A	2780	1-0	2019.09.02
+Artemiev,V	2731	Giri,A	2776	1-0	2019.11.06
+Le,Quang Liem	2713	Giri,A	2776	1-0	2019.11.09
+Artemiev,V	2731	Giri,A	2776	1-0	2019.11.09
+Mamedyarov, Shakhriyar	0	Giri, Anish	0	1/2-1/2	Sat Nov 09 2019
+Karjakin, Sergey	0	Giri, Anish	0	1/2-1/2	Sun Nov 10 2019
+Vidit, Santosh Gujrathi	0	Giri, Anish	0	1/2-1/2	Sat Nov 23 2019
+Ding, Liren	0	Giri, Anish	0	1/2-1/2	Sun Nov 24 2019
+Carlsen, Magnus	0	Giri, Anish	0	1/2-1/2	Mon Nov 25 2019
+Anand, Viswanathan	0	Giri, Anish	0	1/2-1/2	Mon Nov 25 2019
+Vidit, Santosh Gujrathi	0	Giri, Anish	0	1/2-1/2	Mon Nov 25 2019
+Nakamura, Hikaru	0	Giri, Anish	0	1/2-1/2	Tue Nov 26 2019
+Ding, Liren	0	Giri, Anish	0	1/2-1/2	Tue Nov 26 2019
+Aronian, Levon	0	Giri, Anish	0	1/2-1/2	Tue Nov 26 2019
+So, Wesley	0	Giri, Anish	0	1/2-1/2	Tue Nov 26 2019
+Harikrishna, P.	0	Giri, Anish	0	1/2-1/2	Tue Nov 26 2019
+Wei, Yi	0	Giri, Anish	0	1/2-1/2	Wed Dec 11 2019
+Meskovs,N	2557	Giri,A	2783	0-1	2019.01.08
+Tomczak,J	2631	Giri,A	2783	0-1	2019.01.08
+Postny,E	2623	Giri,A	2783	0-1	2019.01.08
+Nepomniachtchi,I	2775	Giri,A	2779	0-1	2019.06.26
+Vachier Lagrave,M	2775	Giri,A	2779	0-1	2019.07.31
+Duda,J	2729	Giri,A	2779	0-1	2019.07.31
+Duda,J	2730	Giri,A	2780	0-1	2019.09.02
+Duda,J	2730	Giri,A	2780	0-1	2019.09.02
+Najer,E	2635	Giri,A	2780	0-1	2019.09.10
+Najer,E	2635	Giri,A	2780	0-1	2019.09.10
+Mohammad Fahad,Rahman	2250	Giri,A	2780	0-1	2019.09.10
+Papaioannou,I	2645	Giri,A	2780	0-1	2019.10.24
+Firouzja, Alireza	0	Giri, Anish	0	1/2-1/2	Fri Dec 27 2019
+Tsvetkov, Andrey	0	Giri, Anish	0	1/2-1/2	Sun Dec 29 2019
+Socko, Bartosz	0	Giri, Anish	0	1/2-1/2	Sun Dec 29 2019
+Fedoseev, Vladimir	0	Giri, Anish	0	1/2-1/2	Mon Dec 30 2019
+Petrosyan, Manuel	0	Giri, Anish	0	1/2-1/2	Sun Dec 29 2019
+Nakamura, Hikaru	0	Giri, Anish	0	1/2-1/2	Fri Dec 27 2019
+Dreev, Aleksey	0	Giri, Anish	0	1/2-1/2	Sat Dec 28 2019
+Tomashevsky, Evgeny	0	Giri, Anish	0	1/2-1/2	Mon Dec 30 2019
+Nakamura, Hikaru	0	Giri, Anish	0	1/2-1/2	Mon Dec 30 2019
+Vidit,S	2695	Giri,A	2783	1/2-1/2	2019.01.12
+Radjabov,T	2757	Giri,A	2783	1/2-1/2	2019.01.12
+Xiong,Jeffery	2672	Giri,A	2783	1/2-1/2	2019.01.08
+Grischuk,A	2771	Giri,A	2797	1/2-1/2	2019.03.31
+Ding Liren	2812	Giri,A	2797	1/2-1/2	2019.03.31
+Yu Yangyi	2751	Giri,A	2797	1/2-1/2	2019.04.17
+Ding Liren	2809	Giri,A	2797	1/2-1/2	2019.04.17
+Jakovenko,D	2719	Giri,A	2797	1/2-1/2	2019.04.17
+Harikrishna,P	2723	Giri,A	2797	1/2-1/2	2019.04.17
+Rapport,R	2726	Giri,A	2797	1/2-1/2	2019.04.17
+Aronian,L	2752	Giri,A	2779	1/2-1/2	2019.06.26
+Vachier Lagrave,M	2779	Giri,A	2779	1/2-1/2	2019.06.26
+Caruana,F	2819	Giri,A	2779	1/2-1/2	2019.06.26
+Karjakin,Sergey	2748	Giri,A	2779	1/2-1/2	2019.06.26
+Karjakin,Sergey	2748	Giri,A	2779	1/2-1/2	2019.07.12
+Karjakin,Sergey	2748	Giri,A	2779	1/2-1/2	2019.07.12
+Karjakin,Sergey	2748	Giri,A	2779	1/2-1/2	2019.07.12
+Dubov,Daniil	2700	Giri,A	2779	1/2-1/2	2019.07.27
+Nepomniachtchi,I	2775	Giri,A	2779	1/2-1/2	2019.07.27
+Grischuk,A	2766	Giri,A	2779	1/2-1/2	2019.07.27
+Anand,V	2764	Giri,A	2779	1/2-1/2	2019.07.31
+Nepomniachtchi,I	2775	Giri,A	2779	1/2-1/2	2019.07.31
+Gelfand,B	2686	Giri,A	2779	1/2-1/2	2019.08.03
+Anand,V	2756	Giri,A	2779	1/2-1/2	2019.08.04
+Svidler,P	2729	Giri,A	2779	1/2-1/2	2019.08.04
+Grischuk,A	2759	Giri,A	2779	1/2-1/2	2019.08.04
+Gelfand,B	2686	Giri,A	2779	1/2-1/2	2019.08.04
+Carlsen,M	2882	Giri,A	2779	1/2-1/2	2019.08.17
+So,W	2776	Giri,A	2779	1/2-1/2	2019.08.17
+Anand,V	2756	Giri,A	2779	1/2-1/2	2019.08.17
+Mamedyarov,S	2764	Giri,A	2779	1/2-1/2	2019.08.17
+Nakamura,Hi	2743	Giri,A	2779	1/2-1/2	2019.08.17
+Duda,J	2730	Giri,A	2780	1/2-1/2	2019.09.02
+Duda,J	2730	Giri,A	2780	1/2-1/2	2019.09.02
+Duda,J	2730	Giri,A	2780	1/2-1/2	2019.09.02
+Duda,J	2730	Giri,A	2780	1/2-1/2	2019.09.02
+Duda,J	2730	Giri,A	2780	1/2-1/2	2019.09.02
+Najer,E	2635	Giri,A	2780	1/2-1/2	2019.09.10
+Najer,E	2635	Giri,A	2780	1/2-1/2	2019.09.10
+Najer,E	2635	Giri,A	2780	1/2-1/2	2019.09.10
+Xiong,Jeffery	2707	Giri,A	2780	1/2-1/2	2019.09.10
+Giri, A.	2752	Hou Yifan	2680	1-0	2018.01.13
+Giri, A.	2752	Kramnik, V.	2787	1-0	2018.01.13
+Giri, A.	2752	Mamedyarov, S.	2804	1-0	2018.01.13
+Giri, A.	2752	Adhiban, Baskaran	2655	1-0	2018.01.13
+Giri, A.	2777	Navara, D.	2745	1-0	2018.04.19
+Giri, A.	2776	Caruana, F.	2822	1-0	2018.05.24
+Giri, A.	2782	Mamedyarov, S.	2808	1-0	2018.06.15
+Giri, A.	2782	Nakamura, Hi	2769	1-0	2018.06.15
+Giri, A.	2782	Anand, V.	2759	1-0	2018.06.12
+Giri, A.	2782	Mamedyarov, S.	2801	1-0	2018.07.24
+Xiong,Jeffery	2707	Giri,A	2780	1/2-1/2	2019.09.10
+Xiong,Jeffery	2707	Giri,A	2780	1/2-1/2	2019.09.10
+Adams,Mi	2694	Giri,A	2780	1/2-1/2	2019.10.24
+Solak,D	2602	Giri,A	2780	1/2-1/2	2019.10.24
+Jobava,Ba	2617	Giri,A	2780	1/2-1/2	2019.10.24
+Grandelius,N	2691	Giri,A	2780	1/2-1/2	2019.10.24
+Aronian,L	2772	Giri,A	2776	1/2-1/2	2019.11.09
+So,W	2760	Giri,A	2776	1/2-1/2	2019.11.09
+Aronian,L	2772	Giri,A	2776	1/2-1/2	2019.11.06
+Anand,V	2757	Giri,A	2776	1/2-1/2	2019.11.09
+Karjakin,Sergey	2754	Giri,A	2776	1/2-1/2	2019.11.09
+Caruana,F	2822	Giri,A	2776	1/2-1/2	2019.11.09
+Korobov,A	2670	Giri,A	2776	1/2-1/2	2019.11.09
+Nakamura,Hi	2741	Giri,A	2776	1/2-1/2	2019.11.25
+Fedoseev,Vl3	2677	Giri,A	2769	1/2-1/2	2019.12.29
+Giri, A.	2777	Carlsen, M.	2843	0-1	2018.04.19
+Giri, A.	2782	So, W.	2778	0-1	2018.06.15
+Giri, A.	2782	Mamedyarov, S.	2801	1-0	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1-0	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1-0	2018.07.24
+Giri, Anish	2782	Aronian, Levon	2767	1-0	2018.07.24
+Giri, Anish	2780	Tutisani, Noe	2471	1-0	2018.09.24
+Giri, Anish	2783	Golubov, Saveliy	2482	1-0	2018.12.26
+Giri, Anish	2783	Salem, A R Saleh	2660	1-0	2018.12.26
+Giri, Anish	2783	Inarkiev, Ernesto	2693	1-0	2018.12.26
+Giri, Anish	2783	Yudin, Sergei	2507	1-0	2018.12.29
+Giri, Anish	2783	Aronian, Levon	2765	1-0	2018.12.29
+Giri, Anish	2783	Khusnutdinov, Rustam	2470	1-0	2018.12.29
+Giri, Anish	2780	Wojtaszek, Radoslaw	2749	1-0	2018.11.04
+Giri, Anish	2780	Iordachescu, Viorel	2591	1-0	2018.09.24
+Giri, Anish	2780	Debashis, Das	2548	1-0	2018.10.20
+Giri, Anish	2780	House, Glenn L	2180	1-0	2018.10.20
+Giri, Anish	2783	Petrosian, Tigran L	2598	1-0	2018.12.26
+Giri, Anish	2783	Tsydypov, Zhamsaran	2529	1-0	2018.12.29
+Giri, Anish	2782	Aronian, Levon	2767	1-0	2018.07.24
+Giri, Anish	2782	Aronian, Levon	2767	1-0	2018.07.24
+Giri, Anish	2782	Aronian, Levon	2767	1-0	2018.07.24
+Giri, Anish	2782	Aronian, Levon	2767	1-0	2018.07.24
+Giri, Anish	2782	Aronian, Levon	2767	1-0	2018.07.24
+Giri, Anish	2780	Eid, Fadi	2328	1-0	2018.09.24
+Giri, A.	2752	Anand, V.	2767	1/2-1/2	2018.01.13
+Giri, A.	2752	Carlsen, M.	2834	1/2-1/2	2018.01.13
+Giri, A.	2752	Carlsen, M.	2834	1/2-1/2	2018.01.28
+Giri, A.	2752	Karjakin, Sergey	2753	1/2-1/2	2018.01.13
+Giri, A.	2777	Karjakin, Sergey	2778	1/2-1/2	2018.04.19
+Giri, A.	2777	Radjabov, T.	2748	1/2-1/2	2018.04.19
+Giri, A.	2777	Ding Liren	2778	1/2-1/2	2018.04.19
+Giri, A.	2782	Grischuk, A.	2766	1/2-1/2	2018.06.15
+Giri, A.	2782	Aronian, L.	2764	0-1	2018.06.15
+Giri, A.	2782	Anand, V.	2759	1/2-1/2	2018.06.15
+Giri, A.	2782	Caruana, F.	2816	1/2-1/2	2018.06.15
+Giri, A.	2782	Karjakin, Sergey	2782	1/2-1/2	2018.06.15
+Giri, A.	2782	Caruana, F.	2816	0-1	2018.06.12
+Giri, A.	2782	Grischuk, A.	2766	1/2-1/2	2018.06.12
+Giri, A.	2782	Vachier Lagrave, M.	2789	0-1	2018.06.15
+Giri, A.	2782	Aronian, L.	2764	0-1	2018.06.12
+Giri, A.	2782	Duda, J.	2737	1/2-1/2	2018.07.14
+Giri, A.	2782	Kovalev, Vl	2655	0-1	2018.07.14
+Giri, A.	2782	Mamedyarov, S.	2801	0-1	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	0-1	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	0-1	2018.07.24
+Giri, Anish	2782	Aronian, Levon	2767	0-1	2018.07.24
+Giri, Anish	2782	Aronian, Levon	2767	0-1	2018.07.24
+Giri, Anish	2782	Aronian, Levon	2767	0-1	2018.07.24
+Giri, Anish	2782	Aronian, Levon	2767	0-1	2018.07.24
+Giri, A.	2782	Wojtaszek, R.	2733	1/2-1/2	2018.07.14
+Giri, A.	2782	Mamedyarov, S.	2801	1/2-1/2	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1/2-1/2	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1/2-1/2	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1/2-1/2	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1/2-1/2	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1/2-1/2	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1/2-1/2	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1/2-1/2	2018.07.24
+Giri, A.	2782	Mamedyarov, S.	2801	1/2-1/2	2018.07.24
+Giri, Anish	2783	Indjic, Aleksandar	2620	1/2-1/2	2018.12.29
+Giri, Anish	2780	Caruana, Fabiano	2827	1/2-1/2	2018.09.24
+Giri, Anish	2780	Kovalev, Vladislav	2664	1/2-1/2	2018.10.20
+Giri, Anish	2780	Harikrishna, Pendyala	2743	1/2-1/2	2018.09.24
+Giri, Anish	2780	Yu, Yangyi	2764	1/2-1/2	2018.11.04
+Giri, Anish	2783	Cheparinov, Ivan	2709	1/2-1/2	2018.12.29
+Giri, Anish	2782	Aronian, Levon	2767	1/2-1/2	2018.07.24
+Giri, Anish	2783	Demchenko, Anton	2679	1/2-1/2	2018.12.29
+Giri, Anish	2780	Ding, Liren	2816	1/2-1/2	2018.11.04
+Giri, Anish	2780	Rapport, Richard	2725	1/2-1/2	2018.10.20
+Giri, Anish	2783	Korobov, Anton	2698	1/2-1/2	2018.12.26
+Giri, Anish	2782	Aronian, Levon	2767	1/2-1/2	2018.07.24
+Giri, Anish	2783	Nepomniachtchi, Ian	2763	1/2-1/2	2018.12.26
+Giri, Anish	2780	Vachier-Lagrave, Maxime	2778	1/2-1/2	2018.11.04
+Giri, Anish	2783	Karjakin, Sergey	2753	1/2-1/2	2018.12.29
+Carlsen, M.	2834	Giri, A.	2752	1-0	2018.01.28
+Karjakin, Sergey	2782	Giri, A.	2782	1-0	2018.06.15
+Anand, V.	2759	Giri, A.	2782	1-0	2018.06.15
+Nakamura, Hi	2769	Giri, A.	2782	1-0	2018.06.15
+So, W.	2778	Giri, A.	2782	1-0	2018.06.15
+Aronian, L.	2764	Giri, A.	2782	1-0	2018.06.15
+Vachier Lagrave, M.	2789	Giri, A.	2782	1-0	2018.06.12
+So, W.	2778	Giri, A.	2782	1-0	2018.06.12
+Nakamura, Hi	2769	Giri, A.	2782	1-0	2018.06.12
+Mamedyarov, S.	2801	Giri, A.	2782	1-0	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	1-0	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	1-0	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	1-0	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	1-0	2018.07.24
+Aronian, Levon	2767	Giri, Anish	2782	1-0	2018.07.24
+Aronian, Levon	2767	Giri, Anish	2782	1-0	2018.07.24
+Aronian, Levon	2767	Giri, Anish	2782	1-0	2018.07.24
+Giri, Anish	2783	Timofeev, Artyom	2589	1/2-1/2	2018.12.26
+Giri, Anish	2783	Nakamura, Hikaru	2746	1/2-1/2	2018.12.29
+Giri, Anish	2782	Aronian, Levon	2767	1/2-1/2	2018.07.24
+Giri, Anish	2783	Yu, Yangyi	2764	1/2-1/2	2018.12.26
+Giri, Anish	2780	Vitiugov, Nikita	2709	1/2-1/2	2018.11.04
+Giri, Anish	2783	Matlakov, Maxim	2700	1/2-1/2	2018.12.29
+Giri, Anish	2782	Aronian, Levon	2767	1/2-1/2	2018.07.24
+Giri, Anish	2782	Aronian, Levon	2767	1/2-1/2	2018.07.24
+Matlakov, M.	2718	Giri, A.	2752	0-1	2018.01.13
+Kramnik, V.	2792	Giri, A.	2782	0-1	2018.07.14
+Nisipeanu, LD.	2672	Giri, A.	2782	0-1	2018.07.14
+Mamedyarov, S.	2801	Giri, A.	2782	0-1	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	0-1	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	0-1	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	0-1	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	0-1	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	0-1	2018.07.24
+Amonatov, Farrukh	2615	Giri, Anish	2780	0-1	2018.09.24
+Antipov, Mikhail Al	2589	Giri, Anish	2783	0-1	2018.12.29
+Antipov, Mikhail Al	2593	Giri, Anish	2780	0-1	2018.10.20
+Aronian, Levon	2767	Giri, Anish	2782	1-0	2018.07.24
+Aronian, Levon	2767	Giri, Anish	2782	0-1	2018.07.24
+Aronian, Levon	2767	Giri, Anish	2782	1-0	2018.07.24
+Aronian, Levon	2767	Giri, Anish	2782	1-0	2018.07.24
+Aronian, Levon	2767	Giri, Anish	2782	1-0	2018.07.24
+Aronian, Levon	2767	Giri, Anish	2782	1-0	2018.07.24
+Aronian, Levon	2767	Giri, Anish	2782	1-0	2018.07.24
+Aronian, Levon	2767	Giri, Anish	2782	1-0	2018.07.24
+Artemiev, Vladislav	2709	Giri, Anish	2783	0-1	2018.12.29
+Carlsen, Magnus	2835	Giri, Anish	2783	1-0	2018.12.29
+Duda, Jan-Krzysztof	2738	Giri, Anish	2783	1-0	2018.12.29
+Greet, Andrew N	2441	Giri, Anish	2780	0-1	2018.09.24
+Lintchevski, Daniil	2516	Giri, Anish	2783	1-0	2018.12.29
+Svidler, P.	2768	Giri, A.	2752	1/2-1/2	2018.01.13
+So, W.	2792	Giri, A.	2752	1/2-1/2	2018.01.13
+Jones, G.	2640	Giri, A.	2752	1/2-1/2	2018.01.13
+Wei Yi	2743	Giri, A.	2752	1/2-1/2	2018.01.13
+Caruana, F.	2811	Giri, A.	2752	1/2-1/2	2018.01.13
+Mamedyarov, S.	2814	Giri, A.	2777	1/2-1/2	2018.04.19
+Topalov, V.	2749	Giri, A.	2777	1/2-1/2	2018.04.19
+Wojtaszek, R.	2744	Giri, A.	2777	1/2-1/2	2018.04.19
+Mamedov, Rau	2704	Giri, A.	2777	1/2-1/2	2018.04.19
+Mamedyarov, S.	2808	Giri, A.	2782	1/2-1/2	2018.06.15
+Grischuk, A.	2766	Giri, A.	2782	1/2-1/2	2018.06.15
+Vachier Lagrave, M.	2789	Giri, A.	2782	1/2-1/2	2018.06.15
+Caruana, F.	2816	Giri, A.	2782	1/2-1/2	2018.06.15
+Mamedyarov, S.	2808	Giri, A.	2782	1/2-1/2	2018.06.12
+Karjakin, Sergey	2782	Giri, A.	2782	1/2-1/2	2018.06.12
+Nepomniachtchi, I.	2757	Giri, A.	2782	1/2-1/2	2018.07.14
+Meier, Geo	2628	Giri, A.	2782	1/2-1/2	2018.07.14
+Mamedyarov, S.	2801	Giri, A.	2782	1/2-1/2	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	1/2-1/2	2018.07.24
+Jakovenko, Dmitry	2735	Giri, Anish	2783	0-1	2018.12.29
+Kryakvin, Dmitry	2588	Giri, Anish	2783	0-1	2018.12.29
+Roiz, Michael	2605	Giri, Anish	2783	0-1	2018.12.29
+So, Wesley	2776	Giri, Anish	2780	0-1	2018.09.11
+Sulskis, Sarunas	2525	Giri, Anish	2780	0-1	2018.09.24
+Yudin, Sergei	2507	Giri, Anish	2783	0-1	2018.12.26
+Mamedyarov, S.	2801	Giri, A.	2782	1/2-1/2	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	1/2-1/2	2018.07.24
+Mamedyarov, S.	2801	Giri, A.	2782	1/2-1/2	2018.07.24
+Aronian, Levon	2767	Giri, Anish	2782	1/2-1/2	2018.07.24
+Aronian, Levon	2767	Giri, Anish	2782	1/2-1/2	2018.07.24
+Aronian, Levon	2767	Giri, Anish	2782	1/2-1/2	2018.07.24
+Batchuluun, Tsegmed	2570	Giri, Anish	2780	1/2-1/2	2018.09.24
+Ding, Liren	2804	Giri, Anish	2780	1/2-1/2	2018.09.24
+Ding, Liren	2816	Giri, Anish	2780	1/2-1/2	2018.11.04
+Dreev, Aleksey	2670	Giri, Anish	2783	1/2-1/2	2018.12.29
+Fridman, Daniel	2600	Giri, Anish	2780	1/2-1/2	2018.10.20
+Kashlinskaya, Alina	2447	Giri, Anish	2780	1/2-1/2	2018.10.20
+L'Ami, Erwin	2639	Giri, Anish	2780	1/2-1/2	2018.10.20
+Le, Quang Liem	2714	Giri, Anish	2783	1/2-1/2	2018.12.29
+Mamedyarov, Shakhriyar	2817	Giri, Anish	2783	1/2-1/2	2018.12.26
+Matlakov, Maxim	2700	Giri, Anish	2783	1/2-1/2	2018.12.26
+Nisipeanu, Liviu-Dieter	2661	Giri, Anish	2780	1/2-1/2	2018.09.24
+Oparin, Grigoriy	2613	Giri, Anish	2783	1/2-1/2	2018.12.26
+Sethuraman, S P	2673	Giri, Anish	2780	1/2-1/2	2018.10.20
+Shaposhnikov, Evgeny	2576	Giri, Anish	2783	1/2-1/2	2018.12.26
+Shirov, Alexei	2643	Giri, Anish	2783	1/2-1/2	2018.12.26
+Vachier-Lagrave, Maxime	2778	Giri, Anish	2780	1/2-1/2	2018.11.04
+Vitiugov, Nikita	2709	Giri, Anish	2780	1/2-1/2	2018.11.04
+Vitiugov, Nikita	2719	Giri, Anish	2783	1/2-1/2	2018.12.29
+Wang, Hao	2730	Giri, Anish	2783	1/2-1/2	2018.12.26
+Giri, A.	2773	Nepomniachtchi, I.	2767	1-0	2017.01.14
+Giri, A.	2756	Gajewski, G.	2621	1-0	2016.10.15
+Giri, A.	2771	Stefansson, Vignir Vatnar	2341	1-0	2017.04.19
+Giri, A.	2771	Van Foreest, Jorden	2584	1-0	2017.04.19
+Giri, A.	2771	L'Ami, E.	2614	1-0	2017.04.19
+Giri, A.	2785	Romanov, E.	2636	1-0	2017.05.01
+Giri, A.	2785	Salem, AR.	2633	1-0	2017.05.12
+Giri, A.	2785	So, W.	2815	1-0	2017.05.03
+Giri, A.	2785	So, W.	2815	1-0	2017.05.03
+Giri, A.	2785	So, W.	2815	1-0	2017.05.03
+Giri, A.	2785	So, W.	2815	1-0	2017.05.03
+Giri, A.	2771	Anand, V.	2786	1-0	2017.06.06
+Giri, A.	2771	Aronian, L.	2793	1-0	2017.06.28
+Giri, A.	2771	Jobava, Ba	2707	1-0	2017.07.01
+Giri, A.	2771	Carlsen, M.	2832	1-0	2017.07.01
+Giri, A.	2777	Dzagnidze, N.	2519	1-0	2017.09.03
+Giri, A.	2777	Sethuraman, S.	2617	1-0	2017.09.03
+Giri, A.	2777	Sethuraman, S.	2617	1-0	2017.09.03
+Giri, A.	2777	Motylev, A.	2668	1-0	2017.09.03
+Giri, A.	2762	Zvjaginsev, V.	2643	1-0	2017.10.08
+Giri, A.	2762	Podlesnik, B.	2372	1-0	2017.10.08
+Giri, A.	2762	Eljanov, P.	2720	1-0	2017.10.28
+Giri, A.	2762	Lupulescu, C.	2620	1-0	2017.10.28
+Wojtaszek, Radoslaw	2749	Giri, Anish	2780	1/2-1/2	2018.11.04
+Yu, Yangyi	2764	Giri, Anish	2780	1/2-1/2	2018.11.04
+Giri, A.	2773	So, W.	2808	1/2-1/2	2017.01.14
+Giri, A.	2773	Andreikin, D.	2736	1/2-1/2	2017.01.14
+Giri, A.	2773	Eljanov, P.	2755	1/2-1/2	2017.01.14
+Giri, A.	2773	Rapport, R.	2702	1/2-1/2	2017.01.14
+Giri, A.	2773	Harikrishna, P.	2766	1/2-1/2	2017.01.14
+Giri, A.	2769	Ding Liren	2759	1/2-1/2	2017.03.23
+Giri, A.	2769	Svidler, P.	2741	1/2-1/2	2017.03.23
+Giri, A.	2769	Adams, Mi	2761	1/2-1/2	2017.03.23
+Giri, A.	2769	Harikrishna, P.	2758	1/2-1/2	2017.03.23
+Giri, A.	2769	Yu Yangyi	2750	1/2-1/2	2017.03.23
+Giri, A.	2756	Granda Zuniga, J.	2648	0-1	2016.10.15
+Giri, A.	2771	Grandelius, N.	2641	1/2-1/2	2017.04.19
+Giri, A.	2771	Kamsky, G.	2668	1/2-1/2	2017.04.19
+Giri, A.	2785	Artemiev, V.	2682	1/2-1/2	2017.05.01
+Giri, A.	2785	Zvjaginsev, V.	2661	1/2-1/2	2017.05.01
+Giri, A.	2785	Gelfand, B.	2724	1/2-1/2	2017.05.12
+Giri, A.	2785	So, W.	2815	0-1	2017.05.03
+Giri, A.	2785	So, W.	2815	0-1	2017.05.03
+Giri, A.	2785	So, W.	2815	0-1	2017.05.03
+Giri, A.	2771	So, W.	2812	0-1	2017.06.05
+Giri, A.	2771	Nakamura, Hi	2785	0-1	2017.06.05
+Giri, A.	2775	Radjabov, T.	2724	0-1	2017.07.06
+Giri, A.	2762	Rapport, R.	2692	1-0	2017.11.16
+Giri, A.	2752	Smeets, J.	2608	1-0	2017.12.02
+Giri, A.	2752	Van den Doel, E.	2589	1-0	2017.12.02
+Giri, A.	2785	Vallejo Pons, F.	2710	1/2-1/2	2017.05.12
+Giri, A.	2785	Grischuk, A.	2750	1/2-1/2	2017.05.12
+Giri, A.	2785	Nakamura, Hi	2786	1/2-1/2	2017.05.12
+Giri, A.	2785	So, W.	2815	1/2-1/2	2017.05.03
+Giri, A.	2785	So, W.	2815	1/2-1/2	2017.05.03
+Giri, A.	2785	So, W.	2815	1/2-1/2	2017.05.03
+Giri, A.	2785	So, W.	2815	1/2-1/2	2017.05.03
+Giri, A.	2785	So, W.	2815	1/2-1/2	2017.05.03
+Giri, A.	2785	So, W.	2815	1/2-1/2	2017.05.03
+Giri, A.	2785	So, W.	2815	1/2-1/2	2017.05.03
+Giri, A.	2771	Kramnik, V.	2808	1/2-1/2	2017.06.05
+Giri, A.	2771	Caruana, F.	2808	1/2-1/2	2017.06.05
+Giri, A.	2771	So, W.	2812	1/2-1/2	2017.06.06
+Giri, A.	2771	Karjakin, Sergey	2781	1/2-1/2	2017.06.06
+Giri, A.	2771	Caruana, F.	2808	1/2-1/2	2017.06.06
+Giri, A.	2771	Kramnik, V.	2808	1/2-1/2	2017.06.28
+Giri, A.	2771	Vachier Lagrave, M.	2796	1/2-1/2	2017.07.01
+Giri, A.	2771	So, W.	2812	1/2-1/2	2017.06.28
+Giri, A.	2771	Carlsen, M.	2832	1/2-1/2	2017.06.28
+Giri, A.	2771	Anand, V.	2786	1/2-1/2	2017.06.28
+Giri, A.	2771	Aronian, L.	2793	1/2-1/2	2017.07.01
+Giri, A.	2771	So, W.	2812	1/2-1/2	2017.07.01
+Giri, A.	2771	Anand, V.	2786	1/2-1/2	2017.07.01
+Giri, A.	2771	Kramnik, V.	2808	1/2-1/2	2017.07.01
+Giri, A.	2771	Ivanchuk, V.	2738	1/2-1/2	2017.07.01
+Aronian, L.	2780	Giri, A.	2773	1-0	2017.01.14
+So, W.	2815	Giri, A.	2785	1-0	2017.05.03
+So, W.	2815	Giri, A.	2785	1-0	2017.05.03
+So, W.	2815	Giri, A.	2785	1-0	2017.05.03
+Giri, A.	2771	Nepomniachtchi, I.	2732	1/2-1/2	2017.07.01
+Giri, A.	2775	Riazantsev, A.	2654	1/2-1/2	2017.07.06
+Giri, A.	2775	Li Chao2	2735	1/2-1/2	2017.07.06
+Giri, A.	2775	Grischuk, A.	2761	1/2-1/2	2017.07.06
+Giri, A.	2775	Aronian, L.	2809	1/2-1/2	2017.07.06
+Giri, A.	2777	Sethuraman, S.	2617	1/2-1/2	2017.09.03
+Giri, A.	2777	Motylev, A.	2668	1/2-1/2	2017.09.03
+Giri, A.	2777	Motylev, A.	2668	1/2-1/2	2017.09.03
+Giri, A.	2777	Ivanchuk, V.	2727	1/2-1/2	2017.09.03
+Giri, A.	2762	Lupulescu, C.	2620	1/2-1/2	2017.10.08
+Giri, A.	2762	Safarli, E.	2632	1/2-1/2	2017.10.08
+Giri, A.	2762	Solak, D.	2626	1/2-1/2	2017.10.28
+Giri, A.	2762	Navara, D.	2726	1/2-1/2	2017.10.28
+Giri, A.	2762	Riazantsev, A.	2651	1/2-1/2	2017.11.16
+Giri, A.	2762	Vachier Lagrave, M.	2796	1/2-1/2	2017.11.16
+Giri, A.	2762	Vallejo Pons, F.	2705	1/2-1/2	2017.11.16
+Giri, A.	2762	Jakovenko, D.	2721	1/2-1/2	2017.11.16
+Giri, A.	2752	Van Wely, L.	2657	1/2-1/2	2017.12.02
+Giri, A.	2752	Bok, B.	2601	1/2-1/2	2017.12.02
+Giri, Anish	2772	Ding, Liren	2777	1/2-1/2	2017.08.08
+Giri, Anish	2772	Ding, Liren	2777	1/2-1/2	2017.08.08
+Harikrishna, P.	2758	Giri, A.	2769	0-1	2017.03.23
+Perelshteyn, E.	2509	Giri, A.	2771	0-1	2017.04.19
+Jonsson, Gauti Pall	2087	Giri, A.	2771	0-1	2017.04.19
+Jonsson, Gauti Pall	2087	Giri, A.	2771	0-1	2017.04.19
+Jobava, Ba	2712	Giri, A.	2771	0-1	2017.04.19
+Donchenko, Alexa	2554	Giri, A.	2771	0-1	2017.04.19
+Esipenko, Andrey	2509	Giri, A.	2785	0-1	2017.05.01
+So, W.	2815	Giri, A.	2785	0-1	2017.05.03
+So, W.	2815	Giri, A.	2785	1-0	2017.05.03
+Karjakin, Sergey	2781	Giri, A.	2771	1-0	2017.06.05
+Vachier Lagrave, M.	2796	Giri, A.	2771	1-0	2017.06.05
+Carlsen, M.	2832	Giri, A.	2771	1-0	2017.06.05
+Aronian, L.	2793	Giri, A.	2771	1-0	2017.06.05
+Nakamura, Hi	2785	Giri, A.	2771	1-0	2017.06.06
+Kramnik, V.	2808	Giri, A.	2771	1-0	2017.06.06
+Kramnik, V.	2808	Giri, A.	2771	1-0	2017.07.01
+Nepomniachtchi, I.	2732	Giri, A.	2771	1-0	2017.06.28
+Nepomniachtchi, I.	2732	Giri, A.	2771	1-0	2017.07.01
+Aronian, L.	2793	Giri, A.	2771	1-0	2017.07.01
+Sethuraman, S.	2617	Giri, A.	2777	1-0	2017.09.03
+Ivanchuk, V.	2727	Giri, A.	2777	1-0	2017.09.03
+Lenic, L.	2650	Giri, A.	2762	1-0	2017.10.28
+Aronian, L.	2801	Giri, A.	2762	1-0	2017.11.16
+Li Chao2	2741	Giri, A.	2762	1-0	2017.11.16
+Van Foreest, Jorden	2629	Giri, A.	2752	1-0	2017.12.02
+Wojtaszek, R.	2750	Giri, A.	2773	1/2-1/2	2017.01.14
+Karjakin, Sergey	2785	Giri, A.	2773	1/2-1/2	2017.01.14
+Wei Yi	2706	Giri, A.	2773	1/2-1/2	2017.01.14
+Carlsen, M.	2840	Giri, A.	2773	1/2-1/2	2017.01.14
+Adhiban, Baskaran	2653	Giri, A.	2773	1/2-1/2	2017.01.14
+Van Wely, L.	2695	Giri, A.	2773	1/2-1/2	2017.01.14
+Inarkiev, E.	2732	Giri, A.	2756	1/2-1/2	2016.10.15
+Adams, Mi	2761	Giri, A.	2769	1/2-1/2	2017.03.23
+Yu Yangyi	2750	Giri, A.	2769	1/2-1/2	2017.03.23
+Ding Liren	2759	Giri, A.	2769	1/2-1/2	2017.03.23
+So, W.	2815	Giri, A.	2785	0-1	2017.05.03
+So, W.	2815	Giri, A.	2785	0-1	2017.05.03
+Vachier Lagrave, M.	2796	Giri, A.	2771	0-1	2017.06.06
+Ivanchuk, V.	2738	Giri, A.	2771	0-1	2017.07.01
+Ivanchuk, V.	2738	Giri, A.	2771	0-1	2017.06.28
+Jobava, Ba	2707	Giri, A.	2771	0-1	2017.07.01
+So, W.	2812	Giri, A.	2771	0-1	2017.07.01
+Salem, AR.	2638	Giri, A.	2775	0-1	2017.07.06
+Hou Yifan	2666	Giri, A.	2775	0-1	2017.07.06
+Sethuraman, S.	2617	Giri, A.	2777	0-1	2017.09.03
+Motylev, A.	2668	Giri, A.	2777	0-1	2017.09.03
+Bjornsson, Si	2277	Giri, A.	2762	0-1	2017.10.08
+Zhigalko, S.	2638	Giri, A.	2762	0-1	2017.10.28
+Sokolov, Ivan	2589	Giri, A.	2752	0-1	2017.12.02
+Ding, Liren	2777	Giri, Anish	2772	0-1	2017.08.08
+Svidler, P.	2741	Giri, A.	2769	1/2-1/2	2017.03.23
+Lupulescu, C.	2609	Giri, A.	2756	1/2-1/2	2016.10.15
+Vidit, S.	2670	Giri, A.	2771	1/2-1/2	2017.04.19
+Predke, A.	2566	Giri, A.	2785	1/2-1/2	2017.05.01
+Matlakov, M.	2714	Giri, A.	2785	1/2-1/2	2017.05.01
+Hammer, J.	2621	Giri, A.	2785	1/2-1/2	2017.05.12
+Adams, Mi	2747	Giri, A.	2785	1/2-1/2	2017.05.12
+Tomashevsky, E.	2696	Giri, A.	2785	1/2-1/2	2017.05.12
+Ding Liren	2773	Giri, A.	2785	1/2-1/2	2017.05.12
+So, W.	2815	Giri, A.	2785	1/2-1/2	2017.05.03
+So, W.	2815	Giri, A.	2785	1/2-1/2	2017.05.03
+So, W.	2815	Giri, A.	2785	1/2-1/2	2017.05.03
+So, W.	2815	Giri, A.	2785	1/2-1/2	2017.05.03
+So, W.	2815	Giri, A.	2785	1/2-1/2	2017.05.03
+So, W.	2815	Giri, A.	2785	1/2-1/2	2017.05.03
+Anand, V.	2786	Giri, A.	2771	1/2-1/2	2017.06.05
+Aronian, L.	2793	Giri, A.	2771	1/2-1/2	2017.06.06
+Carlsen, M.	2832	Giri, A.	2771	1/2-1/2	2017.06.06
+Jobava, Ba	2707	Giri, A.	2771	1/2-1/2	2017.06.28
+Vachier Lagrave, M.	2796	Giri, A.	2771	1/2-1/2	2017.06.28
+Carlsen, M.	2832	Giri, A.	2771	1/2-1/2	2017.07.01
+Anand, V.	2786	Giri, A.	2771	1/2-1/2	2017.07.01
+Vachier Lagrave, M.	2796	Giri, A.	2771	1/2-1/2	2017.07.01
+Gelfand, B.	2728	Giri, A.	2775	1/2-1/2	2017.07.06
+Jakovenko, D.	2703	Giri, A.	2775	1/2-1/2	2017.07.06
+Giri, A.	2782	Fressinet, L.	2687	1-0	2016.06.11
+Giri, A.	2782	Carlsen, M.	2855	1-0	2016.06.11
+Giri, A.	2782	Topalov, V.	2761	1-0	2016.06.11
+Giri, A.	2782	Fressinet, L.	2687	1-0	2016.06.09
+Giri, A.	2782	Topalov, V.	2761	1-0	2016.06.19
+Giri, A.	2782	Vachier Lagrave, M.	2789	1-0	2016.06.17
+Giri, A.	2790	Karjakin, Sergey	2779	1-0	2016.05.26
+Giri, A.	2790	Harikrishna, P.	2763	1-0	2016.05.26
+Giri, A.	2790	Carlsen, M.	2851	1-0	2016.04.18
+Giri, A.	2790	Eljanov, P.	2765	1-0	2016.04.18
+Giri, A.	2798	Mamedyarov, S.	2747	1-0	2016.01.16
+Giri, A.	2790	Eljanov, P.	2765	1-0	2016.04.19
+Dzagnidze, N.	2519	Giri, A.	2777	1/2-1/2	2017.09.03
+Sethuraman, S.	2617	Giri, A.	2777	1/2-1/2	2017.09.03
+Motylev, A.	2668	Giri, A.	2777	1/2-1/2	2017.09.03
+Motylev, A.	2668	Giri, A.	2777	1/2-1/2	2017.09.03
+Jakovenko, D.	2710	Giri, A.	2762	1/2-1/2	2017.10.08
+Sasikiran, K.	2677	Giri, A.	2762	1/2-1/2	2017.10.08
+Djukic, Ni	2519	Giri, A.	2762	1/2-1/2	2017.10.28
+Leko, P.	2679	Giri, A.	2762	1/2-1/2	2017.10.28
+Aronian, L.	2801	Giri, A.	2762	1/2-1/2	2017.10.28
+Radjabov, T.	2741	Giri, A.	2762	1/2-1/2	2017.11.16
+Ding Liren	2774	Giri, A.	2762	1/2-1/2	2017.11.16
+Timman, J.	2562	Giri, A.	2752	1/2-1/2	2017.12.02
+Ding, Liren	2777	Giri, Anish	2772	1/2-1/2	2017.08.08
+Giri, A.	2798	Carlsen, M.	2844	1/2-1/2	2016.01.16
+Giri, A.	2790	Hou Yifan	2663	1/2-1/2	2016.05.26
+Giri, A.	2790	Eljanov, P.	2765	1/2-1/2	2016.05.26
+Giri, A.	2782	Vachier Lagrave, M.	2789	1/2-1/2	2016.06.11
+Giri, A.	2782	So, W.	2770	0-1	2016.06.11
+Giri, A.	2782	Kramnik, V.	2812	1/2-1/2	2016.06.11
+Giri, A.	2782	Caruana, F.	2804	0-1	2016.06.11
+Giri, A.	2782	Nakamura, Hi	2787	0-1	2016.06.11
+Giri, A.	2782	Carlsen, M.	2855	0-1	2016.06.17
+Giri, A.	2790	Vachier Lagrave, M.	2788	0-1	2016.04.18
+Giri, A.	2790	Vachier Lagrave, M.	2788	0-1	2016.04.19
+Giri, A.	2790	Harikrishna, P.	2763	0-1	2016.04.19
+Giri, A.	2798	Anand, V.	2784	0-1	2016.02.12
+Giri, A.	2798	Aronian, L.	2792	0-1	2016.02.12
+Giri, A.	2798	Anand, V.	2784	0-1	2016.02.13
+Giri, A.	2798	Nakamura, Hi	2787	0-1	2016.02.15
+Giri, A.	2769	Svidler, P.	2751	0-1	2016.08.05
+Giri, A.	2755	Gruenfeld, Y.	2451	1-0	2016.09.02
+Giri, A.	2755	Le Quang Liem	2723	1-0	2016.09.02
+Giri, A.	2755	Tomashevsky, E.	2731	1-0	2016.09.25
+Giri, A.	2755	Kramnik, V.	2808	0-1	2016.09.25
+Giri, A.	2755	Anand, V.	2776	1-0	2016.09.25
+Giri, A.	2755	Tomashevsky, E.	2731	1-0	2016.09.26
+Giri, A.	2767	Dominguez Perez, L.	2752	1-0	2016.11.06
+Giri, A.	2767	Vallejo Pons, F.	2716	1-0	2016.11.06
+Giri, A.	2782	Aronian, L.	2792	1/2-1/2	2016.06.11
+Giri, A.	2782	So, W.	2770	1/2-1/2	2016.06.09
+Giri, A.	2782	Kramnik, V.	2812	1/2-1/2	2016.06.09
+Giri, A.	2782	Aronian, L.	2792	1/2-1/2	2016.06.09
+Giri, A.	2782	Nakamura, Hi	2787	1/2-1/2	2016.06.09
+Giri, A.	2782	Vachier Lagrave, M.	2789	1/2-1/2	2016.06.19
+Giri, A.	2782	Anand, V.	2770	1/2-1/2	2016.06.19
+Giri, A.	2782	Nakamura, Hi	2787	1/2-1/2	2016.06.19
+Giri, A.	2782	Caruana, F.	2804	1/2-1/2	2016.06.19
+Giri, A.	2782	Kramnik, V.	2812	1/2-1/2	2016.06.19
+Giri, A.	2782	Aronian, L.	2792	1/2-1/2	2016.06.19
+Giri, A.	2782	Carlsen, M.	2855	1/2-1/2	2016.06.19
+Giri, A.	2782	So, W.	2770	1/2-1/2	2016.06.19
+Giri, A.	2782	Topalov, V.	2761	1/2-1/2	2016.06.17
+Giri, A.	2782	Caruana, F.	2804	1/2-1/2	2016.06.17
+Giri, A.	2790	Grandelius, N.	2649	1/2-1/2	2016.04.19
+Giri, A.	2790	Topalov, V.	2754	1/2-1/2	2016.04.18
+Giri, A.	2790	Kramnik, V.	2801	1/2-1/2	2016.04.18
+Giri, A.	2798	Tomashevsky, E.	2728	1/2-1/2	2016.01.16
+Giri, A.	2798	Caruana, F.	2787	1/2-1/2	2016.01.16
+Giri, A.	2798	Ding Liren	2766	1/2-1/2	2016.01.16
+Giri, A.	2798	Hou Yifan	2673	1/2-1/2	2016.01.16
+Giri, A.	2793	Nakamura, Hi	2790	1/2-1/2	2016.03.11
+Giri, A.	2793	Topalov, V.	2780	1/2-1/2	2016.03.11
+Giri, A.	2793	Svidler, P.	2757	1/2-1/2	2016.03.11
+Giri, A.	2793	Anand, V.	2762	1/2-1/2	2016.03.11
+Giri, A.	2793	Caruana, F.	2794	1/2-1/2	2016.03.11
+Giri, A.	2793	Karjakin, Sergey	2760	1/2-1/2	2016.03.11
+Giri, A.	2793	Aronian, L.	2786	1/2-1/2	2016.03.11
+Giri, A.	2790	Aronian, L.	2784	1/2-1/2	2016.04.19
+Giri, A.	2798	Shirov, A.	2684	1/2-1/2	2016.02.13
+Giri, A.	2798	Aronian, L.	2792	1/2-1/2	2016.02.15
+Giri, A.	2798	Kramnik, V.	2801	1/2-1/2	2016.02.15
+Giri, A.	2785	Wei Yi	2696	1/2-1/2	2016.07.13
+Giri, A.	2785	So, W.	2770	1/2-1/2	2016.07.13
+Giri, A.	2785	Carlsen, M.	2855	1/2-1/2	2016.07.13
+Giri, A.	2785	Nakamura, Hi	2787	1/2-1/2	2016.07.13
+Giri, A.	2785	Karjakin, Sergey	2773	1/2-1/2	2016.07.13
+Giri, A.	2769	Ding Liren	2755	1/2-1/2	2016.08.05
+Giri, A.	2769	Vachier Lagrave, M.	2819	1/2-1/2	2016.08.05
+Giri, A.	2769	Aronian, L.	2792	1/2-1/2	2016.08.05
+Giri, A.	2769	Anand, V.	2770	1/2-1/2	2016.08.05
+Giri, A.	2755	Zhigalko, S.	2652	1/2-1/2	2016.09.02
+Giri, A.	2755	Navara, D.	2742	1/2-1/2	2016.09.02
+Giri, A.	2755	Dominguez Perez, L.	2720	1/2-1/2	2016.09.02
+Giri, A.	2755	Anand, V.	2776	1/2-1/2	2016.09.26
+Giri, A.	2755	Li Chao2	2746	1/2-1/2	2016.09.25
+Giri, A.	2755	Gelfand, B.	2743	1/2-1/2	2016.09.25
+Giri, A.	2755	Nepomniachtchi, I.	2740	1/2-1/2	2016.09.26
+Giri, A.	2755	Mamedyarov, S.	2761	1/2-1/2	2016.09.26
+Mamedyarov, S.	2748	Giri, A.	2790	1-0	2016.05.26
+Nakamura, Hi	2787	Giri, A.	2782	1-0	2016.06.11
+Topalov, V.	2761	Giri, A.	2782	1-0	2016.06.11
+Carlsen, M.	2855	Giri, A.	2782	1-0	2016.06.11
+Topalov, V.	2761	Giri, A.	2782	1-0	2016.06.09
+Kramnik, V.	2812	Giri, A.	2782	1-0	2016.06.19
+Nakamura, Hi	2787	Giri, A.	2782	1-0	2016.06.19
+Topalov, V.	2761	Giri, A.	2782	1-0	2016.06.19
+Caruana, F.	2804	Giri, A.	2782	1-0	2016.06.19
+Anand, V.	2770	Giri, A.	2782	1-0	2016.06.17
+Aronian, L.	2792	Giri, A.	2782	1-0	2016.06.17
+So, W.	2773	Giri, A.	2798	1-0	2016.01.16
+Nakamura, Hi	2787	Giri, A.	2798	1-0	2016.02.12
+Kramnik, V.	2801	Giri, A.	2798	1-0	2016.02.13
+Wei Yi	2696	Giri, A.	2785	1-0	2016.07.13
+So, W.	2770	Giri, A.	2785	1-0	2016.07.13
+Carlsen, M.	2855	Giri, A.	2785	1-0	2016.07.13
+Nakamura, Hi	2791	Giri, A.	2769	1-0	2016.08.05
+Giri, A.	2755	Kramnik, V.	2808	1/2-1/2	2016.09.26
+Giri, A.	2767	Papp, Ga	2587	1/2-1/2	2016.11.06
+Giri, A.	2767	Dubov, Daniil	2648	1/2-1/2	2016.11.06
+Giri, A.	2771	So, W.	2794	1/2-1/2	2016.12.09
+Giri, A.	2771	Nakamura, Hi	2779	1/2-1/2	2016.12.09
+Giri, A.	2771	Topalov, V.	2760	1/2-1/2	2016.12.09
+Giri, A.	2771	Caruana, F.	2823	1/2-1/2	2016.12.09

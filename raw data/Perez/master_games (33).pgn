@@ -1,0 +1,737 @@
+[Event "Tbilisi FIDE GP 2015"]
+[Site "Tbilisi GEO"]
+[Date "2015.02.25"]
+[Round "9.4"]
+[White "Grischuk, A."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[WhiteElo "2810"]
+[BlackElo "2726"]
+[PlyCount "91"]
+[EventDate "2015.02.15"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GEO"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2015.03.02"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. d5 Nb8 13. Nf1 Nbd7 14. N3h2 Nc5 15.
+Bc2 c6 16. b4 Ncd7 17. dxc6 Bxc6 18. Bg5 Qc7 19. Bxf6 Nxf6 20. Ng4 Nxg4 21.
+hxg4 Be7 22. Ne3 Bg5 23. Qd3 Bd7 24. Nd5 Qb7 25. a4 h6 26. Qe2 Be6 27. axb5
+axb5 28. Bb3 Rxa1 29. Rxa1 Ra8 30. Rxa8+ Qxa8 31. Qd1 Qa3 32. f3 Qb2 33. Qc2
+Qa1+ 34. Qd1 Qb2 35. Qc2 Qxc2 36. Bxc2 Bxd5 37. exd5 Bd2 38. Bd3 Bxc3 39. Bxb5
+Bxb4 40. Kf2 Kf8 41. Ke3 Ke7 42. f4 Kf6 43. Ke4 Ba3 44. Bc4 Bb4 45. Bb3 Bc5 46.
+Bc4 1/2-1/2
+
+
+[Event "Tbilisi FIDE GP 2015"]
+[Site "Tbilisi GEO"]
+[Date "2015.02.27"]
+[Round "11.6"]
+[White "Giri, A."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2797"]
+[BlackElo "2726"]
+[PlyCount "126"]
+[EventDate "2015.02.15"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "GEO"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2015.03.02"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. e4 d6 7. Be2 c5 8. d5
+Nbd7 9. O-O e5 10. Ne1 Ne8 11. Nd3 g6 12. b4 b6 13. a4 a5 14. bxa5 Rxa5 15. Nb3
+Ra6 16. Bh6 Ng7 17. Qd2 Nf6 18. f3 Kh8 19. a5 Ng8 20. Be3 f5 21. axb6 Rxa1 22.
+Rxa1 Qxb6 23. Qc2 Nf6 24. Nf2 Bd7 25. Rb1 Rb8 26. Nd2 Qa7 27. Rxb8+ Qxb8 28. f4
+exf4 29. Bxf4 fxe4 30. g4 Qf8 31. Be3 h5 32. h3 hxg4 33. hxg4 Nge8 34. Kg2 Qg7
+35. Qb1 Kg8 36. Qb8 Bf8 37. Qb3 Qe7 38. Bf4 e3 39. Qxe3 Qxe3 40. Bxe3 Be7 41.
+Kg3 Nh7 42. Nf3 Kg7 43. Bd3 Kf7 44. Bc2 Kg7 45. Bd2 Nef6 46. Bc3 Kf7 47. Nh4
+Nf8 48. Nf3 Bc8 49. Ng5+ Kg8 50. Nf3 Ba6 51. Bd3 Kf7 52. Ba5 Ke8 53. Kf4 Bd8
+54. Bc3 Be7 55. Nd2 N6d7 56. Nd1 Bf6 57. Bxf6 Nxf6 58. Ne3 N6d7 59. Nf3 Kf7 60.
+Bf1 Kf6 61. Ng5 Ke7 62. Ne4 Nh7 63. Be2 Nhf6 1/2-1/2
+
+
+[Event "10th World Teams 2015"]
+[Site "Tsaghkadzor ARM"]
+[Date "2015.04.25"]
+[Round "6.3"]
+[White "Ponomariov, R."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "A15"]
+[WhiteElo "2713"]
+[BlackElo "2729"]
+[PlyCount "45"]
+[EventDate "2015.04.19"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "ARM"]
+[Source "Mark Crowther"]
+[SourceDate "2015.04.27"]
+[WhiteTeam "Ukraine"]
+[BlackTeam "Cuba"]
+[WhiteTeamCountry "UKR"]
+[BlackTeamCountry "CUB"]
+
+1. Nf3 Nf6 2. c4 c5 3. g3 Nc6 4. Nc3 d5 5. d4 e6 6. cxd5 Nxd5 7. Bg2 cxd4 8.
+Nxd4 Nxc3 9. bxc3 Nxd4 10. Qxd4 Qxd4 11. cxd4 Bd6 12. a4 Rb8 13. a5 Bd7 14. Ba3
+Ke7 15. Kd2 Rhc8 16. Rhb1 b5 17. axb6 Rxb6 18. Be4 Rxb1 19. Bxb1 Rc4 20. Bxd6+
+Kxd6 21. Rxa7 Rxd4+ 22. Ke3 Rd5 23. Be4 1/2-1/2
+
+
+[Event "10th World Teams 2015"]
+[Site "Tsaghkadzor ARM"]
+[Date "2015.04.22"]
+[Round "4.2"]
+[White "Amin, B."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2634"]
+[BlackElo "2729"]
+[PlyCount "55"]
+[EventDate "2015.04.19"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "ARM"]
+[Source "Mark Crowther"]
+[SourceDate "2015.04.27"]
+[WhiteTeam "Egypt"]
+[BlackTeam "Cuba"]
+[WhiteTeamCountry "EGY"]
+[BlackTeamCountry "CUB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5
+8. Rxe5 O-O 9. d4 Ne8 10. Bd3 d5 11. Bf4 Be6 12. Re3 Bd6 13. Be5 g6 14. c3 Ng7
+15. Qf3 Bxe5 16. Rxe5 f6 17. Re3 Bf5 18. Bxf5 Nxf5 19. Re2 Qd7 20. Nd2 Rae8 21.
+Rae1 Rxe2 22. Rxe2 c6 23. Kf1 Kf7 24. Nb3 b6 25. Nc1 Re8 26. Nd3 Rxe2 27. Qxe2
+Qe6 28. Nb4 1/2-1/2
+
+
+[Event "TCh-RUS Men 2015"]
+[Site "Sochi RUS"]
+[Date "2015.05.02"]
+[Round "2.1"]
+[White "Jakovenko, D."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "A35"]
+[WhiteElo "2742"]
+[BlackElo "2729"]
+[PlyCount "80"]
+[EventDate "2015.05.01"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2015.05.04"]
+[WhiteTeam "Sibir (Novosibirsk)"]
+[BlackTeam "Bronze Horseman (St. Petersburg)"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. e3 e6 5. d4 d5 6. cxd5 exd5 7. Bb5 cxd4 8.
+Nxd4 Bd7 9. O-O Bd6 10. Be2 O-O 11. Ndb5 Bf5 12. Nxd6 Qxd6 13. Nb5 Qe5 14. Nd4
+Nxd4 15. exd4 Qd6 16. Qb3 Rfe8 17. Be3 Ng4 18. Bxg4 Bxg4 19. Rfc1 b6 20. Rc3
+Rec8 21. Rac1 h6 22. Qb5 Rxc3 23. Rxc3 Rc8 24. Rxc8+ Bxc8 25. Qe8+ Qf8 26. Qc6
+Be6 27. a3 Qc8 28. Qxc8+ Bxc8 29. Bf4 f6 30. f3 Kf7 31. Bb8 a6 32. Bc7 b5 33.
+Kf2 Ke6 34. Ke3 Bd7 35. Ba5 h5 36. h4 Kf5 37. Bb4 g5 38. hxg5 fxg5 39. Be7 Be8
+40. Bd8 Bd7 1/2-1/2
+
+
+[Event "10th World Teams 2015"]
+[Site "Tsaghkadzor ARM"]
+[Date "2015.04.28"]
+[Round "9.1"]
+[White "Shankland, S."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2661"]
+[BlackElo "2729"]
+[PlyCount "121"]
+[EventDate "2015.04.19"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "ARM"]
+[Source "Mark Crowther"]
+[SourceDate "2015.05.04"]
+[WhiteTeam "USA"]
+[BlackTeam "Cuba"]
+[BlackTeamCountry "CUB"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bb5+ c6 8.
+Ba4 O-O 9. Ne2 b5 10. Bb3 a5 11. a4 Nd7 12. e5 Nb6 13. axb5 cxb5 14. h4 Nd5 15.
+h5 Be6 16. Qd3 Qc8 17. Qf3 Rd8 18. hxg6 hxg6 19. Bd2 b4 20. cxb4 axb4 21. Rc1
+Nc3 22. Bxe6 Qxe6 23. Bxc3 bxc3 24. O-O Ra2 25. Rxc3 Qa6 26. Re1 Qa5 27. Kf1
+Bh6 28. Rd3 Ra1 29. Nc3 Rxe1+ 30. Kxe1 Bc1 31. Qb7 Qa1 32. Ke2 Qb2+ 33. Qxb2
+Bxb2 34. Ke3 Bxc3 35. Rxc3 e6 36. f4 Ra8 37. g4 Ra1 38. Rc8+ Kg7 39. Rc7 Re1+
+40. Kf3 Rf1+ 41. Kg3 Kf8 42. Rd7 Ke8 43. Rd6 Kf8 44. d5 exd5 45. Rxd5 Kg7 46.
+Rd7 Kf8 47. Rd6 Kg7 48. Rf6 Rh1 49. Ra6 Rf1 50. Ra4 Rg1+ 51. Kh4 Rh1+ 52. Kg5
+Re1 53. Ra7 Re4 54. Rb7 Re1 55. Re7 Re4 56. f5 Rxe5 57. Rxe5 f6+ 58. Kf4 fxe5+
+59. Kxe5 gxf5 60. Kxf5 Kf7 61. Ke4 1/2-1/2
+
+
+[Event "TCh-RUS Men 2015"]
+[Site "Sochi RUS"]
+[Date "2015.05.04"]
+[Round "4.2"]
+[White "Kamsky, G."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2683"]
+[BlackElo "2729"]
+[PlyCount "80"]
+[EventDate "2015.05.01"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2015.05.04"]
+[WhiteTeam "Rook (Kazan)"]
+[BlackTeam "Bronze Horseman (St. Petersburg)"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Rd1+ Ke8 10. h3 Ne7 11. Bf4 Ng6 12. Bh2 Be7 13. Nbd2 h5 14. a4
+Nf8 15. Nd4 h4 16. a5 Bd7 17. Nc4 Rh5 18. Ne3 Ne6 19. Nef5 Bf8 20. a6 b6 21.
+Nxe6 fxe6 22. Nd4 c5 23. Ne2 Bb5 24. Nc3 Bc6 25. f3 Be7 26. Kf2 Kf7 27. b3 Rhh8
+28. Ke2 Rad8 29. Rxd8 Rxd8 30. Nd1 Bg5 31. Ne3 Kg6 32. c4 Bxe3 33. Kxe3 Kh5 34.
+Ke2 Be8 35. Rc1 Bg6 36. Rc3 Bf5 37. Bf4 Rd7 38. Be3 Rd8 39. Bf4 Rd7 40. Be3 Rd8
+1/2-1/2
+
+
+[Event "TCh-RUS Men 2015"]
+[Site "Sochi RUS"]
+[Date "2015.05.06"]
+[Round "6.3"]
+[White "Frolyanov, D."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "B94"]
+[WhiteElo "2572"]
+[BlackElo "2729"]
+[PlyCount "151"]
+[EventDate "2015.05.01"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2015.05.11"]
+[WhiteTeam "Lada (Samara region)"]
+[BlackTeam "Bronze Horseman (St. Petersburg)"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Qe2 h6 8.
+Bh4 b5 9. f4 g5 10. fxg5 hxg5 11. Bxg5 Bb7 12. O-O-O Qa5 13. Nb3 Qc7 14. Nd5
+Nxd5 15. exd5 Nb6 16. g3 Bg7 17. Nd4 Nxd5 18. Bg2 Be5 19. Kb1 e6 20. h4 Rc8 21.
+Rhf1 Qc4 22. Qf2 Rc7 23. Bxd5 Bxd5 24. b3 Qc5 25. Rfe1 f5 26. Bf4 Be4 27. Bxe5
+Qxe5 28. g4 Kd7 29. gxf5 exf5 30. Rd2 Kc8 31. Nf3 Qc5 32. Nd4 Rch7 33. Nf3 Qxf2
+34. Rxf2 d5 35. Rg1 Kc7 36. Rg6 Rh6 37. Rg7+ Kb6 38. Kb2 R8h7 39. Rg8 Rh8 40.
+Rg7 R8h7 41. Rg8 Rc7 42. Rf8 Rcc6 43. Rf7 Rcf6 44. Rg7 Rfg6 45. Rf7 Rf6 46. Rg7
+Kc5 47. Rg5 Rfg6 48. Ne5 Rxg5 49. hxg5 Rh1 50. g6 Rg1 51. Nd3+ Kd4 52. Nf4 Ke5
+53. Kc3 d4+ 54. Kb4 Bxc2 55. Ng2 Be4 56. g7 Bd5 57. Re2+ Kf6 58. Kc5 Bf7 59.
+Kxd4 Rd1+ 60. Kc5 Kxg7 61. Ne3 Rc1+ 62. Kb6 f4 63. Kxa6 fxe3 64. Rxe3 Rc5 65.
+Kb6 Rf5 66. a4 bxa4 67. bxa4 Bc4 68. Re4 Bf1 69. Re1 Kf8 70. a5 Rf6+ 71. Kc7
+Bg2 72. Re2 Ba8 73. Re5 Ra6 74. Rf5+ Ke7 75. Re5+ Kf6 76. Rb5 1/2-1/2
+
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.16"]
+[Round "3.5"]
+[White "Karjakin, Sergey"]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "A08"]
+[WhiteElo "2753"]
+[BlackElo "2734"]
+[PlyCount "60"]
+[EventDate "2015.05.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2015.05.18"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Nbd2 c5 7. e4 Nc6 8. Re1
+b5 9. e5 Nd7 10. Nf1 Bb7 11. h4 Qc7 12. Bf4 Rfc8 13. Ne3 Qd8 14. Ng4 Bf8 15. c4
+Ne7 16. b3 Bc6 17. h5 h6 18. Ne3 Nb6 19. Qe2 bxc4 20. dxc4 dxc4 21. bxc4 Na4
+22. Qc2 Rab8 23. Reb1 Qa5 24. Rb3 Nb6 25. Qe2 Nd7 26. Rab1 Qc7 27. g4 Be4 28.
+Rxb8 Rxb8 29. Rxb8 Qxb8 30. Nf1 Bc6 1/2-1/2
+
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.14"]
+[Round "1.4"]
+[White "Caruana, F."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2803"]
+[BlackElo "2734"]
+[PlyCount "80"]
+[EventDate "2015.05.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2015.05.18"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. h3 h6 10. Rd1+ Ke8 11. Nc3 Ne7 12. Bf4 Ng6 13. Bh2 Be7 14. Nd4
+Nf8 15. Rd3 h5 16. Re1 Ne6 17. Nce2 c5 18. Nf5 h4 19. c4 b6 20. Red1 Rh5 21.
+Ne3 Bb7 22. Nd5 Bg5 23. f3 Rd8 24. Kf2 Bc6 25. Nef4 Bxf4 26. Nxf4 Rxd3 27. Rxd3
+Rf5 28. Nxe6 fxe6 29. Ke1 a5 30. Re3 Kf7 31. Kd2 Kg6 32. Kc3 Rf7 33. Rd3 Rd7
+34. Rxd7 Bxd7 35. Bg1 Kh5 36. Be3 Be8 37. b3 Bg6 38. a4 Bf5 39. Bd2 Bg6 40. Be3
+Bf5 1/2-1/2
+
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.22"]
+[Round "8.2"]
+[White "Tomashevsky, E."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "D80"]
+[WhiteElo "2749"]
+[BlackElo "2734"]
+[PlyCount "202"]
+[EventDate "2015.05.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2015.05.25"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Bg7 5. Bxf6 Bxf6 6. cxd5 c5 7. dxc5 Nd7 8.
+e3 O-O 9. Bc4 Nxc5 10. Nge2 Qa5 11. Qd2 b5 12. Nxb5 Qxd2+ 13. Kxd2 Rb8 14. Rhb1
+Bf5 15. Nbd4 Bxb1 16. Rxb1 Ne4+ 17. Ke1 Rb6 18. b4 Rc8 19. Nc6 e6 20. Rc1 Rbxc6
+21. dxc6 Rxc6 22. b5 Rc5 23. f3 Nd6 24. Bd3 Rxc1+ 25. Nxc1 Kf8 26. Kd2 Ke7 27.
+Nb3 Kd7 28. a4 Kc7 29. Kc2 Nb7 30. Be4 Nd6 31. Bd3 Nb7 32. Be4 Nd6 33. Kd3 Kb6
+34. f4 h5 35. g3 Bg7 36. Ba8 Bf6 37. Bh1 Bh8 38. Bf3 Bg7 39. Bg2 Bh8 40. Bh1
+Bg7 41. Bc6 a6 42. Nd2 axb5 43. axb5 Nxb5 44. Be8 Nd6 45. Nc4+ Kc7 46. Nxd6
+Kxd6 47. Bxf7 h4 48. Bxg6 hxg3 49. hxg3 Bb2 50. Ke4 Ke7 51. Bh5 Kf6 52. g4 Ke7
+53. Kf3 Bc1 54. Bg6 Bd2 55. Bc2 Kf6 56. Bd3 Bc1 57. Bb1 Bd2 58. Be4 Bc1 59. Bc2
+Bd2 60. Bd3 Bc1 61. Bb5 Bd2 62. Bd7 Ke7 63. Bc8 Kf6 64. Ba6 Bc1 65. Bc4 Bd2 66.
+Bb3 Bc1 67. Ba2 Bd2 68. Bc4 Bc1 69. g5+ Ke7 70. Ke2 Ba3 71. Bb3 Bc1 72. Kd3 Ba3
+73. Kd2 Bb4+ 74. Ke2 Ba3 75. Kd3 Bc1 76. Bd1 Kf7 77. Bh5+ Ke7 78. Ke2 Kf8 79.
+Kf3 Bd2 80. Ke4 Bc1 81. Kd4 Bb2+ 82. Kd3 Bc1 83. Ke2 Kg7 84. Kf3 Bd2 85. Bg4
+Kf7 86. Bh3 Bc1 87. Bxe6+ Kxe6 88. e4 Bd2 89. Kg4 Bc1 90. Kg3 Bd2 91. Kf3 Bc1
+92. Kg4 Bd2 93. f5+ Ke5 94. Kh5 Kxe4 95. g6 Bc3 96. Kg5 Kd5 97. Kh6 Ke4 98. Kg5
+Kd5 99. f6 Ke6 100. g7 Bxf6+ 101. Kg6 Ke5 1/2-1/2
+
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.19"]
+[Round "5.6"]
+[White "Giri, A."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2776"]
+[BlackElo "2734"]
+[PlyCount "88"]
+[EventDate "2015.05.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2015.05.25"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. e4 d5 7. e5 Nfd7 8. Bd3
+c5 9. O-O Nc6 10. Re1 a5 11. Bc2 Re8 12. h3 Qc7 13. cxd5 exd5 14. e6 fxe6 15.
+Rxe6 Nf6 16. Re1 Bd7 17. dxc5 Bxc5 18. Rxe8+ Rxe8 19. Nb3 Bb6 20. Bg5 Qd6 21.
+Bxf6 gxf6 22. Qd3 Re7 23. Rd1 Ne5 24. Nxe5 Qxe5 25. Nd2 Kh8 26. Qb3 Bc5 27. Nf3
+Qg3 28. Nd4 Qe5 29. Nf3 Qe2 30. Rd2 Bxf2+ 31. Kh2 Qe3 32. Qxe3 Bxe3 33. Rxd5
+Bb6 34. Bf5 Bc6 35. Rd2 Bc7+ 36. Kg1 Bg3 37. Bd3 Rd7 38. Be4 Rxd2 39. Nxd2 Bf4
+40. Bxc6 Bxd2 41. Bxb7 a4 42. Bc6 Bc1 43. Bxa4 Bxb2 44. Kf1 Bxa3 1/2-1/2
+
+
+[Event "KM FIDE GP 2015"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2015.05.20"]
+[Round "6.1"]
+[White "Gelfand, B."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2744"]
+[BlackElo "2734"]
+[PlyCount "126"]
+[EventDate "2015.05.14"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "RUS"]
+[EventCategory "21"]
+[Source "Mark Crowther"]
+[SourceDate "2015.05.25"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. e4 d5 7. e5 Nfd7 8. Bd3
+c5 9. O-O Nc6 10. Re1 a5 11. Bc2 Qc7 12. dxc5 Nxc5 13. Nb3 Nxb3 14. Qd3 g6 15.
+Bxb3 Rd8 16. Bf4 a4 17. Ba2 dxc4 18. Qxc4 b5 19. Qxb5 Ra5 20. Qf1 Nd4 21. Nxd4
+Rxd4 22. Rec1 Qb8 23. Be3 Ba6 24. Qe1 Rxe5 25. Bxd4 Rxe1+ 26. Rxe1 Bb7 27. Rad1
+Qf4 28. Be5 Qg5 29. Bg3 Bf6 30. Rd7 Qb5 31. Rd2 h5 32. Bb1 h4 33. Bf4 Qc4 34.
+g3 e5 35. Bd3 Qe6 36. Bb5 Qg4 37. Be2 Qf5 38. Bd3 Qg4 39. Be2 Bf3 40. Bxf3 Qxf3
+41. Re3 Qc6 42. Bxe5 Qc1+ 43. Kg2 h3+ 44. Kxh3 Bxe5 45. Rd8+ Kg7 46. Rxe5 Qf1+
+47. Kg4 Qxf2 48. Rde8 Qxb2 49. Re2 Qxa3 50. R8e3 Qc1 51. Kf3 a3 52. Kf2 Qa1 53.
+Kg2 Qd1 54. Kf2 Qa1 55. Kg2 f5 56. Rf3 Kh6 57. Ref2 Kg7 58. Re2 Kh6 59. Ref2
+Kh7 60. Re2 Kg7 61. Ref2 Kh6 62. Re2 Kg7 63. Ref2 Kh6 1/2-1/2
+
+
+[Event "50th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2015.06.21"]
+[Round "6.3"]
+[White "Bruzon Batista, L."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2677"]
+[BlackElo "2746"]
+[PlyCount "25"]
+[EventDate "2015.06.15"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2015.06.22"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CRO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. dxe5 Nxb5 7. a4 Nbd4 8.
+Nxd4 Nxd4 9. Qxd4 d5 10. exd6 Qxd6 11. Qe4+ Qe6 12. Qd4 Qd6 13. Qe4+ 1/2-1/2
+
+
+[Event "50th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2015.06.18"]
+[Round "4.3"]
+[White "Eljanov, P."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[WhiteElo "2718"]
+[BlackElo "2746"]
+[PlyCount "77"]
+[EventDate "2015.06.15"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2015.06.22"]
+[WhiteTeamCountry "CZE"]
+[BlackTeamCountry "CRO"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. a3 d6 6. Nf3 e6 7. b4 Nge7 8. Rb1
+O-O 9. O-O b6 10. e3 Bb7 11. Qb3 Qd7 12. Bb2 Ne5 13. Nxe5 Bxe5 14. Bxb7 Qxb7
+15. Nb5 Bxb2 16. Qxb2 Rfd8 17. Qf6 Rac8 18. d3 a6 19. Nc3 cxb4 20. axb4 b5 21.
+cxb5 axb5 22. Rfc1 Rb8 23. h4 Nd5 24. Nxd5 Qxd5 25. Rc7 Rf8 26. d4 Rbc8 27.
+Rbc1 Rxc7 28. Rxc7 Qb3 29. Kh2 Qxb4 30. Rd7 d5 31. h5 gxh5 32. Qg5+ Kh8 33.
+Qf6+ Kg8 34. Qg5+ Kh8 35. Qxh5 Qb1 36. Rb7 b4 37. Qe5+ Kg8 38. Qg5+ Qg6 39.
+Qxg6+ 1/2-1/2
+
+
+[Event "50th Capablanca Mem Elite"]
+[Site "Havana CUB"]
+[Date "2015.06.25"]
+[Round "10.1"]
+[White "Andreikin, D."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "A35"]
+[WhiteElo "2718"]
+[BlackElo "2746"]
+[PlyCount "23"]
+[EventDate "2015.06.15"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "CUB"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2015.06.29"]
+[WhiteTeamCountry "SLO"]
+[BlackTeamCountry "CZE"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. g3 d5 5. d4 e6 6. cxd5 Nxd5 7. Bg2 cxd4 8.
+Nxd4 Nxc3 9. bxc3 Nxd4 10. Qxd4 Qxd4 11. cxd4 Bd6 12. O-O 1/2-1/2
+
+
+[Event "TCh-ESP Div Honor 2015"]
+[Site "Linares ESP"]
+[Date "2015.08.18"]
+[Round "4.4"]
+[White "Rakhmanov, Ale"]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "A35"]
+[WhiteElo "2620"]
+[BlackElo "2736"]
+[PlyCount "179"]
+[EventDate "2015.08.15"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "Mark Crowther"]
+[SourceDate "2015.08.24"]
+[WhiteTeam "Escola d'escacs de Barcelona"]
+[BlackTeam "Sestao Fundacion EDP"]
+
+1. Nf3 c5 2. c4 Nf6 3. Nc3 Nc6 4. g3 d5 5. d4 e6 6. cxd5 Nxd5 7. Bg2 cxd4 8.
+Nxd4 Nxc3 9. bxc3 Nxd4 10. Qxd4 Qxd4 11. cxd4 Bd6 12. O-O Rb8 13. e4 b6 14. Bb2
+Bb7 15. Rac1 f6 16. Rfd1 Kd7 17. e5 Bxg2 18. Kxg2 Be7 19. d5 Rhc8 20. exf6 gxf6
+21. dxe6+ Kxe6 22. Re1+ Kf7 23. Red1 Ke6 24. Re1+ Kf7 25. Red1 Rxc1 26. Rxc1
+Rb7 27. a4 b5 28. axb5 Rxb5 29. Bd4 a5 30. Rc6 a4 31. Ra6 Rb4 32. Ba1 h5 33. h3
+h4 34. gxh4 Rxh4 35. Kg3 Rc4 36. h4 a3 37. Bxf6 Bxf6 38. Rxa3 Bxh4+ 39. Kf3 Rc2
+40. Ke4 Bxf2 41. Ra6 Bh4 42. Rb6 Bf6 43. Ra6 Kg6 44. Ra5 Rh2 45. Rb5 Rh4+ 46.
+Kd3 Kf7 47. Rb6 Be5 48. Rc6 Ke7 49. Rc8 Ke6 50. Re8+ Kd5 51. Rd8+ Bd6 52. Kd2
+Rh3 53. Ke2 Ke5 54. Kd2 Bb4+ 55. Ke2 Bc5 56. Re8+ Kd5 57. Rd8+ Kc4 58. Re8 Bd4
+59. Rc8+ Kd5 60. Rd8+ Ke4 61. Re8+ Be5 62. Ke1 Rh2 63. Re7 Kd4 64. Kf1 Bf4 65.
+Re2 Rh8 66. Re7 Kd3 67. Kg2 Rf8 68. Re6 Be3 69. Kg3 Kd4 70. Rd6+ Ke5 71. Ra6
+Bd4 72. Kg4 Rf1 73. Ra5+ Ke4 74. Ra4 Rg1+ 75. Kh4 Ke5 76. Kh3 Rg8 77. Rb4 Be3
+78. Rg4 Ra8 79. Rb4 Kf5 80. Kg2 Ra3 81. Rc4 Bf4 82. Kf2 Re3 83. Rc8 Rd3 84.
+Rf8+ Kg4 85. Rg8+ Bg5 86. Re8 Rd6 87. Re4+ Bf4 88. Re8 Rd2+ 89. Re2 Rxe2+ 90.
+Kxe2 1/2-1/2
+
+
+[Event "World Rapid 2015"]
+[Site "Berlin GER"]
+[Date "2015.10.10"]
+[Round "3.17"]
+[White "Motylev, A."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[WhiteElo "2649"]
+[BlackElo "2732"]
+[PlyCount "112"]
+[EventDate "2015.10.10"]
+[EventType "swiss (rapid)"]
+[EventRounds "15"]
+[EventCountry "GER"]
+[Source "Mark Crowther"]
+[SourceDate "2015.10.12"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. O-O Be7 6. c3 O-O 7. Nbd2 a6 8. Ba4
+Re8 9. d4 b5 10. Bc2 Bb7 11. Re1 Bf8 12. a3 Nb8 13. b3 Nbd7 14. Bb2 g6 15. a4
+Bg7 16. Bd3 c6 17. Bf1 Qb6 18. b4 d5 19. Nxe5 Nxe5 20. dxe5 Nxe4 21. Nxe4 dxe4
+22. c4 Bxe5 23. Bxe5 Rxe5 24. Qd6 Re6 25. Qf4 Rae8 26. Rad1 Bc8 27. c5 Qb7 28.
+axb5 axb5 29. Rd6 R6e7 30. h4 h5 31. Re3 Bg4 32. Qf6 Re6 33. Rxe6 Rxe6 34. Qd8+
+Kh7 35. Ra3 Qe7 36. Ra8 Qxd8 37. Rxd8 Kg7 38. Kh2 Kf6 39. Kg3 Ke7 40. Rd4 Bf5
+41. Kf4 Rf6 42. Ke3 Re6 43. Be2 Rf6 44. Bd1 Re6 45. Bb3 Re5 46. Ba2 Be6 47.
+Bxe6 Rxe6 48. Rxe4 Rxe4+ 49. Kxe4 Ke6 50. f3 f6 51. g3 g5 52. f4 f5+ 53. Kd4 g4
+54. Ke3 Kd5 55. Kd3 Ke6 56. Kd4 Kf6 1/2-1/2
+
+
+[Event "31st ECC Open 2015"]
+[Site "Skopje MKD"]
+[Date "2015.10.24"]
+[Round "7.2"]
+[White "Giri, A."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[WhiteElo "2798"]
+[BlackElo "2732"]
+[PlyCount "147"]
+[EventDate "2015.10.18"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "FRM"]
+[Source "Mark Crowther"]
+[SourceDate "2015.10.26"]
+[WhiteTeam "SOCAR (AZE)"]
+[BlackTeam "MEDNYI VSADNIK (RUS)"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a3 h6 13. d5 Nb8 14. Nh2 Nbd7 15. Qf3
+c6 16. dxc6 Bxc6 17. Ng4 Re7 18. Nf1 Nxg4 19. hxg4 Nc5 20. Ba2 Rd7 21. Ng3 d5
+22. exd5 Bxd5 23. Bxd5 Rxd5 24. Be3 Qd7 25. Bxc5 Bxc5 26. b4 Bb6 27. Red1 Rd8
+28. Rxd5 Qxd5 29. Qxd5 Rxd5 30. Kf1 a5 31. Ke2 Kf8 32. f3 Bd8 33. a4 axb4 34.
+cxb4 bxa4 35. Rxa4 g6 36. Ra8 Ke7 37. Ne4 f5 38. gxf5 gxf5 39. Nc3 Rd4 40. b5
+Kd7 41. Ra7+ Kc8 42. Ra4 Rd7 43. Rc4+ Kb7 44. Na4 Rd5 45. Nc3 Rd6 46. Rc5 Ba5
+47. Nd5 Rg6 48. Kf1 Re6 49. Ne3 Bb6 50. Rc6 Rxc6 51. bxc6+ Kxc6 52. Nxf5 h5 53.
+Ke2 Kd5 54. Kd3 Bc5 55. Ng3 h4 56. Ne4 Bb4 57. Nf2 Bc5 58. Ng4 Bb6 59. Nh2 Ba7
+60. Nf1 Bb6 61. Nd2 Bc5 62. Nc4 Bd4 63. Na3 Bb6 64. Nc2 Bc5 65. Na1 Bd4 66. Nb3
+Bb6 67. Nd2 Bc5 68. Ne4 Bb4 69. Ke3 Ke6 70. Kf2 Kf5 71. Kg1 Be7 72. Nc3 Bb4 73.
+Ne4 Be7 74. Kh2 1/2-1/2
+
+
+[Event "31st ECC Open 2015"]
+[Site "Skopje MKD"]
+[Date "2015.10.21"]
+[Round "4.2"]
+[White "Aronian, L."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "A46"]
+[WhiteElo "2784"]
+[BlackElo "2732"]
+[PlyCount "124"]
+[EventDate "2015.10.18"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "FRM"]
+[Source "Mark Crowther"]
+[SourceDate "2015.10.26"]
+[WhiteTeam "SIBERIA (RUS)"]
+[BlackTeam "MEDNYI VSADNIK (RUS)"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 b5 5. O-O Bb7 6. Bg5 Nbd7 7. e4 dxe4 8.
+Nfd2 h6 9. Bxf6 Nxf6 10. Qe2 a6 11. Nxe4 Bxe4 12. Bxe4 Nxe4 13. Qxe4 Qd5 14.
+Qe3 Rd8 15. Rd1 Be7 16. Nc3 Qf5 17. Rd3 O-O 18. Rad1 Rd7 19. Ne4 Rfd8 20. a3 c6
+21. f4 a5 22. c3 Qd5 23. R3d2 Qc4 24. Nf2 c5 25. Ne4 cxd4 26. cxd4 b4 27. axb4
+axb4 28. Rd3 Qd5 29. Nd2 Bf6 30. Nb3 Rc7 31. Qf3 Qb5 32. R1d2 Rdc8 33. Kg2 Rc2
+34. Rxc2 Rxc2+ 35. Rd2 Rc8 36. Qe4 Qc4 37. Qf3 g6 38. h4 h5 39. Kf2 Qb5 40. Qe2
+Qd5 41. Qf3 Qc4 42. Kg2 Rd8 43. Qd3 Qc6+ 44. Qf3 Rd5 45. Qe4 Qd6 46. Qe3 Qd8
+47. Kf2 Rd7 48. Qe4 Rc7 49. Ke3 Qc8 50. Nc5 Be7 51. Kf2 Bxc5 52. dxc5 b3 53.
+Qe3 Rxc5 54. Qxb3 Rc1 55. Qf3 Qc5+ 56. Kg2 Rb1 57. Kh2 Qb5 58. Qe2 Qb7 59. Qg2
+Qb6 60. Qf2 Qb7 61. Qg2 Qb6 62. Qf2 Qb7 1/2-1/2
+
+
+[Event "31st ECC Open 2015"]
+[Site "Skopje MKD"]
+[Date "2015.10.18"]
+[Round "1.5"]
+[White "Wiedenkeller, M."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2453"]
+[BlackElo "2732"]
+[PlyCount "67"]
+[EventDate "2015.10.18"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "FRM"]
+[Source "Mark Crowther"]
+[SourceDate "2015.10.19"]
+[WhiteTeam "CE DE SPRENGER ECHTERNACH (LUX)("]
+[BlackTeam "MEDNYI VSADNIK (RUS)"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Be3 Qa5 9. Qd2 Nc6 10. Rb1 cxd4 11. cxd4 O-O 12. Qxa5 Nxa5 13. Bd3 Bg4 14. O-O
+b6 15. Rfc1 Rfd8 16. d5 e6 17. Bf4 exd5 18. exd5 Rac8 19. d6 Bf8 20. Rxc8 Bxc8
+21. Rd1 Nb7 22. Bc4 Kg7 23. Ng5 Nxd6 24. Ne4 Nb7 25. Be5+ Kh6 26. Bf4+ Kg7 27.
+Be5+ Kg8 28. Nf6+ Kh8 29. Ne8+ Kg8 30. Nf6+ Kh8 31. Ne8+ Kg8 32. Nf6+ Kh8 33.
+Ne8+ Kg8 34. Nf6+ 1/2-1/2
+
+
+[Event "World Blitz 2015"]
+[Site "Berlin GER"]
+[Date "2015.10.14"]
+[Round "20.13"]
+[White "Bogdanovich, S."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "B00"]
+[WhiteElo "2590"]
+[BlackElo "2732"]
+[PlyCount "169"]
+[EventDate "2015.10.13"]
+[EventType "swiss (blitz)"]
+[EventRounds "21"]
+[EventCountry "GER"]
+[Source "Mark Crowther"]
+[SourceDate "2015.10.19"]
+
+1. e4 d6 2. d4 Nf6 3. Bd3 e5 4. dxe5 dxe5 5. Nf3 Nbd7 6. O-O Be7 7. Nbd2 c6 8.
+c3 O-O 9. Bc2 Qc7 10. Qe2 a5 11. Rd1 a4 12. Nf1 Nc5 13. Ng3 Re8 14. h3 b5 15.
+Be3 Be6 16. Nf5 Bf8 17. Ng5 Bxf5 18. exf5 h6 19. Bxc5 Bxc5 20. Ne4 Be7 21.
+Nxf6+ Bxf6 22. Be4 Rad8 23. Qf3 Rxd1+ 24. Rxd1 Rc8 25. Rd3 c5 26. Qd1 Rd8 27.
+a3 Rxd3 28. Qxd3 c4 29. Qd5 Qd8 30. Qxb5 Qd1+ 31. Kh2 Qd2 32. Qxc4 Qxf2 33. Bf3
+Bg5 34. Qe2 Bf4+ 35. Kh1 Qg3 36. Kg1 Qh2+ 37. Kf2 Qg3+ 38. Kf1 Qh2 39. Qb5 Qh1+
+40. Ke2 Qc1 41. Qb4 Qd2+ 42. Kf1 Be3 43. Qh4 Qxb2 44. Qe1 Bc5 45. Qxe5 Qc1+ 46.
+Ke2 Qc2+ 47. Ke1 Qc1+ 48. Ke2 Qxa3 49. Qe8+ Kh7 50. Bd5 Qb2+ 51. Kd3 Qb1+ 52.
+Kc4 Bf2 53. Bxf7 Qb3+ 54. Kd3 Qd1+ 55. Kc4 Qb3+ 56. Kd3 Qd1+ 57. Ke4 Qe2+ 58.
+Kf4 Qxe8 59. Bxe8 a3 60. Bf7 Bc5 61. Ke4 h5 62. Ba2 Kh6 63. h4 Bf2 64. c4 Bxh4
+65. c5 Bd8 66. Ke5 Kg5 67. c6 Bc7+ 68. Ke6 h4 69. Kd7 Bf4 70. c7 Bxc7 71. Kxc7
+Kxf5 72. Kd6 g5 73. Kd5 g4 74. Kd4 Kf4 75. Kc3 Ke5 76. Bc4 a2 77. Kb2 Kd4 78.
+Be2 h3 79. gxh3 gxh3 80. Bf3 Ke3 81. Bc6 Kf2 82. Kxa2 h2 83. Kb3 Kg1 84. Kc3
+h1=Q 85. Bxh1 1/2-1/2
+
+
+[Event "World Blitz 2015"]
+[Site "Berlin GER"]
+[Date "2015.10.14"]
+[Round "15.8"]
+[White "Ghaem Maghami, E."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "A35"]
+[WhiteElo "2596"]
+[BlackElo "2732"]
+[PlyCount "31"]
+[EventDate "2015.10.13"]
+[EventType "swiss (blitz)"]
+[EventRounds "21"]
+[EventCountry "GER"]
+[Source "Mark Crowther"]
+[SourceDate "2015.10.19"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. e3 e6 5. d4 d5 6. a3 Ne4 7. Qc2 Nxc3 8. Qxc3
+cxd4 9. Nxd4 Nxd4 10. Qxd4 dxc4 11. Qxd8+ Kxd8 12. Bxc4 Bd7 13. Ke2 Bc6 14.
+Rd1+ Kc7 15. Bd2 Be7 16. Rac1 1/2-1/2
+
+
+[Event "World Blitz 2015"]
+[Site "Berlin GER"]
+[Date "2015.10.14"]
+[Round "13.3"]
+[White "Aronian, L."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "A35"]
+[WhiteElo "2784"]
+[BlackElo "2732"]
+[PlyCount "48"]
+[EventDate "2015.10.13"]
+[EventType "swiss (blitz)"]
+[EventRounds "21"]
+[EventCountry "GER"]
+[Source "Mark Crowther"]
+[SourceDate "2015.10.19"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 Nc6 4. g3 d5 5. d4 e6 6. cxd5 Nxd5 7. e4 Nxc3 8.
+bxc3 cxd4 9. cxd4 Bb4+ 10. Bd2 Bxd2+ 11. Qxd2 Qa5 12. Qxa5 Nxa5 13. Rc1 Bd7 14.
+Ne5 Ba4 15. Kd2 Nc6 16. Nf3 Ke7 17. Rc4 Bb5 18. Rc3 Bxf1 19. Rxf1 Rac8 20. Rfc1
+Rhd8 21. Ke3 f6 22. Rc5 Kd7 23. h4 b6 24. R5c3 Ne7 1/2-1/2
+
+
+[Event "World Blitz 2015"]
+[Site "Berlin GER"]
+[Date "2015.10.13"]
+[Round "7.11"]
+[White "Volokitin, And"]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "B08"]
+[WhiteElo "2639"]
+[BlackElo "2732"]
+[PlyCount "75"]
+[EventDate "2015.10.13"]
+[EventType "swiss (blitz)"]
+[EventRounds "21"]
+[EventCountry "GER"]
+[Source "Mark Crowther"]
+[SourceDate "2015.10.19"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. Be3 Nc6 8. h3
+Bxf3 9. Bxf3 e5 10. dxe5 dxe5 11. Be2 Nd4 12. Bc4 c6 13. a4 Qe7 14. Qb1 Nh5 15.
+Ne2 Nxe2+ 16. Bxe2 Nf4 17. Bf3 Rfd8 18. Qa2 h5 19. Rfd1 Ne6 20. c3 Kh7 21. b4
+Bh6 22. Rxd8 Qxd8 23. Rd1 Qe7 24. Bxh6 Kxh6 25. Qd2+ Kg7 26. Qd7 Kf8 27. a5 Rd8
+28. Qxe7+ Kxe7 29. Rxd8 Kxd8 30. Be2 Ke7 31. h4 b6 32. axb6 axb6 33. g3 c5 34.
+b5 Nc7 35. Bc4 Ne8 36. Bd5 Nd6 37. c4 f6 38. f4 1/2-1/2

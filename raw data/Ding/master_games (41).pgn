@@ -1,0 +1,674 @@
+[Event "Cappelle-la-Grande Open 2014"]
+[Site "Cappelle-la-Grande FRA"]
+[Date "2014.03.02"]
+[Round "2.1"]
+[White "Ding Liren"]
+[Black "Gao Rui"]
+[Result "1-0"]
+[ECO "D76"]
+[WhiteElo "2717"]
+[BlackElo "2468"]
+[PlyCount "80"]
+[EventDate "2014.03.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "Mark Crowther"]
+[SourceDate "2014.03.03"]
+
+1. Nf3 Nf6 2. c4 g6 3. d4 Bg7 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. Nc3 Nc6 8. e3
+O-O 9. O-O Re8 10. h3 a5 11. Rb1 Be6 12. Nd2 Nb4 13. a3 Nd3 14. Qe2 Nxc1 15.
+Rbxc1 c6 16. Rfd1 Rb8 17. Nce4 Bd5 18. Nc5 Bxg2 19. Kxg2 Qc7 20. f4 Red8 21.
+Nf3 Nd7 22. Ne4 Qb6 23. g4 Rbc8 24. g5 Qb3 25. h4 Qe6 26. Nf2 Nb6 27. e4 f5 28.
+gxf6 exf6 29. Rc5 f5 30. Ng5 Qe7 31. e5 Rxd4 32. Rxc6 Rxf4 33. Rxc8+ Nxc8 34.
+Qd2 Qxe5 35. Qd8+ Bf8 36. Qxc8 Qxb2 37. Qe6+ Kh8 38. Qe3 Rg4+ 39. Kh3 f4 40.
+Rd8 Qf6 1-0
+
+
+[Event "Cappelle-la-Grande Open 2014"]
+[Site "Cappelle-la-Grande FRA"]
+[Date "2014.03.08"]
+[Round "9.3"]
+[White "Ding Liren"]
+[Black "Jovanic, O."]
+[Result "1-0"]
+[ECO "D41"]
+[WhiteElo "2717"]
+[BlackElo "2526"]
+[PlyCount "67"]
+[EventDate "2014.03.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "Mark Crowther"]
+[SourceDate "2014.03.10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8.
+cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nd7 12. O-O b6 13. Rad1 Bb7 14.
+Rfe1 Rc8 15. Bb3 Qf6 16. d5 exd5 17. e5 Qg6 18. Nd4 Nc5 19. Bc2 Ne4 20. Qf4 f6
+21. e6 Qg5 22. Qxg5 fxg5 23. e7 Rfe8 24. Ba4 Rxe7 25. f3 g6 26. fxe4 dxe4 27.
+Bb3+ Kg7 28. Ne6+ Kh6 29. Nd8 Ba6 30. Nf7+ Kh5 31. Re3 Bc4 32. Bxc4 Rxc4 33.
+Rh3+ Kg4 34. Rf1 1-0
+
+
+[Event "Cappelle-la-Grande Open 2014"]
+[Site "Cappelle-la-Grande FRA"]
+[Date "2014.03.06"]
+[Round "7.6"]
+[White "Ding Liren"]
+[Black "Martynov, P2."]
+[Result "1-0"]
+[ECO "D43"]
+[WhiteElo "2717"]
+[BlackElo "2352"]
+[PlyCount "53"]
+[EventDate "2014.03.01"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "FRA"]
+[Source "Mark Crowther"]
+[SourceDate "2014.03.10"]
+
+1. c4 c6 2. Nf3 Nf6 3. d4 d5 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
+9. h4 g4 10. Ne5 h5 11. Be2 Bb7 12. O-O Nbd7 13. Qc2 a6 14. Rad1 Bg7 15. b3
+cxb3 16. axb3 O-O 17. Nxd7 Nxd7 18. e5 c5 19. Ne4 cxd4 20. Ng5 f5 21. Rxd4 Bd5
+22. Rxd5 exd5 23. Qc6 Qe8 24. Qxd5+ Kh8 25. e6 Nb6 26. Qb7 f4 27. Qe4 1-0
+
+
+[Event "ch-CHN 2014"]
+[Site "Xinghua CHN"]
+[Date "2014.03.22"]
+[Round "11.5"]
+[White "Ding Liren"]
+[Black "Lin Chen"]
+[Result "1-0"]
+[ECO "D15"]
+[WhiteElo "2717"]
+[BlackElo "2475"]
+[PlyCount "91"]
+[EventDate "2014.03.11"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "14"]
+[Source "Mark Crowther"]
+[SourceDate "2014.03.24"]
+
+1. c4 c6 2. Nf3 d5 3. d4 Nf6 4. e3 a6 5. Nc3 b5 6. b3 Bg4 7. Be2 e6 8. h3 Bf5
+9. g4 Bg6 10. Ne5 Bb4 11. Bd2 Bxc3 12. Bxc3 Ne4 13. Rc1 Nxc3 14. Rxc3 f6 15.
+Nxg6 hxg6 16. cxd5 exd5 17. h4 f5 18. Qc2 Qf6 19. Bd3 Ra7 20. gxf5 Re7 21. fxg6
+b4 22. Rc5 Qxd4 23. Rxc6 O-O 24. Rc8 Nd7 25. Rh3 Ree8 26. Rxe8 Rxe8 27. Be2 Qe5
+28. Rf3 Nf6 29. Rf5 Qe6 30. Bf3 d4 31. Be2 Kh8 32. exd4 Rd8 33. Qc7 Qxf5 34.
+Qxd8+ Ng8 35. Qe8 Qb1+ 36. Bd1 Qxa2 37. h5 Qb2 38. Qe3 a5 39. d5 Qf6 40. f4 Qd8
+41. Qe5 Qh4+ 42. Kd2 Qf2+ 43. Be2 a4 44. d6 a3 45. d7 a2 46. d8=Q 1-0
+
+
+[Event "IND-CHN Summit 2015"]
+[Site "Hyderabad IND"]
+[Date "2015.03.08"]
+[Round "6.2"]
+[White "Sasikiran, K."]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[WhiteElo "2682"]
+[BlackElo "2755"]
+[PlyCount "115"]
+[EventDate "2015.03.02"]
+[EventType "schev"]
+[EventRounds "8"]
+[EventCountry "IND"]
+[Source "Mark Crowther"]
+[SourceDate "2015.03.09"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c5 4. d5 b5 5. cxb5 a6 6. bxa6 Bg7 7. Nc3 d6 8. Nf3
+O-O 9. Bg2 Nxa6 10. O-O Bf5 11. Nh4 Bc8 12. Rb1 Qa5 13. Bd2 Nc7 14. a3 Qb6 15.
+h3 Nb5 16. Nxb5 Qxb5 17. Bc3 Ba6 18. Re1 Rfb8 19. b3 Nd7 20. Bxg7 Kxg7 21. Qc1
+Bc8 22. Nf3 Qa5 23. Qe3 Kf8 24. Ra1 Nf6 25. Nd2 Ba6 26. Rec1 Bb5 27. Rc3 Kg7
+28. Rc2 Rb7 29. g4 h6 30. f4 Qd8 31. Bf3 Rba7 32. Qc3 Kh7 33. a4 Ba6 34. e4 Rb8
+35. h4 Rb4 36. g5 Nd7 37. Kf2 Rd4 38. Be2 Bxe2 39. Kxe2 h5 40. Re1 Rb7 41. Ra2
+Nb8 42. Kf2 Qd7 43. f5 Na6 44. Nf3 Rdb4 45. Ra3 c4 46. bxc4 Nc5 47. Nd4 Rxa4
+48. fxg6+ fxg6 49. Ne6 Nxe6 50. dxe6 Qe8 51. Rxa4 Qxa4 52. Ra1 Qe8 53. Rf1 Qc8
+54. Ke3 Qxe6 55. Rf8 Qh3+ 56. Rf3 Qe6 57. Rf8 Qh3+ 58. Rf3 1/2-1/2
+
+
+[Event "10th World Teams 2015"]
+[Site "Tsaghkadzor ARM"]
+[Date "2015.04.20"]
+[Round "2.1"]
+[White "Leko, P."]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2713"]
+[BlackElo "2755"]
+[PlyCount "61"]
+[EventDate "2015.04.19"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "ARM"]
+[Source "Mark Crowther"]
+[SourceDate "2015.04.20"]
+[WhiteTeam "Hungary"]
+[BlackTeam "China"]
+[WhiteTeamCountry "HUN"]
+[BlackTeamCountry "CHN"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. O-O c5 7. c4 dxc4 8. Na3
+Nbc6 9. Nxc4 Nd5 10. a3 h6 11. Be3 Nxe3 12. fxe3 a6 13. Rc1 b5 14. Nd6+ Bxd6
+15. exd6 Qxd6 16. Rxc5 O-O 17. Bd3 Ne7 18. b4 a5 19. Bxb5 axb4 20. axb4 Ra2 21.
+Bc4 Rb2 22. Qa4 Qb8 23. b5 Qa8 24. Qa1 Rc2 25. Rc1 Be4 26. Ne1 Qxa1 27. Rxa1
+Rb2 28. Ra3 Nf5 29. Rb3 Rxb3 30. Bxb3 Rb8 31. Bc2 1/2-1/2
+
+
+[Event "10th World Teams 2015"]
+[Site "Tsaghkadzor ARM"]
+[Date "2015.04.27"]
+[Round "8.2"]
+[White "Dominguez Perez, L."]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+[WhiteElo "2729"]
+[BlackElo "2755"]
+[PlyCount "64"]
+[EventDate "2015.04.19"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "ARM"]
+[Source "Mark Crowther"]
+[SourceDate "2015.04.27"]
+[WhiteTeam "Cuba"]
+[BlackTeam "China"]
+[WhiteTeamCountry "CUB"]
+[BlackTeamCountry "CHN"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. O-O Nd7 7. Nbd2 h6 8. Nb3
+g5 9. Ne1 Qc7 10. Nd3 b6 11. Be3 Bg7 12. f4 c5 13. dxc5 gxf4 14. cxb6 axb6 15.
+Bxf4 Ng6 16. Bg3 O-O 17. Nd4 Be4 18. c3 Ndxe5 19. Nf2 Qd8 20. Bh5 Qg5 21. Nxe4
+dxe4 22. Qe2 e3 23. Bxg6 Nxg6 24. Nf3 Qc5 25. Rfe1 f5 26. Qxe3 Qxe3+ 27. Rxe3
+f4 28. Rxe6 Kf7 29. Rxb6 fxg3 30. hxg3 Rfb8 31. Rxb8 Rxb8 32. Rf1 Ke6 1/2-1/2
+
+
+[Event "10th World Teams 2015"]
+[Site "Tsaghkadzor ARM"]
+[Date "2015.04.25"]
+[Round "6.4"]
+[White "Gelfand, B."]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[WhiteElo "2747"]
+[BlackElo "2755"]
+[PlyCount "53"]
+[EventDate "2015.04.19"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "ARM"]
+[Source "Mark Crowther"]
+[SourceDate "2015.04.27"]
+[WhiteTeam "Israel"]
+[BlackTeam "China"]
+[WhiteTeamCountry "ISR"]
+[BlackTeamCountry "CHN"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 Na6 8. O-O
+c6 9. Re1 Re8 10. d5 Ng4 11. Bc1 f5 12. exf5 gxf5 13. Ng5 Nf6 14. c5 h6 15.
+Bxa6 bxa6 16. dxc6 d5 17. c7 Qd7 18. Nf3 e4 19. Nd4 Qxc7 20. Nce2 Qxc5 21. Be3
+Qd6 22. Qd2 Nh5 23. Ng3 Nxg3 24. fxg3 Bd7 25. Rf1 Rf8 26. Rf4 Kh7 27. Raf1
+1/2-1/2
+
+
+[Event "10th World Teams 2015"]
+[Site "Tsaghkadzor ARM"]
+[Date "2015.04.22"]
+[Round "4.4"]
+[White "Aronian, L."]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "E70"]
+[WhiteElo "2770"]
+[BlackElo "2755"]
+[PlyCount "38"]
+[EventDate "2015.04.19"]
+[EventType "team"]
+[EventRounds "9"]
+[EventCountry "ARM"]
+[Source "Mark Crowther"]
+[SourceDate "2015.04.27"]
+[WhiteTeam "Armenia"]
+[BlackTeam "China"]
+[WhiteTeamCountry "ARM"]
+[BlackTeamCountry "CHN"]
+
+1. c4 g6 2. Nc3 Bg7 3. d4 Nf6 4. e4 d6 5. Nge2 O-O 6. f3 c5 7. d5 e6 8. Ng3
+exd5 9. cxd5 a6 10. a4 h5 11. Bg5 Qc7 12. Be2 Nh7 13. Be3 h4 14. Nf1 f5 15.
+exf5 gxf5 16. f4 Nf6 17. Bf2 Re8 18. Bxh4 Ne4 19. Ra3 Qa5 1/2-1/2
+
+
+[Event "ch-CHN 2015"]
+[Site "Xinghua CHN"]
+[Date "2015.05.24"]
+[Round "6.2"]
+[White "Wen Yang"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "B26"]
+[WhiteElo "2583"]
+[BlackElo "2757"]
+[PlyCount "59"]
+[EventDate "2015.05.18"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "15"]
+[Source "Mark Crowther"]
+[SourceDate "2015.05.25"]
+
+1. g3 g6 2. Bg2 Bg7 3. e4 c5 4. Nc3 Nc6 5. d3 d6 6. Be3 Nf6 7. Nge2 O-O 8. O-O
+Rb8 9. h3 b5 10. a3 a5 11. Qd2 b4 12. axb4 cxb4 13. Nd5 Nd7 14. d4 Ba6 15. Rfd1
+Bb5 16. b3 Re8 17. c4 bxc3 18. Nexc3 Ba6 19. Rab1 Nf8 20. Nf4 e5 21. dxe5 dxe5
+22. Qxd8 Rexd8 23. Rxd8 Rxd8 24. Nfd5 Rb8 25. Bf1 Bxf1 26. Kxf1 Nd7 27. Na4 Nd4
+28. b4 axb4 29. Rxb4 Rxb4 30. Nxb4 1/2-1/2
+
+
+[Event "ch-CHN 2015"]
+[Site "Xinghua CHN"]
+[Date "2015.05.28"]
+[Round "10.4"]
+[White "Lin Chen"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "B51"]
+[WhiteElo "2460"]
+[BlackElo "2757"]
+[PlyCount "110"]
+[EventDate "2015.05.18"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "15"]
+[Source "Mark Crowther"]
+[SourceDate "2015.06.01"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 a6 6. Bxd7+ Bxd7 7. Bg5 Rc8
+8. Nc3 h6 9. Bh4 e5 10. Qd3 g5 11. Bg3 Nf6 12. O-O-O Qc7 13. Kb1 Qc4 14. Qxc4
+Rxc4 15. Nd2 Rc6 16. f3 b5 17. a3 h5 18. h3 h4 19. Bh2 Be7 20. Nf1 O-O 21. Ne3
+Rfc8 22. Ncd5 Nxd5 23. Nxd5 Kf8 24. c3 a5 25. g4 hxg3 26. Bxg3 Be6 27. Bf2 Bd8
+28. Be3 f5 29. exf5 Bxf5+ 30. Ka1 Kf7 31. Rhg1 Bxh3 32. Bxg5 Be6 33. Bxd8 Rxd8
+34. f4 Rc5 35. Ne3 b4 36. fxe5 bxc3 37. Rgf1+ Ke8 38. Rxd6 Rxd6 39. exd6 c2 40.
+Rc1 Bb3 41. Nxc2 Rxc2 42. Rxc2 Bxc2 43. b4 a4 44. b5 Kd7 45. b6 Kxd6 46. b7 Kc7
+47. b8=N Kxb8 48. Kb2 Bb3 49. Ka1 Kc7 50. Kb2 Kd6 51. Ka1 Kc5 52. Kb2 Kd4 53.
+Ka1 Kc3 54. Kb1 Bc4 55. Ka1 Kc2 1/2-1/2
+
+
+[Event "ch-CHN 2015"]
+[Site "Xinghua CHN"]
+[Date "2015.05.26"]
+[Round "8.3"]
+[White "Wan Yunguo"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2472"]
+[BlackElo "2757"]
+[PlyCount "69"]
+[EventDate "2015.05.18"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "CHN"]
+[EventCategory "15"]
+[Source "Mark Crowther"]
+[SourceDate "2015.06.01"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5
+8. Rxe5 O-O 9. d4 Ne8 10. Re1 d5 11. Bf4 Bd6 12. Bxd6 Nxd6 13. c3 c6 14. Bd3
+Bf5 15. Bxf5 Nxf5 16. Nd2 Nd6 17. Qc2 Re8 18. h3 Qd7 19. Qd3 Qf5 20. Qxf5 Nxf5
+21. Kf1 f6 22. Rxe8+ Rxe8 23. Re1 Rxe1+ 24. Kxe1 Kf7 25. Ke2 Nd6 26. Kd3 Ke6
+27. Ke3 h5 28. g4 hxg4 29. hxg4 g5 30. f3 b6 31. b3 Nb5 32. Kd3 Nd6 33. Ke3 Nb5
+34. Kd3 Nd6 35. Ke3 1/2-1/2
+
+
+[Event "TCh-CHN 2015"]
+[Site "China CHN"]
+[Date "2015.06.04"]
+[Round "5.3"]
+[White "Yu Yangyi"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "C95"]
+[WhiteElo "2724"]
+[BlackElo "2755"]
+[PlyCount "53"]
+[EventDate "2015.04.10"]
+[EventType "team"]
+[EventRounds "22"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2015.06.08"]
+[WhiteTeam "Beijing"]
+[BlackTeam "Zhejiang"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. c4 c6 12. Qc2 Bb7 13. Nc3 exd4 14. Nxd4 Re8 15.
+a3 Bf8 16. Bg5 h6 17. Bh4 Qb6 18. Nf5 bxc4 19. Bxc4 d5 20. Ba2 Re6 21. Rad1
+Rae8 22. Nd4 R6e7 23. Nf5 Re6 24. Nd4 R6e7 25. Nf5 Re6 26. Nd4 R6e7 27. Nf5
+1/2-1/2
+
+
+[Event "6th Hainan Danzhou GM"]
+[Site "Danzhou CHN"]
+[Date "2015.07.03"]
+[Round "2.5"]
+[White "Bu Xiangzhi"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "A48"]
+[WhiteElo "2695"]
+[BlackElo "2749"]
+[PlyCount "90"]
+[EventDate "2015.07.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "CHN"]
+[EventCategory "17"]
+[Source "Mark Crowther"]
+[SourceDate "2015.07.06"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. c3 O-O 5. e3 d6 6. h3 c5 7. dxc5 dxc5 8. Nbd2
+Nc6 9. Be2 Bf5 10. O-O Qc8 11. Qb3 b6 12. Rfd1 Qb7 13. Nc4 Rad8 14. Nfe5 Nxe5
+15. Nxe5 Be6 16. Bc4 Bxc4 17. Qxc4 e6 18. Qa4 Nd5 19. Qe4 b5 20. Bg3 c4 21. Rd2
+Qa6 22. Qc2 Nb6 23. Rxd8 Rxd8 24. Rd1 Qc8 25. e4 h5 26. h4 Bf6 27. Rd2 Nd7 28.
+Nxd7 Rxd7 29. Qd1 Rxd2 30. Qxd2 a5 31. f3 Be7 32. a3 Qd8 33. Qxd8+ Bxd8 34. Kf2
+Kf8 35. f4 Ke8 36. Kf3 Kd7 37. e5 Kc6 38. Ke4 Be7 39. Be1 Bc5 40. g3 Bg1 41.
+Bd2 Bf2 42. Kf3 Bc5 43. Ke4 Bf2 44. Kf3 Bc5 45. Ke4 Bf2 1/2-1/2
+
+
+[Event "6th Hainan Danzhou GM"]
+[Site "Danzhou CHN"]
+[Date "2015.07.09"]
+[Round "7.3"]
+[White "Sasikiran, K."]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "E70"]
+[WhiteElo "2640"]
+[BlackElo "2749"]
+[PlyCount "106"]
+[EventDate "2015.07.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "CHN"]
+[EventCategory "17"]
+[Source "Mark Crowther"]
+[SourceDate "2015.07.13"]
+[WhiteTeamCountry "IND"]
+[BlackTeamCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be3 O-O 6. f3 c5 7. Nge2 Nc6 8. d5
+Ne5 9. Ng3 e6 10. Be2 b5 11. Nxb5 exd5 12. cxd5 Rb8 13. Qd2 h5 14. O-O h4 15.
+Nh1 h3 16. Ng3 hxg2 17. Kxg2 Qd7 18. Nc3 Kh7 19. Kh1 Rh8 20. Rf2 Kg8 21. Rg1
+Qh3 22. Bg5 Rb4 23. Bf1 Qh7 24. Nf5 Bxf5 25. exf5 Bh6 26. Rg3 Rd4 27. Qc1 Bxg5
+28. Qxg5 Rh4 29. h3 Qg7 30. fxg6 Nxg6 31. Kg1 R8h5 32. Qc1 Kh7 33. Bg2 Qh6 34.
+Qxh6+ Kxh6 35. Ne4 Ne8 36. f4 f5 37. Ng5 Nxf4 38. Nf7+ Kh7 39. Ng5+ Kh6 40.
+Nf7+ Kh7 41. Bf1 Nf6 42. Nxd6 Nxh3+ 43. Bxh3 Rxh3 44. Rxh3 Rxh3 45. Rxf5 Kg6
+46. Re5 Rd3 47. Re6 Rxd5 48. Ne8 Kf7 49. Rxf6+ Kxe8 50. Ra6 Rd1+ 51. Kf2 Rd2+
+52. Ke3 Rxb2 53. Rxa7 Kd8 1/2-1/2
+
+
+[Event "6th Hainan Danzhou GM"]
+[Site "Danzhou CHN"]
+[Date "2015.07.11"]
+[Round "9.4"]
+[White "Ni Hua"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[WhiteElo "2703"]
+[BlackElo "2749"]
+[PlyCount "72"]
+[EventDate "2015.07.02"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "CHN"]
+[EventCategory "17"]
+[Source "Mark Crowther"]
+[SourceDate "2015.07.13"]
+[WhiteTeamCountry "IND"]
+[BlackTeamCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5
+8. Rxe5 O-O 9. d4 Ne8 10. Re1 d5 11. Bf4 Bd6 12. Bxd6 Nxd6 13. Bd3 Bf5 14. c3
+c6 15. Bxf5 Nxf5 16. Nd2 Re8 17. Rxe8+ Qxe8 18. Nf3 Nd6 19. Qc2 Qd7 20. Re1 Re8
+21. Rxe8+ Qxe8 22. Kf1 f6 23. Qe2 Qxe2+ 24. Kxe2 Kf7 25. Ne1 g5 26. g4 Kg6 27.
+Nd3 h5 28. h3 hxg4 29. hxg4 f5 30. f3 fxg4 31. fxg4 Kf6 32. Ne5 Ke6 33. Nf3 Kf6
+34. Ne5 Ke6 35. Nf3 Kf6 36. Ne5 Ke6 1/2-1/2
+
+
+[Event "Ding Liren - Gelfand 2015"]
+[Site "Wenzhou CHN"]
+[Date "2015.07.16"]
+[Round "1"]
+[White "Gelfand, B."]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "E97"]
+[WhiteElo "2751"]
+[BlackElo "2749"]
+[PlyCount "134"]
+[EventDate "2015.07.16"]
+[EventType "match"]
+[EventRounds "4"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2015.07.20"]
+[WhiteTeamCountry "CHN"]
+[BlackTeamCountry "RUS"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. c5 Nf4 11. a4 Bg4 12. h3 Bh5 13. Bxf4 exf4 14. Rc1 a5 15.
+bxa5 Bxf3 16. Bxf3 dxc5 17. Qb3 Rxa5 18. Qxb7 Nc8 19. Nb5 Nd6 20. Qxc7 Qxc7 21.
+Nxc7 Rc8 22. Nb5 Nxb5 23. axb5 Rxb5 24. Rc4 Bd4 25. Rfc1 Rcb8 26. Kf1 Kf8 27.
+R4c2 Ke7 28. e5 Bxe5 29. Rxc5 Rxc5 30. Rxc5 Rb1+ 31. Ke2 Rb2+ 32. Ke1 Bd4 33.
+d6+ Ke6 34. Rd5 Bxf2+ 35. Kd1 Bb6 36. d7 Ke7 37. Kc1 Ra2 38. Rb5 Bd8 39. Rb4
+Kxd7 40. Rxf4 f5 41. Rd4+ Ke7 42. Kb1 Ra6 43. Rc4 Ra5 44. Rc6 Kf7 45. Kc2 Kg7
+46. Kd3 Kh6 47. Rc8 Be7 48. Ra8 Re5 49. Ra2 Re1 50. Be2 Bc5 51. Ra5 Bf2 52. g4
+f4 53. g5+ Kg7 54. Kd2 Rh1 55. Rb5 Be1+ 56. Kd1 Bf2+ 57. Kd2 Rxh3 58. Bc4 Bh4
+59. Kc2 h5 60. Rb7+ Kf8 61. Rf7+ Ke8 62. Rxf4 Bxg5 63. Rf1 Rh2+ 64. Kb3 Ke7 65.
+Bd3 h4 66. Bxg6 Re2 67. Rf3 Re3+ 1/2-1/2
+
+
+[Event "3rd China Mind Team"]
+[Site "Zaozhuang CHN"]
+[Date "2015.08.31"]
+[Round "6.9"]
+[White "Bu Xiangzhi"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2712"]
+[BlackElo "2770"]
+[PlyCount "62"]
+[EventDate "2015.08.29"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2015.08.31"]
+[WhiteTeam "Shandong"]
+[BlackTeam "Zhejiang"]
+
+1. Nf3 d5 2. d4 Bf5 3. Bf4 e6 4. e3 Nf6 5. Bd3 Bg6 6. O-O Nbd7 7. c4 c6 8. Nc3
+Be7 9. h3 O-O 10. a3 a6 11. Bxg6 hxg6 12. Qd3 dxc4 13. Qxc4 c5 14. dxc5 Bxc5
+15. Rfd1 Rc8 16. Qe2 Qe8 17. Ne5 Nxe5 18. Bxe5 Be7 19. Bd6 Rc6 20. Bxe7 Qxe7
+21. Rd4 Rd8 22. Rad1 Rcd6 23. Qc4 Rxd4 24. Rxd4 Rxd4 25. Qxd4 Qd7 26. Qxd7 Nxd7
+27. Kf1 Kf8 28. Ke2 Ke7 29. Ne4 f5 30. Nd2 Kd6 31. Kd3 Ke5 1/2-1/2
+
+
+[Event "3rd China Mind Team"]
+[Site "Zaozhuang CHN"]
+[Date "2015.08.31"]
+[Round "5.10"]
+[White "Li Chao2"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "E92"]
+[WhiteElo "2748"]
+[BlackElo "2770"]
+[PlyCount "50"]
+[EventDate "2015.08.29"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2015.08.31"]
+[WhiteTeam "Beijing"]
+[BlackTeam "Zhejiang"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. dxe5 dxe5 8. O-O
+Nc6 9. Bg5 Qxd1 10. Rfxd1 Bg4 11. h3 Bxf3 12. Bxf3 Nd4 13. Nd5 Nxd5 14. cxd5 f5
+15. Be3 Rf7 16. Bxd4 exd4 17. exf5 gxf5 18. Re1 Kf8 19. Rac1 d3 20. Rcd1 Bxb2
+21. Rxd3 Bg7 22. Rde3 Bd4 23. Re6 Rf6 24. Re7 Rf7 25. R7e6 Rf6 1/2-1/2
+
+
+[Event "3rd China Mind Team"]
+[Site "Zaozhuang CHN"]
+[Date "2015.08.29"]
+[Round "2.7"]
+[White "Wang Yue"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "D38"]
+[WhiteElo "2721"]
+[BlackElo "2770"]
+[PlyCount "131"]
+[EventDate "2015.08.29"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2015.08.31"]
+[WhiteTeam "Tianjin"]
+[BlackTeam "Zhejiang"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 d5 5. cxd5 exd5 6. Bg5 h6 7. Bh4 c5 8.
+dxc5 Nbd7 9. Qb3 Qa5 10. a3 Bxc3+ 11. Qxc3 Qxc3+ 12. bxc3 Nxc5 13. Nd4 g5 14.
+Bg3 Nfe4 15. f3 Nxg3 16. hxg3 Ne6 17. g4 Nxd4 18. cxd4 Be6 19. e3 Rc8 20. Kd2
+Ke7 21. Bd3 Rc6 22. Rab1 b6 23. Ra1 Bd7 24. Ba6 Rc7 25. Rab1 f6 26. Bd3 Kf7 27.
+Bc2 Rhc8 28. Bb3 Kg7 29. Rb2 Rc3 30. Ra1 Bb5 31. Bc2 Be8 32. Bf5 R8c7 33. Rc2
+Rxc2+ 34. Bxc2 b5 35. Bb3 Bf7 36. Rb1 Rc6 37. Bd1 Rb6 38. Rc1 Ra6 39. Rc3 Be8
+40. Be2 Rc6 41. Rb3 Rb6 42. Rb1 Kf8 43. Bd3 Ke7 44. Kc3 Ra6 45. Kb3 Re6 46. Re1
+a5 47. Bf5 Rb6 48. Rh1 b4 49. axb4 Rxb4+ 50. Kc3 Rc4+ 51. Kd2 Ra4 52. Rxh6 Ra2+
+53. Kc3 Ra3+ 54. Kd2 Ra2+ 55. Kc1 Rxg2 56. Rh7+ Kd6 57. Ra7 a4 58. Bc2 Re2 59.
+e4 dxe4 60. fxe4 Bd7 61. Ra6+ Ke7 62. Ra7 a3 63. e5 a2 64. exf6+ Kxf6 65. Rxa2
+Bxg4 66. Ra6+ 1/2-1/2
+
+
+[Event "TCh-CHN 2015"]
+[Site "China CHN"]
+[Date "2015.12.10"]
+[Round "21.2"]
+[White "Xu, Yinglun"]
+[Black "Ding Liren"]
+[Result "1/2-1/2"]
+[ECO "D30"]
+[WhiteElo "2443"]
+[BlackElo "2755"]
+[PlyCount "49"]
+[EventDate "2015.04.10"]
+[EventType "team"]
+[EventRounds "22"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2015.12.14"]
+[WhiteTeam "Guangdong"]
+[BlackTeam "Zhejiang"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 a6 5. b3 c5 6. dxc5 Bxc5 7. Nbd2 O-O 8. Bb2
+Nc6 9. cxd5 exd5 10. Be2 Qe7 11. O-O Rd8 12. a3 d4 13. exd4 Nxd4 14. Nxd4 Bxd4
+15. Bxd4 Rxd4 16. Qe1 Be6 17. Nf3 Rd7 18. Ne5 Rc7 19. Bc4 b5 20. Bxe6 Qxe6 21.
+b4 Re8 22. Nf3 Qc8 23. Qb1 Ne4 24. Rd1 Nc3 25. Qd3 1/2-1/2
+
+
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.17"]
+[Round "3.1"]
+[White "Guseinov, Gadir"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2634"]
+[BlackElo "2782"]
+[ECO "C68"]
+[EventDate "2015.09.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qf6 6. d4 exd4 7. Bg5 
+Qd6 8. Nxd4 Bd7 9. Nc3 Ne7 10. Bh4 O-O-O 11. Bg3 Qf6 12. Qh5 Qxd4 13. Qa5 
+Qb6 14. Qxb6 cxb6 15. Na4 Nd5 16. exd5 Bc5 17. Rad1 Rhe8 18. Nxc5 bxc5 19.
+ f3 Re2 20. dxc6 Bxc6 21. Rxd8+ Kxd8 22. Rf2 Re1+ 1/2-1/2
+
+
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.15"]
+[Round "2.2"]
+[White "Inarkiev, Ernesto"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2660"]
+[BlackElo "2782"]
+[ECO "E11"]
+[EventDate "2015.09.11"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O Nbd7 
+8. b3 c6 9. Nc3 b6 10. Re1 Bb7 11. Bf4 Bb4 12. Qc2 dxc4 13. bxc4 c5 14. a3
+Bxc3 15. Qxc3 Qc8 16. Rad1 Re8 17. Ne5 Bxg2 18. Kxg2 cxd4 19. Qxd4 Nxe5 
+20. Bxe5 Rd8 21. Qh4 Nd7 22. Bd6 Qc6+ 23. f3 Nf8 24. Bb4 Rd7 25. Rxd7 Qxd7
+26. c5 a5 27. Bc3 Rc8 28. Qd4 Qxd4 29. Bxd4 bxc5 30. Bc3 Rb8 31. a4 Rb3 
+32. Bxa5 Ra3 33. Rc1 Rxa4 34. Rxc5 f6 35. g4 e5 36. Kf2 Ne6 37. Rc8+ Kf7 
+38. Bd2 Ra2 39. Be3 g5 40. Rb8 Nf4 41. Bxf4 exf4 42. h4 h6 43. Rb7+ Kg8 
+44. Rc7 Ra1 45. h5 Ra5 46. e4 fxe3+ 47. Kxe3 f5 48. Kd4 fxg4 49. fxg4 Ra4+
+50. Rc4 Ra5 51. Ke4 Kf7 52. Rc7+ Kf6 53. Rc6+ Kg7 54. Rg6+ Kh7 55. Rd6 Kg7
+56. Rd4 Kf6 57. Rb4 Ra6 58. Rc4 Ke6 59. Rd4 Ra1 60. Rb4 Re1+ 61. Kf3 Rf1+ 
+62. Ke3 Re1+ 63. Kf2 Rd1 64. Ke2 Rd5 65. Ke3 Re5+ 66. Kf3 Ra5 67. Re4+ Re5
+68. Ra4 Rb5 69. Ra3 Rb4 70. Re3+ Kf6 71. Re4 Rxe4 72. Kxe4 1/2-1/2
+
+
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.22"]
+[Round "4.3"]
+[White "Wei, Yi"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2734"]
+[BlackElo "2782"]
+[ECO "C84"]
+[EventDate "2015.09.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. 
+a3 Na5 9. Ba2 c5 10. Nc3 Be6 11. Bxe6 fxe6 12. b4 Nc6 13. bxc5 dxc5 14. 
+Bb2 O-O 15. a4 b4 16. Nb1 c4 17. dxc4 Qxd1 18. Rxd1 Nxe4 19. Re1 Nd6 20. 
+Nbd2 Rac8 21. Rad1 Na5 22. Nxe5 Ndxc4 23. Ndxc4 Nxc4 24. Nxc4 Rxc4 25. 
+Rxe6 Bf6 26. Bxf6 Rxf6 27. Re2 h6 28. g3 Rfc6 29. Rdd2 R4c5 30. h4 Rc7 31.
+ Kg2 Ra5 32. Rd4 Rxa4 33. h5 Ra5 34. Rxb4 1/2-1/2
+
+
+[Event "FIDE World Cup 2015"]
+[Site "Baku AZE"]
+[Date "2015.09.22"]
+[Round "4.5"]
+[White "Wei, Yi"]
+[Black "Ding, Liren"]
+[Result "1/2-1/2"]
+[WhiteElo "2734"]
+[BlackElo "2782"]
+[ECO "C24"]
+[EventDate "2015.09.11"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Nf3 d5 5. Bb3 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 
+dxe4 8. Nxe5 O-O 9. dxe4 Qe7 10. Qf4 Nh5 11. Bxf7+ Kh8 12. Qg3 Rxf7 13. 
+Nxf7+ Qxf7 14. Qd6 Be6 15. Nc3 Nd7 16. O-O-O Re8 17. Rhf1 Bc4 18. Rfe1 Ne5
+19. b3 Ba6 20. Kb1 h6 21. f3 Nf4 22. Rd2 Kh7 23. Red1 Re6 24. Qb8 Qf6 25. 
+Na4 Be2 26. Rc1 b6 27. Nc3 Ba6 28. Rcd1 Nc4 29. bxc4 Qxc3 30. Qxf4 Qb4+ 
+31. Ka1 Qc3+ 1/2-1/2

@@ -1,0 +1,651 @@
+[Event "Zonal 2.3 Caribbean 2011"]
+[Site "Santiago de los Caballeros"]
+[Date "2011.03.20"]
+[Round "4"]
+[White "Del Castilho, M."]
+[Black "Dominguez Perez, L."]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2205"]
+[PlyCount "72"]
+[EventDate "2011.03.28"]
+[EventRounds "13"]
+[EventCountry "DOM"]
+[EventCategory "4"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+h5 9. Qd2 Nbd7 10. a4 Rc8 11. Be2 Nb6 12. O-O Be7 13. a5 Nc4 14. Bxc4 Rxc4 15.
+Nd5 Nxd5 16. exd5 Bf5 17. c3 Qd7 18. Nc1 Ra4 19. Rxa4 Qxa4 20. Bb6 Qc2 21. Qxc2
+Bxc2 22. Rf2 Bh7 23. Nb3 g5 24. c4 Kd7 25. Rf1 Rg8 26. Nd2 f5 27. b4 g4 28. Kh1
+h4 29. c5 h3 30. gxh3 gxf3 31. c6+ bxc6 32. dxc6+ Kxc6 33. Rc1+ Kd7 34. Rc7+
+Ke6 35. Nxf3 f4 36. Nd2 Bd3 0-1
+
+
+[Event "Zonal 2.3 Caribbean 2011"]
+[Site "Santiago de los Caballeros"]
+[Date "2011.03.22"]
+[Round "6"]
+[White "Arenas, D."]
+[Black "Dominguez Perez, L."]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2420"]
+[PlyCount "90"]
+[EventDate "2011.03.28"]
+[EventRounds "13"]
+[EventCountry "DOM"]
+[EventCategory "4"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+h5 9. Qd2 Nbd7 10. Nd5 Bxd5 11. exd5 g6 12. Be2 Qc7 13. c4 Bg7 14. O-O b6 15.
+Rac1 O-O 16. Na1 Kh7 17. Bd1 Qb7 18. Be2 b5 19. Nb3 bxc4 20. Bxc4 Rfb8 21. Rfd1
+e4 22. f4 Ng4 23. Bd4 a5 24. h3 Nh6 25. Bxg7 Kxg7 26. a4 Qb4 27. Rc3 Qxa4 28.
+Qe2 Qb4 29. Qxe4 Nf6 30. Qd3 Nf5 31. Rd2 Re8 32. Nd4 Nxd4 33. Qxd4 Re4 34. Qd3
+Rxf4 35. Rc1 Re8 36. b3 Qb6+ 37. Kh2 Re3 38. Qc2 Re5 39. g3 Rf3 40. Rg1 Qe3 41.
+Re2 Qg5 42. Qd2 Qf5 43. Rxe5 Qxe5 44. Qxa5 Rf2+ 45. Rg2 Ne4 0-1
+
+
+[Event "Zonal 2.3 Caribbean 2011"]
+[Site "Santiago de los Caballeros"]
+[Date "2011.03.24"]
+[Round "9"]
+[White "Leon Hoyos, M."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[WhiteElo "2546"]
+[PlyCount "87"]
+[EventDate "2011.03.28"]
+[EventRounds "13"]
+[EventCountry "DOM"]
+[EventCategory "4"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. c4 c5 2. Nc3 g6 3. g3 Bg7 4. Bg2 Nc6 5. a3 d6 6. d3 e6 7. Nf3 Nge7 8. Bd2 b6
+9. O-O Bb7 10. Rb1 Qd7 11. b4 O-O 12. Qa4 Rad8 13. Nb5 h6 14. Rfd1 g5 15. h4 g4
+16. Ne1 f5 17. Nc2 Ba8 18. e3 Ne5 19. Qxa7 Qxa7 20. Nxa7 Nxd3 21. Bc3 Be4 22.
+Bxg7 Kxg7 23. bxc5 dxc5 24. Ne1 Bxg2 25. Nxg2 Ne5 26. Nf4 Kf7 27. Rdc1 Rd7 28.
+Nb5 N7c6 29. Nc3 Rb8 30. Na4 Rdb7 31. Rb5 Na5 32. Nxc5 bxc5 33. Rxa5 Rb1 34.
+Rf1 Nf3+ 35. Kg2 Ne1+ 36. Kh1 Nf3 37. Kg2 Rxf1 38. Kxf1 e5 39. Ra7+ Ke8 40. Nd5
+Rb1+ 41. Ke2 e4 42. Nf6+ Kf8 43. Nh7+ Ke8 44. Nf6+ 1/2-1/2
+
+
+[Event "Zonal 2.3 Caribbean 2011"]
+[Site "Santiago de los Caballeros"]
+[Date "2011.03.25"]
+[Round "11"]
+[White "Mazara, A."]
+[Black "Dominguez Perez, L."]
+[Result "0-1"]
+[ECO "B51"]
+[WhiteElo "2298"]
+[PlyCount "74"]
+[EventDate "2011.03.28"]
+[EventRounds "13"]
+[EventCountry "DOM"]
+[EventCategory "4"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 a6 5. Bxd7+ Bxd7 6. d5 Nf6 7. O-O Nxe4 8.
+Re1 Nf6 9. Nbd2 g6 10. Nc4 Bb5 11. Nfd2 Bxc4 12. Nxc4 b5 13. Bg5 Bg7 14. Ne3
+O-O 15. Ng4 h5 16. Nxf6+ exf6 17. Bf4 f5 18. c3 Qd7 19. a4 Rfe8 20. axb5 axb5
+21. Rxe8+ Rxe8 22. Ra6 Be5 23. Bxe5 Rxe5 24. Qd2 Qe7 25. g3 Re1+ 26. Kg2 Qe4+
+27. Kh3 Re2 28. Qf4 Qxf4 29. gxf4 Rxb2 30. Rxd6 Rxf2 31. Rd8+ Kg7 32. Rc8 Rxf4
+33. Rxc5 Rc4 34. Rxb5 Rxc3+ 35. Kg2 Kf6 36. Rb7 Rd3 37. Rd7 h4 0-1
+
+
+[Event "Zonal 2.3 Caribbean 2011"]
+[Site "Santiago de los Caballeros"]
+[Date "2011.03.27"]
+[Round "13"]
+[White "Pitterson, J."]
+[Black "Dominguez Perez, L."]
+[Result "0-1"]
+[ECO "D11"]
+[WhiteElo "2263"]
+[PlyCount "130"]
+[EventDate "2011.03.28"]
+[EventRounds "13"]
+[EventCountry "DOM"]
+[EventCategory "4"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qb3 dxc4 5. Qxc4 Bf5 6. g3 e6 7. Bg2 Nbd7 8.
+O-O Be7 9. e3 O-O 10. Qe2 Qc7 11. Rd1 e5 12. h3 Rfe8 13. Nc3 h6 14. e4 Bg6 15.
+dxe5 Nxe5 16. Nxe5 Qxe5 17. Be3 Bb4 18. f4 Qe6 19. e5 Bxc3 20. bxc3 Nd5 21. Bd4
+c5 22. c4 Nxf4 23. gxf4 cxd4 24. Rxd4 Rad8 25. Qf2 b6 26. Rad1 Rxd4 27. Qxd4
+Rc8 28. Rc1 Rc5 29. Kh2 Ra5 30. c5 Rxc5 31. Rxc5 bxc5 32. Qxc5 Qxa2 33. Qc8+
+Kh7 34. f5 Bh5 35. Qc3 Qf2 36. e6 Qxf5 37. e7 f6 38. Qe3 Qd7 39. Be4+ f5 40.
+Bg2 Qd6+ 41. Kh1 Be8 42. Qxa7 Kg6 43. Qb7 Kf6 44. Bd5 g6 45. Qb2+ Qe5 46. Qb6+
+Kxe7 47. Qc5+ Qd6 48. Qe3+ Kd8 49. Bg2 g5 50. Qa7 Bd7 51. Qa8+ Ke7 52. Qa1 Be8
+53. Qg7+ Bf7 54. Qa1 f4 55. Qa7+ Kf6 56. Qb7 Qe5 57. Qc6+ Kg7 58. Kg1 h5 59.
+Qf3 Qe3+ 60. Qxe3 fxe3 61. Bf1 h4 62. Be2 Kf6 63. Kf1 Ke5 64. Ke1 Be6 65. Bf1
+Kf4 0-1
+
+
+[Event "46th Capablanca Memorial Elite"]
+[Site "Havana CUB"]
+[Date "2011.05.12"]
+[Round "2"]
+[White "Ivanchuk, V."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "B22"]
+[WhiteElo "2776"]
+[BlackElo "2726"]
+[PlyCount "51"]
+[EventDate "2011.05.11"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Bc4 e6 5. d4 cxd4 6. cxd4 d6 7. Nf3 Nc6 8. O-O
+Be7 9. Qe2 O-O 10. Rd1 Bd7 11. Bd2 Qb6 12. Nc3 Nxc3 13. Bxc3 dxe5 14. dxe5 Rfd8
+15. h4 Be8 16. h5 Rxd1+ 17. Rxd1 Rd8 18. h6 Rxd1+ 19. Qxd1 g6 20. a3 Qd8 21.
+Qc1 Bf8 22. Qd2 Qxd2 23. Bxd2 Nb8 24. Be3 a6 25. Kf1 Ba4 26. Nh2 1/2-1/2
+
+
+[Event "46th Capablanca Memorial Elite"]
+[Site "Havana CUB"]
+[Date "2011.05.15"]
+[Round "5"]
+[White "Bruzon Batista, L."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "2693"]
+[BlackElo "2726"]
+[PlyCount "33"]
+[EventDate "2011.05.11"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7 8. c4
+Nb4 9. Re1 Nxd3 10. Qxd3 c6 11. cxd5 cxd5 12. Qb5+ Qd7 13. Qb3 O-O 14. Nc3 Nxc3
+15. bxc3 Rd8 16. Ba3 Bf6 17. Re3 1/2-1/2
+
+
+[Event "46th Capablanca Memorial Elite"]
+[Site "Havana CUB"]
+[Date "2011.05.19"]
+[Round "8"]
+[White "Navara, D."]
+[Black "Dominguez Perez, L."]
+[Result "0-1"]
+[ECO "E70"]
+[WhiteElo "2702"]
+[BlackElo "2726"]
+[PlyCount "98"]
+[EventDate "2011.05.11"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bd3 O-O 6. Nge2 c5 7. d5 e6 8. Bg5 h6
+9. Bh4 g5 10. Bg3 Nh5 11. O-O Na6 12. a3 Nc7 13. Qc2 Rb8 14. Rab1 Nxg3 15. Nxg3
+Bd7 16. b4 Be5 17. bxc5 dxc5 18. Nce2 Ne8 19. f4 gxf4 20. Nxf4 Qg5 21. Nge2
+exd5 22. exd5 Nd6 23. Kh1 Rbe8 24. Rf2 Kh8 25. Rbf1 Rg8 26. Ng3 Bg4 27. Nfe2
+Qh4 28. Rxf7 Nxf7 29. Rxf7 Re7 30. Rxe7 Qxe7 31. Nf5 Qg5 32. Neg3 h5 33. Qf2 h4
+34. Qe1 Bxg3 35. Qc3+ Rg7 36. Qxg7+ Qxg7 37. Nxg7 Kxg7 38. hxg3 hxg3 39. Kg1
+Kf6 40. Kf1 Ke5 41. Ke1 Kd4 42. Bg6 Kxc4 43. Bf7 Kb5 44. Be8+ Kb6 45. d6 Bf5
+46. a4 a5 47. Kd2 Be4 48. Ke3 Bxg2 49. Kf4 Bc6 0-1
+
+
+[Event "46th Capablanca Memorial Elite"]
+[Site "Havana CUB"]
+[Date "2011.05.20"]
+[Round "9"]
+[White "Andreikin, D."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "D16"]
+[WhiteElo "2687"]
+[BlackElo "2726"]
+[PlyCount "31"]
+[EventDate "2011.05.11"]
+[Source "Mark Crowther"]
+[SourceDate "2010.09.06"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 dxc4 5. a4 e6 6. e3 c5 7. Bxc4 Nc6 8. O-O
+Be7 9. Qe2 cxd4 10. Rd1 O-O 11. exd4 Nd5 12. Qe4 Nf6 13. Qe2 Nd5 14. Qe4 Nf6
+15. Qe2 Nd5 16. Qe4 1/2-1/2
+
+
+[Event "Baku Open A"]
+[Site "Baku AZE"]
+[Date "2011.08.07"]
+[Round "2"]
+[White "Guliev, Sarh"]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "E60"]
+[WhiteElo "2500"]
+[BlackElo "2719"]
+[PlyCount "189"]
+[EventDate "2011.08.06"]
+[EventRounds "9"]
+[EventCountry "AZE"]
+[Source "Mark Crowther"]
+[SourceDate "2011.06.27"]
+[WhiteTeam "United States"]
+[BlackTeam "Israel"]
+[WhiteTeamCountry "USA"]
+[BlackTeamCountry "ISR"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Nc6 8.
+Nc3 O-O 9. e3 Re8 10. d5 Na5 11. Nd4 Bd7 12. b3 Rc8 13. Bb2 c6 14. e4 cxd5 15.
+exd5 Nbc4 16. bxc4 Qb6 17. Ncb5 a6 18. Rb1 Nxc4 19. Bc3 axb5 20. Nxb5 Bxb5 21.
+Bxg7 Ne3 22. fxe3 Qxe3+ 23. Rf2 Kxg7 24. Qd2 Qxd2 25. Rxd2 Ba6 26. d6 exd6 27.
+Rb6 Rc1+ 28. Kf2 Re6 29. Bxb7 Rf6+ 30. Ke3 Bxb7 31. Rxb7 Rc3+ 32. Kd4 Ra3 33.
+Kc4 Rf5 34. Rd7 Rfa5 35. Rf2 Rf5 36. Rd2 h5 37. Kb4 Ra8 38. a4 Rb8+ 39. Kc4
+Rc5+ 40. Kd4 Ra5 41. Rxd6 Rxa4+ 42. Ke3 Rb1 43. Rd1 Rb5 44. R6d5 Rb2 45. R1d2
+Ra3+ 46. Kf2 Rbb3 47. Rd7 h4 48. gxh4 Rh3 49. Kf1 Rhf3+ 50. Kg2 Rf4 51. R7d4
+Ra4 52. Rxf4 Rxf4 53. Kg3 Ra4 54. Rd5 Kh6 55. Rd8 Ra3+ 56. Kg2 Kh5 57. Rd4 f5
+58. Rc4 Re3 59. Rd4 Kh6 60. Ra4 Kg7 61. Kf2 Rb3 62. Kg2 Kh6 63. Rc4 Kh5 64. Rd4
+Rb2+ 65. Kg3 Rb1 66. Kg2 Re1 67. Rc4 Re6 68. Rd4 Kh6 69. Ra4 Kg7 70. Kf3 Kf6
+71. Kf4 Re1 72. Kf3 Rf1+ 73. Kg2 Rd1 74. Ra6+ Kg7 75. Ra7+ Kh6 76. Ra4 Rd3 77.
+Rc4 Rd6 78. Rf4 Rd5 79. Ra4 Rd3 80. Rb4 Re3 81. Kf2 Re6 82. Rf4 Re5 83. Ra4 Kg7
+84. Kf3 Kf6 85. Ra6+ Kg7 86. h5 gxh5 87. Kf4 Re2 88. h4 Re4+ 89. Kg5 Rg4+ 90.
+Kxf5 Rxh4 91. Ra7+ Kf8 92. Kf6 Rf4+ 93. Kg5 Rf7 94. Rxf7+ Kxf7 95. Kxh5 1/2-1/2
+
+
+[Event "Baku Open A"]
+[Site "Baku AZE"]
+[Date "2011.08.11"]
+[Round "6"]
+[White "Bruzon Batista, L."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "C92"]
+[WhiteElo "2673"]
+[BlackElo "2719"]
+[PlyCount "27"]
+[EventDate "2011.08.06"]
+[EventRounds "9"]
+[EventCountry "AZE"]
+[Source "Mark Crowther"]
+[SourceDate "2011.06.27"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Ng5 Rf8 12. Nf3 Re8 13. Ng5 Rf8 14. Nf3 1/2-1/2
+
+
+[Event "Baku Open A"]
+[Site "Baku AZE"]
+[Date "2011.08.13"]
+[Round "8"]
+[White "Abbasov, F."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "A36"]
+[WhiteElo "2529"]
+[BlackElo "2719"]
+[PlyCount "59"]
+[EventDate "2011.08.06"]
+[EventRounds "9"]
+[EventCountry "AZE"]
+[Source "Mark Crowther"]
+[SourceDate "2011.06.27"]
+
+1. c4 g6 2. g3 Bg7 3. Bg2 c5 4. Nc3 Nc6 5. a3 d6 6. Rb1 e6 7. b4 Nge7 8. Nf3 b6
+9. O-O Bb7 10. Bb2 O-O 11. Nb5 Bxb2 12. Rxb2 Rb8 13. d3 Qd7 14. Nc3 Nd4 15. e3
+Nxf3+ 16. Bxf3 cxb4 17. axb4 d5 18. Ra2 dxc4 19. dxc4 Qxd1 20. Bxd1 Rfc8 21.
+Be2 Nc6 22. Nb5 Nxb4 23. Rxa7 Rd8 24. Rb1 Nc6 25. Rxb7 Rxb7 26. Bf3 Rc8 27. Nd6
+Rbc7 28. Bxc6 Rxc6 29. Nxc8 Rxc8 30. Rxb6 1/2-1/2
+
+
+[Event "FIDE World Cup 2011"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2011.08.29"]
+[Round "1.2"]
+[White "Moradiabadi, E."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "D80"]
+[WhiteElo "2532"]
+[BlackElo "2719"]
+[PlyCount "143"]
+[EventDate "2011.08.28"]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2011.06.27"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bh4 Nxc3 6. bxc3 dxc4 7. e3 Be6 8.
+Be2 Bg7 9. Nh3 O-O 10. Nf4 Bf5 11. O-O c5 12. Bxc4 Nc6 13. Qe2 cxd4 14. cxd4
+Rc8 15. Rac1 Qd6 16. Bg3 Qa3 17. Rcd1 Na5 18. Bd3 Bxd3 19. Rxd3 Qa4 20. Rd2
+Rfd8 21. Nd3 b6 22. h3 Rc3 23. Rb1 Rdc8 24. Rb4 Qa3 25. Rb5 Qa4 26. Rb4 Qa3 27.
+Rb5 Nc4 28. Rd1 Qa4 29. Rb4 Qc2 30. Qxc2 Rxc2 31. a4 e6 32. Rbb1 Nd2 33. Rbc1
+Ne4 34. Rxc2 Rxc2 35. Bb8 Nc3 36. Ra1 a5 37. Ba7 Rd2 38. Nf4 e5 39. Rc1 exd4
+40. Bxb6 d3 41. Bxa5 Rc2 42. Rxc2 dxc2 43. Nd3 Nxa4 44. Bd2 Nb2 45. Nc5 Bf8 46.
+Bc1 Bxc5 47. Bxb2 f5 48. Kf1 Kf7 49. Ke2 Ke6 50. f3 h5 51. Kd3 Kd5 52. Bc1 Bd6
+53. Kxc2 Kc4 54. Kd2 Be5 55. Ke2 Kd5 56. Kd3 Bd6 57. Bb2 Bc7 58. Bf6 Bd6 59.
+e4+ fxe4+ 60. fxe4+ Ke6 61. Bd4 Bg3 62. Ke3 Bd6 63. Kf3 Bc7 64. Bg7 Bd6 65. Ke3
+Bc7 66. Kd4 Bb6+ 67. Kc4 Bc7 68. Bd4 Bb8 69. Bf2 Bf4 70. Bd4 Bb8 71. Bf2 Bf4
+72. Bd4 1/2-1/2
+
+
+[Event "FIDE World Cup 2011"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2011.08.31"]
+[Round "2.1"]
+[White "Bologan, V."]
+[Black "Dominguez Perez, L."]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2678"]
+[BlackElo "2719"]
+[PlyCount "124"]
+[EventDate "2011.08.28"]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2011.06.27"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+h5 9. Qd2 Nbd7 10. Nd5 Bxd5 11. exd5 g6 12. Be2 Qc7 13. Na5 b6 14. Nb3 Bg7 15.
+a4 O-O 16. O-O Kh7 17. c3 Ng8 18. g4 Ndf6 19. g5 Nd7 20. f4 exf4 21. Rxf4 Ne7
+22. Raf1 Kg8 23. c4 Nc5 24. Nd4 Nxa4 25. Bd1 Nc5 26. b4 Nd7 27. Nc6 Ne5 28. b5
+axb5 29. cxb5 Ra3 30. Bd4 Nf5 31. Rxf5 gxf5 32. Qc2 Qd7 33. Bxb6 f4 34. Rxf4
+Ng6 35. Rf1 Rfa8 36. Bxh5 Ra2 37. Qd3 R8a3 38. Qe4 Ra4 39. Qf5 Rg2+ 40. Kh1
+Qxf5 41. Rxf5 Rb2 42. Bxg6 Ra1+ 43. Bg1 fxg6 44. Ne7+ Kh7 45. Rf4 Rbb1 46. Rh4+
+Bh6 47. Rxh6+ Kg7 48. h4 Rxg1+ 49. Kh2 Rge1 50. Nxg6 Re3 51. Nf4 Ra2+ 52. Ng2
+Ree2 53. Rxd6 Rxg2+ 54. Kh3 Rg1 55. Rd7+ Kf8 56. b6 Ra3+ 57. Kh2 Rb1 58. Ra7
+Rb2+ 59. Kg1 Rxa7 60. bxa7 Ra2 61. h5 Rxa7 62. Kf2 Rg7 0-1
+
+
+[Event "FIDE World Cup 2011"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2011.09.05"]
+[Round "3.3"]
+[White "Lysyj, I."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2629"]
+[BlackElo "2719"]
+[PlyCount "47"]
+[EventDate "2011.08.28"]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2011.06.27"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Na4 e5 6. dxe5 Nc6 7. a3 Bf5 8.
+Nf3 Qd7 9. e3 O-O-O 10. Bd2 Qe7 11. Be2 Nxe5 12. O-O Nxf3+ 13. Bxf3 Qe6 14. Rc1
+Kb8 15. Nc5 Bxc5 16. Rxc5 Be4 17. Bxe4 Qxe4 18. Qc1 f5 19. Rd1 Rd7 20. Rc4 Qe6
+21. Rd4 Rhd8 22. Qc4 c6 23. Be1 Kc8 24. h3 1/2-1/2
+
+
+[Event "FIDE World Cup 2011"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2011.09.05"]
+[Round "3.6"]
+[White "Lysyj, I."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "D85"]
+[WhiteElo "2629"]
+[BlackElo "2719"]
+[PlyCount "27"]
+[EventDate "2011.08.28"]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2011.06.27"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Na4 e5 6. dxe5 Nc6 7. a3 Bf5 8.
+Nf3 Qd7 9. e3 O-O-O 10. Bd2 Qe7 11. Be2 Nxe5 12. O-O Be4 13. Nxe5 Qxe5 14. Nc3
+1/2-1/2
+
+
+[Event "FIDE World Cup 2011"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2011.09.05"]
+[Round "3.7"]
+[White "Lysyj, I."]
+[Black "Dominguez Perez, L."]
+[Result "1/2-1/2"]
+[ECO "D11"]
+[WhiteElo "2629"]
+[BlackElo "2719"]
+[PlyCount "26"]
+[EventDate "2011.08.28"]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2011.06.27"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 a6 5. Nc3 b5 6. b3 Bg4 7. Bd2 e6 8. h3 Bxf3
+9. Qxf3 Bb4 10. Bd3 Qa5 11. Rc1 Bxc3 12. Rxc3 Qxa2 13. Qd1 Rf8 1/2-1/2
+
+
+[Event "FIDE World Cup 2011"]
+[Site "Khanty-Mansiysk RUS"]
+[Date "2011.09.06"]
+[Round "4.1"]
+[White "Polgar, Ju"]
+[Black "Dominguez Perez, L."]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2699"]
+[BlackElo "2719"]
+[PlyCount "92"]
+[EventDate "2011.08.28"]
+[EventRounds "7"]
+[EventCountry "RUS"]
+[Source "Mark Crowther"]
+[SourceDate "2011.06.27"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nf3 Be7 8. Bc4
+O-O 9. O-O Qc7 10. Bb3 Be6 11. Qe2 Rc8 12. Rfd1 b5 13. Bg5 Nbd7 14. Rac1 b4 15.
+Nd5 Bxd5 16. Bxf6 Nxf6 17. exd5 Qd7 18. Bc4 Qa7 19. c3 bxc3 20. Rxc3 Bd8 21.
+Ng5 a5 22. Rf3 Qe7 23. b3 a4 24. Rh3 g6 25. Qc2 axb3 26. axb3 Bb6 27. Rf1 Ng4
+28. Ne4 f5 29. Rg3 Nf6 30. Nxf6+ Qxf6 31. Rd3 Rc7 32. Qc3 Rca7 33. Rd2 Bd4 34.
+Qd3 Ra1 35. g3 Rxf1+ 36. Kxf1 Bc5 37. Kg2 e4 38. Qe2 Re8 39. f3 exf3+ 40. Qxf3
+Re3 41. Qf1 Qe5 42. Qf4 Qe7 43. Ra2 Re1 44. b4 Be3 45. Qf3 Rg1+ 46. Kh3 Qg5 0-1
+
+
+[Event "5th SPICE Cup GpA"]
+[Site "Lubbock USA"]
+[Date "2011.10.22"]
+[Round "7"]
+[White "Robson, R."]
+[Black "Dominguez Perez, L."]
+[Result "0-1"]
+[ECO "B96"]
+[WhiteElo "2583"]
+[BlackElo "2710"]
+[PlyCount "42"]
+[EventDate "2011.10.15"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "USA"]
+[EventCategory "17"]
+[Source "Mark Crowther"]
+[SourceDate "2011.10.24"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 h6 8. Bh4
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. f5 Be7 12. fxe6 fxe6 13. Bc4 Nxe4 14. Nxe4
+Bxh4+ 15. g3 Bg5 16. Nxg5 hxg5 17. c3 Qc5 18. Bxe6 Qe5+ 19. Kf2 Bxe6 20. Rbe1
+O-O+ 21. Kg1 Bh3 0-1
+
+
+[Event "TCh-ESP CECLUB Div Honor 2011"]
+[Site "Melilla ESP"]
+[Date "2011.11.21"]
+[Round "1"]
+[White "Dreev, A."]
+[Black "Dominguez Perez, L."]
+[Result "0-1"]
+[ECO "D80"]
+[WhiteElo "2710"]
+[BlackElo "2712"]
+[PlyCount "160"]
+[EventDate "2011.11.21"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "Mark Crowther"]
+[SourceDate "2011.11.29"]
+[WhiteTeam "CA Reverte Albox"]
+[BlackTeam "CA Sestao Naturgas Energia"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Qb3 e6 6. Qa3 Nc6 7. Nf3 Bd7 8. cxd5
+exd5 9. Bd2 Ne7 10. Qb3 Rb8 11. Ne5 O-O 12. Nxd7 Qxd7 13. Bd3 c6 14. Qa4 Ra8
+15. Qc2 Nc8 16. O-O Nd6 17. f3 Nfe8 18. Be1 Nc7 19. Bg3 Ne6 20. Qa4 Rfd8 21.
+Rad1 Qe7 22. Rfe1 a6 23. Qb4 b5 24. Kh1 a5 25. Qb3 Nc4 26. Qc2 Nb6 27. Ne2 Rac8
+28. Nf4 Nxf4 29. exf4 Qd7 30. f5 Re8 31. Be5 Nc4 32. f4 Nd6 33. f6 Bf8 34. b3
+Rcd8 35. Rc1 Rc8 36. Rcd1 Ne4 37. Bxe4 dxe4 38. Qxe4 Qd5 39. Rc1 a4 40. Re3 Bb4
+41. Rc2 Red8 42. bxa4 bxa4 43. h3 Re8 44. Qd3 Bf8 45. Qc4 a3 46. Qxd5 cxd5 47.
+Rec3 Rxc3 48. Rxc3 h5 49. h4 Ra8 50. Rb3 Rc8 51. Kh2 Kh7 52. Rb7 Kg8 53. Kh3
+Rc3+ 54. Kh2 Bh6 55. Ra7 Rd3 56. Ra5 Kh7 57. Ra8 Rc3 58. Bd6 Rc6 59. Bc5 Bxf4+
+60. g3 Bc1 61. Be7 Rc2+ 62. Kh3 Rxa2 63. Bd6 g5 64. hxg5 Bxg5 65. g4 hxg4+ 66.
+Kxg4 Bxf6 67. Ra5 Bxd4 68. Rxd5 Rg2+ 69. Kh3 a2 70. Rxd4 a1=Q 71. Rh4+ Kg6 72.
+Kxg2 Qa2+ 73. Kg1 Qb1+ 74. Kh2 Qc2+ 75. Kh3 Qf5+ 76. Kh2 Qf2+ 77. Kh3 Qf1+ 78.
+Kh2 Qe2+ 79. Kh3 Qe6+ 80. Rg4+ Kh5 0-1
+
+
+[Event "TCh-ESP CECLUB Div Honor 2011"]
+[Site "Melilla ESP"]
+[Date "2011.11.23"]
+[Round "3"]
+[White "Sargissian, G."]
+[Black "Dominguez Perez, L."]
+[Result "0-1"]
+[ECO "E60"]
+[WhiteElo "2671"]
+[BlackElo "2712"]
+[PlyCount "114"]
+[EventDate "2011.11.21"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "Mark Crowther"]
+[SourceDate "2011.11.29"]
+[WhiteTeam "CA Linex-Magic"]
+[BlackTeam "CA Sestao Naturgas Energia"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 c5 5. d5 b5 6. cxb5 a6 7. bxa6 O-O 8. Nc3
+d6 9. Bg2 Nbd7 10. O-O Nb6 11. Nh4 Bxa6 12. Qc2 Nfd7 13. Rd1 Nc4 14. a3 Qa5 15.
+Ra2 Rfb8 16. Ne4 Qb5 17. b4 cxb4 18. axb4 Qxb4 19. Bh3 Nf6 20. Nxf6+ Bxf6 21.
+Nf3 Bb5 22. Rxa8 Rxa8 23. Bg5 Na3 24. Qd2 Qxd2 25. Rxd2 Bc3 26. Bxe7 Bxd2 27.
+Nxd2 Bxe2 28. Bf1 Bxf1 29. Kxf1 Nb5 30. Ne4 Ra1+ 31. Kg2 Re1 32. Nxd6 Nc7 33.
+Bg5 Nxd5 34. Nc4 f6 35. Ne3 Nxe3+ 36. Bxe3 Kf7 37. g4 Ke6 38. h3 Rd1 39. Bh6
+Rd3 40. f3 Ke5 41. Kg3 Rb3 42. Bf8 Rb6 43. Bc5 Rc6 44. Be7 Kd4 45. Kf2 Kd3 46.
+Bd8 Re6 47. Ba5 Re2+ 48. Kg3 Re8 49. Bb6 Ke2 50. Bd4 Re6 51. Kg2 Rd6 52. Bb2 f5
+53. gxf5 gxf5 54. Kg3 Rd3 55. Kf4 Rxf3+ 56. Kg5 Ke3 57. h4 f4 0-1
+
+
+[Event "TCh-ESP CECLUB Div Honor 2011"]
+[Site "Melilla ESP"]
+[Date "2011.11.24"]
+[Round "5"]
+[White "Harikrishna, P."]
+[Black "Dominguez Perez, L."]
+[Result "0-1"]
+[ECO "D86"]
+[WhiteElo "2673"]
+[BlackElo "2712"]
+[PlyCount "92"]
+[EventDate "2011.11.21"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "Mark Crowther"]
+[SourceDate "2011.11.29"]
+[WhiteTeam "CA Solvay"]
+[BlackTeam "CA Sestao Naturgas Energia"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O e6 11. Rb1 cxd4 12. cxd4 b6 13. Rc1 Na5 14. Bd3 Bb7
+15. Qd2 Rc8 16. Rxc8 Qxc8 17. Rc1 Qd7 18. h4 Rc8 19. h5 Rxc1+ 20. Qxc1 Qc6 21.
+h6 Qxc1+ 22. Bxc1 Bf6 23. e5 Be7 24. Nc3 Nc6 25. Be4 Bb4 26. Bxc6 Bxc6 27. Nd1
+Be7 28. f3 f5 29. Nf2 Bd5 30. a3 Bc4 31. Nh3 b5 32. Kf2 a5 33. Ke1 a4 34. Kd2
+b4 35. axb4 Bxb4+ 36. Kc2 a3 37. Nf4 g5 38. Nd3 a2 39. Bb2 Bf8 40. Nc5 Bxh6 41.
+Kc3 Bd5 42. Nd7 Bg7 43. Nb6 h5 44. Nxd5 exd5 45. Kb3 g4 46. Kxa2 Bh6 0-1
+
+
+[Event "Sportaccord WMG Blitz"]
+[Site "Beijing CHN"]
+[Date "2011.12.13"]
+[Round "14"]
+[White "Kamsky, G."]
+[Black "Dominguez Perez, L."]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2732"]
+[BlackElo "2712"]
+[PlyCount "78"]
+[EventDate "2011.12.12"]
+[EventType "swiss (blitz)"]
+[EventRounds "15"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2011.12.26"]
+[WhiteTeamCountry "QAT"]
+[BlackTeamCountry "JOR"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. c3 d5 6. e3 Nbd7 7. Be2 b6 8. a4
+a6 9. O-O Bb7 10. b4 Ne4 11. Nxe4 dxe4 12. Nd2 h6 13. Bh4 g5 14. Bg3 e6 15. Qb3
+Kh8 16. a5 b5 17. c4 f5 18. f3 c5 19. bxc5 Nxc5 20. Qb4 Nd3 21. Bxd3 exd3 22.
+cxb5 f4 23. Bf2 axb5 24. e4 Qd7 25. Nb3 g4 26. Nc5 Qf7 27. fxg4 Bc6 28. Rad1
+Qg6 29. Rxd3 Qxg4 30. h3 Qg6 31. d5 f3 32. g3 exd5 33. exd5 Bd7 34. Kh2 Bxh3
+35. Kxh3 Rf5 36. g4 Rh5+ 37. Kg3 Rf8 38. Bd4 Qd6+ 39. Kf2 Qh2+ 0-1
+
+
+[Event "Donostia KO GpA"]
+[Site "San Sebastian ESP"]
+[Date "2011.12.30"]
+[Round "3"]
+[White "Stefanova, A."]
+[Black "Dominguez Perez, L."]
+[Result "0-1"]
+[ECO "A48"]
+[WhiteElo "2531"]
+[BlackElo "2712"]
+[PlyCount "72"]
+[EventDate "2011.12.28"]
+[EventType "k.o."]
+[EventRounds "7"]
+[EventCountry "ESP"]
+[Source "Mark Crowther"]
+[SourceDate "2012.01.02"]
+[WhiteTeamCountry "QAT"]
+[BlackTeamCountry "JOR"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. Bf4 O-O 5. Qd2 d5 6. Bh6 Ne4 7. Nxe4 dxe4 8.
+Bxg7 Kxg7 9. Ne5 b5 10. f3 Bb7 11. O-O-O Nd7 12. Ng4 Nf6 13. Qh6+ Kg8 14. Ne3
+c5 15. d5 Qa5 16. Kb1 Rad8 17. fxe4 Nxe4 18. Qh4 Qb4 19. Ka1 Nf6 20. c4 Nxd5
+21. Nxd5 Bxd5 22. e4 Be6 23. Be2 bxc4 24. Qg3 Rd2 25. Rxd2 Qxd2 26. Qe1 Rd8 27.
+Bf3 c3 28. Qxd2 Rxd2 29. b3 g5 30. h3 h5 31. Rc1 g4 32. hxg4 hxg4 33. Bxg4 Bxg4
+34. Rxc3 Rxg2 35. Rxc5 Bf3 36. e5 Rg5 0-1
+
+
+[Event "Donostia KO GpA"]
+[Site "San Sebastian ESP"]
+[Date "2011.12.29"]
+[Round "2"]
+[White "Tung,S"]
+[Black "Dominguez Perez,L"]
+[Result "0-1"]
+[BlackTitle "GM"]
+[WhiteElo "1922"]
+[BlackElo "2712"]
+[ECO "B03"]
+[Opening "Alekhine's defence"]
+[Variation "four pawns attack, Planinc variation"]
+[WhiteFideId "2265346"]
+[BlackFideId "3503240"]
+[EventDate "2011.12.28"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 g5 6. Nc3 Bg7 7. Nf3 Bg4 8. Be2
+gxf4 9. Bxf4 Nc6 10. O-O dxe5 11. Bxe5 Nxe5 12. Nxe5 Bxe2 13. Nxe2 Bxe5 14. dxe5
+Qxd1 15. Raxd1 e6 16. Rd4 Nd7 17. Re4 Rd8 18. Nc3 Rg8 19. Nb5 a6 20. Nxc7+ Ke7
+21. Nd5+ exd5 22. cxd5 Nc5 23. d6+ Ke8 24. Ref4 Rg7 25. R1f3 Nd7 26. Re3 Rg6 27.
+Kf2 Rc8 28. Re2 Rc5 0-1

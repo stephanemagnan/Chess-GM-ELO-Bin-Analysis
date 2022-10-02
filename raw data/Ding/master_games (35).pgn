@@ -1,0 +1,717 @@
+[Event "78th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2016.01.29"]
+[Round "11.6"]
+[White "Tomashevsky, E."]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "D30"]
+[WhiteElo "2728"]
+[BlackElo "2766"]
+[PlyCount "106"]
+[EventDate "2016.01.16"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2016.02.01"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O c6 8. Bf4
+Nbd7 9. Nc3 dxc4 10. e4 Re8 11. a4 b6 12. Qe2 Ba6 13. Rfd1 Bb4 14. Ne1 Qc8 15.
+Nc2 Bf8 16. Ne3 e5 17. dxe5 Nxe5 18. Bxe5 Rxe5 19. f4 Re8 20. e5 Qe6 21. Kh1
+Nd7 22. Nc2 Nc5 23. Nd4 Qc8 24. Bxc6 Nd3 25. Qf3 Rb8 26. Rd2 Bb7 27. Rf1 Rd8
+28. Bxb7 Rxb7 29. Nf5 Rc7 30. Ne3 Qe6 31. Ne4 h6 32. Rc2 Rcc8 33. Re2 a6 34. g4
+Nc5 35. Nc3 Rd3 36. Qg2 Rcd8 37. f5 Qxe5 38. Nxc4 Qf6 39. Ne5 R3d6 40. Nf3 b5
+41. axb5 axb5 42. Nxb5 Rd1 43. Nc3 Rxf1+ 44. Qxf1 Qc6 45. Re3 Rb8 46. Qg2 Qa6
+47. Ne4 Nxe4 48. Rxe4 Rb3 49. Re1 Qb5 50. Nd4 Qb4 51. Qe4 Rxb2 52. f6 Qd6 53.
+Qe5 Rb1 0-1
+
+
+[Event "78th Tata Steel GpA"]
+[Site "Wijk aan Zee NED"]
+[Date "2016.01.23"]
+[Round "7.6"]
+[White "Caruana, F."]
+[Black "Ding Liren"]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "2787"]
+[BlackElo "2766"]
+[PlyCount "165"]
+[EventDate "2016.01.16"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "20"]
+[Source "Mark Crowther"]
+[SourceDate "2016.01.25"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a3
+Na5 9. Ba2 c5 10. Nc3 Be6 11. Nh4 c4 12. Nf5 Bxf5 13. exf5 O-O 14. dxc4 Nxc4
+15. Bxc4 bxc4 16. Bg5 Rb8 17. Rb1 Nd7 18. Bxe7 Qxe7 19. Nd5 Qd8 20. Qg4 Rb5 21.
+Qxc4 Nb6 22. Nxb6 Qxb6 23. b4 d5 24. Qb3 Qc6 25. Rfe1 d4 26. a4 Rd5 27. h4 Rb8
+28. Qf3 f6 29. Red1 Qc4 30. Qd3 Rc8 31. Rb2 Rd6 32. b5 Rb6 33. Ra1 h5 34. Ra3
+Qd5 35. Rab3 e4 36. Qd1 Rd8 37. bxa6 Rxa6 38. Rb5 Qd6 39. a5 d3 40. cxd3 exd3
+41. Rd2 Rc6 42. Rb3 Qc7 43. Rb1 Qxa5 44. Rxd3 Rdc8 45. Qxh5 Qe5 46. Rbd1 Rc1
+47. Qf3 Rxd1+ 48. Rxd1 Qe8 49. g3 Rc5 50. Ra1 Qd7 51. Ra8+ Rc8 52. Ra5 Kh7 53.
+Rd5 Qe8 54. Kg2 Rc7 55. Ra5 Qf7 56. Qd5 Qxd5+ 57. Rxd5 Rc4 58. Rd2 Kg8 59. f3
+Kf8 60. g4 Rc1 61. Kg3 Rg1+ 62. Rg2 Ra1 63. g5 Kf7 64. Kg4 Ra4+ 65. f4 fxg5 66.
+hxg5 Ra1 67. Rb2 Rg1+ 68. Kh3 Rf1 69. Rb7+ Kf8 70. Kg4 Rh1 71. f6 gxf6 72. g6
+Ra1 73. Kf5 Ra6 74. Rf7+ Kg8 75. Re7 Ra4 76. Re4 Ra6 77. Re6 Ra4 78. Rxf6 Ra5+
+79. Kg4 Kg7 80. Rd6 Ra1 81. Kg5 Rg1+ 82. Kf5 Kh6 83. Rd8 1-0
+
+
+[Event "IMSA Basque 2016"]
+[Site "Huai'an CHN"]
+[Date "2016.03.02"]
+[Round "3.3"]
+[White "Dominguez Perez, L."]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "C77"]
+[WhiteElo "2732"]
+[BlackElo "2766"]
+[PlyCount "76"]
+[EventDate "2016.03.02"]
+[EventType "swiss (rapid)"]
+[EventRounds "5"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2016.03.07"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 b5 6. Bb3 Bc5 7. O-O O-O 8. d3
+h6 9. Nd5 d6 10. a4 Rb8 11. axb5 axb5 12. Be3 Nxd5 13. exd5 Bxe3 14. fxe3 Ne7
+15. e4 Ng6 16. Qd2 f5 17. Ra7 fxe4 18. dxe4 Bg4 19. Qe3 Bxf3 20. Rxf3 Rxf3 21.
+Qxf3 Qg5 22. Ra1 Rf8 23. Qg3 Qd2 24. Qe1 Qd4+ 25. Kh1 Qxb2 26. Rd1 Qa3 27. Qe3
+Nf4 28. g3 Nh5 29. Kg2 Nf6 30. Qe2 Qb4 31. Re1 Ng4 32. Kh3 Rf2 33. Qd1 h5 34.
+Kh4 Rxh2+ 35. Kg5 Qc3 36. Kf5 Qxg3 37. Ke6 Nf6 38. Ke7 Qh3 0-1
+
+
+[Event "IMSA Basque 2016"]
+[Site "Huai'an CHN"]
+[Date "2016.03.03"]
+[Round "4.2"]
+[White "Tomashevsky, E."]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "C84"]
+[WhiteElo "2728"]
+[BlackElo "2766"]
+[PlyCount "121"]
+[EventDate "2016.03.02"]
+[EventType "swiss (rapid)"]
+[EventRounds "5"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2016.03.07"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. a4
+Bd7 9. c3 Na5 10. Bc2 c5 11. d4 Qb8 12. axb5 axb5 13. Bg5 Be6 14. Nbd2 O-O 15.
+d5 Bg4 16. h3 Bh5 17. Be3 c4 18. Qe2 Rc8 19. Rfb1 Bd8 20. Nf1 Nb7 21. Ng3 Bg6
+22. Rxa8 Qxa8 23. b4 cxb3 24. Rxb3 Nc5 25. Bxc5 Rxc5 26. Rxb5 Rxc3 27. Qd2 Qc8
+28. Rb8 Qxb8 29. Qxc3 Bb6 30. Bd3 Bc5 31. Nh4 Qa7 32. Qb2 h6 33. Nxg6 fxg6 34.
+Nf1 Nd7 35. Qe2 Bd4 36. Ne3 Nc5 37. Bc2 Qa1+ 38. Qd1 Qc3 39. Qe2 Bxe3 40. fxe3
+Nd7 41. Kf2 Nf6 42. Qd3 Qa1 43. Bd1 Nxe4+ 44. Qxe4 Qxd1 45. Qf3 Qd2+ 46. Kg3 h5
+47. Qe4 Kh7 48. Qf3 Qe1+ 49. Kh2 Qd2 50. Kg3 Qc1 51. Kh2 Qe1 52. Qf8 Qb4 53.
+Qe7 Qc5 54. Qe6 Qc7 55. Kg3 Qd8 56. Kf3 Qf6+ 57. Ke4 Kh6 58. g3 h4 59. gxh4
+Qxh4+ 60. Kf3 Qf6+ 61. Kg3 0-1
+
+
+[Event "IMSA Blitz 2016"]
+[Site "Huai'an CHN"]
+[Date "2016.03.01"]
+[Round "29.6"]
+[White "Ivanchuk, V."]
+[Black "Ding Liren"]
+[Result "1-0"]
+[ECO "C33"]
+[WhiteElo "2710"]
+[BlackElo "2766"]
+[PlyCount "91"]
+[EventDate "2016.02.28"]
+[EventType "swiss (blitz)"]
+[EventRounds "30"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2016.03.07"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 5. Bb3 d5 6. exd5 cxd5 7. d4 Bb4 8.
+Nge2 Bg4 9. Qd3 O-O 10. O-O f3 11. gxf3 Bh5 12. Bg5 Bg6 13. Qb5 Be7 14. Bxf6
+Bxf6 15. Nxd5 Nc6 16. c3 Bh4 17. Nef4 Qd6 18. Nxg6 Qxg6+ 19. Kh1 Rae8 20. Rg1
+Qh6 21. Rg2 Ne7 22. Qxb7 Nf5 23. Qd7 Re6 24. Bc2 Ne3 25. Nxe3 Rxe3 26. Qf5 g6
+27. Bb3 Kh8 28. Qh3 Rfe8 29. Bxf7 Rf8 30. Bd5 Rf5 31. Be4 Rh5 32. Qc8+ Kg7 33.
+Qd7+ Kh8 34. Qc8+ Kg7 35. Qc7+ Kh8 36. Qb8+ Kg7 37. Qxa7+ Kh8 38. Qb8+ Kg7 39.
+Rf1 Bf6 40. Qc7+ Kh8 41. Qc8+ Kg7 42. Qd7+ Kf8 43. Bd5 Be7 44. Qc8+ Kg7 45.
+Qg8+ Kf6 46. Qf7# 1-0
+
+
+[Event "IMSA Basque 2016"]
+[Site "Huai'an CHN"]
+[Date "2016.03.02"]
+[Round "1.3"]
+[White "Ivanchuk, V."]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "C77"]
+[WhiteElo "2710"]
+[BlackElo "2766"]
+[PlyCount "62"]
+[EventDate "2016.03.02"]
+[EventType "swiss (rapid)"]
+[EventRounds "5"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2016.03.07"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. c3 O-O 8. Bg5
+h6 9. Bh4 d6 10. Nbd2 Be6 11. Qe2 Bb6 12. O-O-O Bxb3 13. axb3 a5 14. Kc2 b4 15.
+Ra1 Qe7 16. Nc4 Qe6 17. Bxf6 Qxf6 18. Rhd1 Qe6 19. Nh4 g6 20. g3 Rfd8 21. Ng2
+d5 22. exd5 Qxd5 23. f4 exf4 24. Nxf4 Qb5 25. Rf1 a4 26. bxa4 Rxa4 27. Nxb6
+cxb6 28. d4 Nxd4+ 29. cxd4 b3+ 30. Kd2 Rdxd4+ 31. Nd3 Qa5+ 0-1
+
+
+[Event "IMSA Blitz 2016"]
+[Site "Huai'an CHN"]
+[Date "2016.03.01"]
+[Round "24.1"]
+[White "Li Chao2"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "C52"]
+[WhiteElo "2751"]
+[BlackElo "2766"]
+[PlyCount "96"]
+[EventDate "2016.02.28"]
+[EventType "swiss (blitz)"]
+[EventRounds "30"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2016.03.07"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. Qb3 Qd7 8. O-O
+Bb6 9. Bb5 a6 10. Ba4 Ba7 11. Na3 Nge7 12. d5 b5 13. Nxb5 axb5 14. Bxb5 O-O 15.
+dxc6 Qg4 16. Qc2 f5 17. Re1 Ng6 18. h3 Qh5 19. Ng5 Nh4 20. Bc4+ Kh8 21. Qe2 Qg6
+22. g3 fxe4 23. gxh4 Rxf2 24. Qxf2 Bxf2+ 25. Kxf2 h6 26. Nf7+ Kh7 27. Bd5 Qf5+
+28. Kg1 Qxh3 29. Bxe4+ Bf5 30. Bg2 Qxh4 31. Be3 Rf8 32. Nxd6 cxd6 33. c7 Be4
+34. Re2 Qg3 35. Rf1 Rc8 36. Bf4 exf4 37. Rxe4 Rxc7 38. Rf3 Qg5 39. Rexf4 Rxc3
+40. Rxc3 Qxf4 41. Rd3 h5 42. Rf3 Qd4+ 43. Kh2 Qe5+ 44. Kg1 g5 45. a4 Qd4+ 46.
+Kh2 Qxa4 47. Rf6 Qh4+ 48. Bh3 g4 0-1
+
+
+[Event "IMSA Blitz 2016"]
+[Site "Huai'an CHN"]
+[Date "2016.03.01"]
+[Round "25.8"]
+[White "Mamedyarov, S."]
+[Black "Ding Liren"]
+[Result "1-0"]
+[ECO "D47"]
+[WhiteElo "2747"]
+[BlackElo "2766"]
+[PlyCount "127"]
+[EventDate "2016.02.28"]
+[EventType "swiss (blitz)"]
+[EventRounds "30"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2016.03.07"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. Nc3 e6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. a3 b4 10. Ne4 Nxe4 11. Bxe4 bxa3 12. O-O Nf6 13. Bd3 axb2 14. Bxb2 a5
+15. Qa4 Bb4 16. Ne5 O-O 17. Nxc6 Qd5 18. Rfc1 Rfc8 19. Bb5 Rab8 20. Rc2 Bxc6
+21. Bxc6 Qd8 22. Rac1 Nd5 23. h3 h6 24. Qa2 Bf8 25. Ba3 Bxa3 26. Qxa3 Nb4 27.
+Rc5 Rxc6 28. Rxc6 Nxc6 29. Rxc6 Qd5 30. Rc5 Qe4 31. Qxa5 Rb1+ 32. Kh2 Rf1 33.
+Qd2 g6 34. f3 Qb1 35. Rc8+ Kh7 36. Rc7 Rh1+ 37. Kg3 Qb8 38. Qc3 Rb1 39. f4 Rb7
+40. Rxb7 Qxb7 41. Qd3 Kg7 42. e4 Qb4 43. d5 exd5 44. exd5 Qd6 45. Qd4+ Kh7 46.
+Qe5 Qa3+ 47. Kh2 h5 48. d6 h4 49. f5 Qd3 50. fxg6+ Kxg6 51. Qf4 f6 52. Qxh4
+Qxd6+ 53. Qg3+ Qxg3+ 54. Kxg3 Kg5 55. Kf3 f5 56. g3 Kg6 57. Kf4 Kf6 58. h4 Kg6
+59. h5+ Kf6 60. h6 Kg6 61. h7 Kxh7 62. Kxf5 Kh6 63. g4 Kg7 64. Ke4 1-0
+
+
+[Event "TCh-CHN 2016"]
+[Site "China CHN"]
+[Date "2016.04.12"]
+[Round "1.6"]
+[White "Chen, Qi b"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "2225"]
+[BlackElo "2777"]
+[PlyCount "68"]
+[EventDate "2016.04.12"]
+[EventType "team"]
+[EventRounds "22"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2016.04.18"]
+[WhiteTeam "Beijing"]
+[BlackTeam "Zhejiang"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. Nf3 Nd7 6. Bd3 c5 7. dxc5 Nxc5 8. O-O
+Nf6 9. a4 O-O 10. Kh1 b6 11. Qe1 Bb7 12. f5 b5 13. fxg6 fxg6 14. Bg5 b4 15. Nd5
+Nxd3 16. cxd3 Nxd5 17. exd5 Rf7 18. Qxb4 Bxd5 19. Rae1 Qd7 20. Qh4 e6 21. Bh6
+Bxh6 22. Qxh6 Raf8 23. Qh4 Rf4 24. Qg3 Qxa4 25. Nd2 Qd4 26. Rxf4 Rxf4 27. h3 e5
+28. Ne4 Kg7 29. Nc3 Bc6 30. Ne2 Qf2 31. Kh2 Qxg3+ 32. Kxg3 Rb4 33. Rb1 Bb5 34.
+Nc1 Rd4 0-1
+
+
+[Event "TCh-CHN 2016"]
+[Site "China CHN"]
+[Date "2016.04.13"]
+[Round "2.1"]
+[White "Liu, Chang"]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "2376"]
+[BlackElo "2777"]
+[PlyCount "120"]
+[EventDate "2016.04.12"]
+[EventType "team"]
+[EventRounds "22"]
+[EventCountry "CHN"]
+[Source "Mark Crowther"]
+[SourceDate "2016.04.18"]
+[WhiteTeam "Guangdong"]
+[BlackTeam "Zhejiang"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8. g3
+Be6 9. Bg2 b5 10. Bg5 Nbd7 11. Nd5 Bxd5 12. exd5 Be7 13. O-O O-O 14. a4 b4 15.
+a5 Qc7 16. Qd2 Rab8 17. Ra4 b3 18. Bxf6 Bxf6 19. cxb3 Nc5 20. Rc4 Nxb3 21. Rxc7
+Nxd2 22. Rd1 Rxb2 23. Rc6 e4 24. Rxa6 e3 25. fxe3 Nc4 26. Rc1 Nxe3 27. Bf3 Be5
+28. Rb6 Ra2 29. Rb3 Nf5 30. Bxh5 Rxa5 31. Rd3 Rb8 32. Rc2 g6 33. Bg4 Ne7 34.
+Bf3 Kg7 35. Kf2 Rb4 36. Rcd2 Kf6 37. Bg4 Kg5 38. Bf3 Nf5 39. Bg4 Ne7 40. Bf3
+Rc5 41. Rd1 Rcc4 42. Bg4 f5 43. Bf3 Ng8 44. Rc1 Rxc1 45. Nxc1 Rb2+ 46. Ne2 Nf6
+47. h4+ Kh6 48. Ke3 g5 49. hxg5+ Kxg5 50. Rd2 Ng4+ 51. Bxg4 Rxd2 52. Kxd2 Kxg4
+53. Ke3 Bxg3 54. Nd4 Be5 55. Nf3 Bf6 56. Ng1 Bd8 57. Ne2 Bb6+ 58. Kd3 f4 59.
+Nc3 f3 60. Ne4 Kh3 0-1
+
+
+[Event "IMSA Blitz 2016"]
+[Site "Huai'an CHN"]
+[Date "2016.02.29"]
+[Round "16.5"]
+[White "Ponomariov, R."]
+[Black "Ding Liren"]
+[Result "0-1"]
+[ECO "C31"]
+[WhiteElo "2712"]
+[BlackElo "2766"]
+[PlyCount "48"]
+[EventDate "2016.02.28"]
+[EventType "tourn (blitz)"]
+[EventRounds "30"]
+[EventCountry "CHN"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2016.02.29"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. exd5 e4 5. Qe2 Bf5 6. d3 Bb4 7. Bd2 O-O 8. dxe4
+Bxc3 9. Bxc3 Nxe4 10. O-O-O Nxc3 11. bxc3 Re8 12. Qc4 Re4 13. Qb5 Nd7 14. Bd3
+a6 15. Qa5 Rxf4 16. Ne2 b6 17. Qa3 Rf2 18. Rhf1 Qg5+ 19. Kb1 Rxf1 20. Rxf1 Bxd3
+21. cxd3 Qxg2 22. Ng3 Qxd5 23. d4 Re8 24. Nf5 Qb5+ 0-1
+
+
+[Event "IMSA Blitz 2016"]
+[Site "Huai'an CHN"]
+[Date "2016.02.28"]
+[Round "6.7"]
+[White "Wang Hao"]
+[Black "Ding Liren"]
+[Result "1-0"]
+[ECO "D31"]
+[WhiteElo "2717"]
+[BlackElo "2766"]
+[PlyCount "75"]
+[EventDate "2016.02.28"]
+[EventType "tourn (blitz)"]
+[EventRounds "30"]
+[EventCountry "CHN"]
+[EventCategory "19"]
+[Source "Mark Crowther"]
+[SourceDate "2016.02.29"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Nc3 c5 7. a3 Ba5 8. Nf3
+Nf6 9. Be3 Nc6 10. Qd3 Ng4 11. O-O-O cxd4 12. Nxd4 Nxe3 13. fxe3 O-O 14. Nxc6
+bxc6 15. Qe4 Qe7 16. Na4 Rb8 17. Be2 Bc7 18. Qxc6 Bb7 19. Qd7 Qxd7 20. Rxd7 Be5
+21. Bf3 Ba6 22. Be2 Rfc8 23. Rxa7 Bxc4 24. Bxc4 Rxc4+ 25. Kb1 Re4 26. Re1 Bxh2
+27. Nc5 Rg4 28. Re2 h5 29. b4 Bd6 30. Nd3 h4 31. Ka2 Rb5 32. Rd7 Rd5 33. Nf4
+Rd1 34. b5 g5 35. b6 gxf4 36. b7 Kg7 37. Rxd6 Rxd6 38. b8=Q 1-0
+
+
+[Event "7th Hainan Danzhou GM"]
+[Site "Danzhou CHN"]
+[Date "2016.07.08"]
+[Round "1.3"]
+[White "Nepomniachtchi, I."]
+[Black "Ding Liren"]
+[Result "1-0"]
+[ECO "C45"]
+[WhiteElo "2725"]
+[BlackElo "2778"]
+[PlyCount "79"]
+[EventDate "2016.07.08"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "CHN"]
+[EventCategory "20"]
+[SourceDate "2016.07.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 bxc6 6. Bd3 d6 7. h3 Ne7 8.
+Nc3 Ng6 9. Na4 Bd4 10. c3 Bf6 11. O-O Ne5 12. Be2 O-O 13. f4 Nd7 14. Qc2 c5 15.
+Bf3 Rb8 16. Be3 Ba6 17. Rfd1 Qe7 18. Bf2 Bb5 19. Rab1 Nb6 20. Nxb6 axb6 21. Re1
+Bc4 22. b3 Be6 23. a4 Rfd8 24. b4 Bc4 25. bxc5 bxc5 26. Rxb8 Rxb8 27. e5 dxe5
+28. fxe5 Bg5 29. a5 g6 30. Qe4 Qe6 31. Bxc5 h5 32. Bd4 Rb3 33. Ra1 c5 34. a6
+Bxa6 35. Qa8+ Qc8 36. Rxa6 Rb8 37. Bf2 Kg7 38. Qc6 Rb1+ 39. Kh2 Qf5 40. Qe4 1-0
+
+
+[Event "7th Hainan Danzhou GM"]
+[Site "Danzhou CHN"]
+[Date "2016.07.10"]
+[Round "3.4"]
+[White "Harikrishna, P."]
+[Black "Ding Liren"]
+[Result "1-0"]
+[ECO "C80"]
+[WhiteElo "2755"]
+[BlackElo "2778"]
+[PlyCount "81"]
+[EventDate "2016.07.08"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "CHN"]
+[EventCategory "20"]
+[SourceDate "2016.07.11"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 Be7 11. Bc2 d4 12. Nb3 d3 13. Bb1 Nxb3 14. axb3 Bf5 15.
+Re1 O-O 16. h3 Qd7 17. b4 Rfd8 18. g4 Bg6 19. Bf4 Qc8 20. Ba2 a5 21. e6 f6 22.
+bxa5 Nxa5 23. b4 Nc4 24. Bxc4 bxc4 25. Nd2 c5 26. b5 Be8 27. Rxa8 Qxa8 28. b6
+Bc6 29. Bc7 Rd5 30. Nxc4 Qa2 31. Nd2 g5 32. Nf1 c4 33. Qd2 Qa8 34. Ne3 Rb5 35.
+Nxc4 Bh1 36. Ne3 Bc5 37. e7 Bxe3 38. fxe3 Kf7 39. e8=Q+ Kxe8 40. e4 Bxe4 41.
+Qe3 1-0
+
+
+[Event "TCh-CHN 2016"]
+[Site "China CHN"]
+[Date "2016.07.25"]
+[Round "10.5"]
+[White "Wang Chen"]
+[Black "Ding Liren"]
+[Result "1-0"]
+[ECO "B51"]
+[WhiteElo "2514"]
+[BlackElo "2777"]
+[PlyCount "57"]
+[EventDate "2016.04.12"]
+[EventType "team"]
+[EventRounds "22"]
+[EventCountry "CHN"]
+[SourceDate "2016.08.01"]
+[WhiteTeam "Chongqing"]
+[BlackTeam "Zhejiang"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bxd7+ Bxd7 6. Re1 Bg4 7. h3 Bh5 8.
+d3 e6 9. Nbd2 Ne7 10. b3 Nc6 11. Bb2 f6 12. Qe2 Be7 13. Qe3 e5 14. c3 d5 15. d4
+cxd4 16. cxd4 Nb4 17. Rac1 Nxa2 18. dxe5 Nxc1 19. exf6 gxf6 20. Rxc1 dxe4 21.
+Nd4 Rc8 22. Re1 Bg6 23. Nxe4 Kf7 24. Qf3 Qd5 25. Ng5+ Qxg5 26. Rxe7+ Kxe7 27.
+Qxb7+ Kd6 28. Ba3+ Rc5 29. Qc6+ 1-0
+
+
+[Event "4th Sinquefield Cup 2016"]
+[Site "Saint Louis USA"]
+[Date "2016.08.14"]
+[Round "9.4"]
+[White "Nakamura, Hi"]
+[Black "Ding Liren"]
+[Result "1-0"]
+[ECO "D43"]
+[WhiteElo "2791"]
+[BlackElo "2755"]
+[PlyCount "55"]
+[EventDate "2016.08.05"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "22"]
+[SourceDate "2016.08.15"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
+9. Be2 Bb7 10. h4 g4 11. Ne5 Nbd7 12. Nxd7 Qxd7 13. Be5 Qe7 14. b3 cxb3 15.
+axb3 a6 16. Qc1 Rg8 17. O-O Nh5 18. d5 Qxh4 19. g3 Qg5 20. dxc6 Qxe5 21. cxb7
+Rb8 22. Nd5 exd5 23. Qc8+ Ke7 24. Rxa6 Nxg3 25. Bxb5 Ne2+ 26. Bxe2 f6 27. Re6+
+Qxe6 28. Qxb8 1-0
+
+
+[Event "4th Sinquefield Cup 2016"]
+[Site "Saint Louis USA"]
+[Date "2016.08.09"]
+[Round "5.2"]
+[White "Topalov, V."]
+[Black "Ding Liren"]
+[Result "1-0"]
+[ECO "C92"]
+[WhiteElo "2761"]
+[BlackElo "2755"]
+[PlyCount "131"]
+[EventDate "2016.08.05"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "22"]
+[SourceDate "2016.08.15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Re8 10. d4 Bb7 11. Nbd2 Bf8 12. a3 h6 13. Bc2 Nb8 14. b3 Nbd7 15. Bb2
+Rc8 16. a4 b4 17. cxb4 exd4 18. Bxd4 c5 19. bxc5 Nxc5 20. Qb1 a5 21. b4 axb4
+22. Qxb4 Ba8 23. a5 d5 24. Bxf6 Qxf6 25. e5 Qa6 26. Qg4 Ne6 27. Bf5 Rc5 28.
+Bxe6 Rxe6 29. Nb3 Rc4 30. Nfd4 Bb7 31. Qf5 Re7 32. e6 Bc8 33. exf7+ Rxf7 34.
+Qxd5 Bb7 35. Qe6 Rb4 36. Re3 Qa8 37. Rc1 Bd5 38. Rc8 Bxe6 39. Rxa8 Bc4 40. Rc8
+Kh7 41. Rc3 Ba6 42. Rd8 Ra4 43. Ne6 Bb4 44. Rc6 Bb5 45. Rc1 Ra2 46. f3 Ba4 47.
+Nbd4 Bxa5 48. Ra8 Bb6 49. Kh1 Bb3 50. Rb8 Bxe6 51. Rxb6 Bf5 52. Rd6 Bg6 53. Rd8
+Bf5 54. Rd6 Bg6 55. Rc8 Rb7 56. Rdd8 Bd3 57. Ne6 Bf1 58. Nf8+ Kg8 59. Ng6+ Kh7
+60. Nf8+ Kg8 61. Ne6+ Kh7 62. Rh8+ Kg6 63. Nf4+ Kg5 64. Rhf8 Rbb2 65. Rc7 g6
+66. g3 1-0
+
+
+[Event "42nd Olympiad 2016"]
+[Site "Baku AZE"]
+[Date "2016.09.04"]
+[Round "3.9"]
+[White "Ding Liren"]
+[Black "Leitao, R."]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2753"]
+[BlackElo "2616"]
+[PlyCount "141"]
+[EventDate "2016.09.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AZE"]
+[SourceDate "2016.09.05"]
+[WhiteTeam "China"]
+[BlackTeam "Brazil"]
+[WhiteTeamCountry "CHN"]
+[BlackTeamCountry "BRA"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. a3 Be7 6. e4 d6 7. Be2 c5 8. d5
+e5 9. O-O Nbd7 10. Ne1 Ne8 11. Nd3 g6 12. b4 b6 13. a4 a5 14. bxa5 bxa5 15. Nb1
+Nc7 16. Nc3 Na6 17. f4 exf4 18. Bxf4 Nb4 19. Nb5 Ra6 20. Bg4 Bg5 21. Bxd6 Rxd6
+22. Nxd6 Nxd3 23. Qxd3 Ne5 24. Qg3 Qxd6 25. Bxc8 Bf6 26. Qf4 Bg7 27. Bg4 Nxc4
+28. e5 Nxe5 29. Be2 Qxd5 30. Rfd1 Qe6 31. Rac1 Rc8 32. Bc4 Qe7 33. Qe4 h5 34.
+Rf1 Rc7 35. Rce1 Qd8 36. Rd1 Rd7 37. Rxd7 Qxd7 38. Be2 Qc7 39. Bc4 Qd7 40. h3
+Kh7 41. Bb5 Qd2 42. Kh1 Qb4 43. Qxb4 cxb4 44. Kg1 f5 45. Kf2 f4 46. Ke2 g5 47.
+h4 Kh6 48. hxg5+ Kxg5 49. Rc1 h4 50. Bc6 b3 51. Be4 b2 52. Rc5 f3+ 53. gxf3 Kf4
+54. Rb5 h3 55. Rxb2 Nxf3 56. Rb7 Kxe4 57. Rxg7 Nd4+ 58. Kf2 Kd3 59. Rh7 Kc4 60.
+Rh4 h2 61. Ke3 h1=Q 62. Rxh1 Ne6 63. Rc1+ Kb4 64. Rb1+ Kc4 65. Rb5 Nc5 66. Rxa5
+Kb4 67. Rb5+ Kc4 68. Ra5 Kb4 69. Ra8 Nxa4 70. Kd4 Kb5 71. Rxa4 1/2-1/2
+
+
+[Event "42nd Olympiad 2016"]
+[Site "Baku AZE"]
+[Date "2016.09.06"]
+[Round "5.1"]
+[White "Ding Liren"]
+[Black "Ponomariov, R."]
+[Result "1/2-1/2"]
+[ECO "D37"]
+[WhiteElo "2753"]
+[BlackElo "2709"]
+[PlyCount "113"]
+[EventDate "2016.09.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AZE"]
+[SourceDate "2016.09.12"]
+[WhiteTeam "China"]
+[BlackTeam "Ukraine"]
+[WhiteTeamCountry "CHN"]
+[BlackTeamCountry "UKR"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Nbd7 5. Bg5 h6 6. Bh4 Be7 7. Qc2 c5 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. dxc5 Nxc5 12. e3 O-O 13. Be2 Bg4 14. O-O
+Rac8 15. Rfd1 Rfd8 16. Rac1 Ne4 17. Qd3 Rc5 18. Rxc5 Qxc5 19. Nd4 Bxe2 20. Nxe2
+Qa5 21. f3 Nf6 22. Qb3 Re8 23. Kf2 Re6 24. Rc1 g6 25. a3 Kg7 26. Qc3 Qxc3 27.
+Rxc3 Rb6 28. b3 Ng8 29. Nd4 Ne7 30. b4 Nc6 31. Nb3 a5 32. bxa5 Rb5 33. a4 Rb4
+34. a6 bxa6 35. Rxc6 Rxb3 36. Rxa6 Rb2+ 37. Kg3 Re2 38. a5 Rxe3 39. Rd6 Rd3 40.
+a6 Rd2 41. f4 d4 42. Kf3 d3 43. Ke3 Rxg2 44. h4 g5 45. hxg5 hxg5 46. fxg5 Rxg5
+47. Kxd3 Ra5 48. Kc4 f5 49. Kb4 Ra1 50. Kb5 f4 51. Rd4 f3 52. Rf4 Rb1+ 53. Ka5
+Ra1+ 54. Kb6 Rb1+ 55. Kc7 Rc1+ 56. Kb7 Rb1+ 57. Kc6 1/2-1/2
+
+
+[Event "42nd Olympiad 2016"]
+[Site "Baku AZE"]
+[Date "2016.09.09"]
+[Round "7.6"]
+[White "Ding Liren"]
+[Black "Howell, D."]
+[Result "1/2-1/2"]
+[ECO "D78"]
+[WhiteElo "2753"]
+[BlackElo "2665"]
+[PlyCount "34"]
+[EventDate "2016.09.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AZE"]
+[SourceDate "2016.09.12"]
+[WhiteTeam "China"]
+[BlackTeam "England"]
+[WhiteTeamCountry "CHN"]
+[BlackTeamCountry "ENG"]
+
+1. d4 Nf6 2. c4 g6 3. g3 c6 4. Bg2 d5 5. Nf3 Bg7 6. O-O O-O 7. b3 Bf5 8. Bb2 a5
+9. e3 a4 10. bxa4 dxc4 11. Ne5 Qa5 12. Nxc4 Qxa4 13. Qe2 Bg4 14. Qd3 Bf5 15.
+Qe2 Bg4 16. Qd3 Bf5 17. Qe2 Bg4 1/2-1/2
+
+
+[Event "42nd Olympiad 2016"]
+[Site "Baku AZE"]
+[Date "2016.09.10"]
+[Round "8.10"]
+[White "Ding Liren"]
+[Black "Rapport, R."]
+[Result "1/2-1/2"]
+[ECO "D02"]
+[WhiteElo "2753"]
+[BlackElo "2752"]
+[PlyCount "141"]
+[EventDate "2016.09.02"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "AZE"]
+[SourceDate "2016.09.12"]
+[WhiteTeam "China"]
+[BlackTeam "Hungary"]
+[WhiteTeamCountry "CHN"]
+[BlackTeamCountry "HUN"]
+
+1. Nf3 Nc6 2. d4 d5 3. g3 Bf5 4. Bg2 Nb4 5. Na3 e6 6. O-O h6 7. c3 Nc6 8. Nc2
+Be4 9. Nd2 Bxg2 10. Kxg2 Nf6 11. Re1 Be7 12. e4 dxe4 13. Nxe4 Qd5 14. Qf3 O-O-O
+15. Nd2 Rhe8 16. Ne3 Qxf3+ 17. Nxf3 b5 18. a4 a6 19. h4 Kb7 20. g4 Bd6 21. g5
+hxg5 22. hxg5 Nd7 23. Rh1 Rh8 24. axb5 axb5 25. Bd2 Ne7 26. Rxh8 Rxh8 27. Rh1
+Rxh1 28. Kxh1 Ng6 29. Kg2 Bf4 30. Kf1 c5 31. Ke2 c4 32. d5 Nc5 33. Nd4 Ka6 34.
+dxe6 fxe6 35. Nec2 e5 36. Nf5 Ka5 37. Nxg7 Ne4 38. Be3 Bxg5 39. Ne6 Be7 40. Kf3
+Nf6 41. Bc5 Bxc5 42. Nxc5 Nf4 43. b4+ Kb6 44. Ne4 Nd7 45. Kg4 Nd3 46. Kf5 Kc6
+47. Ne3 Nf4 48. Ng4 Nd3 49. Nh6 Nf4 50. Ng8 Nd5 51. Ke6 Nf4+ 52. Kf5 Nd5 53.
+Ke6 Nf4+ 54. Kf7 Nb6 55. Kf6 Nd7+ 56. Ke7 Nb6 57. Kd8 Nbd5 58. Ne7+ Nxe7 59.
+Kxe7 Kd5 60. Nf6+ Kc6 61. Ne4 Kd5 62. f3 Kc6 63. Kf6 Kd5 64. Ke7 Kc6 65. Kf6
+Kd5 66. Kf7 Kc6 67. Ke7 Ne2 68. Ke6 Ng1 69. Nd2 Ne2 70. Ne4 Ng1 71. Nd2 1/2-1/2
+
+
+[Event "TCh-CHN 2016"]
+[Site "China CHN"]
+[Date "2016.09.24"]
+[Round "13.1"]
+[White "Ding Liren"]
+[Black "Zeng, C."]
+[Result "1/2-1/2"]
+[ECO "E11"]
+[WhiteElo "2777"]
+[BlackElo "2549"]
+[PlyCount "94"]
+[EventDate "2016.04.12"]
+[EventType "team"]
+[EventRounds "22"]
+[EventCountry "CHN"]
+[SourceDate "2016.09.26"]
+[WhiteTeam "Zhejiang"]
+[BlackTeam "Guangdong"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 b6 5. a3 Bxd2+ 6. Qxd2 Bb7 7. e3 O-O 8.
+Be2 c5 9. O-O cxd4 10. Qxd4 Nc6 11. Qc3 d5 12. b4 Rc8 13. Rd1 Qe7 14. cxd5 Nxd5
+15. Qb3 a5 16. e4 Nf6 17. Bg5 h6 18. Bxf6 Qxf6 19. bxa5 Nxa5 20. Qxb6 Qc3 21.
+Qb4 Nb3 22. Rab1 Qxb4 23. axb4 Rc3 24. Nd4 Nxd4 25. Rxd4 e5 26. Rc4 Rxc4 27.
+Bxc4 Rc8 28. Bf1 Bxe4 29. Re1 Bg6 30. Rxe5 Rc1 31. Re8+ Kh7 32. Rd8 Rb1 33. b5
+Bc2 34. f3 Ba4 35. Rd5 Kg6 36. Kf2 Kf6 37. h4 Ke6 38. Bc4 Rb4 39. Rc5+ Kd6 40.
+Rc6+ Ke7 41. Rc5 Kd6 42. Rd5+ Ke6 43. Rd4+ Ke5 44. Re4+ Kd6 45. Bxf7 Rxe4 46.
+fxe4 Bxb5 47. Ke3 Ke5 1/2-1/2
+
+
+[Event "TCh-CHN 2016"]
+[Site "China CHN"]
+[Date "2016.10.31"]
+[Round "17.3"]
+[White "Ding Liren"]
+[Black "Yu Ruiyuan"]
+[Result "1/2-1/2"]
+[ECO "D16"]
+[WhiteElo "2777"]
+[BlackElo "2516"]
+[PlyCount "55"]
+[EventDate "2016.04.12"]
+[EventType "team"]
+[EventRounds "22"]
+[EventCountry "CHN"]
+[SourceDate "2016.10.31"]
+[WhiteTeam "Zhejiang"]
+[BlackTeam "Jiangsu"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 e6 6. e3 c5 7. Bxc4 Nc6 8. O-O
+cxd4 9. Nxd4 Bd7 10. e4 Qb8 11. Re1 Bd6 12. Nxc6 Bxc6 13. Nd5 Nd7 14. Bg5 Ne5
+15. Rc1 Ng6 16. h4 h6 17. h5 hxg5 18. hxg6 Bh2+ 19. Kf1 Bf4 20. Qf3 Bxd5 21.
+Bxd5 Bxc1 22. Bc6+ Kd8 23. Qd3+ Kc7 24. Qd7+ Kb6 25. Qd4+ Kc7 26. Qd7+ Kb6 27.
+Qd4+ Kc7 28. Qd7+ 1/2-1/2
+
+
+[Event "32nd ECC Open 2016"]
+[Site "Novi Sad SRB"]
+[Date "2016.11.12"]
+[Round "7.1"]
+[White "Ding Liren"]
+[Black "Inarkiev, E."]
+[Result "1/2-1/2"]
+[ECO "E17"]
+[WhiteElo "2764"]
+[BlackElo "2714"]
+[PlyCount "103"]
+[EventDate "2016.11.06"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "SER"]
+[SourceDate "2016.11.14"]
+[WhiteTeam "Alkaloid"]
+[BlackTeam "SHSM Legacy Square Moscow"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Re1 Na6 8. Nc3
+Ne4 9. Nxe4 Bxe4 10. Ne5 Bxg2 11. Kxg2 c5 12. d5 Qc7 13. Nf3 d6 14. e4 Qd7 15.
+h4 Nc7 16. Bg5 Rae8 17. dxe6 Nxe6 18. Bxe7 Rxe7 19. Qd3 Rfe8 20. Rad1 Nf8 21.
+b3 Qc6 22. Qxd6 Qxd6 23. Rxd6 Rxe4 24. Rxe4 Rxe4 25. Rd8 f6 26. Ra8 Re7 27. h5
+Kf7 28. Nh4 Rd7 29. Nf5 g6 30. Nh6+ Kg7 31. Ng4 gxh5 32. Nxf6 Kxf6 33. Rxf8+
+Kg6 34. Rg8+ Kf6 35. Ra8 Kg6 36. a4 Rd3 37. Rxa7 Rxb3 38. a5 b5 39. cxb5 Rxb5
+40. a6 c4 41. Ra8 Kh6 42. Rc8 Ra5 43. Rc6+ Kg7 44. Kf3 c3 45. Ke3 c2 46. Kd2
+Ra2 47. f3 Kf7 48. Rc7+ Kg6 49. Ra7 Ra3 50. Ra8 Kh6 51. Kxc2 Rxf3 52. a7
+1/2-1/2
+
+
+[Event "6th Chinese Master Rapid"]
+[Site "Shenzhen CHN"]
+[Date "2016.11.28"]
+[Round "5.3"]
+[White "Ding Liren"]
+[Black "Xu, Yinglun"]
+[Result "1/2-1/2"]
+[ECO "A05"]
+[WhiteElo "2764"]
+[BlackElo "2527"]
+[PlyCount "116"]
+[EventDate "2016.11.27"]
+[EventType "tourn (rapid)"]
+[EventRounds "7"]
+[EventCountry "CHN"]
+[EventCategory "17"]
+[SourceDate "2016.12.05"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. c4 Bf5 5. O-O e6 6. cxd5 exd5 7. d3 Be7 8. Qb3
+Qc8 9. Nc3 O-O 10. Nd4 Bg6 11. Bf4 Na6 12. Rac1 Nc5 13. Qd1 a5 14. a3 Qd8 15.
+b4 Ne6 16. Nxe6 fxe6 17. Qb3 axb4 18. axb4 Bf7 19. Qb1 Nd7 20. b5 c5 21. Qc2
+Nb6 22. Ra1 Qd7 23. Be5 Bd6 24. Bxd6 Qxd6 25. e4 Qd7 26. exd5 exd5 27. Qd2 d4
+28. Ne4 c4 29. Rxa8 Rxa8 30. dxc4 Nxc4 31. Qf4 h6 32. Nc5 Qxb5 33. Qxd4 Qb6 34.
+Rd1 Nb2 35. Rb1 Rc8 36. Rxb2 Qxc5 37. Qxc5 Rxc5 38. Bxb7 Bd5 39. Bxd5+ Rxd5 40.
+Kg2 Kf7 41. Kf3 Ra5 42. Kg4 Rg5+ 43. Kh4 Ra5 44. f4 Ra4 45. Kh5 Ra5+ 46. Kg4 g6
+47. Rb7+ Kf6 48. Rh7 h5+ 49. Kh4 Ra2 50. h3 Ra1 51. Rb7 Ra5 52. Rb6+ Kg7 53.
+Rb7+ Kh6 54. g4 hxg4 55. hxg4 g5+ 56. fxg5+ Rxg5 57. Rh7+ Kxh7 58. Kxg5 Kg7
+1/2-1/2

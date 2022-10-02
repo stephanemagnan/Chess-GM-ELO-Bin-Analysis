@@ -1,0 +1,701 @@
+[Event "St Louis Inv IM 2016"]
+[Site "Saint Louis USA"]
+[Date "2016.06.09"]
+[Round "2"]
+[White "Niemann, Hans M"]
+[Black "Kavutskiy, K."]
+[Result "1-0"]
+[ECO "E91"]
+[WhiteElo "2298"]
+[BlackElo "2367"]
+[PlyCount "91"]
+[EventDate "2016.06.08"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "3"]
+[Source "Mark Crowther"]
+[SourceDate "2016.06.13"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Na6 7. O-O e5 8. Be3
+c6 9. Qc2 Qe8 10. h3 Nh5 11. dxe5 dxe5 12. Qd2 Qe7 13. Rfd1 Nc7 14. Na4 Ne6 15.
+Qa5 Nhf4 16. Bf1 Qf6 17. Kh2 a6 18. Nb6 Rb8 19. Qa3 c5 20. Nd5 Nxd5 21. cxd5
+Nd4 22. Qxc5 b6 23. Qc3 Nxf3+ 24. gxf3 Qxf3 25. Bg2 Qf6 26. Qc6 Rd8 27. Rac1
+Bd7 28. Qxf6 Bxf6 29. Rc7 Kf8 30. Rdc1 Bb5 31. b3 Rd7 32. a4 Rxc7 33. Rxc7 Bd8
+34. d6 Bd3 35. Rc3 Bb1 36. f4 f6 37. h4 Ke8 38. fxe5 fxe5 39. Bh3 Rb7 40. Bg5
+Rd7 41. Bxd7+ Kxd7 42. Bxd8 Kxd8 43. Rc6 Bxe4 44. Rxb6 Bc2 45. Rxa6 Bxb3 46.
+Ra7 1-0
+
+
+[Event "St Louis Inv IM 2016"]
+[Site "Saint Louis USA"]
+[Date "2016.06.10"]
+[Round "5"]
+[White "Niemann, Hans M"]
+[Black "Brooks, M."]
+[Result "1/2-1/2"]
+[ECO "A40"]
+[WhiteElo "2298"]
+[BlackElo "2410"]
+[PlyCount "162"]
+[EventDate "2016.06.08"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "3"]
+[Source "Mark Crowther"]
+[SourceDate "2016.06.13"]
+
+1. d4 g6 2. c4 d6 3. Nf3 Bg7 4. e4 e5 5. Bg5 f6 6. Be3 Nh6 7. h3 Nf7 8. Nc3 O-O
+9. Be2 Nd7 10. Qc2 Re8 11. O-O-O c6 12. g4 Bh6 13. Bxh6 Nxh6 14. Qd2 Kg7 15.
+Rdg1 Nf8 16. d5 g5 17. h4 Nf7 18. h5 c5 19. Ne1 a6 20. Nc2 Bd7 21. Na3 Qc7 22.
+Kb1 Reb8 23. Bd3 Qa5 24. Qe2 Be8 25. Qf3 Nh6 26. Qe2 Nd7 27. f3 Nf7 28. Ka1 Nb6
+29. Qd2 Nc8 30. Qe2 Na7 31. h6+ Kg8 32. Qd2 Nc8 33. Ncb1 Qxd2 34. Nxd2 b5 35.
+cxb5 axb5 36. Nc2 Nh8 37. Rc1 Ng6 38. Rh2 Nf4 39. Bf1 Kf8 40. b4 c4 41. Nb1 Nb6
+42. Nc3 Na4 43. Nxa4 Rxa4 44. a3 Rba8 45. Ka2 Bd7 46. Rd1 Kf7 47. Kb2 Ng6 48.
+Ra1 Nh4 49. Be2 Ng6 50. Ne3 Ne7 51. Nd1 Nc8 52. Nc3 R4a7 53. Bd1 Nb6 54. Bc2
+Kg8 55. Rhh1 Na4+ 56. Bxa4 Rxa4 57. Ra2 Kf7 58. Rh2 Kg6 59. Rh3 R8a6 60. Rh2
+Ra7 61. Rh1 R7a6 62. Nd1 Kf7 63. Ne3 Ra8 64. Nc2 Be8 65. Raa1 Ke7 66. Ne3 R8a6
+67. Nd1 Bd7 68. Nc3 Kf7 69. Rhc1 Ke7 70. Rc2 Be8 71. Nxa4 Rxa4 72. Re1 Kd8 73.
+Rf1 Bf7 74. Rc3 Kd7 75. Kc2 Kd8 76. Kd2 Ke7 77. Kc2 Be8 78. Rc1 Kd8 79. Kb2 Ke7
+80. Rf1 Bf7 81. Rf2 Be8 1/2-1/2
+
+
+[Event "St Louis Inv IM 2016"]
+[Site "Saint Louis USA"]
+[Date "2016.06.11"]
+[Round "7"]
+[White "Niemann, Hans M"]
+[Black "Hua, L."]
+[Result "1/2-1/2"]
+[ECO "A61"]
+[WhiteElo "2298"]
+[BlackElo "2277"]
+[PlyCount "171"]
+[EventDate "2016.06.08"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "3"]
+[Source "Mark Crowther"]
+[SourceDate "2016.06.13"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Bf4 a6 8. a4
+Bg7 9. h3 O-O 10. e3 Qe7 11. Nd2 Nbd7 12. Be2 Ne8 13. O-O Ne5 14. Bh2 f5 15.
+Qc2 Rb8 16. Rae1 Nf6 17. f4 Nf7 18. Bd3 Qc7 19. e4 c4 20. Nxc4 fxe4 21. Nxe4
+Nxe4 22. Bxe4 b5 23. axb5 axb5 24. Ne3 Qxc2 25. Nxc2 Bxb2 26. Rb1 Bg7 27. Nb4
+Re8 28. Nc6 Ra8 29. Bd3 Bf5 30. Bxf5 gxf5 31. Rxb5 Ra2 32. Bg3 Bf6 33. Rbb1
+Ree2 34. Rf2 Rxf2 35. Bxf2 Rd2 36. Rb5 Rd1+ 37. Kh2 h5 38. g3 Kg7 39. Kg2 Rd3
+40. Ra5 Kg6 41. Nb4 Rb3 42. Nc2 Rb2 43. Ne3 Bd4 44. Kf3 Rd2 45. Bg1 Bc5 46. Rb5
+Nh6 47. Nc4 Rxd5 48. Nxd6 Rxd6 49. Bxc5 Ra6 50. Rb3 Ng8 51. Rb7 Nf6 52. Bf8 Ne8
+53. Re7 Ra3+ 54. Kf2 Ra8 55. Rb7 Ra6 56. Ke3 Re6+ 57. Kd4 Re4+ 58. Kd3 h4 59.
+g4 Rxf4 60. Re7 fxg4 61. Rxe8 gxh3 62. Bd6 Rf6 63. Be5 Rf2 64. Rg8+ Kh5 65. Rg1
+Rg2 66. Rf1 Kg4 67. Rf4+ Kg5 68. Rf1 Kg4 69. Rh1 Ra2 70. Bd6 Rb2 71. Ke3 Rb3+
+72. Ke4 Rb2 73. Kd3 Rg2 74. Be5 Ra2 75. Ke4 Re2+ 76. Kd4 Rxe5 77. Kxe5 Kg3 78.
+Ra1 h2 79. Kf5 Kg2 80. Ra2+ Kg1 81. Kg4 h1=Q 82. Ra1+ Kg2 83. Ra2+ Kg1 84. Ra1+
+Kg2 85. Ra2+ Kg1 86. Ra1+ 1/2-1/2
+
+
+[Event "CCCSA IM 2016"]
+[Site "Charlotte USA"]
+[Date "2016.03.24"]
+[Round "2.4"]
+[White "Niemann, Hans M"]
+[Black "Martin del Campo, R."]
+[Result "0-1"]
+[ECO "E60"]
+[WhiteElo "2325"]
+[BlackElo "2360"]
+[PlyCount "88"]
+[EventDate "2016.03.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "3"]
+[Source "Mark Crowther"]
+[SourceDate "2016.03.28"]
+
+1. d4 Nf6 2. c4 g6 3. f3 Bg7 4. e4 d6 5. Ne2 O-O 6. Be3 Nbd7 7. Nec3 e5 8. d5
+Nh5 9. Nd2 f5 10. Qc2 Bf6 11. O-O-O Bg5 12. Bxg5 Qxg5 13. exf5 gxf5 14. Nb5 Qd8
+15. g3 Kh8 16. Be2 Ndf6 17. Bd3 Ng7 18. Rhe1 c6 19. Nc3 cxd5 20. cxd5 a6 21.
+Qa4 Rb8 22. Nb3 b5 23. Qb4 Bb7 24. Bc2 Qc7 25. f4 e4 26. h3 Rbc8 27. Re2 Ngh5
+28. Nd4 Nxd5 29. Nxd5 Bxd5 30. Re3 Nf6 31. Rc3 Qd7 32. Ne2 Bc4 33. Qxd6 Qxd6
+34. Rxd6 b4 35. Rxc4 Rxc4 36. b3 Rc5 37. Nd4 Rd5 38. Rxd5 Nxd5 39. Kd2 Rd8 40.
+Ne6 Rd6 41. Ng5 Kg7 42. g4 h6 43. gxf5 Nxf4+ 44. Ke3 hxg5 0-1
+
+
+[Event "CCCSA IM 2016"]
+[Site "Charlotte USA"]
+[Date "2016.03.26"]
+[Round "6.4"]
+[White "Canty, James H"]
+[Black "Niemann, Hans M"]
+[Result "1/2-1/2"]
+[ECO "C11"]
+[WhiteElo "2353"]
+[BlackElo "2325"]
+[PlyCount "121"]
+[EventDate "2016.03.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "3"]
+[Source "Mark Crowther"]
+[SourceDate "2016.03.28"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 gxf6 7. Nf3 f5 8.
+Nc3 a6 9. g3 b5 10. Bg2 Bb7 11. O-O O-O 12. Ne5 Bxg2 13. Kxg2 b4 14. Na4 Qd5+
+15. Qf3 Qxf3+ 16. Kxf3 f6 17. Nc4 Nc6 18. c3 Rfd8 19. Rfe1 Kf7 20. Re3 Bd6 21.
+Rae1 bxc3 22. bxc3 Re8 23. Kg2 Rab8 24. f4 Rb5 25. Nab2 Rd5 26. R3e2 h5 27. Ne3
+Rb5 28. a4 Rb3 29. Nbc4 Ne7 30. d5 e5 31. fxe5 fxe5 32. Rc2 Kg6 33. Nd2 Ra3 34.
+Nec4 Rxa4 35. Nxe5+ Bxe5 36. Rxe5 Kf6 37. Nf3 Re4 38. Re2 Rxe5 39. Rxe5 Rb8 40.
+Re6+ Kf7 41. Ne5+ Ke8 42. Rxe7+ Kxe7 43. Nc6+ Kd6 44. Nxb8 a5 45. Nc6 a4 46.
+Nb4 Kc5 47. Kf3 Kc4 48. Ke3 Kxc3 49. Na2+ Kb2 50. Nb4 Kb3 51. Nd3 a3 52. Kd4
+Kc2 53. Kc4 h4 54. Kd4 Kd2 55. Nb4 h3 56. Kc4 Ke2 57. Kb3 Kf3 58. Na6 Kg2 59.
+Nxc7 Kxh2 60. d6 Kxg3 61. d7 1/2-1/2
+
+
+[Event "CCCSA IM 2016"]
+[Site "Charlotte USA"]
+[Date "2016.03.26"]
+[Round "7.1"]
+[White "Niemann, Hans M"]
+[Black "Larson, Matthew W"]
+[Result "0-1"]
+[ECO "A57"]
+[WhiteElo "2325"]
+[BlackElo "2236"]
+[PlyCount "80"]
+[EventDate "2016.03.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "3"]
+[Source "Mark Crowther"]
+[SourceDate "2016.03.28"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 e6 6. e4 exd5 7. e5 Qe7 8. Qe2 Ng8
+9. Nc3 Bb7 10. Nh3 c4 11. Nf4 Qc5 12. Nfxd5 Bxd5 13. Be3 Qb4 14. a3 Qa5 15. Bd2
+Be6 16. Nd5 Qd8 17. Qxc4 Ra7 18. Rc1 Bxd5 19. Qxd5 axb5 20. Bxb5 Ne7 21. Qd4
+Rb7 22. Bc4 Nec6 23. Qf4 Qe7 24. O-O g6 25. b4 Bg7 26. b5 Bxe5 27. Qe4 Bd4+ 28.
+Kh1 Qxe4 29. fxe4 Ne7 30. Bxf7+ Kd8 31. Ba5+ Bb6 32. Bc3 Re8 33. Bxe8 Kxe8 34.
+Bb4 d6 35. Bxd6 Nd7 36. e5 Be3 37. Rc2 Rxb5 38. e6 Nb6 39. Rc7 Nf5 40. Bb4 Ng3+
+0-1
+
+
+[Event "CCCSA IM 2016"]
+[Site "Charlotte USA"]
+[Date "2016.03.25"]
+[Round "5.5"]
+[White "Niemann, Hans M"]
+[Black "Young, An"]
+[Result "1-0"]
+[ECO "A42"]
+[WhiteElo "2325"]
+[BlackElo "2298"]
+[PlyCount "148"]
+[EventDate "2016.03.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "3"]
+[Source "Mark Crowther"]
+[SourceDate "2016.03.28"]
+
+1. d4 d6 2. c4 g6 3. e4 Bg7 4. Nc3 Nc6 5. d5 Nd4 6. Be3 c5 7. Nge2 Qb6 8. Qd2
+f5 9. Rd1 Nxe2 10. Bxe2 fxe4 11. h4 Nf6 12. Rb1 O-O 13. h5 gxh5 14. b4 Bg4 15.
+bxc5 Qa6 16. O-O Rfc8 17. Bd4 dxc5 18. Be5 Bf5 19. Rb3 Rf8 20. Nb5 Ne8 21. Bxg7
+Kxg7 22. Qg5+ Bg6 23. Qxe7+ Kg8 24. Qxc5 Qxa2 25. Nd4 Rf7 26. Qb4 Qa6 27. c5
+Qf6 28. d6 a5 29. Qc3 a4 30. Ra3 Rg7 31. Ne6 Qxc3 32. Rxc3 Rd7 33. Bb5 Nf6 34.
+Bxd7 Nxd7 35. Nd4 a3 36. Ra1 a2 37. Nc2 Bf7 38. c6 bxc6 39. Rxc6 Rb8 40. Rc7
+Be6 41. Kh2 h4 42. Nd4 Rb1 43. Rc1 Rxc1 44. Rxc1 Bc4 45. Nc2 Kf7 46. Nb4 Ke6
+47. Ra1 Ne5 48. Nxa2 Ng4+ 49. Kg1 Kxd6 50. Nc3 Ke5 51. Re1 Bd3 52. Nd1 Kf4 53.
+Ne3 h5 54. Nd5+ Ke5 55. Nb4 Kd4 56. f3 Nf6 57. Kf2 Kc3 58. Nc6 exf3 59. gxf3 h3
+60. Ne5 Bf5 61. Nf7 Nd5 62. Nd6 Bd3 63. Ne4+ Kd4 64. Kg3 Ne3 65. Nf2 Bf1 66.
+Nxh3 h4+ 67. Kh2 Bb5 68. Nf2 Bc6 69. Ng4 Nf5 70. f4 Ng3 71. Kh3 Nh5 72. Rf1 Ke4
+73. f5 Nf4+ 74. Kxh4 Bd7 1-0
+
+
+[Event "CCCSA IM 2016"]
+[Site "Charlotte USA"]
+[Date "2016.03.27"]
+[Round "9.3"]
+[White "Niemann, Hans M"]
+[Black "Lorne, M."]
+[Result "1-0"]
+[ECO "D20"]
+[WhiteElo "2325"]
+[BlackElo "2099"]
+[PlyCount "83"]
+[EventDate "2016.03.23"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[EventCategory "3"]
+[Source "Mark Crowther"]
+[SourceDate "2016.03.28"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. e5 Nd5 5. Bxc4 e6 6. Nc3 Nb6 7. Bb3 c5 8. Nf3
+Nc6 9. Be3 cxd4 10. Nxd4 Nxd4 11. Qxd4 Qxd4 12. Bxd4 Bd7 13. a4 Bc6 14. a5 Nd7
+15. a6 b6 16. Ba4 Bxa4 17. Rxa4 Nc5 18. Bxc5 Bxc5 19. Ke2 O-O-O 20. Rc1 Kb8 21.
+Rc4 Bd4 22. Nb5 Bxe5 23. Rc7 Bxc7 24. Rxc7 Rc8 25. Rb7+ Ka8 26. Rxa7+ Kb8 27.
+Rb7+ Ka8 28. Nc7+ Rxc7 29. Rxc7 Rf8 30. Kd3 Kb8 31. Rb7+ Ka8 32. Rxb6 Rd8+ 33.
+Kc3 Rc8+ 34. Kb3 Rc7 35. Rd6 Rc5 36. Rd7 Rb5+ 37. Ka3 Ra5+ 38. Kb4 Rxa6 39.
+Rxf7 Rb6+ 40. Kc3 Rc6+ 41. Kb3 Rb6+ 42. Kc2 1-0
+
+
+[Event "54th Baltimore Open 2016"]
+[Site "Linthicum USA"]
+[Date "2016.01.30"]
+[Round "2.2"]
+[White "Chandra, Akshat"]
+[Black "Niemann, Hans M"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "2510"]
+[BlackElo "2278"]
+[PlyCount "169"]
+[EventDate "2016.01.29"]
+[EventType "swiss"]
+[EventRounds "5"]
+[EventCountry "USA"]
+[Source "Mark Crowther"]
+[SourceDate "2016.02.08"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 c6 5. g3 Bf5 6. Bg2 e6 7. Nf3 Nf6 8. O-O
+Qc7 9. Ne5 Nbd7 10. Nc4 Nb6 11. Bf4 Qd8 12. Ne3 Bg6 13. Ne2 Nbd5 14. c4 Nxf4
+15. Nxf4 Bd6 16. Nxg6 hxg6 17. b4 O-O 18. b5 Qc7 19. bxc6 bxc6 20. Qa4 Rfc8 21.
+Rab1 e5 22. c5 Bf8 23. Nc4 exd4 24. Na5 Bxc5 25. Rb7 Qd6 26. Qc4 Rf8 27. Nxc6
+Rae8 28. Nxa7 Bxa7 29. Rxa7 d3 30. Ra6 Qd8 31. Ra8 Qd7 32. Ra3 Rd8 33. Rd1 d2
+34. Re3 Rfe8 35. Qe2 Rxe3 36. Qxe3 Qc7 37. Bf3 Qc2 38. Qb3 Qxb3 39. axb3 Rd3
+40. Kg2 Nd5 41. Bxd5 Rxd5 42. Kf3 Rd3+ 43. Ke4 Rxb3 44. Rxd2 Kf8 45. Rd7 Rb2
+46. Kf3 Rb3+ 47. Kg2 Rc3 48. Ra7 Rb3 49. h4 Rb5 50. g4 Rb3 51. Ra8+ Ke7 52. Rg8
+Kf6 53. f3 Ke7 54. g5 Rb2+ 55. Kg3 Rb3 56. Rxg7 Kf8 57. Rh7 Kg8 58. Rh6 Kg7 59.
+h5 gxh5 60. Rf6 Rb1 61. f4 Rg1+ 62. Kf3 h4 63. Rh6 h3 64. Rxh3 f6 65. gxf6+
+Kxf6 66. Rh6+ Kf5 67. Rh5+ Kf6 68. Re5 Rf1+ 69. Kg3 Rg1+ 70. Kf2 Ra1 71. Rb5
+Ra3 72. Kg2 Rc3 73. Ra5 Rb3 74. Kf2 Rc3 75. Re5 Rb3 76. Re3 Rxe3 77. Kxe3 Ke6
+78. Ke4 Kf6 79. f5 Kf7 80. Ke5 Ke7 81. f6+ Kf7 82. Kf5 Kf8 83. Kg6 Kg8 84. f7+
+Kf8 85. Kf6 1/2-1/2
+
+
+[Event "10th Philadelphia Int"]
+[Site "Philadelphia USA"]
+[Date "2016.07.10"]
+[Round "9"]
+[White "Bora, Safal"]
+[Black "Niemann, Hans M"]
+[Result "1/2-1/2"]
+[ECO "B27"]
+[WhiteElo "2404"]
+[BlackElo "2269"]
+[PlyCount "123"]
+[EventDate "2016.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[SourceDate "2016.07.11"]
+
+1. Nf3 g6 2. e4 c5 3. d4 cxd4 4. Qxd4 Nf6 5. Nc3 Nc6 6. Qa4 d6 7. e5 Nd7 8.
+exd6 Nc5 9. Qb5 exd6 10. Nd5 Ne6 11. Be2 Bg7 12. c3 O-O 13. O-O Nc7 14. Nxc7
+Qxc7 15. Bf4 Be6 16. Rfd1 Rfd8 17. Rd2 a6 18. Qa4 b5 19. Qc2 Bf5 20. Bd3 Bxd3
+21. Qxd3 Ne5 22. Qd5 Nc4 23. Rc2 Qc5 24. Rd1 Rac8 25. h3 Ne5 26. Ng5 Qxd5 27.
+Rxd5 b4 28. Bxe5 Bxe5 29. c4 Rc5 30. b3 Rdc8 31. Rxc5 dxc5 32. Rd2 Bf4 33. Rd5
+Bxg5 34. Rxg5 f5 35. g4 Rf8 36. gxf5 Rxf5 37. Rg3 Kf7 38. Re3 Rf6 39. Kf1 Re6
+40. Rd3 Kf6 41. Rd8 Kf5 42. Rc8 Re5 43. Rc6 Ke4 44. Rxa6 Kd3 45. Rd6+ Kc2 46.
+Rd5 Rf5 47. Kg2 Kb2 48. Rd2+ Ka3 49. Re2 Rg5+ 50. Kh2 Rf5 51. h4 h6 52. Kg3 g5
+53. hxg5 hxg5 54. Kg4 Rf4+ 55. Kg3 Rf5 56. f3 Rf4 57. Rd2 Rh4 58. Kg2 g4 59. f4
+g3 60. Kf3 g2 61. Rxg2 Rxf4+ 62. Kxf4 1/2-1/2
+
+
+[Event "10th Philadelphia Int"]
+[Site "Philadelphia USA"]
+[Date "2016.07.09"]
+[Round "7"]
+[White "Niemann, Hans M"]
+[Black "Mikhalevski, V."]
+[Result "0-1"]
+[ECO "D35"]
+[WhiteElo "2269"]
+[BlackElo "2545"]
+[PlyCount "62"]
+[EventDate "2016.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[SourceDate "2016.07.11"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bf4 Be7 5. e3 O-O 6. Nf3 b6 7. cxd5 exd5 8. Be2
+c5 9. O-O Bb7 10. Rc1 Na6 11. Qa4 Nc7 12. Rfd1 Qc8 13. dxc5 bxc5 14. b4 c4 15.
+Nd4 Ne6 16. Nf5 Re8 17. Bd6 Bd8 18. Be5 Nc5 19. bxc5 Bc6 20. Qc2 Rxe5 21. Nd6
+Qc7 22. e4 dxe4 23. Bxc4 Kf8 24. Qd2 e3 25. fxe3 Rxc5 26. Qd4 Rg5 27. Nce4 Qa5
+28. Rb1 Rg4 29. Nxf7 Bxe4 30. Nxd8 Rxg2+ 31. Kf1 Qf5+ 0-1
+
+
+[Event "10th Philadelphia Int"]
+[Site "Philadelphia USA"]
+[Date "2016.07.09"]
+[Round "8"]
+[White "Niemann, Hans M"]
+[Black "Yang Kaiqi"]
+[Result "1-0"]
+[ECO "E31"]
+[WhiteElo "2269"]
+[BlackElo "2387"]
+[PlyCount "111"]
+[EventDate "2016.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[SourceDate "2016.07.11"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 c5 5. d5 h6 6. Bh4 d6 7. e3 exd5 8. cxd5
+Nbd7 9. Bb5 O-O 10. Bxd7 Bxd7 11. Nf3 Bf5 12. O-O Bxc3 13. bxc3 Re8 14. Re1 g5
+15. Bg3 Ne4 16. Nd2 Nxg3 17. hxg3 Qf6 18. e4 Bg6 19. Qf3 Kg7 20. Qxf6+ Kxf6 21.
+f4 Re7 22. Kf2 Kg7 23. f5 Bh7 24. Nc4 Rd8 25. Rab1 f6 26. Re2 Bg8 27. Kf3 Bf7
+28. Na5 g4+ 29. Kf2 Rdd7 30. a4 Kf8 31. Ke1 Be8 32. Nc4 Rh7 33. Kd2 Rd8 34. a5
+Rc7 35. Kd3 Ke7 36. Reb2 Rb8 37. Ne3 h5 38. c4 Kd8 39. Nd1 Re7 40. Nc3 Rh7 41.
+Ne2 Kc8 42. Nf4 Bf7 43. Ne6 Rh8 44. Ke3 Be8 45. Kf4 Bf7 46. e5 dxe5+ 47. Ke4
+Bxe6 48. fxe6 Kc7 49. Kf5 h4 50. gxh4 Rxh4 51. e7 Kd6 52. Rxb7 Rbh8 53. e8=N+
+Rxe8 54. Rxa7 Rh5+ 55. Ke4 f5+ 56. Ke3 1-0
+
+
+[Event "10th Philadelphia Int"]
+[Site "Philadelphia USA"]
+[Date "2016.07.06"]
+[Round "3"]
+[White "Niemann, Hans M"]
+[Black "Odeh, K."]
+[Result "1-0"]
+[ECO "D70"]
+[WhiteElo "2269"]
+[BlackElo "2032"]
+[PlyCount "87"]
+[EventDate "2016.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[SourceDate "2016.07.11"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Nc3 Bg7 7. Be3 O-O 8. Qd2
+e5 9. d5 c6 10. O-O-O cxd5 11. exd5 Bd7 12. h4 Na6 13. Kb1 Bf5+ 14. Kc1 Nb4 15.
+g4 Bc2 16. Re1 Rc8 17. a3 N6xd5 18. axb4 Nxb4 19. Qxd8 Rfxd8 20. Rh2 Bd3 21.
+Rd2 e4 22. fxe4 Rd6 23. Kd1 Rxc3 24. bxc3 Bxc3 25. Bxd3 Bxd2 26. Kxd2 Rxd3+ 27.
+Ke2 Rxe3+ 28. Kxe3 Nc2+ 29. Kd2 Nxe1 30. Kxe1 f6 31. Ke2 Kf7 32. Kd3 Ke6 33.
+Kd4 a5 34. Ne2 a4 35. Nf4+ Kd6 36. Nd3 a3 37. Kc3 b5 38. Kb3 b4 39. g5 Ke6 40.
+Nxb4 fxg5 41. hxg5 Ke5 42. Nd5 Ke6 43. Nf6 h5 44. gxh6 1-0
+
+
+[Event "10th Philadelphia Int"]
+[Site "Philadelphia USA"]
+[Date "2016.07.07"]
+[Round "4"]
+[White "Nieto, G."]
+[Black "Niemann, Hans M"]
+[Result "0-1"]
+[ECO "C11"]
+[WhiteElo "1894"]
+[BlackElo "2269"]
+[PlyCount "82"]
+[EventDate "2016.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[SourceDate "2016.07.11"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 gxf6 7. Nf3 f5 8.
+Nc3 a6 9. Qd2 b5 10. O-O-O Bb7 11. Kb1 b4 12. Ne2 c5 13. Ne5 Nc6 14. f4 Nxe5
+15. dxe5 Qxd2 16. Rxd2 c4 17. c3 Be4+ 18. Kc1 Bc5 19. cxb4 Be3 20. Kd1 Bxd2 21.
+Kxd2 O-O-O+ 22. Kc3 Rd1 23. Ng3 Rg8 24. Kxc4 Kb7 25. Kb3 Kb6 26. a4 a5 27. b5
+h5 28. Nxh5 Rc8 29. Nf6 Ra1 30. Nxe4 fxe4 31. h4 e3 32. Rh3 Rxf1 33. Rxe3 Rxf4
+34. g3 Rb4+ 35. Ka3 Rg4 36. Rf3 Rc5 37. Re3 Rcc4 38. b3 Rce4 39. Rf3 Rxe5 40.
+Rxf7 Rxg3 41. Re7 Ree3 0-1
+
+
+[Event "10th Philadelphia Int"]
+[Site "Philadelphia USA"]
+[Date "2016.07.08"]
+[Round "5.4"]
+[White "Niemann, Hans M"]
+[Black "Shimanov, A."]
+[Result "0-1"]
+[ECO "E91"]
+[WhiteElo "2269"]
+[BlackElo "2627"]
+[PlyCount "143"]
+[EventDate "2016.07.05"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[SourceDate "2016.07.11"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be2 Na6 7. O-O e5 8. Be3
+c6 9. dxe5 dxe5 10. Qxd8 Rxd8 11. Rfd1 Re8 12. h3 Bf8 13. a3 Nc5 14. Nd2 Ne6
+15. Nf3 Bc5 16. b4 Bxe3 17. fxe3 h6 18. c5 Ng5 19. Nd2 Be6 20. h4 Ngh7 21. Bc4
+Bg4 22. Nf3 Kg7 23. Rd6 Rac8 24. a4 Rc7 25. Nd2 Rd7 26. Rxd7 Bxd7 27. b5 Ng4
+28. Re1 Nf8 29. b6 Be6 30. bxa7 Ra8 31. Bxe6 Nxe6 32. Nb3 Rxa7 33. Kf1 Nf6 34.
+a5 Kf8 35. Ke2 Ra8 36. Kd3 Rd8+ 37. Kc4 Ng4 38. Re2 Ke7 39. Nc1 f5 40. g3 f4
+41. gxf4 exf4 42. exf4 Nxf4 43. Ra2 Ne5+ 44. Kb3 Ne6 45. Na4 Rd1 46. Kc2 Rd4
+47. Nc3 Nxc5 48. Nb3 Nxb3 49. Kxb3 Nd3 50. Rg2 Kf6 51. Rg3 Nc5+ 52. Ka3 Nxe4
+53. Nxe4+ Rxe4 54. Rf3+ Kg7 55. Rb3 Re7 56. Kb4 g5 57. hxg5 hxg5 58. Kc5 Kg6
+59. Kb6 g4 60. Ka7 Re5 61. Kxb7 Rxa5 62. Kxc6 Rg5 63. Rg3 Kf5 64. Rg1 Kf4 65.
+Ra1 g3 66. Ra4+ Kf3 67. Ra3+ Kg4 68. Ra4+ Kh3 69. Ra3 Kh2 70. Kd6 g2 71. Ra2
+Kh1 72. Ra1+ 0-1
+
+
+[Event "SPICE Cup Open 2016"]
+[Site "Saint Louis USA"]
+[Date "2016.10.20"]
+[Round "6.18"]
+[White "Niemann, Hans M"]
+[Black "Voelker, Ja"]
+[Result "1-0"]
+[ECO "E30"]
+[WhiteElo "2288"]
+[BlackElo "2112"]
+[PlyCount "53"]
+[EventDate "2016.10.17"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[SourceDate "2016.10.24"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 d5 5. e3 h6 6. Bh4 O-O 7. Nf3 g5 8. Bg3
+Ne4 9. Qb3 c5 10. a3 Bxc3+ 11. bxc3 Nc6 12. Bd3 dxc4 13. Qxc4 Na5 14. Qa2 Nxc3
+15. Qc2 cxd4 16. Nxd4 Nd5 17. h4 g4 18. Rd1 Bd7 19. e4 Nb6 20. Qe2 h5 21. e5
+Nd5 22. Qe4 f5 23. exf6 Nxf6 24. Qg6+ Kh8 25. Be5 Qe7 26. Qxh5+ Kg8 27. Bxf6
+1-0
+
+
+[Event "SPICE Cup Open 2016"]
+[Site "Saint Louis USA"]
+[Date "2016.10.21"]
+[Round "7.15"]
+[White "Rosen, E."]
+[Black "Niemann, Hans M"]
+[Result "0-1"]
+[ECO "A16"]
+[WhiteElo "2382"]
+[BlackElo "2288"]
+[PlyCount "126"]
+[EventDate "2016.10.17"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[SourceDate "2016.10.24"]
+
+1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 g6 5. Bg2 Nb6 6. h4 h5 7. d3 Bg7 8. Nh3
+Nc6 9. Ng5 O-O 10. Be3 Nd4 11. O-O c6 12. Rc1 Bg4 13. Re1 Nd5 14. Bd2 Nb4 15.
+f3 Bc8 16. Na4 Nd5 17. e3 Nf5 18. Kh2 Qc7 19. f4 Nf6 20. Bf3 e5 21. Rc4 Nh6 22.
+Qb3 Nfg4+ 23. Kg2 Nf5 24. Qb4 Re8 25. Bd5 Nd6 26. Rcc1 Qd8 27. Bb3 b6 28. e4 c5
+29. Qa3 Bb7 30. Bd1 c4 31. Nc3 cxd3 32. Bb3 Bf6 33. Bd5 Bxd5 34. Nxd5 Bxg5 35.
+fxg5 Nxe4 36. Qxd3 Ngf2 37. Qb5 a6 38. Qc6 Re6 39. Qb7 Rd6 40. Ne7+ Kg7 41. Be3
+Rd7 42. Qxb6 Nd3 43. Nc6 Qxb6 44. Bxb6 Nxe1+ 45. Rxe1 Rb7 46. Bg1 Rxb2+ 47. Kh3
+Nf2+ 48. Bxf2 Rxf2 49. Rxe5 Rc8 50. Rc5 Rxa2 51. Rc1 Re8 52. Rc3 a5 53. Rf3 a4
+54. Nb4 Rb2 55. Nd5 Rb3 56. Rf4 Ra8 57. Nc7 Ra7 58. Ne8+ Kf8 59. Nf6 a3 60. Re4
+Ra8 61. Nd7+ Kg7 62. Nc5 Rc3 63. Na4 a2 0-1
+
+
+[Event "SPICE Cup Open 2016"]
+[Site "Saint Louis USA"]
+[Date "2016.10.21"]
+[Round "8.12"]
+[White "Niemann, Hans M"]
+[Black "Banawa, Joe"]
+[Result "0-1"]
+[ECO "E30"]
+[WhiteElo "2288"]
+[BlackElo "2363"]
+[PlyCount "66"]
+[EventDate "2016.10.17"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[SourceDate "2016.10.24"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 h6 5. Bh4 b6 6. f3 c5 7. d5 exd5 8. cxd5
+O-O 9. e4 Re8 10. Nge2 d6 11. a3 Bxc3+ 12. bxc3 Ba6 13. Bf2 Nxe4 14. fxe4 Rxe4
+15. Qc2 Qe8 16. O-O-O Ra4 17. Kb2 Bc4 18. Nc1 Qb5+ 19. Qb3 Qa6 20. Bxc4 Rxc4
+21. Rhe1 Nd7 22. Re7 Ra4 23. Bg3 c4 24. Qc2 Nc5 25. Bxd6 Rxa3 26. Rde1 Nd3+ 27.
+Qxd3 cxd3 28. Bxa3 d2 29. Nb3 dxe1=Q 30. Rxe1 Qd3 31. d6 Rc8 32. Re7 Rxc3 33.
+d7 Rxb3+ 0-1
+
+
+[Event "SPICE Cup Open 2016"]
+[Site "Saint Louis USA"]
+[Date "2016.10.18"]
+[Round "3.16"]
+[White "Duran Vega, S."]
+[Black "Niemann, Hans M"]
+[Result "0-1"]
+[ECO "A65"]
+[WhiteElo "2383"]
+[BlackElo "2288"]
+[PlyCount "78"]
+[EventDate "2016.10.17"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[SourceDate "2016.10.24"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nge2 Bg7 8. Ng3
+O-O 9. Be2 a6 10. a4 h5 11. Bg5 Qb6 12. Qc2 Nh7 13. Be3 h4 14. Nf1 f5 15. f3
+fxe4 16. fxe4 Nd7 17. Nd2 Ne5 18. h3 Qd8 19. Nc4 Nxc4 20. Bxc4 Be5 21. Rf1 Bd7
+22. Rxf8+ Qxf8 23. a5 Re8 24. O-O-O Qe7 25. Bd3 Qd8 26. Rf1 Qxa5 27. Bf4 Qd8
+28. Bxe5 Rxe5 29. Qf2 Qe7 30. Ne2 Bb5 31. Bxb5 axb5 32. Nf4 Nf8 33. g3 Rxe4 34.
+gxh4 Rc4+ 35. Kd2 Qf6 36. Nd3 Qxf2+ 37. Rxf2 Rd4 38. Kc3 b4+ 39. Kc2 Rxd5 0-1
+
+
+[Event "SPICE Cup Open 2016"]
+[Site "Saint Louis USA"]
+[Date "2016.10.19"]
+[Round "4.10"]
+[White "Niemann, Hans M"]
+[Black "Liang, Awonder"]
+[Result "0-1"]
+[ECO "A50"]
+[WhiteElo "2288"]
+[BlackElo "2478"]
+[PlyCount "150"]
+[EventDate "2016.10.17"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[SourceDate "2016.10.24"]
+
+1. d4 Nf6 2. c4 b6 3. f3 Nc6 4. Nc3 e5 5. d5 Ne7 6. e4 Ng6 7. Be3 Bc5 8. Bxc5
+bxc5 9. g3 d6 10. Qd2 Rb8 11. Nge2 Bd7 12. Nc1 h5 13. h4 O-O 14. Nd3 Nh7 15.
+O-O-O f5 16. Be2 f4 17. gxf4 Nxf4 18. Nxf4 Rxf4 19. Qe1 Qf6 20. Qg3 a6 21. Rdg1
+Kh8 22. Nd1 Qh6 23. Kc2 Rf7 24. Qg6 Qxg6 25. Rxg6 Rg8 26. Nf2 Rf6 27. Rg3 Be8
+28. Nh3 Nf8 29. Rg5 Nh7 30. Rg3 Bd7 31. Ng5 Rf4 32. Nh3 Bxh3 33. Rhxh3 Nf6 34.
+Kd3 Kh7 35. Rg2 Kh6 36. Ke3 Nh7 37. Bd1 Nf8 38. Ba4 Ng6 39. Rgh2 Rd8 40. Bc6
+Rf6 41. Rg3 Nf4 42. Rg5 Rdf8 43. Bd7 Rg6 44. Rxg6+ Nxg6 45. Bf5 Ne7 46. Be6 Rf4
+47. Kf2 Ng6 48. Kg3 a5 49. Bf5 Ne7 50. Bd7 Rf8 51. b3 Ng6 52. Kf2 Nf4 53. Ke3
+Rd8 54. Bc6 Kg6 55. Rh1 Kh6 56. Rh2 g5 57. hxg5+ Kxg5 58. Rh1 Kh6 59. Rg1 Kh7
+60. Rg5 Rg8 61. Rxg8 Kxg8 62. Kf2 Kg7 63. Kg3 Kh6 64. a3 Kg5 65. Bd7 h4+ 66.
+Kf2 h3 67. Kg3 Ne2+ 68. Kxh3 Kf4 69. Kg2 Nd4 70. Kf2 Nxf3 71. Bf5 Nd2 72. Ke2
+Nxe4 73. Bh7 Ng3+ 74. Kd2 e4 75. b4 axb4 0-1
+
+
+[Event "UT Dallas Fall Open 2016"]
+[Site "Dallas USA"]
+[Date "2016.11.22"]
+[Round "8.16"]
+[White "Niemann, Hans M"]
+[Black "Kadric, D."]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "2273"]
+[BlackElo "2583"]
+[PlyCount "56"]
+[EventDate "2016.11.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[SourceDate "2016.11.28"]
+
+1. d4 d6 2. c4 e5 3. Nf3 Nd7 4. e4 g6 5. Nc3 Bg7 6. Be2 Ngf6 7. O-O O-O 8. Be3
+Qe7 9. d5 Ng4 10. Bg5 f6 11. Bd2 Nh6 12. Ne1 c5 13. dxc6 bxc6 14. b4 f5 15. b5
+c5 16. Bxh6 Bxh6 17. Qd5+ Rf7 18. Qxa8 Nb6 19. Qb8 Qd8 20. Rd1 Bf8 21. exf5 Rb7
+22. Qxb7 Bxb7 23. fxg6 hxg6 24. Nc2 Bh6 25. Rfe1 Nc8 26. Bg4 Qa5 27. Bxc8 Bxc8
+28. Nd5 Bg4 1-0
+
+
+[Event "UT Dallas Fall Open 2016"]
+[Site "Dallas USA"]
+[Date "2016.11.22"]
+[Round "7.21"]
+[White "Ishhanov, T."]
+[Black "Niemann, Hans M"]
+[Result "0-1"]
+[ECO "A61"]
+[WhiteElo "2273"]
+[BlackElo "2273"]
+[PlyCount "60"]
+[EventDate "2016.11.18"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[SourceDate "2016.11.28"]
+
+1. c4 Nf6 2. d4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Bf4 a6 8. a4
+Bg7 9. e3 O-O 10. h3 Ne8 11. Be2 Nd7 12. e4 Qe7 13. O-O Rb8 14. Qc2 b6 15. Bd3
+Ne5 16. Nxe5 dxe5 17. Be3 a5 18. Nb5 Nd6 19. Nxd6 Qxd6 20. f4 f5 21. fxe5 Qxe5
+22. Bf4 Qd4+ 23. Kh1 fxe4 24. Bxb8 exd3 25. Rxf8+ Bxf8 26. Qb3 c4 27. Qc3 Qxd5
+28. Be5 Bxh3 29. Rg1 Bg4 30. b3 Bg7 0-1
+
+
+[Event "100th Edward Lasker Mem"]
+[Site "New York USA"]
+[Date "2016.12.10"]
+[Round "3"]
+[White "Vasserman, Daniel"]
+[Black "Niemann, Hans M"]
+[Result "0-1"]
+[ECO "B47"]
+[WhiteElo "2158"]
+[BlackElo "2277"]
+[PlyCount "100"]
+[EventDate "2016.12.09"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[SourceDate "2017.01.02"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be2 a6 7. O-O b5 8. a3
+Bb7 9. Be3 Nf6 10. Nb3 Ne5 11. Nd2 b4 12. axb4 Bxb4 13. Bd4 Ng6 14. Ra4 Bd6 15.
+g3 O-O 16. Nc4 Bc6 17. Bxf6 Bxa4 18. Qxd6 Qxd6 19. Nxd6 Bxc2 20. Bd4 Rfb8 21.
+Nb1 Ne7 22. Na3 Bb3 23. Nac4 Bxc4 24. Bxc4 Nc6 25. Bc3 Rb6 26. f4 a5 27. Rd1
+Kf8 28. Bb5 Rab8 29. Bxc6 Rxc6 30. e5 a4 31. Ra1 Ra6 32. Kf2 Rb3 33. Ne4 Rb5
+34. Ke3 h6 35. Nc5 Rxc5 36. Bb4 d6 37. exd6 Rd5 38. Ra3 Ke8 39. Rc3 Rdxd6 40.
+Bxd6 Rxd6 41. Ra3 Rb6 42. Ra2 Ke7 43. Kd3 Kd6 44. Kc3 Rb3+ 45. Kc2 Rb4 46. Ra3
+Kc5 47. Re3 Rc4+ 48. Kb1 Kb4 49. Re1 Kb5 50. Re5+ Kb4 0-1
+
+
+[Event "100th Edward Lasker Mem"]
+[Site "New York USA"]
+[Date "2016.12.09"]
+[Round "1"]
+[White "Chasin, Nico Werner"]
+[Black "Niemann, Hans M"]
+[Result "0-1"]
+[ECO "D77"]
+[WhiteElo "2009"]
+[BlackElo "2277"]
+[PlyCount "62"]
+[EventDate "2016.12.09"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[SourceDate "2017.01.02"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 d5 5. O-O O-O 6. c4 dxc4 7. Nc3 c6 8. Ne5
+Ng4 9. Nxg4 Bxg4 10. h3 Be6 11. d5 cxd5 12. Nxd5 Nc6 13. Bg5 Bxb2 14. Rb1 c3
+15. Nxe7+ Nxe7 16. Qxd8 Rfxd8 17. Bxe7 Bxa2 18. Bxd8 Bxb1 19. Bf6 Bf5 20. g4
+Be6 21. Bxb7 Rb8 22. Be4 a5 23. Be5 Rd8 24. Bc7 Rc8 25. Be5 a4 26. f4 a3 27. f5
+c2 28. fxe6 Bxe5 29. exf7+ Kf8 30. Rc1 a2 31. Bxc2 Bb2 0-1
+
+
+[Event "100th Edward Lasker Mem"]
+[Site "New York USA"]
+[Date "2016.12.10"]
+[Round "2"]
+[White "Niemann, Hans M"]
+[Black "Allicock, R."]
+[Result "0-1"]
+[ECO "E60"]
+[WhiteElo "2277"]
+[BlackElo "2151"]
+[PlyCount "84"]
+[EventDate "2016.12.09"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "USA"]
+[SourceDate "2017.01.02"]
+
+1. d4 Nf6 2. c4 g6 3. f3 c5 4. d5 Bg7 5. e4 d6 6. Ne2 O-O 7. Nec3 e6 8. Be3 a6
+9. a4 exd5 10. cxd5 Ne8 11. Na3 Nd7 12. Be2 f5 13. exf5 Rxf5 14. O-O Rb8 15.
+Qd2 b6 16. f4 Rf8 17. Rae1 Ndf6 18. h3 Nc7 19. Nc4 Bf5 20. g4 Ne4 21. Nxe4 Bxe4
+22. Bf3 Bxf3 23. Rxf3 b5 24. axb5 axb5 25. Na5 Qf6 26. Re2 Qf7 27. Nc6 Rbe8 28.
+Bf2 Qxd5 29. Qxd5+ Nxd5 30. Rd2 Nxf4 31. Rxd6 c4 32. Rd2 Re6 33. Nb4 Re2 34.
+Be3 Rxd2 35. Bxd2 Bd4+ 36. Kh2 Bxb2 37. Nc6 Nd5 38. Rxf8+ Kxf8 39. Kg3 Ke8 40.
+Kf3 Kd7 41. Nb4 Nxb4 42. Bxb4 c3 0-1

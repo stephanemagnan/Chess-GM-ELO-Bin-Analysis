@@ -1,0 +1,1251 @@
+White	White ELO	Black	Black ELO	Result	Date
+Rapport, Richard	2763	Wei, Yi	2732	1-0	Sat May 01 2021
+Rapport, Richard	2727	Svidler, Peter	2742	1-0	2021.06.20
+Rapport, Richard	2759	Caruana, Fabiano	2711	1-0	2021.06.22
+Rapport, Richard	2759	Radjabov, Teimour	2757	1-0	2021.06.22
+Rapport, Richard	2759	Kramnik, Vladimir	2797	1-0	2021.06.21
+Rapport, Richard	2724	Xiong, Jeffery	2730	1-0	2021.08.13
+Rapport, Richard	2763	Svidler, Peter	2714	1-0	2021.08.20
+Rapport, Richard	2760	Firouzja, Alireza	2754	1-0	2021.09.10
+Rapport, Richard	2760	Tari, Aryan	2642	1-0	2021.09.13
+Rapport, Richard	2760	Karjakin, Sergey	2758	1-0	2021.09.14
+Rapport, Richard	2770	Vandenbussche, Thibaut	2413	1-0	2021.10.15
+Rapport, Richard	2754	Sarana, Alexey	2689	1-0	2021.11.10
+Rapport, Richard	2754	Sarana, Alexey	2689	1-0	2021.11.10
+Rapport, Richard	2754	Sarana, Alexey	2689	1-0	2021.11.10
+Rapport, Richard	2754	Sarana, Alexey	2689	1-0	2021.11.10
+Rapport, Richard	2754	Sarana, Alexey	2689	1-0	2021.11.10
+Rapport, Richard	2754	Sarana, Alexey	2689	1-0	2021.11.10
+Duda, Jan-Krzysztof	2750	Rapport, Richard	2764	1/2-1/2	2022.06.17
+Ding, Liren	2806	Rapport, Richard	2764	1/2-1/2	2022.06.19
+Caruana, Fabiano	2783	Rapport, Richard	2764	1/2-1/2	2022.06.22
+Radjabov, Teimour	2753	Rapport, Richard	2764	1/2-1/2	2022.06.23
+Dominguez Perez, Leinier	2726	Rapport, Richard	2802	1/2-1/2	2022.07.10
+Sevian, Samuel	2569	Rapport, Richard	2802	1/2-1/2	2022.07.12
+Xiong, Jeffery	2725	Rapport, Richard	2802	1/2-1/2	2022.07.14
+Wei, Yi	2752	Rapport, Richard	2802	1/2-1/2	2022.07.15
+Rapport,R	2731	Anand,V	2773	1/2-1/2	2019.01.12
+Rapport,R	2731	Ding Liren	2813	1/2-1/2	2019.01.12
+Rapport,R	2735	Shankland,S	2731	1/2-1/2	2019.02.20
+Rapport,R	2735	Shankland,S	2731	1/2-1/2	2019.02.20
+Rapport,R	2735	Shankland,S	2731	1/2-1/2	2019.02.23
+Rapport,R	2735	Shankland,S	2731	1/2-1/2	2019.02.23
+Rapport,R	2738	Vidit,S	2711	1/2-1/2	2019.03.06
+Rapport,R	2738	Navara,D	2739	1/2-1/2	2019.03.06
+Rapport,R	2738	Shankland,S	2731	1/2-1/2	2019.03.06
+Rapport,R	2726	Jakovenko,D	2719	1/2-1/2	2019.04.17
+Rapport,R	2726	Yu Yangyi	2751	1/2-1/2	2019.04.17
+Rapport,R	2726	Ding Liren	2809	1/2-1/2	2019.04.17
+Rapport,R	2726	Giri,A	2797	1/2-1/2	2019.04.17
+Rapport,R	2736	Vidit,S	2707	1/2-1/2	2019.05.17
+Rapport,R	2736	Andreikin,D	2722	1/2-1/2	2019.05.17
+Rapport,R	2736	Korobov,A	2687	1/2-1/2	2019.05.17
+Rapport,R	2736	Leko,P	2674	1/2-1/2	2019.05.17
+Rapport,R	2736	Wang Hao	2735	1/2-1/2	2019.05.17
+Rapport,R	2736	Ponomariov,R	2675	1/2-1/2	2019.05.17
+Rapport,R	2736	Ponomariov,R	2675	1/2-1/2	2019.05.14
+Rapport,R	2736	Gelfand,B	2676	1/2-1/2	2019.05.14
+Rapport,R	2736	Bu Xiangzhi	2729	1/2-1/2	2019.05.14
+Rapport,R	2735	Artemiev,V	2761	1/2-1/2	2019.06.30
+Rapport,R	2735	Wang Hao	2737	1/2-1/2	2019.06.30
+Rapport,R	2735	Vidit,S	2707	1/2-1/2	2019.06.30
+Wei, Yi	0	Rapport, Richard	0	0-1	Wed Jul 24 2019
+Carlsen,M	2835	Rapport,R	2731	1-0	2019.01.12
+Shankland,S	2731	Rapport,R	2735	1-0	2019.02.23
+Shankland,S	2731	Rapport,R	2735	1-0	2019.02.23
+Shankland,S	2731	Rapport,R	2735	1-0	2019.02.23
+Shankland,S	2731	Rapport,R	2735	1-0	2019.02.23
+Wojtaszek,R	2722	Rapport,R	2738	1-0	2019.03.06
+Harikrishna,P	2723	Rapport,R	2726	1-0	2019.04.17
+Korobov,A	2687	Rapport,R	2736	1-0	2019.05.17
+Yu Yangyi	2739	Rapport,R	2736	1-0	2019.05.17
+Ponomariov,R	2675	Rapport,R	2736	1-0	2019.05.17
+Vidit,S	2707	Rapport,R	2736	1-0	2019.05.14
+Rapport,R	2735	Dominguez Perez,L	2760	1/2-1/2	2019.07.13
+Rapport,R	2735	Wojtaszek,R	2737	1/2-1/2	2019.07.13
+Rapport,R	2735	Fridman,D	2638	1/2-1/2	2019.07.13
+Vachier Lagrave,M	2778	Rapport,R	2747	1-0	2019.08.10
+Rapport,R	2747	Ding Liren	2805	1/2-1/2	2019.08.13
+Carlsen,M	2882	Rapport,R	2747	1-0	2019.08.13
+Vachier Lagrave,M	2778	Rapport,R	2747	1-0	2019.08.13
+Karjakin,Sergey	2750	Rapport,R	2747	1-0	2019.08.13
+Mamedyarov,S	2764	Rapport,R	2747	1-0	2019.08.13
+Ding Liren	2805	Rapport,R	2747	1-0	2019.08.13
+Rapport,R	2747	Carlsen,M	2882	1/2-1/2	2019.08.13
+Rapport,R	2752	Mamedov,Rau	2648	1/2-1/2	2019.11.10
+Rapport,R	2752	Khenkin,I	2545	1/2-1/2	2019.11.23
+Dominguez Perez, Leinier	0	Rapport, Richard	0	1/2-1/2	Fri Nov 15 2019
+Li, Chao b	0	Rapport, Richard	0	1/2-1/2	Sat Jul 27 2019
+Zou, Chen	0	Rapport, Richard	0	0-1	Tue Aug 20 2019
+Chu, Wei Chao	0	Rapport, Richard	0	0-1	Thu Aug 22 2019
+Duda,J	2738	Rapport,R	2731	0-1	2019.01.12
+Shankland,S	2731	Rapport,R	2735	0-1	2019.02.20
+Shankland,S	2731	Rapport,R	2735	0-1	2019.02.20
+Shankland,S	2731	Rapport,R	2735	0-1	2019.02.20
+Shankland,S	2731	Rapport,R	2735	0-1	2019.02.20
+Shankland,S	2731	Rapport,R	2735	0-1	2019.02.23
+Shankland,S	2731	Rapport,R	2735	0-1	2019.02.23
+Shankland,S	2731	Rapport,R	2735	0-1	2019.02.23
+Shankland,S	2731	Rapport,R	2735	0-1	2019.02.23
+Shankland,S	2731	Rapport,R	2735	0-1	2019.02.23
+Vidit,S	2707	Rapport,R	2736	0-1	2019.05.17
+Andreikin,D	2722	Rapport,R	2736	0-1	2019.05.17
+Bu Xiangzhi	2729	Rapport,R	2736	0-1	2019.05.17
+Fedoseev,Vl3	2683	Rapport,R	2736	0-1	2019.05.17
+Jones,G	2702	Rapport,R	2736	0-1	2019.05.14
+Mamedov,Rau	2650	Rapport,R	2736	0-1	2019.05.14
+Inarkiev,E	2693	Rapport,R	2735	0-1	2019.06.30
+Mamedyarov,S	2764	Rapport,R	2747	0-1	2019.08.10
+Yu Yangyi	2752	Rapport,R	2747	0-1	2019.08.10
+Caruana,F	2818	Rapport,R	2747	0-1	2019.08.13
+Efimenko,Z	2601	Rapport,R	2752	0-1	2019.11.10
+Van Foreest, Jorden	0	Rapport, Richard	0	1/2-1/2	Sat Dec 07 2019
+Fedoseev,Vl3	2724	Rapport,R	2731	1/2-1/2	2019.01.12
+Radjabov,T	2757	Rapport,R	2731	1/2-1/2	2019.01.12
+Nepomniachtchi,I	2763	Rapport,R	2731	1/2-1/2	2019.01.12
+Mamedyarov,S	2817	Rapport,R	2731	1/2-1/2	2019.01.12
+Vidit,S	2695	Rapport,R	2731	1/2-1/2	2019.01.12
+Shankland,S	2731	Rapport,R	2735	1/2-1/2	2019.02.20
+Shankland,S	2731	Rapport,R	2735	1/2-1/2	2019.02.20
+Shankland,S	2731	Rapport,R	2735	1/2-1/2	2019.02.23
+Shankland,S	2731	Rapport,R	2735	1/2-1/2	2019.02.23
+Shankland,S	2731	Rapport,R	2735	1/2-1/2	2019.02.23
+Harikrishna,P	2730	Rapport,R	2738	1/2-1/2	2019.03.06
+Gelfand,B	2655	Rapport,R	2738	1/2-1/2	2019.03.06
+Vitiugov,N	2726	Rapport,R	2738	1/2-1/2	2019.03.06
+Ding Liren	2809	Rapport,R	2726	1/2-1/2	2019.04.17
+Giri,A	2797	Rapport,R	2726	1/2-1/2	2019.04.17
+Jakovenko,D	2719	Rapport,R	2726	1/2-1/2	2019.04.17
+Yu Yangyi	2751	Rapport,R	2726	1/2-1/2	2019.04.17
+Leko,P	2674	Rapport,R	2736	1/2-1/2	2019.05.17
+Gelfand,B	2676	Rapport,R	2736	1/2-1/2	2019.05.17
+Wang Hao	2735	Rapport,R	2736	1/2-1/2	2019.05.17
+Le Quang Liem	2704	Rapport,R	2736	1/2-1/2	2019.05.17
+Cheparinov,I	2667	Rapport,R	2736	1/2-1/2	2019.05.14
+Wang Hao	2735	Rapport,R	2736	1/2-1/2	2019.05.14
+Dominguez Perez,L	2750	Rapport,R	2736	1/2-1/2	2019.05.14
+Rapport, R.	2700	Getz, N.	2423	1-0	2018.01.02
+Rapport, R.	2700	Sadhwani, Raunak	2321	1-0	2018.01.02
+Rapport, R.	2700	Gandrud, V.	2346	1-0	2018.01.23
+Rapport, R.	2700	Huzman, A.	2561	1-0	2018.01.23
+Rapport, R.	2700	Dvirnyy, D.	2534	1-0	2018.01.23
+Rapport, R.	2700	Howell, D.	2682	1-0	2018.01.23
+Rapport, R.	2686	Shytaj, L.	2465	1-0	2017.10.21
+Rapport, R.	2715	Der Manuelian, Haik	2279	1-0	2018.03.06
+Rapport, R.	2715	Lenderman, A.	2600	1-0	2018.03.06
+Rapport, R.	2715	Krauseneck, P.	2149	1-0	2018.03.29
+Rapport, R.	2715	Kollars, Dmitrij	2534	1-0	2018.03.29
+Rapport, R.	2715	Malek, Da	2403	1-0	2018.03.29
+Rapport, R.	2707	Nenezic, M.	2497	1-0	2017.11.25
+Yu Yangyi	2738	Rapport,R	2735	1/2-1/2	2019.06.30
+Wei Yi	2741	Rapport,R	2735	1/2-1/2	2019.06.30
+Radjabov,T	2759	Rapport,R	2735	1/2-1/2	2019.07.13
+Kulaots,K	2560	Rapport,R	2735	1/2-1/2	2019.07.13
+Nisipeanu,LD	2672	Rapport,R	2735	1/2-1/2	2019.07.13
+Ding Liren	2805	Rapport,R	2747	1/2-1/2	2019.08.10
+Karjakin,Sergey	2750	Rapport,R	2747	1/2-1/2	2019.08.10
+Yu Yangyi	2752	Rapport,R	2747	1/2-1/2	2019.08.13
+Dominguez Perez,L	2763	Rapport,R	2747	1/2-1/2	2019.08.13
+Aronian,L	2765	Rapport,R	2747	1/2-1/2	2019.08.13
+Bartel,Mat	2636	Rapport,R	2752	1/2-1/2	2019.11.23
+Erdos,V	2613	Rapport,R	2752	1/2-1/2	2019.11.16
+Rapport, R.	2700	Berkes, F.	2662	1/2-1/2	2018.01.02
+Rapport, R.	2700	Jobava, Ba	2690	1/2-1/2	2018.01.02
+Rapport, R.	2700	Korobov, A.	2652	1/2-1/2	2018.01.02
+Rapport, R.	2700	Mikhalevski, V.	2538	1/2-1/2	2018.01.23
+Rapport, R.	2700	Aronian, L.	2797	0-1	2018.02.01
+Rapport, R.	2715	Moradiabadi, E.	2535	1/2-1/2	2018.03.06
+Rapport, R.	2715	Nihal, Sarin	2534	1/2-1/2	2018.03.06
+Rapport, R.	2715	Stefansson, H.	2533	1/2-1/2	2018.03.06
+Rapport, R.	2715	Keymer, Vincent	2403	0-1	2018.03.29
+Rapport, R.	2715	Lagarde, Max	2587	1/2-1/2	2018.03.29
+Rapport, R.	2686	Lupulescu, C.	2620	1/2-1/2	2017.10.21
+Rapport, R.	2686	Bluebaum, M.	2643	1-0	2017.10.21
+Rapport, R.	2719	Kravtsiv, M.	2654	1/2-1/2	2018.08.07
+Rapport, R.	2719	Andersen, Mad	2601	1-0	2018.08.07
+Rapport, R.	2719	Samhouri, A.	2348	1-0	2018.08.07
+Rapport, R.	2719	Tabatabaei, M.	2590	1-0	2018.08.07
+Rapport, R.	2719	Nihal, Sarin	2556	1-0	2018.08.07
+Rapport, Richard	2726	Gajewski, Grzegorz	2595	1-0	2018.11.24
+Rapport, Richard	2726	Areshchenko, Alexander	2652	1-0	2018.11.10
+Rapport, Richard	2725	Paehtz, Elisabeth	2513	1-0	2018.10.20
+Rapport, Richard	2725	Xiong, Jeffery	2656	0-1	2018.10.20
+Rapport,R	2726	Jakubiec,A	2508	1-0	2018.11.24
+Rapport,R	2726	L'Ami,E	2644	1-0	2018.11.24
+Rapport,R	2726	Coenen,M	2364	1-0	2018.11.24
+Rapport,R	2736	Turner,Ma	2524	1-0	2018.11.10
+Mesaros, Florian	2406	Rapport, R.	2700	0-1	2018.01.02
+Stella, A.	2511	Rapport, R.	2700	0-1	2018.01.02
+Martins, Dav	2392	Rapport, R.	2700	0-1	2018.01.02
+Khotenashvili, B.	2486	Rapport, R.	2700	0-1	2018.01.23
+Aronian, L.	2797	Rapport, R.	2700	1-0	2018.02.01
+Friedel, J.	2562	Rapport, R.	2715	0-1	2018.03.06
+Hamitevici, V.	2512	Rapport, R.	2715	0-1	2018.03.06
+Cornette, Deimante	2447	Rapport, R.	2715	0-1	2018.03.06
+Adhiban, Baskaran	2650	Rapport, R.	2715	1-0	2018.03.06
+Neukirchner, Pascal	2285	Rapport, R.	2715	0-1	2018.03.29
+Lobron, E.	2503	Rapport, R.	2715	0-1	2018.03.29
+Laznicka, V.	2654	Rapport, R.	2686	0-1	2017.10.21
+Pinter, J.	2539	Rapport, R.	2707	0-1	2017.11.25
+Saduakassova, D.	2495	Rapport, R.	2719	0-1	2018.08.07
+Korobov, A.	2664	Rapport, R.	2719	1-0	2018.08.07
+Donchenko, Alexander	2610	Rapport, Richard	2725	0-1	2018.10.20
+Kindermann, Stefan	2500	Rapport, Richard	2726	0-1	2018.11.24
+Krishna, C R G	2445	Rapport, Richard	2725	0-1	2018.10.20
+Meier, Georg	2639	Rapport, Richard	2725	0-1	2018.10.20
+Rapport, Richard	2725	Jones, Gawain C B	2677	1/2-1/2	2018.10.20
+Rapport, Richard	2725	Leko, Peter	2690	1/2-1/2	2018.10.20
+Rapport, Richard	2726	Nestorovic, Nikola	2455	1/2-1/2	2018.11.24
+Rapport, Richard	2725	Raja, H	2420	1/2-1/2	2018.10.20
+Rapport,R	2726	Ponomariov,R	2663	1/2-1/2	2018.11.24
+Rapport,R	2736	Sadler,M	2688	1/2-1/2	2018.11.10
+Rapport, R.	2702	Carlsen, M.	2840	1-0	2017.01.14
+Rapport, R.	2692	Riazantsev, A.	2671	1-0	2017.02.18
+Rapport, R.	2729	Krassowizkij, J.	2438	1-0	2016.10.15
+Rapport, R.	2696	Ruck, R1.	2557	1-0	2017.04.13
+Rapport, R.	2696	Hoeffer, D.	2319	1-0	2017.04.13
+Rapport, R.	2696	Graf, A.	2577	1-0	2017.04.13
+Rapport, R.	2729	Berelowitsch, A.	2528	1-0	2016.10.15
+Rapport, R.	2698	Almasi, I.	2398	1-0	2017.05.18
+Raja, H.	2427	Rapport, R.	2700	1/2-1/2	2018.01.02
+Henderson de La Fuente, Lance	2429	Rapport, R.	2700	1/2-1/2	2018.01.23
+Baron, Ta	2548	Rapport, R.	2700	1/2-1/2	2018.01.23
+Vachier Lagrave, M.	2793	Rapport, R.	2700	1/2-1/2	2018.01.23
+Nakamura, Hi	2781	Rapport, R.	2700	1/2-1/2	2018.01.23
+Anand, V.	2783	Rapport, R.	2686	1/2-1/2	2017.10.21
+Bindrich, F.	2602	Rapport, R.	2715	1/2-1/2	2018.03.29
+Sadzikowski, D.	2583	Rapport, R.	2715	1/2-1/2	2018.03.29
+Vocaturo, D.	2617	Rapport, R.	2719	1/2-1/2	2018.08.07
+Amin, B.	2684	Rapport, R.	2719	1/2-1/2	2018.08.07
+Beerdsen, Thomas	2474	Rapport, Richard	2726	1/2-1/2	2018.11.10
+Giri, Anish	2780	Rapport, Richard	2725	1/2-1/2	2018.10.20
+Schreiner, Peter	2480	Rapport, Richard	2726	0-1	2018.11.24
+Schroeder,Ja	2571	Rapport,R	2726	0-1	2018.11.24
+Maze,S	2602	Rapport,R	2726	1/2-1/2	2018.11.24
+Kempinski,R	2574	Rapport,R	2726	1/2-1/2	2018.11.24
+Speelman,J	2505	Rapport,R	2736	1/2-1/2	2018.11.10
+Rapport, R.	2702	Wei Yi	2706	0-1	2017.01.14
+Rapport, R.	2702	Adhiban, Baskaran	2653	0-1	2017.01.14
+Rapport, R.	2692	Vachier Lagrave, M.	2796	0-1	2017.02.18
+Rapport, R.	2729	Caruana, F.	2813	0-1	2016.10.15
+Rapport, R.	2698	Banusz, T.	2616	1-0	2017.05.18
+Rapport, R.	2698	Horvath, Jo1	2526	1-0	2017.05.18
+Rapport, R.	2694	Jakovenko, D.	2703	0-1	2017.07.06
+Rapport, R.	2694	Adams, Mi	2736	0-1	2017.07.06
+Rapport, R.	2675	Cordova, E.	2616	1-0	2017.09.03
+Rapport, R.	2675	Li Chao2	2745	1-0	2017.09.03
+Rapport, R.	2675	Wei Yi	2748	1-0	2017.09.03
+Rapport, R.	2675	Najer, E.	2694	1-0	2017.09.03
+Rapport, R.	2675	Khmelniker, I.	2480	1-0	2017.09.23
+Rapport, R.	2686	Parligras, M.	2616	1-0	2017.10.28
+Rapport, R.	2686	Howell, D.	2698	1-0	2017.10.28
+Rapport, R.	2692	Hammer, J.	2629	1-0	2017.11.16
+Rapport, R.	2707	Fang, Yan	2426	1-0	2017.04.18
+Rapport, R.	2707	Zhao Jun	2604	1-0	2017.12.26
+Rapport, R.	2707	Andriasian, Z.	2585	1-0	2017.12.26
+Rapport, R.	2707	Salgado Lopez, I.	2644	1-0	2017.12.26
+Rapport, R.	2707	Al Modiahki, M.	2542	1-0	2017.12.29
+Rapport, R.	2707	Kokarev, Dm	2615	1-0	2017.12.29
+Rapport, R.	2707	Akobian, V.	2647	1-0	2017.12.29
+Rapport, R.	2707	Ponomariov, R.	2694	1-0	2017.12.29
+Rapport, Richard	2698	Grischuk, Alexander	2750	1-0	2017.05.03
+Rapport, R.	2702	Karjakin, Sergey	2785	1/2-1/2	2017.01.14
+Rapport, R.	2702	Wojtaszek, R.	2750	1/2-1/2	2017.01.14
+Rapport, R.	2702	Van Wely, L.	2695	1/2-1/2	2017.01.14
+Rapport, R.	2692	Li Chao2	2720	1/2-1/2	2017.02.18
+Rapport, R.	2692	Aronian, L.	2785	1/2-1/2	2017.02.18
+Rapport, R.	2692	Salem, AR.	2656	1/2-1/2	2017.02.18
+Rapport, R.	2696	Landa, K.	2611	1/2-1/2	2017.04.13
+Rapport, R.	2729	Mihok, O.	2498	1/2-1/2	2016.10.30
+Rapport, R.	2698	Nemeth, Mi1	2451	1/2-1/2	2017.05.18
+Rapport, R.	2698	Gara, A.	2373	1/2-1/2	2017.05.18
+Rapport, R.	2694	Nepomniachtchi, I.	2742	1/2-1/2	2017.07.06
+Rapport, R.	2694	Riazantsev, A.	2654	0-1	2017.07.06
+Rapport, R.	2675	Li Chao2	2745	1/2-1/2	2017.09.03
+Rapport, R.	2675	Wei Yi	2748	1/2-1/2	2017.09.03
+Rapport, R.	2675	Ding Liren	2771	1/2-1/2	2017.09.03
+Rapport, R.	2675	Najer, E.	2694	1/2-1/2	2017.09.03
+Rapport, R.	2707	Ma Qun	2638	0-1	2017.04.18
+Rapport, R.	2707	Andriasian, Z.	2585	0-1	2017.12.29
+Rapport, R.	2707	Melkumyan, H.	2633	0-1	2017.12.29
+Rapport, Richard	2698	Grischuk, Alexander	2750	0-1	2017.05.03
+Rapport, Richard	2698	Grischuk, Alexander	2750	0-1	2017.05.03
+Rapport, Richard	2698	Grischuk, Alexander	2750	0-1	2017.05.03
+Rapport, Richard	2698	Grischuk, Alexander	2750	0-1	2017.05.03
+Rapport, Richard	2698	Grischuk, Alexander	2750	0-1	2017.05.03
+Rapport, Richard	2698	Grischuk, Alexander	2750	0-1	2017.05.03
+Rapport, Richard	2763	Yu, Yangyi	2709	0-1	Thu Apr 29 2021
+Rapport, Richard	2763	Wei, Yi	2732	1/2-1/2	Fri Apr 30 2021
+Rapport, Richard	2763	Duda, Jan-Krzysztof	2729	1/2-1/2	Fri Apr 30 2021
+Rapport, Richard	2763	Yu, Yangyi	2709	1/2-1/2	Sat May 01 2021
+Rapport, Richard	2763	Duda, Jan-Krzysztof	2729	1/2-1/2	Sat May 01 2021
+Rapport, Richard	2727	Nepomniachtchi, Ian	2778	1/2-1/2	2021.06.18
+Rapport, Richard	2759	Firouzja, Alireza	2770	0-1	2021.06.21
+Rapport, Richard	2776	Svidler, Peter	2743	0-1	2021.08.14
+Rapport, Richard	2776	Dominguez Perez, Leinier	2654	0-1	2021.08.15
+Rapport, Richard	2776	Le, Quang Liem	2690	0-1	2021.08.15
+Rapport, Richard	2760	Nepomniachtchi, Ian	2792	0-1	2021.09.16
+Rapport, Richard	2754	Sarana, Alexey	2689	0-1	2021.11.10
+Rapport, Richard	2754	Sarana, Alexey	2689	0-1	2021.11.10
+Rapport, Richard	2754	Sarana, Alexey	2689	0-1	2021.11.10
+Rapport, Richard	2754	Sarana, Alexey	2689	0-1	2021.11.10
+Rapport, Richard	2754	Sarana, Alexey	2689	1-0	2021.11.10
+Rapport, Richard	2754	Nihal, Sarin	2667	0-1	2021.12.02
+Rapport, Richard	2754	Nihal, Sarin	2667	0-1	2021.12.02
+Rapport, Richard	2754	Nihal, Sarin	2667	0-1	2021.12.02
+Rapport, Richard	2754	Nihal, Sarin	2667	1-0	2021.12.02
+Rapport, Richard	2754	Nihal, Sarin	2667	0-1	2021.12.02
+Rapport, Richard	2754	Nihal, Sarin	2667	0-1	2021.12.02
+Rapport, Richard	2754	Nihal, Sarin	2667	1-0	2021.12.02
+Rapport, Richard	2754	Nihal, Sarin	2667	0-1	2021.12.02
+Rapport, Richard	2754	Nihal, Sarin	2667	0-1	2021.12.02
+So, W.	2808	Rapport, R.	2702	1-0	2017.01.14
+Rapport, R.	2675	Kjartansson, G.	2456	1/2-1/2	2017.09.23
+Rapport, R.	2675	Vidit, S.	2702	1/2-1/2	2017.09.23
+Rapport, R.	2675	Swapnil, SD.	2532	1/2-1/2	2017.09.23
+Rapport, R.	2686	Bok, B.	2611	1/2-1/2	2017.10.28
+Rapport, R.	2686	Ponomariov, R.	2687	1/2-1/2	2017.10.28
+Rapport, R.	2686	Sargissian, G.	2657	1/2-1/2	2017.10.28
+Rapport, R.	2692	Li Chao2	2741	1/2-1/2	2017.11.16
+Rapport, R.	2692	Jakovenko, D.	2721	1/2-1/2	2017.11.16
+Rapport, R.	2692	Aronian, L.	2801	1/2-1/2	2017.11.16
+Rapport, R.	2686	Svane, R.	2595	1/2-1/2	2017.10.21
+Rapport, R.	2707	Bu Xiangzhi	2730	1/2-1/2	2017.12.26
+Rapport, R.	2707	Pantsulaia, L.	2612	1/2-1/2	2017.12.26
+Rapport, R.	2707	Safarli, E.	2639	1/2-1/2	2017.12.26
+Rapport, R.	2707	Kokarev, Dm	2615	1/2-1/2	2017.12.26
+Rapport, R.	2707	Saric, Iv	2669	1/2-1/2	2017.12.26
+Rapport, R.	2707	Vachier Lagrave, M.	2789	1/2-1/2	2017.12.29
+Rapport, R.	2707	Grischuk, A.	2772	1/2-1/2	2017.12.29
+Rapport, R.	2707	Bu Xiangzhi	2730	1/2-1/2	2017.12.29
+Rapport, R.	2707	Leko, P.	2691	1/2-1/2	2017.12.29
+Rapport, Richard	2698	Grischuk, Alexander	2750	1/2-1/2	2017.05.03
+Rapport, Richard	2698	Grischuk, Alexander	2750	1/2-1/2	2017.05.03
+Rapport, Richard	2698	Grischuk, Alexander	2750	1/2-1/2	2017.05.03
+Rapport, Richard	2698	Grischuk, Alexander	2750	1/2-1/2	2017.05.03
+Rapport, Richard	2698	Grischuk, Alexander	2750	1/2-1/2	2017.05.03
+Eljanov, P.	2755	Rapport, R.	2702	1-0	2017.01.14
+Aronian, L.	2780	Rapport, R.	2702	1-0	2017.01.14
+Nakamura, Hi	2785	Rapport, R.	2692	1-0	2017.02.18
+Ding Liren	2760	Rapport, R.	2692	0-1	2017.02.18
+Saptarshi, R.	2425	Rapport, R.	2696	0-1	2017.04.13
+Jauk, W.	2148	Rapport, R.	2696	0-1	2017.04.13
+Puranik, A.	2459	Rapport, R.	2698	1-0	2017.05.18
+Grischuk, A.	2761	Rapport, R.	2694	1-0	2017.07.06
+Salem, AR.	2638	Rapport, R.	2694	1-0	2017.07.06
+Ding Liren	2771	Rapport, R.	2675	1-0	2017.09.03
+Naiditsch, A.	2702	Rapport, R.	2686	1-0	2017.10.28
+Giri, A.	2762	Rapport, R.	2692	1-0	2017.11.16
+Ponkratov, P.	2613	Rapport, R.	2707	1-0	2017.12.26
+Grigoriants, S RUS.	2561	Rapport, R.	2707	1-0	2017.12.26
+Harikrishna, P.	2744	Rapport, R.	2707	1-0	2017.12.29
+Le Quang Liem	2737	Rapport, R.	2707	1-0	2017.12.29
+Pantsulaia, L.	2612	Rapport, R.	2707	1-0	2017.12.29
+Korobov, A.	2652	Rapport, R.	2707	1-0	2017.12.29
+Grischuk, Alexander	2750	Rapport, Richard	2698	1-0	2017.05.03
+Grischuk, Alexander	2750	Rapport, Richard	2698	1-0	2017.05.03
+Grischuk, Alexander	2750	Rapport, Richard	2698	1-0	2017.05.03
+Grischuk, Alexander	2750	Rapport, Richard	2698	1-0	2017.05.03
+Grischuk, Alexander	2750	Rapport, Richard	2698	1-0	2017.05.03
+Grischuk, Alexander	2750	Rapport, Richard	2698	1-0	2017.05.03
+Grischuk, Alexander	2750	Rapport, Richard	2698	1-0	2017.05.03
+Andreikin, D.	2736	Rapport, R.	2702	1/2-1/2	2017.01.14
+Nepomniachtchi, I.	2767	Rapport, R.	2702	1/2-1/2	2017.01.14
+Harikrishna, P.	2766	Rapport, R.	2702	1/2-1/2	2017.01.14
+Giri, A.	2773	Rapport, R.	2702	1/2-1/2	2017.01.14
+Hou Yifan	2651	Rapport, R.	2692	1/2-1/2	2017.02.18
+Tica, Sven	2332	Rapport, R.	2698	0-1	2017.05.18
+Shyam, SM.	2535	Rapport, R.	2698	0-1	2017.05.18
+Nagy, Ga1	2446	Rapport, R.	2698	0-1	2017.05.18
+Hou Yifan	2666	Rapport, R.	2694	0-1	2017.07.06
+Cordova, E.	2616	Rapport, R.	2675	0-1	2017.09.03
+Daulyte, D.	2404	Rapport, R.	2675	0-1	2017.09.23
+Sokolov, Ivan	2603	Rapport, R.	2675	0-1	2017.09.23
+Pichot, A.	2565	Rapport, R.	2675	0-1	2017.09.23
+Gretarsson, Hj	2567	Rapport, R.	2686	0-1	2017.10.28
+Riazantsev, A.	2651	Rapport, R.	2692	0-1	2017.11.16
+Kopylov, M.	2424	Rapport, R.	2686	0-1	2017.10.21
+Sargissian, G.	2672	Rapport, R.	2707	0-1	2017.12.26
+Aronian, L.	2805	Rapport, R.	2707	0-1	2017.12.29
+Khismatullin, D.	2632	Rapport, R.	2707	0-1	2017.12.29
+Laznicka, V.	2647	Rapport, R.	2707	0-1	2017.12.29
+Quparadze, G.	2506	Rapport, R.	2707	0-1	2017.12.29
+Mamedov, Rau	2709	Rapport, R.	2707	0-1	2017.12.29
+Grischuk, Alexander	2750	Rapport, Richard	2698	0-1	2017.05.03
+Grischuk, Alexander	2750	Rapport, Richard	2698	0-1	2017.05.03
+Grischuk, Alexander	2750	Rapport, Richard	2698	0-1	2017.05.03
+Tomashevsky, E.	2711	Rapport, R.	2692	1/2-1/2	2017.02.18
+Tomashevsky, E.	2724	Rapport, R.	2729	1/2-1/2	2016.10.15
+Bosiocic, Mari	2610	Rapport, R.	2696	1/2-1/2	2017.04.13
+Annaberdiev, M.	2459	Rapport, R.	2696	1/2-1/2	2017.04.13
+Papp, Ga	2581	Rapport, R.	2696	1/2-1/2	2017.04.13
+Balogh, Csaba	1377	Rapport, R.	2729	1/2-1/2	2016.10.30
+Horvath, Ad1	2498	Rapport, R.	2729	1/2-1/2	2016.10.15
+Inarkiev, E.	2707	Rapport, R.	2694	1/2-1/2	2017.07.06
+Eljanov, P.	2739	Rapport, R.	2694	1/2-1/2	2017.07.06
+Li Chao2	2745	Rapport, R.	2675	1/2-1/2	2017.09.03
+Li Chao2	2745	Rapport, R.	2675	1/2-1/2	2017.09.03
+Wei Yi	2748	Rapport, R.	2675	1/2-1/2	2017.09.03
+Wei Yi	2748	Rapport, R.	2675	1/2-1/2	2017.09.03
+Najer, E.	2694	Rapport, R.	2675	1/2-1/2	2017.09.03
+Najer, E.	2694	Rapport, R.	2675	1/2-1/2	2017.09.03
+Timman, J.	2573	Rapport, R.	2675	1/2-1/2	2017.09.23
+Vitiugov, N.	2728	Rapport, R.	2686	1/2-1/2	2017.10.28
+Tomashevsky, E.	2702	Rapport, R.	2692	1/2-1/2	2017.11.16
+Gelfand, B.	2719	Rapport, R.	2692	1/2-1/2	2017.11.16
+Radjabov, T.	2741	Rapport, R.	2692	1/2-1/2	2017.11.16
+Zeng, C.	2547	Rapport, R.	2707	1/2-1/2	2017.04.18
+Ni Hua	2671	Rapport, R.	2707	1/2-1/2	2017.04.18
+Quparadze, G.	2506	Rapport, R.	2707	1/2-1/2	2017.12.26
+Kuzubov, Y.	2699	Rapport, R.	2707	1/2-1/2	2017.12.26
+Fressinet, L.	2662	Rapport, R.	2707	1/2-1/2	2017.12.26
+Rapport, R.	2649	Gajewski, G.	2646	1-0	2015.09.18
+Rapport, R.	2721	Al Sayed, Mohamad	2530	1-0	2016.01.26
+Rapport, R.	2721	Gara, A.	2339	1-0	2016.01.26
+Rapport, R.	2720	Cornette, M.	2573	1-0	2016.03.24
+Rapport, R.	2720	Meyner, H.	2176	1-0	2016.03.24
+Rapport, R.	2720	Bromberger, S.	2532	1-0	2016.03.08
+Rapport, R.	2720	Danielsen, Hen	2488	1-0	2016.03.08
+Rapport, R.	2720	Gretarsson, Hj	2572	1-0	2016.03.08
+Rapport, R.	2720	Heimisson, Hilmir Freyr	2048	1-0	2016.03.08
+Rapport, R.	2649	Tazbir, M.	2517	1-0	2015.09.18
+Rapport, R.	2693	Berkes, F.	2648	1-0	2015.11.07
+Rapport, R.	2649	Aronian, L.	2765	1-0	2015.09.18
+Rapport, R.	2752	Ampie, Mauro	2348	1-0	2016.09.02
+Rapport, R.	2752	Franco Alonso, A.	2426	1-0	2016.09.26
+Rapport, R.	2752	Antipov, M2.	2550	1-0	2016.09.26
+Rapport, R.	2730	Percivaldi, Martin	2373	1-0	2016.11.06
+Rapport, R.	2717	Yu, Kaifeng	2220	1-0	2016.04.12
+Rapport, R.	2717	Chu Wei Chao	2331	1-0	2016.04.12
+Rapport, R.	2717	Zhang, Ziji	2329	1-0	2016.12.07
+Rapport, R.	2717	Liu, Yan	2403	1-0	2016.12.07
+Dreev, A.	2653	Rapport, R.	2707	1/2-1/2	2017.12.26
+McShane, L.	2640	Rapport, R.	2707	1/2-1/2	2017.12.29
+Bortnyk, Olexandr	2610	Rapport, R.	2707	1/2-1/2	2017.12.29
+Grischuk, Alexander	2750	Rapport, Richard	2698	1/2-1/2	2017.05.03
+Grischuk, Alexander	2750	Rapport, Richard	2698	1/2-1/2	2017.05.03
+Rapport, R.	2731	Navara, D.	2744	1/2-1/2	2016.06.05
+Rapport, R.	2731	Navara, D.	2744	1/2-1/2	2016.06.05
+Rapport, R.	2721	Anton Guijarro, D.	2639	0-1	2016.01.26
+Rapport, R.	2721	Edouard, R.	2617	1/2-1/2	2016.01.26
+Rapport, R.	2720	Mamedyarov, S.	2747	1/2-1/2	2016.03.08
+Movsesian, S.	2653	Rapport, R.	2720	1-0	2016.03.08
+Rapport, R.	2720	Esserman, M.	2458	1/2-1/2	2016.03.08
+Rapport, R.	2721	Tregubov, P.	2582	1/2-1/2	2016.01.26
+Rapport, R.	2752	Ragger, M.	2697	1/2-1/2	2016.09.02
+Mamedyarov, S.	2761	Rapport, R.	2752	1-0	2016.09.02
+Shirov, A.	2673	Rapport, R.	2752	1-0	2016.09.02
+Rapport, R.	2752	Pelletier, Y.	2555	0-1	2016.09.02
+Rapport, R.	2752	Jobava, Ba	2665	0-1	2016.09.02
+Iturrizaga, E.	2650	Rapport, R.	2752	1-0	2016.09.26
+Kuzubov, Y.	2629	Rapport, R.	2752	1-0	2016.09.26
+Rapport, R.	2729	Kraemer, Mart	2570	1/2-1/2	2015.09.18
+Rapport, R.	2730	Kamsky, G.	2648	0-1	2016.11.06
+Rapport, R.	2730	Radjabov, T.	2696	0-1	2016.11.06
+Rapport, R.	2730	Wojtaszek, R.	2744	1/2-1/2	2016.11.06
+Rapport, R.	2717	Peng, Xiongjian	2362	1/2-1/2	2016.12.07
+Rapport, R.	2717	Tan Zhongyi	2496	1/2-1/2	2016.12.07
+Rapport, R.	2717	Yu Yangyi	2729	0-1	2016.12.07
+Rapport, R.	2717	Wei Yi	2707	1-0	2016.12.20
+Rapport, R.	2717	Wei Yi	2707	1/2-1/2	2016.12.20
+Rapport, R.	2717	Wei Yi	2707	0-1	2016.12.23
+Navara, D.	2744	Rapport, R.	2731	1/2-1/2	2016.06.05
+Navara, D.	2744	Rapport, R.	2731	0-1	2016.06.05
+Kraemer, Mart	2574	Rapport, R.	2649	1/2-1/2	2015.09.18
+Demuth, A.	2535	Rapport, R.	2721	0-1	2016.01.26
+Harika, D.	2511	Rapport, R.	2721	1/2-1/2	2016.01.26
+Ly, Mo	2474	Rapport, R.	2721	0-1	2016.01.26
+Kjartansson, G.	2446	Rapport, R.	2720	0-1	2016.03.08
+Pogan, N.	2285	Rapport, R.	2720	0-1	2016.03.08
+Wagner, De	2579	Rapport, R.	2649	0-1	2015.09.18
+Horvath, Cs1	2517	Rapport, R.	2693	0-1	2015.11.07
+Lalith, B.	2553	Rapport, R.	2721	0-1	2016.01.26
+Rodriguez Vila, A.	2453	Rapport, R.	2752	0-1	2016.09.02
+Saric, Iv	2668	Rapport, R.	2752	0-1	2016.09.26
+Cuenca Jimenez, J.	2529	Rapport, R.	2752	0-1	2016.09.26
+Ganguly, S.	2672	Rapport, R.	2752	0-1	2016.09.26
+Rabiega, R.	2498	Rapport, R.	2729	1-0	2015.09.18
+Slavin, G.	2300	Rapport, R.	2730	0-1	2016.11.06
+Aronian, L.	2795	Rapport, R.	2730	0-1	2016.11.06
+Hamitevici, V.	2477	Rapport, R.	2717	1-0	2016.12.07
+Lin, Yi	2422	Rapport, R.	2717	0-1	2016.12.07
+Zhou Weiqi	2635	Rapport, R.	2717	0-1	2016.04.12
+Tsydypov, Z.	2460	Rapport, R.	2717	0-1	2016.12.07
+Wei Yi	2707	Rapport, R.	2717	1-0	2016.12.20
+Wei Yi	2707	Rapport, R.	2717	0-1	2016.12.23
+Wei Yi	2707	Rapport, R.	2717	0-1	2016.12.23
+Rapport, R.	2693	Fressinet, L.	2712	1-0	2015.11.13
+Rapport, R.	2693	Svetushkin, D.	2585	1-0	2015.11.13
+Rapport, R.	2693	Schreiner, Pe	2422	1-0	2015.11.05
+Rapport, R.	2693	Radjabov, T.	2739	1-0	2015.11.13
+Rapport, R.	2693	Anton Guijarro, D.	2630	1-0	2015.11.13
+Rapport, R.	2649	Li Chao2	2756	1-0	2015.09.18
+Rapport, R.	2716	Graf, F.	2469	1-0	2015.01.01
+Rapport, R.	2716	Bhend, E.	2188	1-0	2015.01.01
+Rapport, R.	2716	Venkatesh, M.	2460	1-0	2015.01.27
+Rapport, R.	2716	Tari, A.	2487	1-0	2015.01.27
+Rapport, R.	2716	Boruchovsky, A.	2517	1-0	2015.01.27
+Rapport, R.	2716	Nakar, Ey	2419	1-0	2015.01.27
+Rapport, R.	2720	Mista, A.	2616	1-0	2014.10.18
+Rapport, R.	2709	Naiditsch, A.	2711	1-0	2015.03.07
+Kunin, V.	2584	Rapport, R.	2720	1/2-1/2	2016.03.24
+Metz, Ha	2334	Rapport, R.	2720	1/2-1/2	2016.03.24
+Heimann, An	2560	Rapport, R.	2720	1/2-1/2	2016.03.24
+Grigoriants, S RUS.	2587	Rapport, R.	2720	1/2-1/2	2016.03.08
+Fedorovsky, M.	2451	Rapport, R.	2649	1/2-1/2	2015.09.18
+Muzychuk, M.	2554	Rapport, R.	2721	1/2-1/2	2016.01.26
+Ding Liren	2753	Rapport, R.	2752	1/2-1/2	2016.09.02
+Dominguez Perez, L.	2752	Rapport, R.	2730	1/2-1/2	2016.11.06
+Bai, Jinshi	2564	Rapport, R.	2717	1/2-1/2	2016.04.12
+Xu, Yi	2430	Rapport, R.	2717	1/2-1/2	2016.12.07
+Wei Yi	2707	Rapport, R.	2717	1/2-1/2	2016.12.20
+Rapport, R.	2693	Duda, J.	2658	1/2-1/2	2015.11.13
+Rapport, R.	2716	Pavlovic, Milos	2478	0-1	2015.01.01
+Rapport, R.	2709	Gleizerov, E.	2531	1-0	2015.03.07
+Rapport, R.	2709	Ladva, O.	2410	1-0	2015.03.07
+Rapport, R.	2709	Ivanchuk, V.	2731	0-1	2015.03.07
+Rapport, R.	2709	Volodins, I.	2171	1-0	2015.03.07
+Rapport, R.	2709	Mustaps, M.	2267	1-0	2015.03.06
+Rapport, R.	2718	Antoniewski, R.	2543	1-0	2014.11.20
+Rapport, R.	2709	Salgado Lopez, I.	2627	0-1	2015.03.27
+Rapport, R.	2709	Bluebaum, M.	2576	1-0	2015.03.27
+Rapport, R.	2709	Bogdanovich, S.	2581	1-0	2015.03.27
+Rapport, R.	2709	Oparin, G.	2562	0-1	2015.03.27
+Rapport, R.	2709	Adly, A.	2589	0-1	2015.04.19
+Rapport, R.	2709	Vidit, S.	2625	0-1	2015.04.19
+Rapport, R.	2671	Wojtaszek, R.	2733	0-1	2015.07.20
+Rapport, R.	2671	Navara, D.	2724	0-1	2015.07.20
+Rapport, R.	2671	Eljanov, P.	2723	0-1	2015.07.20
+Rapport, R.	2671	Kulkarni, R.	2368	1-0	2015.08.23
+Rapport, R.	2671	Swiercz, D.	2617	1-0	2015.08.23
+Rapport, R.	2671	Grandelius, N.	2628	0-1	2015.08.23
+Rapport, R.	2671	Sandipan, C.	2585	1-0	2015.08.23
+Rapport, R.	2715	Eljanov, P.	2763	0-1	2015.12.07
+Rapport, R.	2649	Bluebaum, M.	2580	1-0	2015.09.18
+Rapport, R.	2649	Lupulescu, C.	2626	1-0	2015.09.18
+Rapport,R	2716	Bhend,E	2188	1-0	2015.01.01
+Agopov, M.	2452	Rapport, R.	2693	0-1	2015.11.13
+Bauer, Ch	2627	Rapport, R.	2693	0-1	2015.11.05
+Eljanov, P.	2753	Rapport, R.	2693	1-0	2015.11.13
+Rapport, R.	2716	Iturrizaga, E.	2649	1/2-1/2	2015.01.01
+Reinhart, E.	2344	Rapport, R.	2716	0-1	2015.01.01
+Ju Wenjun	2547	Rapport, R.	2716	1-0	2015.01.27
+Tate, A.	2297	Rapport, R.	2716	0-1	2015.01.27
+Hou Yifan	2673	Rapport, R.	2716	1-0	2015.01.27
+Rapport, R.	2716	Jakovenko, D.	2733	1/2-1/2	2015.01.27
+Sakaev, K.	2594	Rapport, R.	2709	1-0	2015.03.07
+Rapport, R.	2709	Zilka, S.	2528	1/2-1/2	2015.03.06
+Ehlvest, J.	2547	Rapport, R.	2709	1-0	2015.03.06
+Rapport, R.	2718	Schlosser, P.	2566	1/2-1/2	2014.11.20
+Anton Guijarro, D.	2614	Rapport, R.	2709	1-0	2015.03.27
+Rapport, R.	2709	Khalifman, A.	2613	1/2-1/2	2015.03.27
+Bukavshin, I.	2618	Rapport, R.	2709	1-0	2015.03.27
+Rapport, R.	2709	Bu Xiangzhi	2681	1/2-1/2	2015.04.19
+Quesada Perez, Yu	2637	Rapport, R.	2709	1-0	2015.04.19
+Rapport, R.	2671	Adams, Mi	2740	1/2-1/2	2015.07.20
+Navara, D.	2724	Rapport, R.	2671	1-0	2015.07.20
+Rapport, R.	2671	Vachier Lagrave, M.	2731	1/2-1/2	2015.07.20
+Adams, Mi	2740	Rapport, R.	2671	1-0	2015.07.20
+Vachier Lagrave, M.	2731	Rapport, R.	2671	1-0	2015.07.20
+Rapport, R.	2671	Pascua, H.	2447	1/2-1/2	2015.08.23
+Rapport, R.	2715	Bacrot, E.	2692	1/2-1/2	2015.12.07
+Rapport, Richard	2727	Vachier-Lagrave, Maxime	2860	1/2-1/2	2021.06.19
+Rapport, Richard	2727	Caruana, Fabiano	2773	1/2-1/2	2021.06.20
+Rapport, Richard	2759	Nepomniachtchi, Ian	2785	1/2-1/2	2021.06.22
+Rapport, Richard	2759	Vachier-Lagrave, Maxime	2822	1/2-1/2	2021.06.22
+Rapport, Richard	2759	So, Wesley	2816	1/2-1/2	2021.06.21
+Rapport, Richard	2759	Aronian, Levon	2739	1/2-1/2	2021.06.21
+Rapport, Richard	2759	Svidler, Peter	2754	1/2-1/2	2021.06.22
+Rapport, Richard	2724	Nakamura, Hikaru	2829	1/2-1/2	2021.08.11
+Rapport, Richard	2724	Svidler, Peter	2745	1/2-1/2	2021.08.12
+Rapport, Richard	2724	Le, Quang Liem	2744	1/2-1/2	2021.08.12
+Rapport, Richard	2724	Nakamura, Hikaru	2829	1/2-1/2	2021.08.14
+Rapport, Richard	2776	Mamedyarov, Shakhriyar	2755	1/2-1/2	2021.08.14
+Rapport, Richard	2776	Shankland, Sam	2704	1/2-1/2	2021.08.14
+Rapport, Richard	2776	Caruana, Fabiano	2734	1/2-1/2	2021.08.15
+Rapport, Richard	2776	Xiong, Jeffery	2724	1/2-1/2	2021.08.15
+Rapport, Richard	2763	Vachier-Lagrave, Maxime	2751	1/2-1/2	2021.08.18
+Rapport, Richard	2763	Caruana, Fabiano	2806	1/2-1/2	2021.08.26
+Rapport, Richard	2763	Dominguez Perez, Leinier	2758	1/2-1/2	2021.08.24
+Rapport, Richard	2760	Carlsen, Magnus	2855	1/2-1/2	2021.09.09
+Rapport, Richard	2760	Carlsen, Magnus	2855	1/2-1/2	2021.09.09
+Rapport, Richard	2760	Nepomniachtchi, Ian	2792	1/2-1/2	2021.09.16
+Rapport, Richard	2770	Krasenkow, Michal	2578	1/2-1/2	2021.10.16
+Rapport, Richard	2770	Braun, Arik	2589	1/2-1/2	2021.10.16
+Rapport, Richard	2754	Sarana, Alexey	2689	1/2-1/2	2021.11.10
+Rapport, Richard	2754	Sarana, Alexey	2689	1/2-1/2	2021.11.10
+Grischuk, A.	2750	Rapport, R.	2693	1/2-1/2	2015.11.13
+Hammer, J.	2682	Rapport, R.	2693	1/2-1/2	2015.11.13
+Romanov, E.	2573	Rapport, R.	2649	1/2-1/2	2015.09.18
+Donchenko, Alexa	2511	Rapport, R.	2716	1/2-1/2	2015.01.01
+Naiditsch, A.	2694	Rapport, R.	2716	1/2-1/2	2015.01.01
+Vazquez Igarza, R.	2592	Rapport, R.	2716	0-1	2015.01.27
+Spraggett, K.	2538	Rapport, R.	2716	1/2-1/2	2015.01.27
+Almasi, Z.	2695	Rapport, R.	2720	0-1	2014.10.18
+Jovanovic, Zo CRO	2550	Rapport, R.	2718	0-1	2014.11.20
+Ehlvest, J.	2547	Rapport, R.	2709	0-1	2015.03.07
+Heberla, B.	2567	Rapport, R.	2709	1/2-1/2	2015.03.07
+Meskovs, N.	2450	Rapport, R.	2709	0-1	2015.03.07
+Nevickis, N.	2044	Rapport, R.	2709	0-1	2015.03.06
+Dizdar, G.	2501	Rapport, R.	2718	1/2-1/2	2014.11.20
+Dubov, Daniil	2627	Rapport, R.	2709	1/2-1/2	2015.03.27
+Sethuraman, S.	2623	Rapport, R.	2709	0-1	2015.03.27
+Akopian, Vl	2660	Rapport, R.	2709	1/2-1/2	2015.04.19
+Akobian, V.	2622	Rapport, R.	2709	1/2-1/2	2015.04.19
+Wojtaszek, R.	2733	Rapport, R.	2671	1/2-1/2	2015.07.20
+Eljanov, P.	2723	Rapport, R.	2671	1/2-1/2	2015.07.20
+Predke, A.	2548	Rapport, R.	2671	1/2-1/2	2015.08.23
+Ghaem Maghami, E.	2609	Rapport, R.	2671	0-1	2015.08.23
+Vaibhav, S.	2552	Rapport, R.	2671	0-1	2015.08.23
+Visakh, N R.	2411	Rapport, R.	2671	0-1	2015.08.23
+Smirin, I.	2658	Rapport, R.	2715	0-1	2015.12.07
+Rapport, R.	2691	Harikrishna, P.	2706	1-0	2014.01.11
+Rapport, R.	2691	Gallagher, Jo	2495	1-0	2014.01.28
+Rapport, R.	2691	Wei Yi	2607	1-0	2014.01.28
+Rapport, R.	2681	Ramirez, Alej	2599	1-0	2014.03.04
+Rapport, R.	2681	Pajeken, W.	2308	1-0	2014.03.04
+Rapport, R.	2681	Idani, P.	2496	1-0	2014.03.04
+Rapport, R.	2698	Gutman, L.	2449	1-0	2014.04.17
+Rapport, R.	2698	Biolek, R1.	2418	1-0	2014.04.17
+Rapport, R.	2698	Mueller, Maxi	2239	1-0	2014.04.17
+Rapport, R.	2698	Portisch, L.	2464	1-0	2014.05.02
+Rapport, R.	2701	Korpa, B.	2415	1-0	2014.05.23
+Rapport, R.	2701	Balazs, G2.	2397	1-0	2014.05.23
+Rapport, R.	2701	Almasi, I.	2403	1-0	2014.05.23
+Rapport, R.	2701	Gajewski, G.	2650	1-0	2014.06.08
+Rapport, R.	2701	Dezelin, M.	2298	1-0	2014.07.04
+Rapport, R.	2701	Blagojevic, Dr	2505	1-0	2014.07.04
+Rapport, R.	2701	Damljanovic, B.	2562	1-0	2014.07.04
+Rapport, R.	2701	Nestorovic, De	2408	1-0	2014.07.04
+Rapport, R.	2701	Rogers, Tim L	2011	1-0	2014.07.21
+Rapport, R.	2701	Petersen, To1	2334	1-0	2014.07.21
+Rapport, R.	2704	Sutovsky, E.	2624	1-0	2014.08.02
+Rapport, R.	2704	Onischuk, Al	2659	1-0	2014.08.02
+Sutovsky, E.	2647	Rapport, R.	2715	1/2-1/2	2015.12.07
+Ipatov, Alexander	2625	Rapport, R.	2649	1/2-1/2	2015.09.18
+Ivanchuk, V.	2710	Rapport, R.	2715	1/2-1/2	2015.12.07
+Rapport, R.	2691	Aronian, L.	2812	1/2-1/2	2014.01.11
+Rapport, R.	2691	So, W.	2719	0-1	2014.01.11
+Rapport, R.	2691	Nakamura, Hi	2789	0-1	2014.01.11
+Rapport, R.	2691	Giri, A.	2734	1/2-1/2	2014.01.11
+Rapport, R.	2691	Dominguez Perez, L.	2754	0-1	2014.01.11
+Rapport, R.	2691	Sachdev, T.	2442	1/2-1/2	2014.01.28
+Rapport, R.	2698	Laznicka, V.	2673	0-1	2014.04.17
+Rapport, R.	2701	Bachmann, Ax	2589	0-1	2014.05.23
+Rapport, R.	2704	Rohl, J.	2390	0-1	2014.08.02
+Rapport, R.	2704	Boruchovsky, A.	2483	1-0	2014.08.16
+Rapport, R.	2704	Kretainis, K.	2268	1-0	2014.08.16
+Rapport, R.	2704	Golod, V.	2574	1-0	2014.08.16
+Rapport, R.	2704	Mista, A.	2613	1-0	2014.08.30
+Rapport, R.	2704	Indjic, A.	2539	1-0	2014.08.30
+Rapport, R.	2704	Varga, Zo	2459	1-0	2014.08.30
+Rapport, R.	2704	Spasov, V.	2546	1-0	2014.08.30
+Rapport, R.	2704	Nikolic, Pr	2602	1-0	2014.08.30
+Rapport, R.	2704	Halkias, S.	2544	1-0	2014.08.30
+Rapport, R.	2713	Laznicka, V.	2675	1-0	2014.10.05
+Rapport, R.	2713	Laznicka, V.	2675	0-1	2014.09.30
+Rapport, R.	2720	Donchenko, Alexa	2501	1-0	2014.10.18
+Rapport, R.	2718	Bromberger, S.	2526	1-0	2014.11.20
+Rapport, R.	2718	Skoberne, J.	2560	1-0	2014.11.20
+Rapport, R.	2716	Rindlisbacher, L.	2289	1-0	2014.12.26
+Rapport, R.	2716	Meier, Geo	2640	1-0	2014.12.26
+Naiditsch, A.	2718	Rapport, R.	2691	1-0	2014.01.11
+Caruana, F.	2782	Rapport, R.	2691	1-0	2014.01.11
+Karjakin, Sergey	2759	Rapport, R.	2691	1-0	2014.01.11
+Rapport, R.	2691	Vitiugov, N.	2737	1/2-1/2	2014.01.28
+Rapport, R.	2691	Salgado Lopez, I.	2597	1/2-1/2	2014.01.28
+Vachier Lagrave, M.	2745	Rapport, R.	2691	1-0	2014.01.28
+Van Kampen, R.	2603	Rapport, R.	2681	1-0	2014.03.04
+Rapport, R.	2681	Djurhuus, R.	2447	1/2-1/2	2014.03.04
+Li Chao2	2700	Rapport, R.	2681	1-0	2014.03.04
+Rapport, R.	2681	Kobalia, M.	2646	1/2-1/2	2014.03.04
+Rapport, R.	2698	Portisch, L.	2464	1/2-1/2	2014.05.02
+Baumegger, S.	2469	Rapport, R.	2701	1-0	2014.05.23
+Rapport, R.	2701	Fodor, T jr	2462	1/2-1/2	2014.05.23
+Rapport, R.	2701	Duda, J.	2587	1/2-1/2	2014.06.08
+Rapport, R.	2701	Swiercz, D.	2613	1/2-1/2	2014.06.08
+Rapport, R.	2701	Chandra, Akshat	2442	1/2-1/2	2014.07.04
+Rapport, R.	2701	Rodshtein, M.	2671	1/2-1/2	2014.07.21
+Rapport, R.	2701	Jones, G.	2665	1/2-1/2	2014.07.21
+Rapport, R.	2701	Rasmussen, A.	2522	1/2-1/2	2014.07.21
+Illescas Cordoba, M.	2618	Rapport, R.	2704	1-0	2014.08.02
+Rapport, R.	2704	Melkumyan, H.	2655	1/2-1/2	2014.08.16
+Georgiev, Ki	2626	Rapport, R.	2704	1-0	2014.08.30
+Rapport, R.	2713	Laznicka, V.	2675	1/2-1/2	2014.09.30
+Rapport, R.	2713	Laznicka, V.	2675	1/2-1/2	2014.09.30
+Rapport, R.	2720	Bacrot, E.	2719	1/2-1/2	2014.10.18
+Gelfand, B.	2777	Rapport, R.	2691	0-1	2014.01.11
+Rindlisbacher, J.	2249	Rapport, R.	2691	0-1	2014.01.28
+Edouard, R.	2658	Rapport, R.	2691	0-1	2014.01.28
+Larino Nieto, D.	2465	Rapport, R.	2691	0-1	2014.01.28
+Kjartansson, G.	2441	Rapport, R.	2681	0-1	2014.03.04
+Pupols, V.	2049	Rapport, R.	2681	0-1	2014.03.04
+Shoker, S.	2466	Rapport, R.	2681	0-1	2014.03.04
+Bachmann, Ax	2598	Rapport, R.	2698	0-1	2014.04.17
+Eichler, C.	2330	Rapport, R.	2698	0-1	2014.04.17
+Hansch, T.	2107	Rapport, R.	2698	0-1	2014.04.17
+Portisch, L.	2464	Rapport, R.	2698	0-1	2014.05.02
+Portisch, L.	2464	Rapport, R.	2698	0-1	2014.05.02
+Nemeth, Mi1	2492	Rapport, R.	2701	0-1	2014.05.23
+Berczes, D.	2482	Rapport, R.	2701	0-1	2014.05.23
+Socko, B.	2622	Rapport, R.	2701	0-1	2014.06.08
+Wojtaszek, R.	2715	Rapport, R.	2701	0-1	2014.06.08
+Savic, Miod1	2522	Rapport, R.	2701	0-1	2014.07.04
+Miedema, D.	2362	Rapport, R.	2701	0-1	2014.07.04
+Belouadah, S.	2320	Rapport, R.	2704	0-1	2014.08.02
+Semcesen, D.	2471	Rapport, R.	2701	0-1	2014.07.21
+Ikeda, J.	2402	Rapport, R.	2701	0-1	2014.07.21
+Fedorchuk, S.	2665	Rapport, R.	2704	1-0	2014.08.30
+Laznicka, V.	2675	Rapport, R.	2713	1-0	2014.09.30
+Schneider, Il	2487	Rapport, R.	2718	1-0	2014.11.20
+Salzgeber, F.	2175	Rapport, R.	2716	1-0	2014.12.26
+Van Wely, L.	2672	Rapport, R.	2691	1/2-1/2	2014.01.11
+Hansen, Eric	2559	Rapport, R.	2691	1/2-1/2	2014.01.28
+Heimann, An	2522	Rapport, R.	2698	1/2-1/2	2014.04.17
+Epishin, V.	2546	Rapport, R.	2698	1/2-1/2	2014.04.17
+Onischuk, V.	2594	Rapport, R.	2701	1/2-1/2	2014.05.23
+Bartel, Mat	2641	Rapport, R.	2701	1/2-1/2	2014.06.08
+Abramovic, B.	2443	Rapport, R.	2701	1/2-1/2	2014.07.04
+Atalik, S.	2550	Rapport, R.	2701	1/2-1/2	2014.07.04
+Cornette, M.	2532	Rapport, R.	2701	1/2-1/2	2014.07.21
+Eriksson, C.	2153	Rapport, R.	2701	0-1	2014.07.21
+Ni Hua	2666	Rapport, R.	2704	1/2-1/2	2014.08.02
+Bu Xiangzhi	2693	Rapport, R.	2701	1/2-1/2	2014.07.21
+Movsesian, S.	2672	Rapport, R.	2704	1/2-1/2	2014.08.02
+Moiseenko, A1.	2707	Rapport, R.	2704	1/2-1/2	2014.08.02
+Vajda, Le	2561	Rapport, R.	2704	0-1	2014.08.02
+Soors, S.	2391	Rapport, R.	2704	0-1	2014.08.16
+Savchenko, B.	2596	Rapport, R.	2704	1/2-1/2	2014.08.16
+Bok, B.	2587	Rapport, R.	2704	0-1	2014.08.16
+Kovalenko, I.	2650	Rapport, R.	2704	0-1	2014.08.16
+Solak, D.	2632	Rapport, R.	2704	0-1	2014.08.30
+Laznicka, V.	2675	Rapport, R.	2713	0-1	2014.10.05
+Laznicka, V.	2675	Rapport, R.	2713	0-1	2014.09.30
+Laznicka, V.	2675	Rapport, R.	2713	0-1	2014.09.30
+Vitouch, A.	2325	Rapport, R.	2718	0-1	2014.11.20
+Kessler, L.	2333	Rapport, R.	2716	0-1	2014.12.26
+Rapport, R.	2676	Bruzon Batista, L.	2685	1-0	2013.10.05
+Rapport, R.	2676	Volke, K.	2459	1-0	2013.10.20
+Rapport, R.	2676	Shengelia, D.	2556	1-0	2013.10.20
+Rapport, R.	2676	Kanmazalp, O.	2417	1-0	2013.10.20
+Rapport, R.	2680	Svane, R.	2467	1-0	2013.11.01
+Rapport, R.	2680	Shengelia, D.	2543	1-0	2013.11.01
+Rapport, R.	2680	Baklan, V.	2627	1-0	2013.11.01
+Rapport, R.	2680	Petkov, V.	2570	1-0	2013.11.01
+Rapport, R.	2676	Piorun, K.	2551	1-0	2013.10.12
+Rapport, R.	2687	Sebenik, M.	2496	1-0	2013.12.06
+Rapport, R.	2687	Tregubov, P.	2625	1-0	2013.12.14
+Rapport, R.	2687	Zambo, Z.	2399	1-0	2013.12.14
+Rapport, R.	2687	Flis, P.	2017	1-0	2013.12.14
+Rapport, R.	2687	Antipov, M2.	2511	1-0	2013.12.13
+Rapport, R.	2687	Kovalev, Vl	2574	1-0	2013.12.13
+Rapport, R.	2687	Gdanski, J.	2506	1-0	2013.12.13
+Rapport, R.	2687	Dreev, A.	2673	1-0	2013.12.13
+Rapport, R.	2693	Papadimitriou, A.	2232	1-0	2013.07.08
+Rapport, R.	2693	Skembris, S.	2458	1-0	2013.07.08
+Rapport, R.	2674	Berg, E.	2561	1-0	2013.05.22
+Naroditsky, D.	2587	Rapport, R.	2704	1/2-1/2	2014.08.16
+Miladinovic, I.	2560	Rapport, R.	2704	1/2-1/2	2014.08.30
+Stevic, H.	2606	Rapport, R.	2704	1/2-1/2	2014.08.30
+Volokitin, And	2642	Rapport, R.	2720	1/2-1/2	2014.10.18
+Rodshtein, M.	2678	Rapport, R.	2720	1/2-1/2	2014.10.18
+Rapport, R.	2674	Short, N.	2681	1-0	2013.05.22
+Rapport, R.	2674	David, Alb	2584	1-0	2013.05.30
+Rapport, R.	2674	Naiditsch, A.	2710	1-0	2013.05.30
+Rapport, R.	2674	Apicella, M.	2532	1-0	2013.05.30
+Rapport, R.	2674	Bergez, L.	2399	1-0	2013.05.30
+Rapport, R.	2674	Sokolov, And1	2563	1-0	2013.05.30
+Rapport, R.	2693	Mastrovasilis, A.	2523	1-0	2013.07.02
+Rapport, R.	2693	Lagopatis, N.	2182	1-0	2013.07.02
+Rapport, R.	2621	Edouard, R.	2686	1-0	2013.01.12
+Rapport, R.	2621	Movsesian, S.	2688	1-0	2013.01.12
+Rapport, R.	2621	Timman, J.	2566	1-0	2013.01.12
+Rapport, R.	2621	Ipatov, Alexander	2587	1-0	2013.01.12
+Rapport, R.	2621	Acs, Peter	2586	1-0	2012.10.20
+Rapport, R.	2621	Zaragatski, I.	2460	1-0	2012.10.20
+Rapport, R.	2621	Izsak, Gyu	2471	1-0	2012.09.16
+Rapport, R.	2646	Fedorovsky, M.	2392	1-0	2013.03.28
+Rapport, R.	2646	Hoecher, Michael	1986	1-0	2013.03.28
+Rapport, R.	2621	Zwanzger, J.	2326	1-0	2012.10.20
+Rapport, R.	2621	Janssen, Ru	2483	1-0	2012.10.20
+Rapport, R.	2654	Skripchenko, A.	2430	1-0	2013.04.14
+Rapport, R.	2654	Bunoust, Lucas	1726	1-0	2013.04.14
+Rapport, R.	2654	Bacrot, E.	2705	1-0	2013.04.13
+Rapport, R.	2654	Daagi, Mahdi	0	1-0	2013.04.13
+Rapport, Richard	2676	Bobras, Piotr	2518	1-0	2013.10.12
+Rapport, Richard	2676	Bobras, Piotr	2518	1-0	2013.10.12
+Rapport, R.	2676	Salgado Lopez, I.	2624	1/2-1/2	2013.10.05
+Rapport, R.	2676	Cheparinov, I.	2672	0-1	2013.10.05
+Rapport, R.	2676	Jepson, C.	2392	1/2-1/2	2013.10.20
+Rapport, R.	2680	Nevednichy, V.	2590	1/2-1/2	2013.11.01
+Rapport, R.	2687	Ragger, M.	2646	1/2-1/2	2013.12.14
+Rapport, R.	2687	Dubov, Daniil	2629	0-1	2013.12.13
+Rapport, R.	2687	Wojtaszek, R.	2711	0-1	2013.12.13
+Rapport, R.	2687	Korobov, A.	2713	0-1	2013.12.13
+Rapport, R.	2687	Malakhov, V.	2716	1/2-1/2	2013.12.14
+Rapport, R.	2687	Dubov, Daniil	2629	1/2-1/2	2013.12.14
+Rapport, R.	2693	Nepomniachtchi, I.	2717	1/2-1/2	2012.07.22
+Rapport, R.	2693	Vachier Lagrave, M.	2719	1/2-1/2	2012.07.22
+Rapport, R.	2693	Moiseenko, A1.	2699	0-1	2012.07.22
+Rapport, R.	2693	Bacrot, E.	2714	1/2-1/2	2012.07.22
+Rapport, R.	2693	Ding Liren	2714	0-1	2012.07.22
+Rapport, R.	2676	Granda Zuniga, J.	2665	0-1	2013.10.05
+Rapport, R.	2674	Grandelius, N.	2556	1/2-1/2	2013.05.22
+Rapport, R.	2674	Landa, K.	2644	1/2-1/2	2013.05.30
+Rapport, R.	2693	Maier, C.	2360	1/2-1/2	2013.07.02
+Rapport, R.	2621	Van Kampen, R.	2581	1/2-1/2	2013.01.12
+Rapport, R.	2621	Smeets, J.	2615	0-1	2013.01.12
+Rapport, R.	2654	Svetushkin, D.	2588	0-1	2013.04.13
+Rapport, Richard	2676	Naiditsch, Arkadij	2710	0-1	2013.09.08
+Rapport, Richard	2687	Stevic, Hrvoje	2611	1-0	2013.12.06
+Rapport, Richard	2687	Bauer, Christian	2630	1-0	2013.12.06
+Cheparinov, I.	2672	Rapport, R.	2676	0-1	2013.10.05
+Guseinov, G.	2603	Rapport, R.	2676	0-1	2013.10.20
+Saric, Iv	2628	Rapport, R.	2680	1-0	2013.11.01
+Maze, S.	2550	Rapport, R.	2676	0-1	2013.10.12
+Antoniewski, R.	2550	Rapport, R.	2687	0-1	2013.12.06
+Korobov, A.	2713	Rapport, R.	2687	0-1	2013.12.14
+Kanarek, M.	2473	Rapport, R.	2687	0-1	2013.12.14
+Zujev, O.	2270	Rapport, R.	2687	0-1	2013.12.14
+Dreev, A.	2673	Rapport, R.	2687	1-0	2013.12.13
+Korobov, A.	2713	Rapport, R.	2687	1-0	2013.12.13
+Bacrot, E.	2714	Rapport, R.	2693	1-0	2012.07.22
+Moiseenko, A1.	2699	Rapport, R.	2693	1-0	2012.07.22
+Tikkanen, H.	2537	Rapport, R.	2674	1-0	2013.05.22
+Jakovenko, D.	2713	Rapport, R.	2693	1-0	2013.07.02
+Rapport, R.	2621	Turov, M.	2630	1/2-1/2	2013.01.12
+Naiditsch, A.	2708	Rapport, R.	2621	1-0	2013.01.12
+Rapport, R.	2646	Wirig, A.	2490	1/2-1/2	2013.03.28
+Rapport, R.	2646	Bacrot, E.	2705	1/2-1/2	2013.03.28
+Rapport, R.	2646	Solodovnichenko, Y.	2559	1/2-1/2	2013.03.28
+Rapport, R.	2621	Antoniewski, R.	2557	1/2-1/2	2012.11.02
+Rapport, R.	2621	Baramidze, D.	2615	1/2-1/2	2012.11.02
+Bacrot, E.	2705	Rapport, R.	2654	1-0	2013.04.14
+Rapport, R.	2654	Bacrot, E.	2705	1/2-1/2	2013.04.14
+Rapport, Richard	2676	Aronian, Levon	2795	1/2-1/2	2013.10.12
+Rapport, Richard	2676	Bogner, Sebastian	2552	1/2-1/2	2013.10.12
+Wei, Yi	2732	Rapport, Richard	2763	1-0	Sat May 01 2021
+Duda, Jan-Krzysztof	2729	Rapport, Richard	2763	1-0	Sat May 01 2021
+Bacrot, Etienne	2667	Rapport, Richard	2727	1-0	2021.06.18
+So, Wesley	2741	Rapport, Richard	2727	1-0	2021.06.18
+Aronian, Levon	2739	Rapport, Richard	2759	1-0	2021.06.22
+Firouzja, Alireza	2770	Rapport, Richard	2759	1-0	2021.06.22
+Svidler, Peter	2754	Rapport, Richard	2759	1-0	2021.06.21
+Dominguez Perez, Leinier	2786	Rapport, Richard	2724	1-0	2021.08.11
+Le, Quang Liem	2690	Rapport, Richard	2776	1-0	2021.08.14
+Xiong, Jeffery	2724	Rapport, Richard	2776	1-0	2021.08.14
+Mamedyarov, Shakhriyar	2782	Rapport, Richard	2763	1-0	2021.08.19
+Nepomniachtchi, Ian	2792	Rapport, Richard	2760	1-0	2021.09.12
+Carlsen, Magnus	2855	Rapport, Richard	2760	1-0	2021.09.15
+Firouzja, Alireza	2754	Rapport, Richard	2760	1-0	2021.09.17
+Sarana, Alexey	2689	Rapport, Richard	2754	1-0	2021.11.10
+Sarana, Alexey	2689	Rapport, Richard	2754	1-0	2021.11.10
+Sarana, Alexey	2689	Rapport, Richard	2754	1-0	2021.11.10
+Rapport, Richard	2754	Sarana, Alexey	2689	1/2-1/2	2021.11.10
+Rapport, Richard	2754	Sarana, Alexey	2689	1/2-1/2	2021.11.10
+Rapport, Richard	2754	Sarana, Alexey	2689	1/2-1/2	2021.11.10
+Rapport, Richard	2754	Nihal, Sarin	2667	1/2-1/2	2021.12.02
+Rapport, Richard	2754	Nihal, Sarin	2667	1/2-1/2	2021.12.02
+Rapport, Richard	2754	Nihal, Sarin	2667	1/2-1/2	2021.12.02
+Rapport, Richard	2754	Nihal, Sarin	2667	1/2-1/2	2021.12.02
+Rapport, Richard	2754	Nihal, Sarin	2667	1/2-1/2	2021.12.02
+Szostko, Jakub	1975	Rapport, R.	2687	0-1	2013.12.14
+Antipov, M2.	2511	Rapport, R.	2687	0-1	2013.12.13
+Dubov, Daniil	2629	Rapport, R.	2687	0-1	2013.12.13
+Kovalev, Vl	2574	Rapport, R.	2687	0-1	2013.12.13
+Gdanski, J.	2506	Rapport, R.	2687	0-1	2013.12.13
+Wojtaszek, R.	2711	Rapport, R.	2687	0-1	2013.12.14
+Hector, J.	2512	Rapport, R.	2674	0-1	2013.05.22
+Taddei, B.	2374	Rapport, R.	2674	0-1	2013.05.30
+Roos, J.	2256	Rapport, R.	2674	0-1	2013.05.30
+Kotronias, V.	2581	Rapport, R.	2693	0-1	2013.07.02
+Ernst, S.	2556	Rapport, R.	2621	0-1	2013.01.12
+Tiviakov, S.	2655	Rapport, R.	2621	0-1	2013.01.12
+Nikolic, Pr	2619	Rapport, R.	2621	0-1	2013.01.12
+Wagner, De	2474	Rapport, R.	2646	0-1	2013.03.28
+Forcen Esteban, D.	2469	Rapport, R.	2646	0-1	2013.03.28
+Hildenbrand, P.	2255	Rapport, R.	2646	0-1	2013.03.28
+Bunoust, Lucas	1726	Rapport, R.	2654	0-1	2013.04.14
+Fressinet, L.	2706	Rapport, R.	2654	0-1	2013.04.13
+Bunoust, Lucas	1726	Rapport, R.	2654	0-1	2013.04.13
+Humeau, C.	2312	Rapport, R.	2654	0-1	2013.04.13
+Tkachiev, V.	2632	Rapport, R.	2654	0-1	2013.04.13
+Horvath, Adam	2536	Rapport, Richard	2676	0-1	2013.09.08
+McShane, Luke J	2697	Rapport, Richard	2676	0-1	2013.10.12
+Poetsch, Hagen	2475	Rapport, Richard	2687	0-1	2013.12.06
+Schenk, Andreas	2489	Rapport, Richard	2676	0-1	2013.10.12
+Bruzon Batista, L.	2685	Rapport, R.	2676	1/2-1/2	2013.10.05
+Granda Zuniga, J.	2665	Rapport, R.	2676	1/2-1/2	2013.10.05
+Boruchovsky, A.	2453	Rapport, R.	2676	1/2-1/2	2013.10.20
+Radjabov, T.	2723	Rapport, R.	2676	1/2-1/2	2013.10.20
+Ivanisevic, I.	2619	Rapport, R.	2680	1/2-1/2	2013.11.01
+Iordachescu, V.	2614	Rapport, R.	2680	1/2-1/2	2013.11.01
+Topalov, V.	2774	Rapport, R.	2680	1/2-1/2	2013.11.01
+Prusikin, M.	2532	Rapport, R.	2687	1/2-1/2	2013.12.06
+Wojtaszek, R.	2711	Rapport, R.	2687	1/2-1/2	2013.12.13
+Vachier Lagrave, M.	2719	Rapport, R.	2693	1/2-1/2	2012.07.22
+Ding Liren	2714	Rapport, R.	2693	1/2-1/2	2012.07.22
+Nepomniachtchi, I.	2717	Rapport, R.	2693	1/2-1/2	2012.07.22
+Salgado Lopez, I.	2624	Rapport, R.	2676	1/2-1/2	2013.10.05
+Sokolov, Ivan	2642	Rapport, R.	2674	1/2-1/2	2013.05.22
+Van Wely, L.	2689	Rapport, R.	2674	1/2-1/2	2013.05.22
+Kosten, A.	2479	Rapport, R.	2674	1/2-1/2	2013.05.30
+Swiercz, D.	2631	Rapport, R.	2674	1/2-1/2	2013.05.30
+Kempinski, R.	2569	Rapport, R.	2693	1/2-1/2	2013.07.02
+Dubov, Danii	2600	Rapport, R.	2621	1/2-1/2	2013.01.12
+Grandelius, N.	2572	Rapport, R.	2621	1/2-1/2	2013.01.12
+Banusz, T.	2580	Rapport, R.	2621	1/2-1/2	2012.10.20
+Golod, V.	2565	Rapport, R.	2621	1/2-1/2	2012.10.20
+Istratescu, A.	2651	Rapport, R.	2646	1/2-1/2	2013.03.28
+Erdos, V.	2640	Rapport, R.	2621	1/2-1/2	2012.11.02
+Srienz, Christian	2300	Rapport, Richard	2687	0-1	2013.12.06
+Rapport, R.	2543	Gustafsson, J.	2643	1-0	2012.01.24
+Rapport, R.	2543	Loew, Gera	2251	1-0	2012.01.24
+Rapport, R.	2547	Sedlak, N.	2589	1-0	2011.09.25
+Rapport, R.	2559	Baltag, I.	2420	1-0	2012.03.20
+Rapport, R.	2559	Dorst, J.	2207	1-0	2012.04.05
+Rapport, R.	2559	Zeller, F.	2402	1-0	2012.04.05
+Rapport, R.	2559	Naiditsch, A.	2702	1-0	2012.04.05
+Rapport, R.	2559	Maiwald, JU.	2462	1-0	2012.04.05
+Rapport, R.	2547	Tischbierek, R.	2454	1-0	2011.10.14
+Rapport, R.	2543	Tuncer, U.	2289	1-0	2012.01.20
+Rapport, R.	2547	Kosic, D.	2495	1-0	2011.09.25
+Rapport, R.	2577	Kuljasevic, D.	2574	1-0	2012.05.31
+Rapport, R.	2577	Bluebaum, M.	2428	1-0	2012.05.31
+Rapport, R.	2577	Mendrinos, N.	2221	1-0	2012.06.30
+Rapport, R.	2605	Kigel, D.	2276	1-0	2012.08.02
+Rapport, R.	2605	Cori, J.	2487	1-0	2012.08.02
+Rapport, R.	2605	Antipov, M2.	2462	1-0	2012.08.02
+Rapport, R.	2605	Yu Yangyi	2635	1-0	2012.08.02
+Rapport, R.	2621	Polak, T.	2520	1-0	2012.11.02
+Ragger, M.	2655	Rapport, R.	2621	1/2-1/2	2012.11.02
+Abel, D.	2437	Rapport, R.	2621	1/2-1/2	2012.10.20
+Skripchenko, A.	2430	Rapport, R.	2654	1/2-1/2	2013.04.14
+Massoni, M.	2385	Rapport, R.	2654	1/2-1/2	2013.04.13
+Ragger, Markus	2668	Rapport, Richard	2676	1/2-1/2	2013.10.12
+Van Kampen, Robin	2607	Rapport, Richard	2676	1/2-1/2	2013.10.12
+Rapport, R.	2543	Prohaszka, P2.	2547	1/2-1/2	2012.01.20
+Rapport, R.	2543	Ben Artzi, I.	2284	1/2-1/2	2012.01.24
+Rapport, R.	2543	Sasikiran, K.	2700	0-1	2012.01.24
+Rapport, R.	2547	Tregubov, P.	2602	1/2-1/2	2011.10.14
+Rapport, R.	2547	Teske, H.	2547	1/2-1/2	2011.10.14
+Rapport, R.	2543	Rozentalis, E.	2592	0-1	2012.01.20
+Rapport, R.	2543	Antoniewski, R.	2559	1/2-1/2	2012.01.20
+Rapport, R.	2559	Balogh, C.	2664	1/2-1/2	2012.03.20
+Rapport, R.	2559	Kreisl, R.	2400	1/2-1/2	2012.03.20
+Rapport, R.	2559	Sutovsky, E.	2700	1/2-1/2	2012.03.20
+Rapport, R.	2543	Ragger, M.	2655	1/2-1/2	2012.01.20
+Rapport, R.	2577	Godena, M.	2521	1/2-1/2	2012.05.31
+Rapport, R.	2577	Hammer, J.	2630	1/2-1/2	2012.06.30
+Rapport, R.	2577	Brunello, S.	2592	1/2-1/2	2012.06.30
+Rapport, R.	2577	Dochev, D.	2404	1/2-1/2	2012.06.30
+Rapport, R.	2605	Wei Yi	2418	0-1	2012.08.02
+Rapport, R.	2605	Grandelius, N.	2562	1/2-1/2	2012.08.02
+Rapport, R.	2621	Cyborowski, L.	2530	1-0	2012.10.20
+Rapport, R.	2621	Lavendelis, E.	2340	1-0	2012.12.15
+Rapport, R.	2621	Kosiorek, M.	2366	1-0	2012.12.15
+Rapport, R.	2621	Dragun, K.	2461	1-0	2012.12.15
+Rapport, R.	2621	Rublevsky, S.	2688	0-1	2012.12.15
+Rapport, Richard	2543	Herman, Jean	2077	1-0	2012.01.24
+Rapport, Richard	2621	Szwarc, Pawel	2094	1-0	2012.12.15
+Rapport,R	2559	Kadric,D	0	1-0	2012.03.20
+Georgiadis, N.	2291	Rapport, R.	2543	0-1	2012.01.24
+Negi, P.	2641	Rapport, R.	2543	1-0	2012.01.24
+Parligras, M.	2650	Rapport, R.	2543	0-1	2012.01.24
+Laznicka, V.	2704	Rapport, R.	2543	1-0	2012.01.24
+Glek, I.	2408	Rapport, R.	2547	1-0	2011.10.14
+Kunin, V.	2537	Rapport, R.	2543	0-1	2012.01.20
+Berkes, F.	2682	Rapport, R.	2559	1-0	2012.03.20
+Vuckovic, Bo	2628	Rapport, R.	2559	1-0	2012.03.20
+Petenyi, T.	2359	Rapport, R.	2559	0-1	2012.03.20
+Mchedlishvili, M.	2626	Rapport, R.	2559	1-0	2012.03.20
+Rietze, C.	2325	Rapport, R.	2559	0-1	2012.04.05
+Bacrot, E.	2706	Rapport, R.	2559	1-0	2012.04.05
+Breier, A.	2400	Rapport, R.	2547	0-1	2011.10.14
+Polak, T.	2535	Rapport, R.	2543	1-0	2012.01.20
+Topalov, V.	2752	Rapport, R.	2559	0-1	2012.04.27
+Pacher, M.	2440	Rapport, R.	2577	0-1	2012.05.31
+Sebenik, M.	2573	Rapport, R.	2577	0-1	2012.05.31
+Zubarev, Al1	2600	Rapport, R.	2577	1-0	2012.06.30
+Postny, E.	2651	Rapport, R.	2577	0-1	2012.06.30
+Lubbe, N.	2410	Rapport, R.	2577	0-1	2012.06.30
+Brown, An	2296	Rapport, R.	2605	0-1	2012.08.02
+Rapport, R.	2621	Hajnal, Z.	2384	1/2-1/2	2012.09.16
+Rapport, R.	2621	Balogh, C.	2641	1/2-1/2	2012.11.02
+Gorovets, A.	2474	Rapport, R.	2621	1-0	2012.12.15
+Negi, Parimarjan	2641	Rapport, Richard	2543	1-0	2012.01.24
+Lenic, L.	2637	Rapport, R.	2543	1/2-1/2	2012.01.20
+Volokitin, And	2695	Rapport, R.	2543	1/2-1/2	2012.01.20
+Almasi, Z.	2717	Rapport, R.	2543	1/2-1/2	2012.01.24
+Naumann, Al	2546	Rapport, R.	2547	1/2-1/2	2011.10.14
+Erdos, V.	2608	Rapport, R.	2547	1/2-1/2	2011.09.25
+Jobava, Ba	2704	Rapport, R.	2543	1/2-1/2	2012.01.20
+Abdulov, Or	2387	Rapport, R.	2559	1/2-1/2	2012.03.20
+Bischoff, K.	2521	Rapport, R.	2559	1/2-1/2	2012.04.05
+Solodovnichenko, Y.	2615	Rapport, R.	2559	1/2-1/2	2012.04.05
+Prusikin, M.	2545	Rapport, R.	2543	1/2-1/2	2012.01.20
+Plat, V.	2485	Rapport, R.	2577	1/2-1/2	2012.05.31
+Libiszewski, F.	2495	Rapport, R.	2577	1/2-1/2	2012.05.31
+Zueger, B.	2413	Rapport, R.	2577	1/2-1/2	2012.05.31
+Neubauer, M.	2415	Rapport, R.	2577	1/2-1/2	2012.05.31
+Torres, Ju2	2291	Rapport, R.	2605	0-1	2012.08.02
+Urkedal, F.	2473	Rapport, R.	2605	0-1	2012.08.02
+Ipatov, Alexander	2577	Rapport, R.	2605	1/2-1/2	2012.08.02
+Shimanov, A.	2596	Rapport, R.	2605	0-1	2012.08.02
+Bosiocic, Mari	2571	Rapport, R.	2621	0-1	2012.11.02
+Dorohin, M.	2243	Rapport, R.	2621	0-1	2012.12.15
+Nedilko, V.	2396	Rapport, R.	2621	0-1	2012.12.15
+Tkachiev, V.	2650	Rapport, R.	2621	0-1	2012.12.15
+Bukavshin, I.	2510	Rapport, R.	2621	0-1	2012.12.15
+Brendel, Bergit	2119	Rapport, Richard	2559	0-1	2012.04.05
+Sliwicka,Alicja	1772	Rapport,R	2621	0-1	2012.12.15
+Rapport, R.	2531	Balogh, C.	2604	1-0	2011.01.04
+Rapport, R.	2543	Platzgummer, F.	2311	1-0	2010.11.19
+Rapport, R.	2543	Geske, J.	2325	1-0	2010.11.19
+Rapport, R.	2531	Onischuk, Al	2689	1-0	2011.01.25
+Rapport, R.	2531	Vallejo Pons, F.	2698	1-0	2011.01.25
+Rapport, R.	2531	Nuri, Kam	2300	1-0	2011.01.25
+Rapport, R.	2543	Hagara, E.	2407	1-0	2010.11.19
+Rapport, R.	2540	Poetsch, H.	2415	1-0	2011.03.22
+Rapport, R.	2523	Varga, P1.	2411	1-0	2010.10.10
+Rapport, R.	2552	Kantor, G.	2210	1-0	2011.05.20
+Rapport, R.	2552	Videki, S.	2457	1-0	2011.05.20
+Rapport, R.	2545	Jianu, V.	2518	1-0	2011.07.03
+Rapport, R.	2545	Christensen, Bo	2289	1-0	2011.07.30
+Rapport, R.	2545	Lercel, M.	2141	1-0	2011.07.30
+Rapport, R.	2545	Arnold, Mar	2445	1-0	2011.07.30
+Rapport, R.	2547	Kurmann, O.	2439	1-0	2011.10.08
+Rapport, R.	2547	Banas, J.	2318	1-0	2011.09.25
+Rapport, R.	2534	Ragger, M.	2662	1-0	2011.11.29
+Rapport, R.	2547	Gasthofer, A.	2456	1-0	2011.10.14
+Rapport, R.	2534	Tarasova, Viktoriy	2294	1-0	2011.12.21
+Rapport, R.	2534	Pijpers, A.	2332	1-0	2011.12.21
+Rapport, R.	2534	Ernst, S.	2593	1-0	2011.12.21
+Ter Sahakyan, S.	2567	Rapport, R.	2605	1/2-1/2	2012.08.02
+Ding Liren	2695	Rapport, R.	2605	1/2-1/2	2012.08.02
+Vallejo Pons, F.	2700	Rapport, R.	2621	1/2-1/2	2012.10.20
+Rapport, R.	2531	Balogh, C.	2604	0-1	2011.01.04
+Rapport, R.	2531	Balogh, C.	2604	0-1	2011.01.04
+Rapport, R.	2531	Balogh, C.	2604	1/2-1/2	2011.01.04
+Rapport, R.	2531	Fridman, D.	2655	0-1	2011.01.25
+Rapport, R.	2531	Tate, A.	2292	0-1	2011.01.25
+Rapport, R.	2523	Boros, De	2508	0-1	2010.10.10
+Rapport, R.	2543	Buhmann, R.	2577	0-1	2010.11.19
+Rapport, R.	2540	Fedorchuk, S.	2662	1/2-1/2	2011.03.22
+Rapport, R.	2540	Laznicka, V.	2688	1/2-1/2	2011.03.22
+Rapport, R.	2540	Raznikov, D.	2384	0-1	2011.03.22
+Rapport, R.	2552	Spasenovic, Z.	2131	1/2-1/2	2011.05.03
+Rapport, R.	2552	Firat, B.	2380	1/2-1/2	2011.05.03
+Rapport, R.	2552	Lupulescu, C.	2638	0-1	2011.05.03
+Rapport, R.	2523	Kosic, D.	2481	1/2-1/2	2010.10.10
+Rapport, R.	2552	Georgiev, Ki	2656	1/2-1/2	2011.05.03
+Rapport, R.	2552	Trkulja, G.	2379	0-1	2011.05.03
+Rapport, R.	2552	Antipov, M2.	2378	1/2-1/2	2011.05.20
+Rapport, R.	2552	Sax, G.	2513	1/2-1/2	2011.05.20
+Rapport, R.	2552	Danin, A.	2534	1/2-1/2	2011.05.20
+Rapport, R.	2545	Kryvoruchko, Y.	2652	1/2-1/2	2011.07.03
+Rapport, R.	2545	Ivanchuk, V.	2768	0-1	2011.07.03
+Rapport, R.	2545	Kurnosov, I.	2633	0-1	2011.07.30
+Rapport, R.	2547	Jakovenko, D.	2716	0-1	2011.09.25
+Rapport, R.	2547	Bitalzadeh, A.	2409	0-1	2011.09.25
+Rapport, R.	2547	Gozzoli, Y.	2522	0-1	2011.10.08
+Balogh, C.	2604	Rapport, R.	2531	1-0	2011.01.04
+Caruana, F.	2721	Rapport, R.	2531	1-0	2011.01.25
+Polzin, R.	2494	Rapport, R.	2543	1-0	2010.11.19
+Gorse, G.	2050	Rapport, R.	2540	1-0	2011.03.22
+Jakovenko, D.	2718	Rapport, R.	2540	1-0	2011.03.22
+Gyimesi, Z.	2595	Rapport, R.	2523	1-0	2010.10.10
+Naiditsch, A.	2706	Rapport, R.	2545	1-0	2011.07.03
+Navara, D.	2722	Rapport, R.	2545	1-0	2011.07.03
+Rapport, R.	2545	Christiansen, JJ.	2115	1/2-1/2	2011.07.30
+Blomqvist, E.	2438	Rapport, R.	2545	1-0	2011.07.30
+Rapport, R.	2547	Ostenstad, B.	2469	1/2-1/2	2011.09.25
+Zhigalko, A.	2555	Rapport, R.	2547	1-0	2011.09.25
+Laznicka, V.	2701	Rapport, R.	2547	1-0	2011.09.25
+Brunello, S.	2569	Rapport, R.	2547	1-0	2011.10.08
+Rapport, R.	2547	Brunner, N.	2466	1/2-1/2	2011.10.08
+Rapport, R.	2547	Shengelia, D.	2526	1/2-1/2	2011.10.08
+Rapport, R.	2547	Wegener, O.	2423	1/2-1/2	2011.10.14
+Rapport, R.	2534	Ragger, M.	2662	1/2-1/2	2011.11.29
+Ragger, M.	2662	Rapport, R.	2534	1-0	2011.11.29
+Rapport, R.	2534	Ragger, M.	2662	1/2-1/2	2011.11.29
+Rapport, R.	2534	Ragger, M.	2662	1/2-1/2	2011.11.29
+Ragger, M.	2662	Rapport, R.	2534	1-0	2011.11.29
+Tiviakov, S.	2650	Rapport, R.	2534	1-0	2011.12.21
+Rapport, R.	2534	Zherebukh, Y.	2594	1/2-1/2	2011.12.21
+Rapport, R.	2534	Romanov, E.	2627	1/2-1/2	2011.12.21
+Balogh, C.	2604	Rapport, R.	2531	0-1	2011.01.04
+Balogh, C.	2604	Rapport, R.	2531	1/2-1/2	2011.01.04
+Shengelia, D.	2578	Rapport, R.	2543	0-1	2010.11.19
+Weinzettl, E.	2307	Rapport, R.	2543	0-1	2010.11.19
+Garcia Jimenez, F.	2274	Rapport, R.	2531	0-1	2011.01.25
+Cherednichenko, S.	2278	Rapport, R.	2540	0-1	2011.03.22
+Mazur, Ste	2388	Rapport, R.	2540	0-1	2011.03.22
+L'Ami, E.	2623	Rapport, R.	2540	0-1	2011.03.22
+Cosovic, Azi	2059	Rapport, R.	2552	0-1	2011.05.03
+Abergel, T.	2506	Rapport, R.	2552	0-1	2011.05.03
+Jakovljevic, Vlado	2390	Rapport, R.	2552	0-1	2011.05.03
+Bandic, A.	2210	Rapport, R.	2552	0-1	2011.05.03
+Istvanovszki, M.	2297	Rapport, R.	2552	0-1	2011.05.20
+Zenelis, K.	2179	Rapport, R.	2545	0-1	2011.07.03
+Krokay, U.	1940	Rapport, R.	2545	0-1	2011.07.30
+Skovgaard, T.	2013	Rapport, R.	2545	0-1	2011.07.30
+Rewitz, P.	2309	Rapport, R.	2545	0-1	2011.07.30
+Khenkin, I.	2620	Rapport, R.	2545	0-1	2011.07.30
+Berry, N.	2327	Rapport, R.	2547	0-1	2011.09.25
+Michalik, P.	2511	Rapport, R.	2547	0-1	2011.10.08
+Petr, Ma	2526	Rapport, R.	2547	0-1	2011.10.08
+Tripoteau, N.	2397	Rapport, R.	2547	0-1	2011.10.08
+Galoyan, Le	2231	Rapport, R.	2534	0-1	2011.12.21
+Poetsch, H.	2408	Rapport, R.	2534	0-1	2011.12.21
+Kovchan, A.	2573	Rapport, R.	2534	1-0	2011.12.21
+Duda, Jan-Krzysztof	2729	Rapport, Richard	2763	0-1	Thu Apr 29 2021
+Shankland, Sam	2609	Rapport, Richard	2724	0-1	2021.08.11
+Caruana, Fabiano	2758	Rapport, Richard	2724	0-1	2021.08.13
+Dominguez Perez, Leinier	2654	Rapport, Richard	2776	0-1	2021.08.14
+Shankland, Sam	2704	Rapport, Richard	2776	0-1	2021.08.15
+Svidler, Peter	2743	Rapport, Richard	2776	0-1	2021.08.15
+Mamedyarov, Shakhriyar	2755	Rapport, Richard	2776	0-1	2021.08.15
+Tari, Aryan	2642	Rapport, Richard	2760	0-1	2021.09.07
+Bodrozic, Tomislav	2358	Rapport, Richard	2770	0-1	2021.10.17
+Sarana, Alexey	2689	Rapport, Richard	2754	0-1	2021.11.10
+Sarana, Alexey	2689	Rapport, Richard	2754	0-1	2021.11.10
+Sarana, Alexey	2689	Rapport, Richard	2754	0-1	2021.11.10
+Sarana, Alexey	2689	Rapport, Richard	2754	0-1	2021.11.10
+Sarana, Alexey	2689	Rapport, Richard	2754	1-0	2021.11.10
+Sarana, Alexey	2689	Rapport, Richard	2754	0-1	2021.11.10
+Sarana, Alexey	2689	Rapport, Richard	2754	1-0	2021.11.10
+Sarana, Alexey	2689	Rapport, Richard	2754	1-0	2021.11.10
+Sarana, Alexey	2689	Rapport, Richard	2754	0-1	2021.11.10
+Sarana, Alexey	2689	Rapport, Richard	2754	1-0	2021.11.10
+Nihal, Sarin	2667	Rapport, Richard	2754	1-0	2021.12.02
+Nihal, Sarin	2667	Rapport, Richard	2754	1-0	2021.12.02
+Nihal, Sarin	2667	Rapport, Richard	2754	1-0	2021.12.02
+Nihal, Sarin	2667	Rapport, Richard	2754	1-0	2021.12.02
+Nihal, Sarin	2667	Rapport, Richard	2754	1-0	2021.12.02
+Nihal, Sarin	2667	Rapport, Richard	2754	1-0	2021.12.02
+Wei, Yi	2732	Rapport, Richard	2763	1/2-1/2	Thu Apr 29 2021
+Yu, Yangyi	2709	Rapport, Richard	2763	1/2-1/2	Fri Apr 30 2021
+Yu, Yangyi	2709	Rapport, Richard	2763	1/2-1/2	Sat May 01 2021
+Aronian, Levon	2778	Rapport, Richard	2727	1/2-1/2	2021.06.19
+Firouzja, Alireza	2703	Rapport, Richard	2727	1/2-1/2	2021.06.19
+Radjabov, Teimour	2758	Rapport, Richard	2727	1/2-1/2	2021.06.20
+Kramnik, Vladimir	2797	Rapport, Richard	2759	1/2-1/2	2021.06.22
+Radjabov, Teimour	2757	Rapport, Richard	2759	1/2-1/2	2021.06.21
+Vachier-Lagrave, Maxime	2822	Rapport, Richard	2759	1/2-1/2	2021.06.21
+Nepomniachtchi, Ian	2785	Rapport, Richard	2759	1/2-1/2	2021.06.21
+Caruana, Fabiano	2711	Rapport, Richard	2759	1/2-1/2	2021.06.21
+Mamedyarov, Shakhriyar	2756	Rapport, Richard	2724	1/2-1/2	2021.08.13
+So, Wesley	2774	Rapport, Richard	2724	1/2-1/2	2021.08.12
+So, Wesley	2861	Rapport, Richard	2776	1/2-1/2	2021.08.14
+Nakamura, Hikaru	2900	Rapport, Richard	2776	1/2-1/2	2021.08.15
+Caruana, Fabiano	2734	Rapport, Richard	2776	1/2-1/2	2021.08.16
+Xiong, Jeffery	2710	Rapport, Richard	2763	1/2-1/2	2021.08.17
+So, Wesley	2772	Rapport, Richard	2763	1/2-1/2	2021.08.21
+Shankland, Sam	2709	Rapport, Richard	2763	1/2-1/2	2021.08.23
+Swiercz, Dariusz	2655	Rapport, Richard	2763	1/2-1/2	2021.08.25
+Karjakin, Sergey	2758	Rapport, Richard	2760	1/2-1/2	2021.09.08
+Karjakin, Sergey	2758	Rapport, Richard	2760	1/2-1/2	2021.09.08
+Nepomniachtchi, Ian	2792	Rapport, Richard	2760	1/2-1/2	2021.09.12
+Nihal, Sarin	2667	Rapport, Richard	2754	0-1	2021.12.02
+Nihal, Sarin	2667	Rapport, Richard	2754	0-1	2021.12.02
+Rapport, Richard	0	Khenkin, Igor	0	1/2-1/2	Sat Feb 08 2020
+Rapport, Richard	0	Kempinski, Robert	0	1-0	Sun Feb 09 2020
+Nabaty, Tamir	0	Rapport, Richard	0	0-1	Sun Feb 23 2020
+Rapport, Richard	2759	Grischuk, Alexander	2777	1/2-1/2	Thu Dec 03 2020
+Ding, Liren	2791	Rapport, Richard	2759	0-1	Thu Dec 03 2020
+Rapport, Richard	2759	Yu, Yangyi	2709	1-0	Mon Dec 07 2020
+Grischuk, Alexander	2777	Rapport, Richard	2759	1/2-1/2	Mon Dec 07 2020
+Rapport, Richard	2759	Ding, Liren	2791	1/2-1/2	Mon Dec 07 2020
+Rapport, Richard	2759	Wei, Yi	2732	1/2-1/2	Sat Dec 05 2020
+Wang, Hao	2763	Rapport, Richard	2759	1/2-1/2	Sat Dec 05 2020
+Topalov, Veselin	2735	Rapport, Richard	2759	1/2-1/2	Sat Dec 05 2020
+Rapport, Richard	2759	Giri, Anish	2764	1/2-1/2	Fri Dec 04 2020
+Yu, Yangyi	2709	Rapport, Richard	2759	0-1	Fri Dec 04 2020
+Rapport, Richard	2759	Topalov, Veselin	2735	1-0	Tue Dec 08 2020
+Giri, Anish	2764	Rapport, Richard	2759	1/2-1/2	Tue Dec 08 2020
+Rapport, Richard	2759	Wang, Hao	2763	1/2-1/2	Wed Dec 09 2020
+Kovalenko, Igor	2647	Rapport, Richard	2770	1/2-1/2	2021.10.14
+Bogner, Sebastian	2572	Rapport, Richard	2770	1/2-1/2	2021.10.15
+Sarana, Alexey	2689	Rapport, Richard	2754	1/2-1/2	2021.11.10
+Sarana, Alexey	2689	Rapport, Richard	2754	1/2-1/2	2021.11.10
+Nihal, Sarin	2667	Rapport, Richard	2754	1/2-1/2	2021.12.02
+Nihal, Sarin	2667	Rapport, Richard	2754	1/2-1/2	2021.12.02
+Nihal, Sarin	2667	Rapport, Richard	2754	1/2-1/2	2021.12.02
+Nihal, Sarin	2667	Rapport, Richard	2754	1/2-1/2	2021.12.02
+Nihal, Sarin	2667	Rapport, Richard	2754	1/2-1/2	2021.12.02
+Rapport, Richard	0	Kraemer, Martin	0	1-0	Sat Nov 23 2019
+Rapport, Richard	0	Ma, Qun	0	1-0	Fri Aug 23 2019
+Rapport, Richard	0	Buckels, Valentin	0	1-0	Sun Dec 08 2019
+Rapport,R	2731	Van Foreest,Jorden	2612	1-0	2019.01.12
+Rapport,R	2735	Shankland,S	2731	1-0	2019.02.20
+Rapport,R	2735	Shankland,S	2731	1-0	2019.02.20
+Rapport,R	2735	Shankland,S	2731	1-0	2019.02.20
+Rapport,R	2735	Shankland,S	2731	1-0	2019.02.23
+Rapport,R	2735	Shankland,S	2731	1-0	2019.02.23
+Rapport,R	2735	Shankland,S	2731	1-0	2019.02.23
+Rapport,R	2735	Shankland,S	2731	1-0	2019.02.23
+Rapport,R	2735	Shankland,S	2731	1-0	2019.02.23
+Rapport,R	2735	Shankland,S	2731	1-0	2019.02.23
+Rapport,R	2738	Laznicka,V	2670	1-0	2019.03.06
+Rapport,R	2726	Harikrishna,P	2723	1-0	2019.04.17
+Rapport,R	2736	Bu Xiangzhi	2729	1-0	2019.05.17
+Rapport,R	2736	Yu Yangyi	2739	1-0	2019.05.17
+Rapport,R	2736	Fedoseev,Vl3	2683	1-0	2019.05.17
+Rapport,R	2736	Le Quang Liem	2704	1-0	2019.05.17
+Rapport,R	2735	Amin,B	2707	1-0	2019.06.30
+Rapport,R	2735	Nepomniachtchi,I	2775	1-0	2019.07.13
+Rapport,R	2747	Aronian,L	2765	1-0	2019.08.10
+Rapport,R	2747	Vachier Lagrave,M	2778	1-0	2019.08.13
+Rapport,R	2747	Karjakin,Sergey	2750	1-0	2019.08.13
+Wei, Yi	2732	Rapport, Richard	2759	1/2-1/2	Wed Dec 09 2020
+Rapport, Richard	0	Mamedyarov, Shakhriyar	0	1/2-1/2	Sat Nov 16 2019
+Rapport, Richard	0	Wen, Yang	0	1/2-1/2	Thu Jul 25 2019
+Rapport, Richard	0	Lu, Shanglei	0	1/2-1/2	Fri Jul 26 2019
+Rapport, Richard	0	Ni, Hua	0	1/2-1/2	Wed Aug 21 2019
+Rapport,R	2731	Shankland,S	2725	1/2-1/2	2019.01.12
+Rapport,R	2731	Giri,A	2783	0-1	2019.01.12
+Rapport,R	2731	Kramnik,V	2777	1/2-1/2	2019.01.12
+Rapport,R	2735	Shankland,S	2731	0-1	2019.02.20
+Rapport,R	2735	Shankland,S	2731	0-1	2019.02.23
+Rapport,R	2735	Shankland,S	2731	0-1	2019.02.23
+Rapport,R	2735	Shankland,S	2731	0-1	2019.02.23
+Rapport,R	2735	Shankland,S	2731	0-1	2019.02.23
+Rapport,R	2738	Duda,J	2731	0-1	2019.03.06
+Rapport,R	2736	Gelfand,B	2676	0-1	2019.05.17
+Rapport,R	2736	Andreikin,D	2722	0-1	2019.05.14
+Rapport,R	2736	Korobov,A	2687	0-1	2019.05.14
+Rapport,R	2747	Caruana,F	2818	0-1	2019.08.10
+Rapport,R	2747	Carlsen,M	2882	0-1	2019.08.10
+Rapport,R	2747	Dominguez Perez,L	2763	0-1	2019.08.10
+Rapport,R	2747	Mamedyarov,S	2764	1-0	2019.08.13
+Rapport,R	2747	Caruana,F	2818	1-0	2019.08.13
+Rapport,R	2747	Yu Yangyi	2752	0-1	2019.08.13
+Rapport,R	2747	Dominguez Perez,L	2763	1-0	2019.08.13
+Rapport,R	2747	Aronian,L	2765	0-1	2019.08.13
+Rapport,R	2752	Hammer,J	2625	1-0	2019.11.10
+Rapport, Richard	2764	Firouzja, Alireza	2793	1/2-1/2	2022.06.18
+Rapport, Richard	2764	Nakamura, Hikaru	2760	1/2-1/2	2022.06.21
+Rapport, Richard	2764	Nepomniachtchi, Ian	2766	0-1	2022.06.25
+Rapport, Richard	2764	Duda, Jan-Krzysztof	2750	1-0	2022.06.26
+Firouzja, Alireza	2793	Rapport, Richard	2764	1-0	2022.06.27
+Mamedyarov, Shakhriyar	2699	Rapport, Richard	2802	1-0	2022.07.10
+Rapport, Richard	2802	Erigaisi, Arjun	2450	1-0	2022.07.10
+Rapport, Richard	2802	Duda, Jan-Krzysztof	2808	1/2-1/2	2022.07.10
+Xiong, Jeffery	2725	Rapport, Richard	2802	0-1	2022.07.11
+Rapport, Richard	2802	Giri, Anish	2721	1/2-1/2	2022.07.11
+Ju, Wenjun	2610	Rapport, Richard	2802	1-0	2022.07.11
+Rapport, Richard	2802	Tari, Aryan	2531	1-0	2022.07.11
+Rapport, Richard	2802	Wojtaszek, Radoslaw	2636	1/2-1/2	2022.07.13
+Rapport, Richard	2802	Aronian, Levon	2728	1/2-1/2	2022.07.12
+Niemann, Hans Moke	2529	Rapport, Richard	2802	0-1	2022.07.12
+Rapport, Richard	2802	Wei, Yi	2752	1-0	2022.07.13
+Shankland, Sam	2616	Rapport, Richard	2802	0-1	2022.07.13
+Rapport, Richard	2802	Xiong, Jeffery	2725	0-1	2022.07.14
+Xiong, Jeffery	2725	Rapport, Richard	2802	0-1	2022.07.14
+Rapport, Richard	2802	Xiong, Jeffery	2725	1/2-1/2	2022.07.14
+Xiong, Jeffery	2714	Rapport, Richard	2613	0-1	2022.07.14
+Rapport, Richard	2613	Xiong, Jeffery	2714	1-0	2022.07.14
+Rapport, Richard	2802	Wei, Yi	2752	0-1	2022.07.15
+Wei, Yi	2752	Rapport, Richard	2802	1-0	2022.07.15
+Rapport, Richard	2764	Ostrovskiy, Aleksandr	2392	0-1	2022.07.25

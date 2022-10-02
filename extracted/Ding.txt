@@ -1,0 +1,1251 @@
+White	White ELO	Black	Black ELO	Result	Date
+Ding, Liren	2791	Dominguez Perez, Leinier	2758	1-0	Sat Feb 06 2021
+Ding, Liren	2791	Vidit, Santosh Gujrathi	2726	1-0	Sun Feb 07 2021
+Ding, Liren	2791	Carlsen, Magnus	2862	1-0	Mon Feb 08 2021
+Ding, Liren	2791	Grischuk, Alexander	2777	1-0	Sat Apr 24 2021
+Ding, Liren	2791	Nepomniachtchi, Ian	2789	1-0	Tue Apr 27 2021
+Ding, Liren	2799	Pichot, Alan	2630	1-0	Sun May 23 2021
+Ding, Liren	2799	Grischuk, Alexander	2776	1-0	Sun May 23 2021
+Ding, Liren	2836	Artemiev, Vladislav	2757	1-0	2021.06.26
+Ding, Liren	2836	Svidler, Peter	2742	1-0	2021.06.27
+Ding, Liren	2836	Duda, Jan-Krzysztof	2774	1-0	2021.06.30
+Ding, Liren	2836	Artemiev, Vladislav	2757	1-0	2021.07.02
+Ding, Liren	2836	Artemiev, Vladislav	2757	1-0	2021.07.01
+Ding, Liren	2836	Carlsen, Magnus	2881	1-0	2021.07.04
+Ding, Liren	2836	Carlsen, Magnus	2881	1-0	2021.07.04
+Ding, Liren	2836	Batchuluun, Tsegmed	2445	1-0	2021.09.08
+Ding, Liren	2836	Duda, Jan-Krzysztof	2801	1-0	2021.09.13
+Ding, Liren	2836	Sethuraman, S.P.	2556	1-0	2021.10.16
+Ding, Liren	2836	Giri, Anish	2767	1-0	2021.10.17
+Nakamura, Hikaru	2760	Ding, Liren	2806	1/2-1/2	2022.06.23
+Nepomniachtchi, Ian	2766	Ding, Liren	2806	1/2-1/2	2022.06.26
+Martinez Alcantara, Jose Eduardo	2645	Ding, Liren	2836	1/2-1/2	2022.08.19
+Maghsoodloo, Parham	2589	Ding, Liren	2836	1/2-1/2	2022.08.20
+So, Wesley	2784	Ding, Liren	2836	1/2-1/2	2022.08.20
+Esipenko, Andrey	2694	Ding, Liren	2836	1/2-1/2	2022.09.24
+Esipenko, Andrey	2694	Ding, Liren	2836	1/2-1/2	2022.09.24
+Ding, Liren	0	So, Wesley	0	0-1	Sat Nov 23 2019
+Ding, Liren	0	Vidit, Santosh Gujrathi	0	0-1	Mon Nov 25 2019
+Ding, Liren	0	Harikrishna, P.	0	0-1	Tue Nov 26 2019
+Ding, Liren	0	Vachier-Lagrave, Maxime	0	0-1	Sun Dec 08 2019
+Ding Liren	2813	Smirnov,Ant	2569	0-1	2019.01.08
+Ding Liren	2805	Wei Yi	2736	0-1	2019.05.08
+Ding Liren	2805	Nepomniachtchi,I	2773	0-1	2019.05.11
+Ding Liren	2805	So,W	2754	0-1	2019.05.11
+Ding Liren	2805	Anand,V	2774	0-1	2019.05.25
+Ding Liren	2805	Yu Yangyi	2738	0-1	2019.06.03
+Ding Liren	2805	Vachier Lagrave,M	2779	0-1	2019.06.03
+Ding Liren	2805	Carlsen,M	2875	0-1	2019.06.26
+Ding Liren	2805	Yu Yangyi	2752	0-1	2019.08.13
+Ding Liren	2805	Aronian,L	2765	0-1	2019.08.13
+Ding Liren	2811	Shankland,S	2705	0-1	2019.09.02
+Ding Liren	2811	Movsesian,S	2654	1-0	2019.09.10
+Ding Liren	2811	Press,S	1954	1-0	2019.09.10
+Ding Liren	2811	Alekseenko,K	2671	1-0	2019.09.10
+Ding Liren	2811	Firouzja,Alireza	2702	1-0	2019.09.10
+Ding Liren	2811	Grischuk,A	2759	1-0	2019.09.10
+Ding Liren	2811	Yu Yangyi	2763	1-0	2019.09.10
+Ding Liren	2811	Radjabov,T	2758	1-0	2019.09.10
+Ding Liren	2811	Nepomniachtchi,I	2776	1-0	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	1-0	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	1-0	2019.09.02
+Ding, Liren	0	Anand, Viswanathan	0	1/2-1/2	Fri Nov 22 2019
+Ding, Liren	0	Vidit, Santosh Gujrathi	0	1/2-1/2	Fri Nov 22 2019
+Ding, Liren	0	Aronian, Levon	0	1/2-1/2	Sat Nov 23 2019
+Ding, Liren	0	Giri, Anish	0	1/2-1/2	Sun Nov 24 2019
+Ding, Liren	0	Nakamura, Hikaru	0	1/2-1/2	Mon Nov 25 2019
+Ding, Liren	0	Nepomniachtchi, Ian	0	1/2-1/2	Mon Nov 25 2019
+Ding, Liren	0	Anand, Viswanathan	0	1/2-1/2	Mon Nov 25 2019
+Ding, Liren	0	So, Wesley	0	1/2-1/2	Tue Nov 26 2019
+Ding, Liren	0	Giri, Anish	0	1/2-1/2	Tue Nov 26 2019
+Ding, Liren	0	Aronian, Levon	0	1/2-1/2	Tue Dec 03 2019
+Ding, Liren	0	Aronian, Levon	0	1/2-1/2	Wed Dec 04 2019
+Ding, Liren	0	Vachier-Lagrave, Maxime	0	1/2-1/2	Sun Dec 08 2019
+Ding Liren	2813	Carlsen,M	2835	1/2-1/2	2019.01.12
+Ding Liren	2813	Vidit,S	2695	1/2-1/2	2019.01.12
+Ding Liren	2813	Fedoseev,Vl3	2724	1/2-1/2	2019.01.12
+Ding Liren	2813	Radjabov,T	2757	1/2-1/2	2019.01.12
+Ding Liren	2813	Nepomniachtchi,I	2763	1/2-1/2	2019.01.12
+Ding Liren	2813	Anand,V	2773	1/2-1/2	2019.01.12
+Ding Liren	2811	Shankland,S	2705	0-1	2019.09.02
+Ding Liren	2811	Radjabov,T	2758	0-1	2019.09.10
+Ding Liren	2811	Nepomniachtchi,I	2776	0-1	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	0-1	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	0-1	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	0-1	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	0-1	2019.09.02
+Ding Liren	2813	Mamedyarov,S	2817	1/2-1/2	2019.01.12
+Ding Liren	2813	Caruana,F	2828	1/2-1/2	2019.01.08
+Ding Liren	2812	Karjakin,Sergey	2753	1/2-1/2	2019.03.05
+Ding Liren	2812	Maghsoodloo,Parham	2673	1/2-1/2	2019.03.05
+Ding Liren	2812	Anand,V	2779	1/2-1/2	2019.03.31
+Ding Liren	2812	Carlsen,M	2845	1/2-1/2	2019.03.31
+Ding Liren	2812	Giri,A	2797	1/2-1/2	2019.03.31
+Ding Liren	2809	Rapport,R	2726	1/2-1/2	2019.04.17
+Ding Liren	2809	Giri,A	2797	1/2-1/2	2019.04.17
+Ding Liren	2809	Yu Yangyi	2751	1/2-1/2	2019.04.17
+Ding Liren	2805	Topalov,V	2740	1/2-1/2	2019.05.08
+Ding Liren	2805	Carlsen,M	2861	1/2-1/2	2019.05.11
+Ding Liren	2805	Wei Yi	2736	1/2-1/2	2019.05.11
+Ding Liren	2805	Nakamura,Hi	2761	1/2-1/2	2019.05.11
+Ding Liren	2805	Vachier Lagrave,M	2780	1/2-1/2	2019.05.11
+Ding Liren	2805	Carlsen,M	2861	1/2-1/2	2019.05.25
+Ding Liren	2805	Grischuk,A	2775	1/2-1/2	2019.06.03
+Ding Liren	2805	Anand,V	2767	1/2-1/2	2019.06.03
+Ding Liren	2805	So,W	2754	1/2-1/2	2019.06.04
+Ding Liren	2805	Aronian,L	2752	1/2-1/2	2019.06.04
+Ding Liren	2805	Aronian,L	2752	1/2-1/2	2019.06.04
+Ding Liren	2805	Grischuk,A	2775	1/2-1/2	2019.06.04
+Ding Liren	2805	Grischuk,A	2775	1/2-1/2	2019.06.04
+Ding Liren	2805	Navara,D	2734	1/2-1/2	2019.06.17
+Ding Liren	2805	Navara,D	2734	1/2-1/2	2019.06.17
+Ding Liren	2805	Karjakin,Sergey	2748	1/2-1/2	2019.06.26
+Ding Liren	2805	Nakamura,Hi	2754	1/2-1/2	2019.06.26
+Ding Liren	2805	Aronian,L	2752	1/2-1/2	2019.06.26
+Ding Liren	2812	Andreikin,D	2727	1/2-1/2	2019.07.15
+Ding Liren	2812	Andreikin,D	2727	1/2-1/2	2019.07.15
+Ding Liren	2805	Rapport,R	2747	1/2-1/2	2019.08.10
+Ding Liren	2805	Karjakin,Sergey	2750	1/2-1/2	2019.08.10
+Ding Liren	2805	Caruana,F	2818	1/2-1/2	2019.08.10
+Ding Liren	2805	So,W	2776	1/2-1/2	2019.08.17
+Ding Liren	2805	Karjakin,Sergey	2750	1/2-1/2	2019.08.13
+Ding Liren	2805	Mamedyarov,S	2764	1/2-1/2	2019.08.13
+Ding Liren	2805	Vachier Lagrave,M	2778	1/2-1/2	2019.08.17
+Ding Liren	2805	Anand,V	2756	1/2-1/2	2019.08.17
+Ding Liren	2805	Mamedyarov,S	2764	1/2-1/2	2019.08.17
+Ding Liren	2805	Carlsen,M	2882	1/2-1/2	2019.08.29
+Ding Liren	2811	Shankland,S	2705	1/2-1/2	2019.09.02
+Ding Liren	2811	Shankland,S	2705	1/2-1/2	2019.09.02
+Ding Liren	2811	Shankland,S	2705	1/2-1/2	2019.09.02
+Ding Liren	2811	Shankland,S	2705	1/2-1/2	2019.09.02
+Ding Liren	2811	Shankland,S	2705	1/2-1/2	2019.09.02
+Ding Liren	2811	Shankland,S	2705	1/2-1/2	2019.09.02
+Ding Liren	2811	Shankland,S	2705	1/2-1/2	2019.09.02
+Ding Liren	2811	Movsesian,S	2654	1/2-1/2	2019.09.10
+Ding Liren	2811	Alekseenko,K	2671	1/2-1/2	2019.09.10
+Ding Liren	2811	Firouzja,Alireza	2702	1/2-1/2	2019.09.10
+Carlsen, Magnus	0	Ding, Liren	0	1-0	Sun Nov 24 2019
+Aronian, Levon	0	Ding, Liren	0	1-0	Mon Nov 25 2019
+Aronian, Levon	0	Ding, Liren	0	1-0	Wed Dec 04 2019
+Vachier-Lagrave, Maxime	0	Ding, Liren	0	1-0	Sun Dec 08 2019
+Vachier-Lagrave, Maxime	0	Ding, Liren	0	1-0	Sun Dec 08 2019
+Adly,A	2611	Ding Liren	2813	1-0	2019.01.08
+Navara,D	2739	Ding Liren	2812	1-0	2019.03.31
+Harikrishna,P	2723	Ding Liren	2809	1-0	2019.04.17
+Nakamura,Hi	2761	Ding Liren	2805	1-0	2019.05.08
+Nakamura,Hi	2761	Ding Liren	2805	1-0	2019.05.11
+Ding Liren	2811	Yu Yangyi	2763	1/2-1/2	2019.09.10
+Ding Liren	2811	Radjabov,T	2758	1/2-1/2	2019.09.10
+Ding Liren	2811	Radjabov,T	2758	1/2-1/2	2019.09.10
+Ding Liren	2811	Radjabov,T	2758	1/2-1/2	2019.09.10
+Ding Liren	2811	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Ding Liren	2811	Nepomniachtchi,I	2776	1/2-1/2	2019.09.02
+Ding Liren	2801	Wang Hao	2756	1/2-1/2	2019.12.22
+Ding Liren	2801	Bu Xiangzhi	2705	1/2-1/2	2019.12.22
+Ding Liren	2801	Yu Yangyi	2738	1/2-1/2	2019.12.22
+Ding Liren	2801	Bu Xiangzhi	2705	1/2-1/2	2019.12.23
+Carlsen, Magnus	0	Ding, Liren	0	0-1	Mon Nov 25 2019
+Harikrishna, P.	0	Ding, Liren	0	0-1	Mon Nov 25 2019
+Nepomniachtchi, Ian	0	Ding, Liren	0	0-1	Sat Nov 23 2019
+Nepomniachtchi,I	2773	Ding Liren	2805	1-0	2019.05.11
+Amin,B	2704	Ding Liren	2805	1-0	2019.05.11
+Yu Yangyi	2738	Ding Liren	2805	1-0	2019.06.04
+Anand,V	2767	Ding Liren	2805	1-0	2019.06.04
+Carlsen,M	2875	Ding Liren	2805	1-0	2019.06.04
+Vachier Lagrave,M	2779	Ding Liren	2805	1-0	2019.06.04
+So,W	2754	Ding Liren	2805	1-0	2019.06.26
+Andreikin,D	2727	Ding Liren	2812	1-0	2019.07.15
+Vachier Lagrave,M	2778	Ding Liren	2805	1-0	2019.08.10
+Carlsen,M	2882	Ding Liren	2805	1-0	2019.08.13
+Shankland,S	2705	Ding Liren	2811	1-0	2019.09.02
+Shankland,S	2705	Ding Liren	2811	1-0	2019.09.02
+Shankland,S	2705	Ding Liren	2811	1-0	2019.09.02
+Radjabov,T	2758	Ding Liren	2811	1-0	2019.09.10
+Radjabov,T	2758	Ding Liren	2811	1-0	2019.09.10
+Nepomniachtchi,I	2776	Ding Liren	2811	1-0	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1-0	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1-0	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1-0	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1-0	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1-0	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1-0	2019.09.02
+Li, Di	0	Ding, Liren	0	0-1	Fri Jul 26 2019
+Nepomniachtchi, Ian	0	Ding, Liren	0	0-1	Tue Nov 26 2019
+Aronian, Levon	0	Ding, Liren	0	0-1	Wed Dec 04 2019
+Aronian, Levon	0	Ding, Liren	0	0-1	Wed Dec 04 2019
+Van Foreest,Jorden	2612	Ding Liren	2813	0-1	2019.01.12
+Flores Rios,M	2529	Ding Liren	2813	0-1	2019.01.08
+Bartholomew,J	2439	Ding Liren	2813	0-1	2019.01.08
+Shankland,S	2725	Ding Liren	2813	0-1	2019.01.12
+Topalov,V	2740	Ding Liren	2812	0-1	2019.03.31
+Amin,B	2704	Ding Liren	2805	0-1	2019.05.08
+Karjakin,Sergey	2752	Ding Liren	2805	0-1	2019.05.11
+Mamedyarov,S	2774	Ding Liren	2805	0-1	2019.06.03
+Navara,D	2734	Ding Liren	2805	0-1	2019.06.17
+Giri,A	2779	Ding Liren	2805	0-1	2019.06.26
+Vachier Lagrave,M	2778	Ding Liren	2805	0-1	2019.08.13
+Karjakin,Sergey	2750	Ding Liren	2805	0-1	2019.08.13
+Caruana,F	2818	Ding Liren	2805	0-1	2019.08.13
+Carlsen,M	2882	Ding Liren	2805	0-1	2019.08.29
+Shankland,S	2705	Ding Liren	2811	0-1	2019.09.02
+Shankland,S	2705	Ding Liren	2811	0-1	2019.09.02
+Shankland,S	2705	Ding Liren	2811	0-1	2019.09.02
+Shankland,S	2705	Ding Liren	2811	0-1	2019.09.02
+Shankland,S	2705	Ding Liren	2811	0-1	2019.09.02
+Press,S	1954	Ding Liren	2811	0-1	2019.09.10
+Alekseenko,K	2671	Ding Liren	2811	0-1	2019.09.10
+Harikrishna, P.	0	Ding, Liren	0	1/2-1/2	Fri Nov 22 2019
+Nakamura, Hikaru	0	Ding, Liren	0	1/2-1/2	Sun Nov 24 2019
+So, Wesley	0	Ding, Liren	0	1/2-1/2	Mon Nov 25 2019
+Giri, Anish	0	Ding, Liren	0	1/2-1/2	Mon Nov 25 2019
+Wang, Hao	0	Ding, Liren	0	1/2-1/2	Wed Jul 24 2019
+Vidit, Santosh Gujrathi	0	Ding, Liren	0	1/2-1/2	Tue Nov 26 2019
+Nakamura, Hikaru	0	Ding, Liren	0	1/2-1/2	Tue Nov 26 2019
+Anand, Viswanathan	0	Ding, Liren	0	1/2-1/2	Tue Nov 26 2019
+Aronian, Levon	0	Ding, Liren	0	1/2-1/2	Mon Dec 02 2019
+Vachier-Lagrave, Maxime	0	Ding, Liren	0	1/2-1/2	Sun Dec 08 2019
+Vachier-Lagrave, Maxime	0	Ding, Liren	0	1/2-1/2	Fri Dec 06 2019
+Giri,A	2783	Ding Liren	2813	1/2-1/2	2019.01.12
+Kramnik,V	2777	Ding Liren	2813	1/2-1/2	2019.01.12
+Duda,J	2738	Ding Liren	2813	1/2-1/2	2019.01.12
+Rapport,R	2731	Ding Liren	2813	1/2-1/2	2019.01.12
+Naroditsky,D	2616	Ding Liren	2813	1/2-1/2	2019.01.08
+Adhiban,Baskaran	2689	Ding Liren	2813	1/2-1/2	2019.01.08
+Le Quang Liem	2714	Ding Liren	2813	1/2-1/2	2019.01.08
+Swiercz,D	2655	Ding Liren	2812	1/2-1/2	2019.03.05
+Adhiban,Baskaran	2683	Ding Liren	2812	1/2-1/2	2019.03.05
+Amin,B	2709	Ding Liren	2812	1/2-1/2	2019.03.05
+Jumabayev,R	2609	Ding Liren	2812	1/2-1/2	2019.03.05
+Firouzja,Alireza	2702	Ding Liren	2811	0-1	2019.09.10
+Nepomniachtchi,I	2776	Ding Liren	2811	0-1	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	0-1	2019.09.02
+Karjakin,Sergey	2753	Ding Liren	2812	1/2-1/2	2019.03.31
+Radjabov,T	2756	Ding Liren	2812	1/2-1/2	2019.03.31
+Mamedyarov,S	2790	Ding Liren	2812	1/2-1/2	2019.03.31
+Yu Yangyi	2751	Ding Liren	2809	1/2-1/2	2019.04.17
+Rapport,R	2726	Ding Liren	2809	1/2-1/2	2019.04.17
+Giri,A	2797	Ding Liren	2809	1/2-1/2	2019.04.17
+Jakovenko,D	2719	Ding Liren	2809	1/2-1/2	2019.04.17
+Vachier Lagrave,M	2780	Ding Liren	2805	1/2-1/2	2019.05.08
+So,W	2754	Ding Liren	2805	1/2-1/2	2019.05.08
+Carlsen,M	2861	Ding Liren	2805	1/2-1/2	2019.05.08
+So,W	2754	Ding Liren	2805	1/2-1/2	2019.05.11
+Vachier Lagrave,M	2780	Ding Liren	2805	1/2-1/2	2019.05.11
+Carlsen,M	2861	Ding Liren	2805	1/2-1/2	2019.05.11
+Wei Yi	2736	Ding Liren	2805	1/2-1/2	2019.05.11
+Topalov,V	2740	Ding Liren	2805	1/2-1/2	2019.05.11
+Anand,V	2774	Ding Liren	2805	1/2-1/2	2019.05.25
+Karjakin,Sergey	2752	Ding Liren	2805	1/2-1/2	2019.05.25
+Carlsen,M	2861	Ding Liren	2805	1/2-1/2	2019.05.25
+Carlsen,M	2875	Ding Liren	2805	1/2-1/2	2019.06.03
+Caruana,F	2819	Ding Liren	2805	1/2-1/2	2019.06.03
+Aronian,L	2752	Ding Liren	2805	1/2-1/2	2019.06.03
+Yu Yangyi	2738	Ding Liren	2805	1/2-1/2	2019.06.04
+Anand,V	2767	Ding Liren	2805	1/2-1/2	2019.06.04
+Carlsen,M	2875	Ding Liren	2805	1/2-1/2	2019.06.04
+Vachier Lagrave,M	2779	Ding Liren	2805	1/2-1/2	2019.06.04
+Navara,D	2734	Ding Liren	2805	1/2-1/2	2019.06.17
+Navara,D	2734	Ding Liren	2805	1/2-1/2	2019.06.17
+Navara,D	2734	Ding Liren	2805	1/2-1/2	2019.06.17
+Navara,D	2734	Ding Liren	2805	1/2-1/2	2019.06.17
+Vachier Lagrave,M	2779	Ding Liren	2805	1/2-1/2	2019.06.26
+Anand,V	2767	Ding Liren	2805	1/2-1/2	2019.06.26
+Caruana,F	2819	Ding Liren	2805	1/2-1/2	2019.06.26
+Mamedyarov,S	2774	Ding Liren	2805	1/2-1/2	2019.06.26
+Andreikin,D	2727	Ding Liren	2812	1/2-1/2	2019.07.15
+Mamedyarov,S	2764	Ding Liren	2805	1/2-1/2	2019.08.10
+Dominguez Perez,L	2763	Ding Liren	2805	1/2-1/2	2019.08.10
+Aronian,L	2765	Ding Liren	2805	1/2-1/2	2019.08.10
+Karjakin,Sergey	2750	Ding Liren	2805	1/2-1/2	2019.08.17
+Yu Yangyi	2752	Ding Liren	2805	1/2-1/2	2019.08.13
+Aronian,L	2765	Ding Liren	2805	1/2-1/2	2019.08.13
+Rapport,R	2747	Ding Liren	2805	1/2-1/2	2019.08.13
+Mamedyarov,S	2764	Ding Liren	2805	1/2-1/2	2019.08.13
+Dominguez Perez,L	2763	Ding Liren	2805	1/2-1/2	2019.08.13
+Nakamura,Hi	2743	Ding Liren	2805	1/2-1/2	2019.08.17
+Nepomniachtchi,I	2774	Ding Liren	2805	1/2-1/2	2019.08.17
+Carlsen,M	2882	Ding Liren	2805	1/2-1/2	2019.08.17
+Aronian,L	2765	Ding Liren	2805	1/2-1/2	2019.08.17
+Carlsen,M	2882	Ding Liren	2805	1/2-1/2	2019.08.29
+Shankland,S	2705	Ding Liren	2811	1/2-1/2	2019.09.02
+Shankland,S	2705	Ding Liren	2811	1/2-1/2	2019.09.02
+Ding, Liren	2791	Bluebaum, Matthias	2670	1/2-1/2	Sat Feb 06 2021
+Ding, Liren	2791	Grischuk, Alexander	2777	0-1	Sun Feb 07 2021
+Ding, Liren	2836	Duda, Jan-Krzysztof	2774	0-1	2021.06.28
+Ding, Liren	2836	Duda, Jan-Krzysztof	2774	0-1	2021.06.30
+Ding, Liren	2836	Vidit, Santosh Gujrathi	2639	0-1	2021.10.13
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	0-1	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1-0	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1-0	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1-0	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	0-1	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1-0	2021.11.09
+Ding, Liren	2799	Lu, Shanglei	2616	1-0	2021.11.25
+Ding, Liren	2788	Aronian, Levon	2740	1-0	2021.12.06
+Ding, Liren	2788	Aronian, Levon	2740	1-0	2021.12.06
+Ding, Liren	2788	Aronian, Levon	2740	0-1	2021.12.06
+Ding, Liren	2788	Aronian, Levon	2740	1-0	2021.12.06
+Ding, Liren	2788	Aronian, Levon	2740	0-1	2021.12.06
+Ding, Liren	2788	Aronian, Levon	2740	1-0	2021.12.06
+Ding, Liren	2788	Aronian, Levon	2740	1-0	2021.12.06
+Ding, Liren	2788	Aronian, Levon	2740	0-1	2021.12.06
+Ding, Liren	2788	Aronian, Levon	2740	1-0	2021.12.06
+Ding, Liren	2788	Aronian, Levon	2740	0-1	2021.12.06
+Ding, Liren	2788	Aronian, Levon	2740	1-0	2021.12.06
+Ding, Liren	2788	Aronian, Levon	2740	0-1	2021.12.06
+Ding, Liren	2788	Aronian, Levon	2740	1-0	2021.12.06
+Shankland,S	2705	Ding Liren	2811	1/2-1/2	2019.09.02
+Shankland,S	2705	Ding Liren	2811	1/2-1/2	2019.09.02
+Shankland,S	2705	Ding Liren	2811	1/2-1/2	2019.09.02
+Shankland,S	2705	Ding Liren	2811	1/2-1/2	2019.09.02
+Shankland,S	2705	Ding Liren	2811	1/2-1/2	2019.09.02
+Movsesian,S	2654	Ding Liren	2811	1/2-1/2	2019.09.10
+Firouzja,Alireza	2702	Ding Liren	2811	1/2-1/2	2019.09.10
+Movsesian,S	2654	Ding Liren	2811	1/2-1/2	2019.09.10
+Alekseenko,K	2671	Ding Liren	2811	1/2-1/2	2019.09.10
+Grischuk,A	2759	Ding Liren	2811	1/2-1/2	2019.09.10
+Radjabov,T	2758	Ding Liren	2811	1/2-1/2	2019.09.10
+Yu Yangyi	2763	Ding Liren	2811	1/2-1/2	2019.09.10
+Yu Yangyi	2763	Ding Liren	2811	1/2-1/2	2019.09.10
+Radjabov,T	2758	Ding Liren	2811	1/2-1/2	2019.09.10
+Radjabov,T	2758	Ding Liren	2811	1/2-1/2	2019.09.10
+Nepomniachtchi,I	2776	Ding Liren	2811	1/2-1/2	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1/2-1/2	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1/2-1/2	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1/2-1/2	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1/2-1/2	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1/2-1/2	2019.09.02
+Nepomniachtchi,I	2776	Ding Liren	2811	1/2-1/2	2019.09.02
+Bu Xiangzhi	2705	Ding Liren	2801	1/2-1/2	2019.12.22
+Yu Yangyi	2738	Ding Liren	2801	1/2-1/2	2019.12.22
+Wang Hao	2756	Ding Liren	2801	1/2-1/2	2019.12.22
+Ding Liren	2769	Caruana, F.	2784	1/2-1/2	2018.03.10
+Ding Liren	2769	Karjakin, Sergey	2763	1/2-1/2	2018.03.10
+Ding Liren	2769	Aronian, L.	2794	1/2-1/2	2018.03.10
+Ding Liren	2769	Mamedyarov, S.	2809	1/2-1/2	2018.03.10
+Ding Liren	2769	Kramnik, V.	2800	1/2-1/2	2018.03.10
+Ding Liren	2769	So, W.	2799	1/2-1/2	2018.03.10
+Ding Liren	2769	Grischuk, A.	2767	1/2-1/2	2018.03.10
+Ding Liren	2778	Vidit, S.	2707	1-0	2018.04.07
+Ding Liren	2778	Shankland, S.	2671	1-0	2018.04.07
+Ding Liren	2778	Dubov, Daniil	2696	1-0	2018.04.07
+Ding Liren	2778	Ma Qun	2645	1-0	2018.04.11
+Ding Liren	2778	Mamedov, Rau	2704	1-0	2018.04.19
+Ding Liren	2791	Karjakin, Sergey	2782	1-0	2018.05.27
+Ding Liren	2791	Caruana, F.	2822	0-1	2018.05.27
+Ding Liren	2791	Anand, V.	2760	0-1	2018.05.27
+Ding Liren	2791	So, W.	2778	0-1	2018.05.27
+Ding Liren	2791	Cheparinov, I.	2705	1-0	2018.04.11
+Ding Liren	2791	Zeng, C.	2540	1-0	2018.04.11
+Ding Liren	2797	Topalov, V.	2747	1-0	2018.08.11
+Ding, Liren	2816	Yu, Yangyi	2764	1-0	2018.11.04
+Ding, Liren	2804	Svidler, Peter	2756	1-0	2018.10.12
+Ding, Liren	2804	Saric, Ivan	2689	1-0	2018.09.24
+Ding, Liren	2816	Wojtaszek, Radoslaw	2749	1-0	2018.11.04
+Ding, Liren	2804	Duda, Jan-Krzysztof	2739	1-0	2018.09.24
+Ding, Liren	2804	Efimenko, Zahar	2641	1-0	2018.10.12
+Mamedyarov, S.	2809	Ding Liren	2769	0-1	2018.03.10
+Ding Liren	2778	Bacrot, E.	2718	1/2-1/2	2018.04.07
+Bacrot, E.	2718	Ding Liren	2778	0-1	2018.04.07
+Ding Liren	2778	Duda, J.	2724	1/2-1/2	2018.04.07
+Dubov, Daniil	2696	Ding Liren	2778	1-0	2018.04.07
+Liu Guanchu	2459	Ding Liren	2778	0-1	2018.04.11
+Ding Liren	2778	Radjabov, T.	2748	1/2-1/2	2018.04.19
+Ding Liren	2778	Wojtaszek, R.	2744	1/2-1/2	2018.04.19
+Ding Liren	2778	Topalov, V.	2749	1/2-1/2	2018.04.19
+Ding Liren	2778	Mamedyarov, S.	2814	1/2-1/2	2018.04.19
+Navara, D.	2745	Ding Liren	2778	0-1	2018.04.19
+Ding Liren	2791	Aronian, L.	2764	1/2-1/2	2018.05.27
+Mamedyarov, S.	2808	Ding Liren	2791	1-0	2018.05.27
+Ding Liren	2791	Vachier Lagrave, M.	2789	1/2-1/2	2018.05.28
+Lin, Yi	2365	Ding Liren	2791	0-1	2018.04.11
+Topalov, V.	2747	Ding Liren	2797	0-1	2018.08.11
+Ding Liren	2797	Topalov, V.	2747	1/2-1/2	2018.08.11
+Cordova, Emilio	2609	Ding, Liren	2804	0-1	2018.09.24
+Ding, Liren	2816	Vitiugov, Nikita	2709	1/2-1/2	2018.11.04
+Ding, Liren	2804	Navara, David	2740	1/2-1/2	2018.09.24
+Ding, Liren	2804	Giri, Anish	2780	1/2-1/2	2018.09.24
+Ding, Liren	2816	Vachier-Lagrave, Maxime	2778	1/2-1/2	2018.11.04
+Ding, Liren	2816	Giri, Anish	2780	1/2-1/2	2018.11.04
+Ding, Liren	2804	Werle, Jan	2527	1/2-1/2	2018.10.12
+Vachier-Lagrave, Maxime	2778	Ding, Liren	2816	1-0	2018.11.04
+Aronian, L.	2794	Ding Liren	2769	1/2-1/2	2018.03.10
+So, W.	2799	Ding Liren	2769	1/2-1/2	2018.03.10
+Kramnik, V.	2800	Ding Liren	2769	1/2-1/2	2018.03.10
+Grischuk, A.	2767	Ding Liren	2769	1/2-1/2	2018.03.10
+Caruana, F.	2784	Ding Liren	2769	1/2-1/2	2018.03.10
+Karjakin, Sergey	2763	Ding Liren	2769	1/2-1/2	2018.03.10
+Shankland, S.	2671	Ding Liren	2778	1/2-1/2	2018.04.07
+Duda, J.	2724	Ding Liren	2778	1/2-1/2	2018.04.07
+Vidit, S.	2707	Ding Liren	2778	1/2-1/2	2018.04.07
+Karjakin, Sergey	2778	Ding Liren	2778	1/2-1/2	2018.04.19
+Giri, A.	2777	Ding Liren	2778	1/2-1/2	2018.04.19
+Carlsen, M.	2843	Ding Liren	2778	1/2-1/2	2018.04.19
+Nakamura, Hi	2769	Ding Liren	2791	1/2-1/2	2018.05.28
+Nakamura, Hi	2769	Ding Liren	2791	1/2-1/2	2018.05.27
+Vachier Lagrave, M.	2789	Ding Liren	2791	1/2-1/2	2018.05.27
+Carlsen, M.	2843	Ding Liren	2791	1/2-1/2	2018.05.27
+Anand, V.	2760	Ding Liren	2791	1/2-1/2	2018.05.28
+Topalov, V.	2747	Ding Liren	2797	1/2-1/2	2018.08.11
+Carlsen, Magnus	2839	Ding, Liren	2804	1/2-1/2	2018.10.12
+Caruana, Fabiano	2827	Ding, Liren	2804	1/2-1/2	2018.09.24
+Giri, Anish	2780	Ding, Liren	2816	1/2-1/2	2018.11.04
+Gorodetzky, David	2452	Ding, Liren	2804	0-1	2018.10.12
+Maghsoodloo, Parham	2649	Ding, Liren	2804	1/2-1/2	2018.09.24
+Mamedyarov, Shakhriyar	2820	Ding, Liren	2804	1/2-1/2	2018.09.24
+Vitiugov, Nikita	2709	Ding, Liren	2816	1/2-1/2	2018.11.04
+Ding Liren	2760	Aronian, L.	2785	1-0	2017.02.18
+Ding Liren	2759	Svidler, P.	2741	1-0	2017.03.23
+Ding Liren	2759	Yu Yangyi	2750	1-0	2017.03.23
+Ding Liren	2759	Li, Yankai	2392	1-0	2017.04.18
+Ding Liren	2773	Inarkiev, E.	2727	1-0	2017.05.12
+Ding Liren	2783	Urkedal, F.	2541	1-0	2017.06.17
+Ding Liren	2783	Ponomariov, R.	2712	1-0	2017.06.17
+Ding Liren	2771	Haddouche, M.	2487	1-0	2017.09.03
+Ding Liren	2781	Lin Chen	2449	1-0	2017.04.18
+Ding Liren	2771	Vidit, S.	2702	1-0	2017.09.03
+Ding Liren	2771	Rapport, R.	2675	1-0	2017.09.03
+Ding Liren	2771	Wang Hao	2701	1-0	2017.09.03
+Ding Liren	2772	Stevic, H.	2616	1-0	2017.10.08
+Ding Liren	2774	Zeng, C.	2546	1-0	2017.04.18
+Ding Liren	2777	Andreikin, D.	2712	1-0	2017.12.10
+Ding Liren	2777	Le Quang Liem	2737	1-0	2017.12.14
+Ding Liren	2777	Mamedov, Rau	2709	1-0	2017.12.12
+Ding Liren	2777	Ivanchuk, V.	2726	1-0	2017.12.12
+Ding Liren	2777	Le Quang Liem	2737	1-0	2017.12.12
+Ding Liren	2777	Mamedyarov, S.	2799	1-0	2017.12.12
+Ding Liren	2777	Jumabayev, R.	2612	1-0	2017.12.26
+Ding Liren	2777	Bocharov, D.	2583	1-0	2017.12.26
+Wang, Hao	2722	Ding, Liren	2804	1/2-1/2	2018.10.12
+Wojtaszek, Radoslaw	2749	Ding, Liren	2816	1/2-1/2	2018.11.04
+Yu, Yangyi	2764	Ding, Liren	2816	1/2-1/2	2018.11.04
+Ding Liren	2760	Rapport, R.	2692	0-1	2017.02.18
+Ding Liren	2771	Aronian, L.	2802	0-1	2017.09.03
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.11
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.12
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.12
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.13
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.13
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.13
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.14
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.14
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.14
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.14
+Ding Liren	2774	Carlsen, M.	2837	0-1	2017.11.14
+Ding Liren	2777	Mamedyarov, S.	2799	0-1	2017.12.10
+Ding Liren	2777	Korobov, A.	2652	0-1	2017.12.14
+Ding Liren	2777	Andreikin, D.	2712	0-1	2017.12.12
+Ding Liren	2777	Grischuk, A.	2772	0-1	2017.12.12
+Ding Liren	2777	Yu Yangyi	2751	0-1	2017.12.12
+Ding Liren	2777	Wang Hao	2709	0-1	2017.12.12
+Ding Liren	2777	Jobava, Ba	2690	1-0	2017.12.29
+Ding Liren	2777	Khismatullin, D.	2632	1-0	2017.12.29
+Ding Liren	2777	Amonatov, F.	2636	1-0	2017.12.29
+Ding Liren	2777	Sjugirov, S.	2650	1-0	2017.12.29
+Ding, Liren	2777	Li, Di	2462	1-0	2017.04.18
+Ding, Liren	2777	Wang, Yiye	2442	1-0	2017.04.18
+Ding Liren	2760	Hammer, J.	2628	1/2-1/2	2017.02.18
+Ding Liren	2760	Nakamura, Hi	2785	1/2-1/2	2017.02.18
+Ding Liren	2760	Nepomniachtchi, I.	2749	1/2-1/2	2017.02.18
+Ding Liren	2759	Harikrishna, P.	2758	1/2-1/2	2017.03.23
+Ding Liren	2759	Giri, A.	2769	1/2-1/2	2017.03.23
+Ding Liren	2759	Adams, Mi	2761	1/2-1/2	2017.03.23
+Ding Liren	2773	Svidler, P.	2755	1/2-1/2	2017.05.12
+Ding Liren	2773	Vachier Lagrave, M.	2795	1/2-1/2	2017.05.12
+Ding Liren	2773	Giri, A.	2785	1/2-1/2	2017.05.12
+Ding Liren	2773	Ma Qun	2637	1/2-1/2	2017.04.18
+Ding Liren	2783	Zhigalko, S.	2635	1/2-1/2	2017.06.17
+Ding Liren	2783	Vidit, S.	2692	1/2-1/2	2017.06.17
+Ding Liren	2781	Le Quang Liem	2726	1/2-1/2	2017.07.09
+Ding Liren	2781	Wei Yi	2738	1/2-1/2	2017.07.09
+Ding Liren	2781	Yu Yangyi	2753	1/2-1/2	2017.07.09
+Ding Liren	2781	Naiditsch, A.	2712	1/2-1/2	2017.07.09
+Ding Liren	2781	Zhao Jun	2606	1/2-1/2	2017.04.18
+Ding Liren	2771	Vidit, S.	2702	1/2-1/2	2017.09.03
+Ding Liren	2771	Kravtsiv, M.	2670	1/2-1/2	2017.09.03
+Ding Liren	2771	Kravtsiv, M.	2670	1/2-1/2	2017.09.03
+Ding Liren	2771	So, W.	2792	1/2-1/2	2017.09.03
+Ding Liren	2777	Meier, Geo	2650	0-1	2017.12.29
+Ding Liren	2777	Petrosian, TL.	2601	0-1	2017.12.29
+Ding Liren	2777	Carlsen, M.	2837	0-1	2017.12.29
+Ding, Liren	2777	Giri, Anish	2772	0-1	2017.08.08
+Ding Liren	2771	So, W.	2792	1/2-1/2	2017.09.03
+Ding Liren	2771	So, W.	2792	1/2-1/2	2017.09.03
+Ding Liren	2771	Aronian, L.	2802	1/2-1/2	2017.09.03
+Ding Liren	2771	Aronian, L.	2802	1/2-1/2	2017.09.03
+Ding Liren	2772	Lodici, Lorenzo	2407	1/2-1/2	2017.10.08
+Ding Liren	2772	Nisipeanu, LD.	2672	1/2-1/2	2017.10.08
+Ding Liren	2772	Kramnik, V.	2794	1/2-1/2	2017.10.08
+Ding Liren	2774	Carlsen, M.	2837	1/2-1/2	2017.11.11
+Ding Liren	2774	Carlsen, M.	2837	1/2-1/2	2017.11.12
+Ding Liren	2774	Carlsen, M.	2837	1/2-1/2	2017.11.13
+Ding Liren	2774	Carlsen, M.	2837	1/2-1/2	2017.11.14
+Ding Liren	2774	Eljanov, P.	2707	1/2-1/2	2017.11.16
+Ding Liren	2774	Aronian, L.	2801	1/2-1/2	2017.11.16
+Ding Liren	2774	Vallejo Pons, F.	2705	1/2-1/2	2017.11.16
+Ding Liren	2774	Giri, A.	2762	1/2-1/2	2017.11.16
+Ding Liren	2777	Zhao Zong Yuan	2543	1/2-1/2	2017.04.18
+Ding Liren	2777	Zhou Jianchao	2597	1/2-1/2	2017.04.18
+Ding Liren	2777	Ivanchuk, V.	2726	1/2-1/2	2017.12.10
+Ding Liren	2777	Harikrishna, P.	2744	1/2-1/2	2017.12.14
+Ding Liren	2777	Mamedyarov, S.	2799	1/2-1/2	2017.12.14
+Ding Liren	2777	Wang Hao	2709	1/2-1/2	2017.12.14
+Ding Liren	2777	Korobov, A.	2652	1/2-1/2	2017.12.12
+Ding Liren	2777	Artemiev, V.	2691	1/2-1/2	2017.12.12
+Ding Liren	2777	Harikrishna, P.	2744	1/2-1/2	2017.12.12
+Ding Liren	2777	Saric, Iv	2669	1/2-1/2	2017.12.26
+Salem, AR.	2656	Ding Liren	2760	0-1	2017.02.18
+Harikrishna, P.	2758	Ding Liren	2759	0-1	2017.03.23
+Fang, Yuxiang	2498	Ding Liren	2759	0-1	2017.04.18
+Ivanchuk, V.	2729	Ding Liren	2781	1-0	2017.07.09
+Aronian, L.	2802	Ding Liren	2771	1-0	2017.09.03
+Carlsen, M.	2837	Ding Liren	2774	1-0	2017.11.12
+Carlsen, M.	2837	Ding Liren	2774	1-0	2017.11.13
+Carlsen, M.	2837	Ding Liren	2774	1-0	2017.11.13
+Carlsen, M.	2837	Ding Liren	2774	1-0	2017.11.13
+Carlsen, M.	2837	Ding Liren	2774	1-0	2017.11.14
+Korobov, A.	2652	Ding Liren	2777	1-0	2017.12.14
+Ivanchuk, V.	2726	Ding Liren	2777	1-0	2017.12.12
+Grischuk, A.	2772	Ding Liren	2777	1-0	2017.12.12
+Artemiev, V.	2691	Ding Liren	2777	1-0	2017.12.12
+Pantsulaia, L.	2612	Ding Liren	2777	1-0	2017.12.26
+Ding Liren	2777	Leko, P.	2691	1/2-1/2	2017.12.26
+Ding Liren	2777	Li Chao2	2732	1/2-1/2	2017.12.26
+Ding Liren	2777	Harikrishna, P.	2744	1/2-1/2	2017.12.26
+Ding Liren	2777	Svidler, P.	2765	1/2-1/2	2017.12.26
+Ding Liren	2777	Ponkratov, P.	2613	1/2-1/2	2017.12.29
+Ding Liren	2777	Vachier Lagrave, M.	2789	1/2-1/2	2017.12.29
+Ding Liren	2777	Karjakin, Sergey	2760	1/2-1/2	2017.12.29
+Ding Liren	2777	Melkumyan, H.	2633	1/2-1/2	2017.12.29
+Ding, Liren	2777	Xu, Zhihang	2369	1/2-1/2	2017.04.18
+Ding, Liren	2777	Giri, Anish	2772	1/2-1/2	2017.08.08
+Hou Yifan	2652	Ding Liren	2773	0-1	2017.05.12
+Gelfand, B.	2724	Ding Liren	2773	0-1	2017.05.12
+Lu Shanglei	2638	Ding Liren	2781	0-1	2017.07.09
+Ponomariov, R.	2699	Ding Liren	2781	0-1	2017.07.09
+Malakhov, V.	2722	Ding Liren	2781	0-1	2017.07.09
+Kravtsiv, M.	2670	Ding Liren	2771	0-1	2017.09.03
+So, W.	2792	Ding Liren	2771	0-1	2017.09.03
+Vocaturo, D.	2607	Ding Liren	2772	0-1	2017.10.08
+Tari, A.	2578	Ding Liren	2772	0-1	2017.10.08
+Bai, Jinshi	2553	Ding Liren	2774	0-1	2017.04.18
+Carlsen, M.	2837	Ding Liren	2774	0-1	2017.11.13
+Carlsen, M.	2837	Ding Liren	2774	0-1	2017.11.14
+Inarkiev, E.	2683	Ding Liren	2774	0-1	2017.11.16
+Mamedov, Rau	2709	Ding Liren	2777	0-1	2017.12.10
+Wang Hao	2709	Ding Liren	2777	0-1	2017.12.14
+Korobov, A.	2652	Ding Liren	2777	0-1	2017.12.12
+Mamedov, Rau	2709	Ding Liren	2777	0-1	2017.12.12
+Andreikin, D.	2712	Ding Liren	2777	0-1	2017.12.12
+Adhiban, Baskaran	2655	Ding Liren	2777	0-1	2017.12.26
+Volokitin, And	2628	Ding Liren	2777	0-1	2017.12.26
+Onischuk, V.	2637	Ding Liren	2777	0-1	2017.12.29
+Vallejo Pons, F.	2707	Ding Liren	2777	0-1	2017.12.29
+Le Quang Liem	2737	Ding Liren	2777	0-1	2017.12.29
+Vidit, S.	2715	Ding Liren	2777	0-1	2017.12.29
+Grischuk, A.	2772	Ding Liren	2777	0-1	2017.12.29
+Ding, Liren	2791	So, Wesley	2770	1/2-1/2	Mon Feb 08 2021
+Ding, Liren	2791	Vachier-Lagrave, Maxime	2758	1/2-1/2	Tue Apr 20 2021
+Ding, Liren	2836	Mamedyarov, Shakhriyar	2761	1/2-1/2	Tue May 25 2021
+Ding, Liren	2836	Caruana, Fabiano	2773	1/2-1/2	Tue May 25 2021
+Ding, Liren	2799	Carlsen, Magnus	2847	1/2-1/2	Mon May 24 2021
+Ding, Liren	2799	Firouzja, Alireza	2759	1/2-1/2	Mon May 24 2021
+Ding, Liren	2836	Aronian, Levon	2778	1/2-1/2	2021.06.26
+Ding, Liren	2836	Gukesh, D	1927	1/2-1/2	2021.06.26
+Ding, Liren	2836	Vidit, Santosh Gujrathi	2636	1/2-1/2	2021.06.27
+Ding, Liren	2836	Hou, Yifan	2621	1/2-1/2	2021.06.27
+Ding, Liren	2836	Carlsen, Magnus	2881	1/2-1/2	2021.06.28
+Ding, Liren	2836	Duda, Jan-Krzysztof	2774	1/2-1/2	2021.06.29
+Ding, Liren	2836	Duda, Jan-Krzysztof	2774	1/2-1/2	2021.06.29
+Ding, Liren	2836	Carlsen, Magnus	2881	1/2-1/2	2021.07.03
+Ding, Liren	2836	Artemiev, Vladislav	2757	1/2-1/2	2021.07.02
+Ding, Liren	2788	Artemiev, Vladislav	2783	1/2-1/2	2021.07.02
+Ding, Liren	2836	Carlsen, Magnus	2881	1/2-1/2	2021.07.03
+Ding, Liren	2788	Carlsen, Magnus	2886	1/2-1/2	2021.07.04
+Ding, Liren	2836	Hovhannisyan, Robert	2613	1/2-1/2	2021.09.10
+Ding, Liren	2836	Dubov, Daniil	2735	1/2-1/2	2021.09.14
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1/2-1/2	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1/2-1/2	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1/2-1/2	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1/2-1/2	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1/2-1/2	2021.11.09
+Li Chao2	2720	Ding Liren	2760	1/2-1/2	2017.02.18
+Hou Yifan	2651	Ding Liren	2760	1/2-1/2	2017.02.18
+Jakovenko, D.	2709	Ding Liren	2760	1/2-1/2	2017.02.18
+Giri, A.	2769	Ding Liren	2759	1/2-1/2	2017.03.23
+Yu Yangyi	2750	Ding Liren	2759	1/2-1/2	2017.03.23
+Adams, Mi	2761	Ding Liren	2759	1/2-1/2	2017.03.23
+Svidler, P.	2741	Ding Liren	2759	1/2-1/2	2017.03.23
+Xu, Xiangyu	2503	Ding Liren	2759	1/2-1/2	2017.04.18
+Li Chao2	2720	Ding Liren	2759	1/2-1/2	2017.04.18
+Radjabov, T.	2710	Ding Liren	2773	1/2-1/2	2017.05.12
+Nakamura, Hi	2786	Ding Liren	2773	1/2-1/2	2017.05.12
+Mamedyarov, S.	2772	Ding Liren	2773	1/2-1/2	2017.05.12
+Shankland, S.	2676	Ding Liren	2783	1/2-1/2	2017.06.17
+Wojtaszek, R.	2730	Ding Liren	2783	1/2-1/2	2017.06.17
+Nepomniachtchi, I.	2732	Ding Liren	2783	1/2-1/2	2017.06.17
+Solak, D.	2641	Ding Liren	2783	1/2-1/2	2017.06.17
+Wang Hao	2698	Ding Liren	2781	1/2-1/2	2017.07.09
+Haddouche, M.	2487	Ding Liren	2771	1/2-1/2	2017.09.03
+Zhang, Ziji	2394	Ding Liren	2781	1/2-1/2	2017.04.18
+Grischuk, A.	2761	Ding Liren	2781	1/2-1/2	2017.04.18
+Vidit, S.	2702	Ding Liren	2771	1/2-1/2	2017.09.03
+Vidit, S.	2702	Ding Liren	2771	1/2-1/2	2017.09.03
+Kravtsiv, M.	2670	Ding Liren	2771	1/2-1/2	2017.09.03
+Rapport, R.	2675	Ding Liren	2771	1/2-1/2	2017.09.03
+Li, Yankai	2455	Ding, Liren	2777	0-1	2017.04.18
+Wang Hao	2701	Ding Liren	2771	1/2-1/2	2017.09.03
+So, W.	2792	Ding Liren	2771	1/2-1/2	2017.09.03
+So, W.	2792	Ding Liren	2771	1/2-1/2	2017.09.03
+Aronian, L.	2802	Ding Liren	2771	1/2-1/2	2017.09.03
+Aronian, L.	2802	Ding Liren	2771	1/2-1/2	2017.09.03
+Inarkiev, E.	2693	Ding Liren	2772	1/2-1/2	2017.10.08
+Carlsen, M.	2837	Ding Liren	2774	1/2-1/2	2017.11.11
+Carlsen, M.	2837	Ding Liren	2774	1/2-1/2	2017.11.11
+Carlsen, M.	2837	Ding Liren	2774	1/2-1/2	2017.11.12
+Carlsen, M.	2837	Ding Liren	2774	1/2-1/2	2017.11.12
+Wang Hao	2706	Ding Liren	2774	1/2-1/2	2017.04.18
+Carlsen, M.	2837	Ding Liren	2774	1/2-1/2	2017.11.14
+Carlsen, M.	2837	Ding Liren	2774	1/2-1/2	2017.11.14
+Carlsen, M.	2837	Ding Liren	2774	1/2-1/2	2017.11.14
+Carlsen, M.	2837	Ding Liren	2774	1/2-1/2	2017.11.14
+Riazantsev, A.	2651	Ding Liren	2774	1/2-1/2	2017.11.16
+Svidler, P.	2763	Ding Liren	2774	1/2-1/2	2017.11.16
+Tomashevsky, E.	2702	Ding Liren	2774	1/2-1/2	2017.11.16
+Nakamura, Hi	2780	Ding Liren	2774	1/2-1/2	2017.11.16
+Wei Yi	2743	Ding Liren	2777	1/2-1/2	2017.04.18
+Artemiev, V.	2691	Ding Liren	2777	1/2-1/2	2017.12.10
+Wang Hao	2709	Ding Liren	2777	1/2-1/2	2017.12.10
+Korobov, A.	2652	Ding Liren	2777	1/2-1/2	2017.12.10
+Zhao Jun	2604	Ding Liren	2777	1/2-1/2	2017.04.18
+Harikrishna, P.	2744	Ding Liren	2777	1/2-1/2	2017.12.14
+Ding Liren	2778	So, W.	2775	1-0	2016.05.04
+Ding Liren	2766	Karjakin, Sergey	2769	1-0	2016.01.16
+Ding Liren	2766	Adams, Mi	2744	1-0	2016.01.16
+Ding Liren	2766	Eljanov, P.	2760	1-0	2016.01.16
+Ding Liren	2766	Tomashevsky, E.	2728	1-0	2016.03.02
+Ding Liren	2766	Wang Yue	2718	1-0	2016.02.28
+Ding Liren	2777	Li, Di	2420	1-0	2016.04.12
+Mamedyarov, S.	2799	Ding Liren	2777	1/2-1/2	2017.12.14
+Le Quang Liem	2737	Ding Liren	2777	1/2-1/2	2017.12.14
+Le Quang Liem	2737	Ding Liren	2777	1/2-1/2	2017.12.12
+Wang Hao	2709	Ding Liren	2777	1/2-1/2	2017.12.12
+Harikrishna, P.	2744	Ding Liren	2777	1/2-1/2	2017.12.12
+Yu Yangyi	2751	Ding Liren	2777	1/2-1/2	2017.12.12
+Mamedyarov, S.	2799	Ding Liren	2777	1/2-1/2	2017.12.12
+Salgado Lopez, I.	2644	Ding Liren	2777	1/2-1/2	2017.12.26
+Kravtsiv, M.	2672	Ding Liren	2777	1/2-1/2	2017.12.26
+Cheparinov, I.	2710	Ding Liren	2777	1/2-1/2	2017.12.26
+Yu Yangyi	2751	Ding Liren	2777	1/2-1/2	2017.12.26
+Malakhov, V.	2686	Ding Liren	2777	1/2-1/2	2017.12.29
+Wang Hao	2709	Ding Liren	2777	1/2-1/2	2017.12.29
+Anand, V.	2782	Ding Liren	2777	1/2-1/2	2017.12.29
+Nepomniachtchi, I.	2729	Ding Liren	2777	1/2-1/2	2017.12.29
+Yu Yangyi	2751	Ding Liren	2777	1/2-1/2	2017.12.29
+Giri, Anish	2772	Ding, Liren	2777	1/2-1/2	2017.08.08
+Giri, Anish	2772	Ding, Liren	2777	1/2-1/2	2017.08.08
+Ding Liren	2766	Mamedov, Rau	2650	0-1	2016.02.28
+Ding Liren	2766	Wang Hao	2717	0-1	2016.02.28
+Ding Liren	2766	Navara, D.	2734	0-1	2016.02.28
+Ding Liren	2766	Dominguez Perez, L.	2732	0-1	2016.02.28
+Ding Liren	2766	Movsesian, S.	2653	1-0	2016.02.28
+Ding Liren	2766	Li Chao2	2751	1-0	2016.02.28
+Ding Liren	2766	Mamedyarov, S.	2747	1-0	2016.02.28
+Ding Liren	2766	Tomashevsky, E.	2728	1-0	2016.02.28
+Ding Liren	2766	Ivanchuk, V.	2710	0-1	2016.02.28
+Ding Liren	2766	Wojtaszek, R.	2727	1-0	2016.02.28
+Ding Liren	2766	Ponomariov, R.	2712	1-0	2016.02.28
+Ding Liren	2766	Wang Yue	2718	1-0	2016.02.26
+Ding Liren	2778	Bu Xiangzhi	2723	1-0	2016.07.08
+Ding Liren	2778	Yu Yangyi	2734	1-0	2016.07.08
+Ding Liren	2777	Zhao, Chenxi	2035	1-0	2016.04.12
+Ding Liren	2755	Svidler, P.	2751	1-0	2016.08.05
+Ding Liren	2753	Rodgaard, J.	2345	1-0	2016.09.02
+Ding Liren	2753	Nguyen Ngoc Truong Son	2633	1-0	2016.09.02
+Ding Liren	2777	Bu Xiangzhi	2719	1-0	2016.04.12
+Ding Liren	2777	Zhang Zhong	2634	1-0	2016.04.12
+Ding Liren	2764	Lauber, A.	2434	1-0	2016.11.06
+Ding Liren	2764	Wang Yue	2723	1-0	2016.11.27
+Ding Liren	2764	Lu Shanglei	2616	1-0	2016.11.27
+Ding Liren	2777	Liu, Yan	2413	1-0	2016.04.12
+Ding Liren	2777	Bai, Jinshi	2564	1-0	2016.04.12
+Ding Liren	2766	Van Wely, L.	2640	1/2-1/2	2016.01.16
+Ding Liren	2777	Malakhov, V.	2695	1/2-1/2	2016.04.12
+Ding Liren	2777	Inarkiev, E.	2729	1/2-1/2	2016.04.12
+Ding Liren	2778	So, W.	2775	1/2-1/2	2016.05.04
+Ding Liren	2766	Wei Yi	2706	1/2-1/2	2016.01.16
+Ding Liren	2766	Navara, D.	2730	1/2-1/2	2016.01.16
+Ding Liren	2766	Hou Yifan	2673	1/2-1/2	2016.01.16
+Ding Liren	2766	Mamedyarov, S.	2747	1/2-1/2	2016.03.02
+Ding Liren	2766	Dominguez Perez, L.	2732	1/2-1/2	2016.03.02
+Ding Liren	2766	Ponomariov, R.	2712	1/2-1/2	2016.03.02
+Ding Liren	2766	Ivanchuk, V.	2710	1/2-1/2	2016.03.02
+Ding Liren	2766	Harikrishna, P.	2753	1/2-1/2	2016.02.28
+Ding Liren	2766	Fressinet, L.	2700	1/2-1/2	2016.02.28
+Ding Liren	2766	Sargissian, G.	2702	0-1	2016.02.28
+Ding Liren	2766	Sargissian, G.	2702	1/2-1/2	2016.02.26
+Ding Liren	2766	Mamedyarov, S.	2747	0-1	2016.02.26
+Ding Liren	2778	Wang Hao	2734	1/2-1/2	2016.07.08
+Ding Liren	2778	Leko, P.	2712	1/2-1/2	2016.07.08
+Ding Liren	2778	Grischuk, A.	2747	0-1	2016.07.19
+Ding Liren	2778	Grischuk, A.	2747	1/2-1/2	2016.07.19
+Ding Liren	2755	Aronian, L.	2792	1/2-1/2	2016.08.05
+Ding Liren	2755	So, W.	2771	1/2-1/2	2016.08.05
+Ding Liren	2755	Vachier Lagrave, M.	2819	1/2-1/2	2016.08.05
+Ding Liren	2755	Anand, V.	2770	1/2-1/2	2016.08.05
+Ding Liren	2764	Svidler, P.	2742	0-1	2016.11.06
+Tomashevsky, E.	2728	Ding Liren	2766	0-1	2016.01.16
+Caruana, F.	2787	Ding Liren	2766	1-0	2016.01.16
+Dominguez Perez, L.	2732	Ding Liren	2766	0-1	2016.03.02
+Tomashevsky, E.	2728	Ding Liren	2766	0-1	2016.03.02
+Ivanchuk, V.	2710	Ding Liren	2766	1-0	2016.02.28
+Ivanchuk, V.	2710	Ding Liren	2766	0-1	2016.03.02
+Li Chao2	2751	Ding Liren	2766	0-1	2016.02.28
+Mamedyarov, S.	2747	Ding Liren	2766	1-0	2016.02.28
+Chen, Qi b	2225	Ding Liren	2777	0-1	2016.04.12
+Liu, Chang	2376	Ding Liren	2777	0-1	2016.04.12
+Ponomariov, R.	2712	Ding Liren	2766	0-1	2016.02.28
+Wang Hao	2717	Ding Liren	2766	1-0	2016.02.28
+Nepomniachtchi, I.	2725	Ding Liren	2778	1-0	2016.07.08
+Harikrishna, P.	2755	Ding Liren	2778	1-0	2016.07.08
+Wang Chen	2514	Ding Liren	2777	1-0	2016.04.12
+Nakamura, Hi	2791	Ding Liren	2755	1-0	2016.08.05
+Topalov, V.	2761	Ding Liren	2755	1-0	2016.08.05
+Ding Liren	2753	Leitao, R.	2616	1/2-1/2	2016.09.02
+Ding Liren	2753	Ponomariov, R.	2709	1/2-1/2	2016.09.02
+Ding Liren	2753	Howell, D.	2665	1/2-1/2	2016.09.02
+Ding Liren	2753	Rapport, R.	2752	1/2-1/2	2016.09.02
+Ding Liren	2777	Zeng, C.	2549	1/2-1/2	2016.04.12
+Ding Liren	2777	Yu Ruiyuan	2516	1/2-1/2	2016.04.12
+Ding Liren	2764	Inarkiev, E.	2714	1/2-1/2	2016.11.06
+Ding Liren	2764	Xu, Yinglun	2527	1/2-1/2	2016.11.27
+Mamedyarov, S.	2747	Ding Liren	2766	1/2-1/2	2016.01.16
+Lin Chen	2526	Ding Liren	2777	1/2-1/2	2016.04.12
+So, W.	2775	Ding Liren	2778	1/2-1/2	2016.05.04
+So, W.	2775	Ding Liren	2778	1/2-1/2	2016.05.04
+So, W.	2773	Ding Liren	2766	1/2-1/2	2016.01.16
+Giri, A.	2798	Ding Liren	2766	1/2-1/2	2016.01.16
+Carlsen, M.	2844	Ding Liren	2766	1/2-1/2	2016.01.16
+Mamedyarov, S.	2747	Ding Liren	2766	1/2-1/2	2016.03.02
+Ponomariov, R.	2712	Ding Liren	2766	1/2-1/2	2016.03.02
+Sargissian, G.	2702	Ding Liren	2766	1/2-1/2	2016.02.28
+Tomashevsky, E.	2728	Ding Liren	2766	1/2-1/2	2016.02.28
+Zhao Jun	2634	Ding Liren	2777	1/2-1/2	2016.04.12
+Wojtaszek, R.	2727	Ding Liren	2766	0-1	2016.02.28
+Fressinet, L.	2700	Ding Liren	2766	0-1	2016.02.28
+Navara, D.	2734	Ding Liren	2766	0-1	2016.02.28
+Dominguez Perez, L.	2732	Ding Liren	2766	1/2-1/2	2016.02.28
+Movsesian, S.	2653	Ding Liren	2766	0-1	2016.02.28
+Harikrishna, P.	2753	Ding Liren	2766	0-1	2016.02.28
+Navara, D.	2734	Ding Liren	2766	0-1	2016.02.26
+Saraci, Nderim	2337	Ding Liren	2753	0-1	2016.09.02
+Rombaldoni, Ax	2567	Ding Liren	2753	0-1	2016.09.02
+Perez Ponsa, F.	2585	Ding Liren	2753	0-1	2016.09.02
+Zhao, Yuanhe	2313	Ding Liren	2777	0-1	2016.04.12
+Bogosavljevic, B.	2520	Ding Liren	2764	0-1	2016.11.06
+Yu, Kaifeng	2220	Ding Liren	2777	0-1	2016.04.12
+Ding Liren	2781	Wei Yi	2737	1-0	2015.11.20
+Ding Liren	2781	Bu Xiangzhi	2710	1-0	2015.11.20
+Ding Liren	2732	Jobava, Ba	2727	1-0	2015.01.10
+Ding Liren	2732	Saric, Iv	2666	1-0	2015.01.10
+Wang Yue	2718	Ding Liren	2766	1/2-1/2	2016.02.28
+Mamedov, Rau	2650	Ding Liren	2766	1/2-1/2	2016.02.28
+Wojtaszek, R.	2727	Ding Liren	2766	1/2-1/2	2016.02.26
+Wang Hao	2717	Ding Liren	2766	1/2-1/2	2016.02.26
+Ponomariov, R.	2712	Ding Liren	2766	1/2-1/2	2016.02.26
+Ivanchuk, V.	2728	Ding Liren	2778	1/2-1/2	2016.07.08
+Hou Yifan	2653	Ding Liren	2778	1/2-1/2	2016.07.08
+Wang Yue	2730	Ding Liren	2778	1/2-1/2	2016.07.08
+Grischuk, A.	2747	Ding Liren	2778	1/2-1/2	2016.07.19
+Grischuk, A.	2747	Ding Liren	2778	1/2-1/2	2016.07.19
+Giri, A.	2769	Ding Liren	2755	1/2-1/2	2016.08.05
+Caruana, F.	2807	Ding Liren	2755	1/2-1/2	2016.08.05
+Zhigalko, A.	2591	Ding Liren	2753	1/2-1/2	2016.09.02
+Wang Hao	2732	Ding Liren	2777	1/2-1/2	2016.04.12
+Malakhov, V.	2695	Ding Liren	2777	1/2-1/2	2016.04.12
+Kramnik, V.	2810	Ding Liren	2764	1/2-1/2	2016.11.06
+Zhou Jianchao	2635	Ding Liren	2764	1/2-1/2	2016.11.27
+Wei Yi	2706	Ding Liren	2764	1/2-1/2	2016.11.27
+Yu Yangyi	2721	Ding Liren	2764	1/2-1/2	2016.11.27
+Bu Xiangzhi	2698	Ding Liren	2764	1/2-1/2	2016.11.27
+Zhou Jianchao	2612	Ding Liren	2777	1/2-1/2	2016.04.12
+Ding Liren	2781	Wang Yue	2729	0-1	2015.11.20
+Ding Liren	2732	Caruana, F.	2820	0-1	2015.01.10
+Ding Liren	2732	Van Wely, L.	2667	1-0	2015.01.10
+Ding Liren	2755	Adhiban, Baskaran	2646	1-0	2015.03.02
+Ding Liren	2755	Lalith, B.	2556	0-1	2015.03.02
+Ding Liren	2755	Sasikiran, K.	2682	1-0	2015.03.02
+Ding Liren	2755	Sethuraman, S.	2623	0-1	2015.03.02
+Ding Liren	2755	Shankland, S.	2661	1-0	2015.04.19
+Ding Liren	2755	Amin, B.	2634	1-0	2015.04.19
+Ding Liren	2757	Wang Hao	2710	1-0	2015.05.18
+Ding Liren	2757	Liu Qingnan	2523	1-0	2015.05.18
+Ding Liren	2757	Wang Chen	2536	1-0	2015.05.18
+Ding Liren	2749	Wang Chen	2521	1-0	2015.07.02
+Ding Liren	2749	Yu Yangyi	2736	1-0	2015.07.02
+Ding Liren	2749	Lu Shanglei	2595	1-0	2015.07.02
+Ding Liren	2749	Gelfand, B.	2751	1-0	2015.07.16
+Ding Liren	2755	Xu, Xiangyu  CHN	2243	1-0	2015.04.10
+Ding Liren	2749	Karjakin, Sergey	2753	0-1	2015.07.29
+Ding Liren	2755	Xu, Yinglun	2443	1-0	2015.04.10
+Ding Liren	2755	Liu Qingnan	2510	1-0	2015.04.10
+Ding Liren	2770	Xu, Yinglun	2463	1-0	2015.08.29
+Ding Liren	2755	Ma Qun	2609	1-0	2015.04.10
+Ding, Liren	2782	Inarkiev, Ernesto	2660	1-0	2015.09.11
+Ding, Liren	2782	Wei, Yi	2734	1-0	2015.09.11
+Ding, Liren	2782	Guseinov, Gadir	2634	1-0	2015.09.11
+Lu Shanglei	2615	Ding Liren	2781	1-0	2015.11.24
+Ding Liren	2781	Lu Shanglei	2615	1/2-1/2	2015.11.24
+Ding Liren	2781	Wang Chen	2529	1/2-1/2	2015.11.20
+Ding Liren	2782	Anand, V.	2803	1/2-1/2	2015.10.26
+Ding Liren	2782	So, W.	2760	1/2-1/2	2015.10.26
+Ding Liren	2782	Giri, A.	2798	1/2-1/2	2015.10.26
+Ding Liren	2732	Ivanchuk, V.	2715	1/2-1/2	2015.01.10
+Vachier Lagrave, M.	2757	Ding Liren	2732	1-0	2015.01.10
+Ding Liren	2732	Carlsen, M.	2862	1/2-1/2	2015.01.10
+Giri, A.	2784	Ding Liren	2732	1-0	2015.01.10
+Ding Liren	2732	So, W.	2762	1/2-1/2	2015.01.10
+Ding Liren	2755	Ponomariov, R.	2713	1/2-1/2	2015.04.19
+Ding Liren	2755	Grischuk, A.	2794	1/2-1/2	2015.04.19
+Ding Liren	2755	Harikrishna, P.	2729	1/2-1/2	2015.04.19
+Ding Liren	2757	Zhou Jianchao	2589	1/2-1/2	2015.05.18
+Ding Liren	2755	Bu Xiangzhi	2681	1/2-1/2	2015.04.10
+Ding Liren	2749	Bruzon Batista, L.	2669	1/2-1/2	2015.07.02
+Ding Liren	2749	Wei Yi	2724	1/2-1/2	2015.07.02
+Ding Liren	2749	Gelfand, B.	2751	1/2-1/2	2015.07.16
+Ding Liren	2749	Karjakin, Sergey	2753	1/2-1/2	2015.07.29
+Ding Liren	2749	Karjakin, Sergey	2753	1/2-1/2	2015.07.29
+Ding Liren	2755	Wei Yi	2706	1/2-1/2	2015.04.10
+Ding, Liren	2782	Wei, Yi	2734	0-1	2015.09.11
+Ding, Liren	2782	Wei, Yi	2734	1/2-1/2	2015.09.11
+Ding, Liren	2782	Krnan, Tomas	2440	1/2-1/2	2015.09.11
+Aronian, Levon	2781	Ding, Liren	2791	1-0	Sat Feb 06 2021
+Shankland, Sam	2691	Ding, Liren	2791	1-0	Sat Feb 06 2021
+Duda, Jan-Krzysztof	2743	Ding, Liren	2791	1-0	Sat Feb 06 2021
+Nakamura, Hikaru	2736	Ding, Liren	2791	1-0	Sun Feb 07 2021
+Giri, Anish	2764	Ding, Liren	2791	1-0	Sun Feb 07 2021
+Dubov, Daniil	2710	Ding, Liren	2791	1-0	Mon Feb 08 2021
+Vachier-Lagrave, Maxime	2784	Ding, Liren	2791	1-0	Mon Feb 08 2021
+Giri, Anish	2776	Ding, Liren	2791	1-0	Fri Apr 23 2021
+Giri, Anish	2780	Ding, Liren	2799	1-0	Sun May 23 2021
+Radjabov, Teimour	2758	Ding, Liren	2836	1-0	Tue May 25 2021
+Nepomniachtchi, Ian	2778	Ding, Liren	2836	1-0	Tue May 25 2021
+Carlsen, Magnus	2881	Ding, Liren	2836	1-0	2021.07.03
+Artemiev, Vladislav	2757	Ding, Liren	2836	1-0	2021.07.02
+Artemiev, Vladislav	2757	Ding, Liren	2836	1-0	2021.07.02
+Artemiev, Vladislav	2783	Ding, Liren	2788	1-0	2021.07.02
+Carlsen, Magnus	2886	Ding, Liren	2788	1-0	2021.07.04
+Duda, Jan-Krzysztof	2801	Ding, Liren	2836	1-0	2021.09.13
+Dubov, Daniil	2735	Ding, Liren	2836	1-0	2021.09.14
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	1-0	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	1-0	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	1-0	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	1-0	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1/2-1/2	2021.11.09
+Ding, Liren	2788	Mamedyarov, Shakhriyar	2754	1/2-1/2	2021.11.09
+Ding, Liren	2799	Lu, Shanglei	2616	1/2-1/2	2021.11.23
+Wang Hao	2700	Ding Liren	2781	1/2-1/2	2015.11.20
+Ni Hua	2696	Ding Liren	2781	0-1	2015.11.20
+Anand, V.	2803	Ding Liren	2782	1/2-1/2	2015.10.26
+Giri, A.	2798	Ding Liren	2782	1/2-1/2	2015.10.26
+Hou Yifan	2673	Ding Liren	2732	0-1	2015.01.10
+Radjabov, T.	2734	Ding Liren	2732	0-1	2015.01.10
+Wojtaszek, R.	2744	Ding Liren	2732	0-1	2015.01.10
+Aronian, L.	2797	Ding Liren	2732	0-1	2015.01.10
+Adhiban, Baskaran	2646	Ding Liren	2755	1/2-1/2	2015.03.02
+Lalith, B.	2556	Ding Liren	2755	0-1	2015.03.02
+Sethuraman, S.	2623	Ding Liren	2755	0-1	2015.03.02
+Yu Yangyi	2723	Ding Liren	2757	0-1	2015.05.18
+Wei Yi	2718	Ding Liren	2757	1-0	2015.05.18
+Zhang, Ziji	2223	Ding Liren	2755	0-1	2015.04.10
+Wang Yue	2716	Ding Liren	2749	1-0	2015.07.02
+Gelfand, B.	2751	Ding Liren	2749	0-1	2015.07.16
+Karjakin, Sergey	2753	Ding Liren	2749	0-1	2015.07.29
+Malakhov, V.	2706	Ding Liren	2755	0-1	2015.04.10
+Ni Hua	2704	Ding Liren	2755	0-1	2015.04.10
+Bai, Jinshi	2518	Ding Liren	2755	0-1	2015.04.10
+Nguyen Ngoc Truong Son	2662	Ding Liren	2755	0-1	2015.04.10
+So, W.	2760	Ding Liren	2782	1-0	2015.10.26
+Zhao, Yuanhe	2217	Ding Liren	2755	0-1	2015.04.10
+Krnan, Tomas	2440	Ding, Liren	2782	0-1	2015.09.11
+Wei, Yi	2734	Ding, Liren	2782	1-0	2015.09.11
+Ding Liren	2717	Gao Rui	2468	1-0	2014.03.01
+Ding Liren	2717	Jovanic, O.	2526	1-0	2014.03.01
+Ding Liren	2717	Martynov, P2.	2352	1-0	2014.03.01
+Ding Liren	2717	Lin Chen	2475	1-0	2014.03.11
+Sasikiran, K.	2682	Ding Liren	2755	1/2-1/2	2015.03.02
+Leko, P.	2713	Ding Liren	2755	1/2-1/2	2015.04.19
+Dominguez Perez, L.	2729	Ding Liren	2755	1/2-1/2	2015.04.19
+Gelfand, B.	2747	Ding Liren	2755	1/2-1/2	2015.04.19
+Aronian, L.	2770	Ding Liren	2755	1/2-1/2	2015.04.19
+Wen Yang	2583	Ding Liren	2757	1/2-1/2	2015.05.18
+Lin Chen	2460	Ding Liren	2757	1/2-1/2	2015.05.18
+Wan Yunguo	2472	Ding Liren	2757	1/2-1/2	2015.05.18
+Yu Yangyi	2724	Ding Liren	2755	1/2-1/2	2015.04.10
+Bu Xiangzhi	2695	Ding Liren	2749	1/2-1/2	2015.07.02
+Sasikiran, K.	2640	Ding Liren	2749	1/2-1/2	2015.07.02
+Ni Hua	2703	Ding Liren	2749	1/2-1/2	2015.07.02
+Gelfand, B.	2751	Ding Liren	2749	1/2-1/2	2015.07.16
+Bu Xiangzhi	2712	Ding Liren	2770	1/2-1/2	2015.08.29
+Li Chao2	2748	Ding Liren	2770	1/2-1/2	2015.08.29
+Wang Yue	2721	Ding Liren	2770	1/2-1/2	2015.08.29
+Xu, Yinglun	2443	Ding Liren	2755	1/2-1/2	2015.04.10
+Guseinov, Gadir	2634	Ding, Liren	2782	1/2-1/2	2015.09.11
+Inarkiev, Ernesto	2660	Ding, Liren	2782	1/2-1/2	2015.09.11
+Wei, Yi	2734	Ding, Liren	2782	1/2-1/2	2015.09.11
+Wei, Yi	2734	Ding, Liren	2782	1/2-1/2	2015.09.11
+Ding Liren	2717	Piorun, K.	2570	0-1	2014.03.01
+Ding Liren	2717	Papin, V.	2515	1/2-1/2	2014.03.01
+Ding Liren	2717	Zhao Jun	2608	1-0	2014.03.11
+Ding Liren	2717	Zeng Chongsheng	2520	1-0	2014.03.11
+Ding Liren	2717	Wen Yang	2591	1-0	2014.03.11
+Ding Liren	2710	Yang Kaiqi	2331	1-0	2014.04.12
+Ding Liren	2710	Bologan, V.	2661	1-0	2014.04.12
+Ding Liren	2710	Xu, Zhihang	1966	1-0	2014.04.12
+Ding Liren	2710	Liu, Chang	2351	1-0	2014.04.12
+Ding Liren	2714	Jumabayev, R.	2561	1-0	2014.05.22
+Ding Liren	2714	Mansour, Sam	2257	1-0	2014.05.22
+Ding Liren	2714	Darini, P.	2449	1-0	2014.05.22
+Ding Liren	2714	Zhao Jun	2603	1-0	2014.06.25
+Ding Liren	2714	Zhou Weiqi	2601	1-0	2014.06.25
+Ding Liren	2710	Zhao, Yuanhe	1959	1-0	2014.04.12
+Ding Liren	2710	Zhou Jianchao	2574	1-0	2014.04.12
+Ding Liren	2742	Balogh, C.	2637	1-0	2014.08.02
+Ding Liren	2742	Gajewski, G.	2659	1-0	2014.08.02
+Ding Liren	2742	Yurtseven, M.	2271	1-0	2014.08.18
+Ding Liren	2730	Wang Yue	2711	0-1	2014.11.18
+Ding Liren	2730	Ganguly, S.	2615	1-0	2014.11.26
+Ding Liren	2730	Potapov, P.	2479	1-0	2014.11.26
+Ding Liren	2730	Al Sayed, Mohamad	2507	1-0	2014.11.26
+Ding Liren	2730	Yu, Chaojie	2107	1-0	2014.04.12
+Ding Liren	2730	Ma Qun	2621	1-0	2014.04.12
+Ding Liren	2717	Liu Qingnan	2501	1/2-1/2	2014.03.11
+Hou Yifan	2629	Ding Liren	2717	1-0	2014.03.11
+Ding Liren	2714	Sethuraman, S.	2582	1/2-1/2	2014.05.22
+Ding Liren	2714	Naiditsch, A.	2705	1/2-1/2	2014.06.25
+Ding Liren	2714	Wei Yi	2634	1/2-1/2	2014.06.25
+Ding Liren	2714	Ma Qun	2609	1/2-1/2	2014.06.25
+Ding Liren	2742	Grischuk, A.	2795	1/2-1/2	2014.08.02
+Ding Liren	2742	Bacrot, E.	2720	1/2-1/2	2014.08.02
+Ding Liren	2742	Cheparinov, I.	2681	1/2-1/2	2014.08.18
+Inarkiev, E.	2666	Ding Liren	2742	1-0	2014.08.18
+Ding Liren	2742	Mamedyarov, S.	2743	1/2-1/2	2014.08.18
+Ding Liren	2742	Harikrishna, P.	2725	1/2-1/2	2014.08.18
+Ding Liren	2742	Grachev, B.	2672	1/2-1/2	2014.08.18
+Zhigalko, S.	2678	Ding Liren	2742	1-0	2014.08.18
+Ding Liren	2742	Yilmaz, M.	2569	1/2-1/2	2014.08.18
+Ding Liren	2710	Lin Chen	2483	1/2-1/2	2014.04.12
+Ding Liren	2730	Gelfand, B.	2759	1/2-1/2	2014.11.04
+Ding Liren	2730	Kramnik, V.	2760	1/2-1/2	2014.11.04
+Ding Liren	2730	Leko, P.	2731	1/2-1/2	2014.11.04
+Ding Liren	2730	Grischuk, A.	2795	1/2-1/2	2014.11.04
+Ding Liren	2730	Ma Qun	2621	1/2-1/2	2014.11.18
+Van Kampen, R.	2612	Ding Liren	2730	1-0	2014.11.26
+Ding Liren	2730	Gupta, Ab	2632	1/2-1/2	2014.11.26
+Ding Liren	2730	Adhiban, Baskaran	2630	1/2-1/2	2014.11.26
+Ding Liren	2730	Motylev, A.	2680	1/2-1/2	2014.04.12
+Haub, TM.	2449	Ding Liren	2717	0-1	2014.03.01
+Maiorov, N1.	2520	Ding Liren	2717	0-1	2014.03.01
+Vul, A.	2346	Ding Liren	2717	0-1	2014.03.01
+Manolache, M.	2495	Ding Liren	2717	1/2-1/2	2014.03.01
+Wei Yi	2625	Ding Liren	2717	1/2-1/2	2014.03.11
+Xiu Deshun	2571	Ding Liren	2717	1/2-1/2	2014.03.11
+Zhou Jianchao	2565	Ding Liren	2717	1/2-1/2	2014.03.11
+Ma Qun	2606	Ding Liren	2717	1/2-1/2	2014.03.11
+Yu Yangyi	2664	Ding Liren	2717	1/2-1/2	2014.03.11
+Zhou Weiqi	2606	Ding Liren	2710	0-1	2014.04.12
+Bu Xiangzhi	2699	Ding Liren	2710	1/2-1/2	2014.04.12
+Lin Chen	2483	Ding Liren	2710	0-1	2014.04.12
+Kalugampitiya, R.	2145	Ding Liren	2714	0-1	2014.05.22
+Al Ansi, Amin Hassan	0	Ding Liren	2714	0-1	2014.05.22
+Xiu Deshun	2550	Ding Liren	2714	0-1	2014.06.25
+Yu Yangyi	2675	Ding Liren	2714	0-1	2014.06.25
+Juarez Flores, C.	2425	Ding Liren	2742	0-1	2014.08.02
+Zhou, Jiangnan	1938	Ding Liren	2710	0-1	2014.04.12
+Perunovic, Mil	2602	Ding Liren	2742	0-1	2014.08.02
+Ezat, M.	2466	Ding Liren	2742	0-1	2014.08.02
+Dubov, Daniil	2614	Ding Liren	2742	0-1	2014.08.18
+Wang Rui	2394	Ding Liren	2730	0-1	2014.04.12
+Ni Hua	2677	Ding Liren	2730	0-1	2014.11.18
+Dubov, Daniil	2629	Ding Liren	2730	0-1	2014.11.26
+Xu, Xiangyu CHN	2277	Ding Liren	2730	0-1	2014.04.12
+Ding Liren	2711	Wang Rui	2406	1-0	2013.04.30
+Ding Liren	2711	Nguyen Ngoc Truong Son	2614	1-0	2013.04.30
+Ding Liren	2711	Shoker, S.	2500	1-0	2013.11.26
+Ding Liren	2711	Kamsky, G.	2721	1-0	2013.11.26
+Le Quang Liem	2712	Ding Liren	2714	1/2-1/2	2014.05.22
+Ghaem Maghami, E.	2580	Ding Liren	2714	1/2-1/2	2014.05.22
+Ponomariov, R.	2723	Ding Liren	2714	1/2-1/2	2014.06.25
+Bu Xiangzhi	2693	Ding Liren	2714	1/2-1/2	2014.06.25
+Malakhov, V.	2694	Ding Liren	2710	1/2-1/2	2014.04.12
+L'Ami, E.	2631	Ding Liren	2742	1/2-1/2	2014.08.02
+Ponomariov, R.	2717	Ding Liren	2742	1/2-1/2	2014.08.02
+Radjabov, T.	2724	Ding Liren	2742	1/2-1/2	2014.08.02
+Mamedov, Nid	2624	Ding Liren	2742	1/2-1/2	2014.08.18
+Mchedlishvili, M.	2618	Ding Liren	2742	1/2-1/2	2014.08.18
+Ma, Zhonghan	2435	Ding Liren	2710	1/2-1/2	2014.04.12
+Inarkiev, E.	2688	Ding Liren	2730	1/2-1/2	2014.11.04
+Aronian, L.	2797	Ding Liren	2730	1/2-1/2	2014.11.04
+Morozevich, A.	2724	Ding Liren	2730	1/2-1/2	2014.11.04
+Xiu Deshun	2553	Ding Liren	2730	1/2-1/2	2014.04.12
+Wei Yi	2649	Ding Liren	2730	1/2-1/2	2014.11.18
+Bu Xiangzhi	2707	Ding Liren	2730	1/2-1/2	2014.11.18
+Yu Yangyi	2705	Ding Liren	2730	1/2-1/2	2014.11.18
+Romanov, E.	2636	Ding Liren	2730	1/2-1/2	2014.11.26
+Miton, K.	2601	Ding Liren	2730	1/2-1/2	2014.11.26
+Zhou Jianchao	2590	Ding Liren	2730	1/2-1/2	2014.04.12
+Ding Liren	2718	Wang Chen	2492	0-1	2013.04.30
+Ding Liren	2711	Fridman, D.	2600	1/2-1/2	2013.11.26
+Ding Liren	2714	Vachier Lagrave, M.	2719	1-0	2012.07.22
+Ding Liren	2714	Moiseenko, A1.	2699	1-0	2012.07.22
+Ding Liren	2714	Bacrot, E.	2714	1/2-1/2	2012.07.22
+Ding Liren	2714	Rapport, R.	2693	1/2-1/2	2012.07.22
+Ding Liren	2714	Vachier Lagrave, M.	2719	0-1	2013.08.02
+Ding Liren	2714	Nepomniachtchi, I.	2717	1/2-1/2	2012.07.22
+Ding Liren	2718	Bu Xiangzhi	2667	1/2-1/2	2013.04.30
+Ding Liren	2707	Ni Hua	2646	1-0	2013.05.20
+Ding Liren	2707	Wen Yang	2618	1-0	2013.05.20
+Ding Liren	2707	Wei Yi	2530	1-0	2013.05.20
+Ding Liren	2707	Xiu Deshun	2534	1-0	2013.05.20
+Ding Liren	2702	Sengupta, D.	2548	1-0	2013.06.30
+Ding Liren	2702	Al Modiahki, M.	2546	1-0	2013.06.30
+Ding Liren	2702	Gundavaa, B.	2516	1-0	2013.06.30
+Ding Liren	2709	Mammadova, G.	2369	1-0	2013.02.19
+Ding Liren	2709	Mihajlov, Seb	2059	1/2-1/2	2013.02.19
+Ding Liren	2709	Maze, S.	2556	1-0	2013.02.19
+Ding Liren	2709	Urkedal, F.	2473	1-0	2013.02.19
+Ding Liren	2709	Eljanov, P.	2678	0-1	2013.02.19
+Ding Liren	2707	Aronian, L.	2809	1-0	2013.04.21
+Ding Liren	2707	Svidler, P.	2747	1/2-1/2	2013.04.21
+Ding Liren	2707	Fressinet, L.	2706	1/2-1/2	2013.04.21
+Ding Liren	2707	Kramnik, V.	2801	1/2-1/2	2013.04.21
+Wang, Yiye	2258	Ding Liren	2718	1/2-1/2	2013.04.30
+Wei Yi	2551	Ding Liren	2718	0-1	2013.04.30
+Xiu Deshun	2566	Ding Liren	2718	1/2-1/2	2013.04.30
+Li Shilong	2523	Ding Liren	2711	0-1	2013.04.30
+Malakhov, V.	2708	Ding Liren	2711	1-0	2013.04.30
+Movsesian, S.	2700	Ding Liren	2711	0-1	2013.11.26
+Korobov, A.	2713	Ding Liren	2711	1-0	2013.11.26
+Giri, A.	2732	Ding Liren	2711	1/2-1/2	2013.11.26
+Yilmaz, M.	2577	Ding Liren	2711	1/2-1/2	2013.11.26
+Safarli, E.	2653	Ding Liren	2711	1/2-1/2	2013.11.26
+Bacrot, E.	2714	Ding Liren	2714	1-0	2012.07.22
+Rapport, R.	2693	Ding Liren	2714	0-1	2012.07.22
+Vachier Lagrave, M.	2719	Ding Liren	2714	1-0	2013.08.02
+Vachier Lagrave, M.	2719	Ding Liren	2714	1-0	2012.07.22
+Fang, Yan	2281	Ding Liren	2718	0-1	2013.04.30
+Lu Shanglei	2551	Ding Liren	2707	0-1	2013.05.20
+Salem, AR.	2531	Ding Liren	2702	1-0	2013.06.30
+Al Zendani, Z.	2360	Ding Liren	2702	0-1	2013.06.30
+Finnbogadottir, T.	1871	Ding Liren	2709	0-1	2013.02.19
+Ipatov, Alexander	2569	Ding Liren	2709	0-1	2013.02.19
+Thorhallsson, T.	2441	Ding Liren	2709	0-1	2013.02.19
+Vachier Lagrave, M.	2722	Ding Liren	2707	1-0	2013.04.21
+Gelfand, B.	2739	Ding Liren	2707	1-0	2013.04.21
+Anand, V.	2783	Ding Liren	2707	1-0	2013.04.21
+Ding Liren	2707	Adams, Mi	2727	1/2-1/2	2013.04.21
+Ding Liren	2660	Wang Yue	2702	1-0	2012.03.27
+Ding Liren	2660	Li Shilong	2549	1-0	2012.03.27
+Ding Liren	2660	Lu Shanglei	2514	1-0	2012.03.27
+Ding Liren	2679	Sethuraman, S.	2546	1-0	2012.05.05
+Ding Liren	2679	Paragua, M.	2521	1-0	2012.05.05
+Ding Liren	2660	Xiu Deshun	2492	1-0	2012.04.28
+Ding Liren	2679	Zozek, S.	2268	1-0	2012.05.17
+Ding Liren	2679	Negi, P.	2640	1-0	2012.05.17
+Ding Liren	2679	Lou Yiping	2428	1-0	2012.05.17
+Ding Liren	2679	Hou Yifan	2623	1-0	2012.05.29
+Ding Liren	2660	Zhou Jianchao	2625	1-0	2012.04.28
+Ding Liren	2680	Matlakov, M.	2668	1-0	2012.07.02
+Ding Liren	2680	Tomashevsky, E.	2733	1-0	2012.07.07
+Ding Liren	2695	Thavandiran, S.	2301	1-0	2012.08.02
+Moiseenko, A1.	2699	Ding Liren	2714	1/2-1/2	2012.07.22
+Nepomniachtchi, I.	2717	Ding Liren	2714	1/2-1/2	2012.07.22
+Bu Xiangzhi	2662	Ding Liren	2707	1/2-1/2	2013.05.20
+Zhou Weiqi	2590	Ding Liren	2707	1/2-1/2	2013.05.20
+Zhou Jianchao	2607	Ding Liren	2707	1/2-1/2	2013.05.20
+Yu Yangyi	2675	Ding Liren	2707	1/2-1/2	2013.05.20
+Yu Yangyi	2675	Ding Liren	2702	1/2-1/2	2013.06.30
+Jumabayev, R.	2548	Ding Liren	2702	1/2-1/2	2013.06.30
+Wei Yi	2501	Ding Liren	2709	1/2-1/2	2013.02.19
+Shulman, Y.	2563	Ding Liren	2709	1/2-1/2	2013.02.19
+Vitiugov, N.	2712	Ding Liren	2707	1/2-1/2	2013.04.21
+Ding Liren	2680	Jakovenko, D.	2736	0-1	2012.07.07
+Ding Liren	2680	Nepomniachtchi, I.	2718	0-1	2012.07.07
+Ding Liren	2695	Aggelis, N.	2352	1-0	2012.08.02
+Ding Liren	2695	Kovalev, Vl	2485	1-0	2012.08.02
+Ding Liren	2695	Baron, Ta	2451	1-0	2012.08.02
+Ding Liren	2695	Bwalya, Gillan	2256	1-0	2012.08.28
+Ding Liren	2695	Parligras, M.	2618	0-1	2012.08.28
+Ding Liren	2695	Mamedov, Rau	2634	1-0	2012.08.28
+Ding Liren	2695	Barbosa, O PHI.	2554	1-0	2012.08.28
+Ding Liren	2695	Onischuk, Al	2666	1-0	2012.08.28
+Ding Liren	2660	Mu Ke	2286	1-0	2012.04.28
+Ding Liren	2702	Balogh, C.	2664	1-0	2012.10.12
+Ding Liren	2702	Meier, Geo	2646	1-0	2012.10.12
+Ding Liren	2702	Ivanchuk, V.	2766	1-0	2012.12.14
+Ding Liren	2702	Jobava, Ba	2711	1-0	2012.12.14
+Ding Liren	2702	Leko, P.	2732	1-0	2012.12.14
+Ding Liren	2702	Grischuk, A.	2764	0-1	2012.12.14
+Ding Liren	2702	Jobava, Ba	2711	0-1	2012.12.16
+Ding Liren	2702	Fressinet, L.	2700	0-1	2012.12.16
+Ding Liren	2702	Ivanchuk, V.	2766	0-1	2012.12.16
+Ding Liren	2702	Mamedyarov, S.	2764	0-1	2012.12.16
+Ding Liren	2702	Karjakin, Sergey	2775	0-1	2012.12.16
+Ding Liren	2702	Morozevich, A.	2748	1-0	2012.12.16
+Ding Liren	2702	Kamsky, G.	2762	1-0	2012.12.18
+Ding, Liren	2679	Muhammad, Luthfi Ali	2027	1-0	2012.05.17
+Alekseenko, Kirill	2696	Ding, Liren	2791	0-1	Mon Apr 26 2021
+Adhiban, B.	2624	Ding, Liren	2836	0-1	2021.06.26
+Firouzja, Alireza	2703	Ding, Liren	2836	0-1	2021.06.27
+Salem, A.R. Saleh	2718	Ding, Liren	2836	0-1	2021.06.28
+Duda, Jan-Krzysztof	2774	Ding, Liren	2836	0-1	2021.06.30
+Duda, Jan-Krzysztof	2774	Ding, Liren	2836	0-1	2021.06.30
+Artemiev, Vladislav	2757	Ding, Liren	2836	0-1	2021.07.01
+Carlsen, Magnus	2881	Ding, Liren	2836	0-1	2021.07.04
+Szabo, Gergely-Andras-Gyula	2481	Ding, Liren	2836	0-1	2021.09.10
+Jumabayev, Rinat	2562	Ding, Liren	2836	0-1	2021.09.09
+Megaranto, Susanto	2530	Ding, Liren	2836	0-1	2021.09.08
+Sasikiran, Krishnan	2577	Ding, Liren	2836	0-1	2021.10.15
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	0-1	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	0-1	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	0-1	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	0-1	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	0-1	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	1-0	2021.11.09
+Lu, Shanglei	2616	Ding, Liren	2799	0-1	2021.11.22
+Aronian, Levon	2740	Ding, Liren	2788	0-1	2021.12.06
+Aronian, Levon	2740	Ding, Liren	2788	1-0	2021.12.06
+Aronian, Levon	2740	Ding, Liren	2788	1-0	2021.12.06
+Aronian, Levon	2740	Ding, Liren	2788	1-0	2021.12.06
+Aronian, Levon	2740	Ding, Liren	2788	1-0	2021.12.06
+Aronian, Levon	2740	Ding, Liren	2788	1-0	2021.12.06
+Radjabov, Teimour	2765	Ding, Liren	2791	1/2-1/2	Mon Feb 08 2021
+Wang, Hao	2763	Ding, Liren	2791	1/2-1/2	Mon Apr 19 2021
+Caruana, Fabiano	2820	Ding, Liren	2791	1/2-1/2	Wed Apr 21 2021
+Vachier-Lagrave, Maxime	2760	Ding, Liren	2799	1/2-1/2	Sun May 23 2021
+Aronian, Levon	2781	Ding, Liren	2799	1/2-1/2	Sun May 23 2021
+Svidler, Peter	2714	Ding, Liren	2799	1/2-1/2	Mon May 24 2021
+Nakamura, Hikaru	2736	Ding, Liren	2799	1/2-1/2	Mon May 24 2021
+Dubov, Daniil	2710	Ding, Liren	2799	1/2-1/2	Mon May 24 2021
+Erigaisi, Arjun	2289	Ding, Liren	2836	1/2-1/2	2021.06.26
+So, Wesley	2741	Ding, Liren	2836	1/2-1/2	2021.06.27
+Giri, Anish	2731	Ding, Liren	2836	1/2-1/2	2021.06.28
+Dubov, Daniil	2770	Ding, Liren	2836	1/2-1/2	2021.06.28
+Duda, Jan-Krzysztof	2774	Ding, Liren	2836	1/2-1/2	2021.06.29
+Duda, Jan-Krzysztof	2774	Ding, Liren	2836	1/2-1/2	2021.06.29
+Carlsen, Magnus	2881	Ding, Liren	2836	1/2-1/2	2021.07.03
+Artemiev, Vladislav	2757	Ding, Liren	2836	1/2-1/2	2021.07.01
+Maghsoodloo, Parham	2528	Ding, Liren	2836	1/2-1/2	2021.09.09
+Radjabov, Teimour	2747	Ding, Liren	2836	1/2-1/2	2021.10.11
+Karjakin, Sergey	2757	Ding, Liren	2836	1/2-1/2	2021.10.14
+Vidit, Santosh Gujrathi	2639	Ding, Liren	2836	1/2-1/2	2021.10.16
+Aronian, Levon	2740	Ding, Liren	2788	0-1	2021.12.06
+Aronian, Levon	2740	Ding, Liren	2788	0-1	2021.12.06
+Aronian, Levon	2740	Ding, Liren	2788	0-1	2021.12.06
+Aronian, Levon	2740	Ding, Liren	2788	0-1	2021.12.06
+Aronian, Levon	2740	Ding, Liren	2788	0-1	2021.12.06
+Ding, Liren	2776	Wang, Hao	2707	0-1	Tue Mar 17 2020
+Vachier-Lagrave, Maxime	2773	Ding, Liren	2776	1-0	Wed Mar 18 2020
+Ding, Liren	2776	Caruana, Fabiano	2787	1-0	Thu Mar 19 2020
+Ding, Liren	2776	Giri, Anish	2784	1/2-1/2	Sat Mar 21 2020
+Grischuk, Alexander	2747	Ding, Liren	2776	1/2-1/2	Sun Mar 22 2020
+Wei, Yi	2732	Ding, Liren	2791	0-1	Thu Dec 03 2020
+Ding, Liren	2791	Rapport, Richard	2759	0-1	Thu Dec 03 2020
+Wang, Hao	2763	Ding, Liren	2791	1/2-1/2	Mon Dec 07 2020
+Ding, Liren	2791	Wei, Yi	2732	0-1	Mon Dec 07 2020
+Rapport, Richard	2759	Ding, Liren	2791	1/2-1/2	Mon Dec 07 2020
+Ding, Liren	2791	Giri, Anish	2764	1-0	Sat Dec 05 2020
+Topalov, Veselin	2735	Ding, Liren	2791	1/2-1/2	Sat Dec 05 2020
+Ding, Liren	2791	Grischuk, Alexander	2777	1-0	Fri Dec 04 2020
+Ding, Liren	2791	Wang, Hao	2763	1-0	Fri Dec 04 2020
+Ding, Liren	2791	Yu, Yangyi	2709	1-0	Tue Dec 08 2020
+Ding, Liren	2791	Topalov, Veselin	2735	1/2-1/2	Wed Dec 09 2020
+Ding, Liren	2791	Alekseenko, Kirill	2696	1/2-1/2	Wed Mar 25 2020
+Nepomniachtchi, Ian	2789	Ding, Liren	2791	1-0	Mon Mar 23 2020
+Sethuraman, S.P.	2556	Ding, Liren	2836	1/2-1/2	2021.10.17
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	1/2-1/2	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	1/2-1/2	2021.11.09
+Mamedyarov, Shakhriyar	2754	Ding, Liren	2788	1/2-1/2	2021.11.09
+Lu, Shanglei	2616	Ding, Liren	2799	1/2-1/2	2021.11.24
+Aronian, Levon	2740	Ding, Liren	2788	1/2-1/2	2021.12.06
+Aronian, Levon	2740	Ding, Liren	2788	1/2-1/2	2021.12.06
+Ding, Liren	0	Wei, Yi	0	1-0	Thu Jul 25 2019
+Ding, Liren	0	Zhao, Jun	0	1-0	Sat Jul 27 2019
+Ding, Liren	0	Carlsen, Magnus	0	1-0	Tue Nov 26 2019
+Ding, Liren	0	Aronian, Levon	0	1-0	Tue Nov 26 2019
+Ding, Liren	0	Aronian, Levon	0	1-0	Wed Dec 04 2019
+Ding, Liren	0	Aronian, Levon	0	1-0	Wed Dec 04 2019
+Ding, Liren	0	Vachier-Lagrave, Maxime	0	1-0	Sun Dec 08 2019
+Ding, Liren	0	Vachier-Lagrave, Maxime	0	1-0	Sat Dec 07 2019
+Ding Liren	2813	Corrales Jimenez,F	2559	1-0	2019.01.08
+Ding Liren	2813	Tang,Andrew	2487	1-0	2019.01.08
+Ding Liren	2813	Nakamura,Hi	2749	1-0	2019.01.08
+Ding Liren	2812	Mamedov,Rau	2701	1-0	2019.03.05
+Ding Liren	2812	Adams,Mi	2708	1-0	2019.03.05
+Ding Liren	2812	Grischuk,A	2771	1-0	2019.03.31
+Ding Liren	2809	Jakovenko,D	2719	1-0	2019.04.17
+Ding Liren	2809	Harikrishna,P	2723	1-0	2019.04.17
+Ding Liren	2805	Nepomniachtchi,I	2773	1-0	2019.05.08
+Ding Liren	2805	Karjakin,Sergey	2752	1-0	2019.05.08
+Ding Liren	2805	Amin,B	2704	1-0	2019.05.11
+Ding Liren	2805	Topalov,V	2740	1-0	2019.05.11
+Ding Liren	2805	Karjakin,Sergey	2752	1-0	2019.05.11
+Ding Liren	2805	Karjakin,Sergey	2752	1-0	2019.05.25
+Yu, Yangyi	2709	Ding, Liren	2791	1/2-1/2	Sat Dec 05 2020
+Grischuk, Alexander	2777	Ding, Liren	2791	1/2-1/2	Tue Dec 08 2020
+Giri, Anish	2764	Ding, Liren	2791	1/2-1/2	Wed Dec 09 2020
+Ding Liren	2805	So,W	2754	1-0	2019.06.03
+Ding Liren	2805	Caruana,F	2819	1-0	2019.06.04
+Ding Liren	2805	So,W	2754	1-0	2019.06.04
+Ding Liren	2805	Mamedyarov,S	2774	1-0	2019.06.04
+Ding Liren	2805	Navara,D	2734	1-0	2019.06.17
+Ding Liren	2805	Navara,D	2734	1-0	2019.06.17
+Ding Liren	2805	Navara,D	2734	1-0	2019.06.17
+Ding Liren	2805	Nepomniachtchi,I	2775	1-0	2019.06.26
+Ding Liren	2805	Carlsen,M	2882	1-0	2019.08.10
+Ding Liren	2805	Yu Yangyi	2752	1-0	2019.08.10
+Ding Liren	2805	Dominguez Perez,L	2763	1-0	2019.08.13
+Ding Liren	2805	Carlsen,M	2882	1-0	2019.08.13
+Ding Liren	2805	Caruana,F	2818	1-0	2019.08.13
+Ding Liren	2805	Vachier Lagrave,M	2778	1-0	2019.08.13
+Ding Liren	2805	Rapport,R	2747	1-0	2019.08.13
+Ding Liren	2805	Giri,A	2779	1-0	2019.08.17
+Ding Liren	2805	Caruana,F	2818	1-0	2019.08.17
+Ding Liren	2805	Carlsen,M	2882	1-0	2019.08.29
+Ding Liren	2811	Shankland,S	2705	1-0	2019.09.02
+Ding Liren	2811	Shankland,S	2705	1-0	2019.09.02
+Ding Liren	2811	Shankland,S	2705	1-0	2019.09.02
+Ding Liren	2811	Shankland,S	2705	1-0	2019.09.02
+Ding Liren	2811	Shankland,S	2705	1-0	2019.09.02
+Ding Liren	2811	Shankland,S	2705	1-0	2019.09.02
+Ding Liren	2811	Shankland,S	2705	1-0	2019.09.02
+Ding, Liren	2806	Nepomniachtchi, Ian	2766	0-1	2022.06.17
+Duda, Jan-Krzysztof	2750	Ding, Liren	2806	1/2-1/2	2022.06.18
+Ding, Liren	2806	Rapport, Richard	2764	1/2-1/2	2022.06.19
+Ding, Liren	2806	Caruana, Fabiano	2783	1/2-1/2	2022.06.21
+Radjabov, Teimour	2753	Ding, Liren	2806	1/2-1/2	2022.06.22
+Ding, Liren	2806	Firouzja, Alireza	2793	1/2-1/2	2022.06.25
+Ding, Liren	2806	Duda, Jan-Krzysztof	2750	1-0	2022.06.27
+Xiong, Jeffery	2725	Ding, Liren	2836	1-0	2022.08.18
+Ding, Liren	2788	Xiong, Jeffery	2714	1/2-1/2	2022.08.18
+Ding, Liren	2836	Abdusattorov, Nodirbek	2676	1-0	2022.08.19
+Abdusattorov, Nodirbek	2676	Ding, Liren	2836	0-1	2022.08.19
+Ding, Liren	2836	Martinez Alcantara, Jose Eduardo	2645	1-0	2022.08.19
+Ding, Liren	2836	Maghsoodloo, Parham	2589	1-0	2022.08.20
+So, Wesley	2763	Ding, Liren	2788	1-0	2022.08.20
+Ding, Liren	2836	So, Wesley	2784	1/2-1/2	2022.08.20
+Ding, Liren	2836	Xu, Jun	2523	1-0	2022.09.07
+Ding, Liren	2836	Li, Yi Xun	2507	1/2-1/2	2022.09.07
+Xu, Yinglun	2557	Ding, Liren	2836	0-1	2022.09.09
+Ding, Liren	2836	Le, Tuan Minh	2307	0-1	2022.09.14
+Le, Tuan Minh	2307	Ding, Liren	2836	0-1	2022.09.14
+Ding, Liren	2836	Le, Tuan Minh	2307	1/2-1/2	2022.09.14
+Le, Tuan Minh	2307	Ding, Liren	2836	0-1	2022.09.14
+Ding, Liren	2836	Esipenko, Andrey	2694	0-1	2022.09.24
+Ding, Liren	2836	Esipenko, Andrey	2694	1-0	2022.09.24
+Esipenko, Andrey	2694	Ding, Liren	2836	0-1	2022.09.24

@@ -1,0 +1,1134 @@
+White	White ELO	Black	Black ELO	Result	Date
+Nepomniachtchi, Ian	2766	Firouzja, Alireza	2793	1-0	2022.06.21
+Firouzja, Alireza	2793	Duda, Jan-Krzysztof	2750	1/2-1/2	2022.06.22
+Firouzja, Alireza	2793	Radjabov, Teimour	2753	1/2-1/2	2022.06.26
+Firouzja, Alireza	2670	Topalov, Veselin	2627	1/2-1/2	2022.07.23
+Praggnanandhaa, R	1927	Firouzja, Alireza	2704	1-0	2022.08.15
+Praggnanandhaa, R	1927	Firouzja, Alireza	2704	1-0	2022.08.15
+Le, Quang Liem	2661	Firouzja, Alireza	2704	0-1	2022.08.16
+Firouzja, Alireza	2704	Le, Quang Liem	2661	1/2-1/2	2022.08.16
+Firouzja, Alireza	2704	Giri, Anish	2721	1/2-1/2	2022.08.17
+Firouzja, Alireza	2704	Giri, Anish	2721	1/2-1/2	2022.08.17
+Firouzja, Alireza	2704	Giri, Anish	2721	1/2-1/2	2022.08.17
+Duda, Jan-Krzysztof	2808	Firouzja, Alireza	2704	1-0	2022.08.18
+Firouzja, Alireza	2704	Carlsen, Magnus	2834	1/2-1/2	2022.08.20
+Carlsen, Magnus	2834	Firouzja, Alireza	2704	1-0	2022.08.20
+Carlsen, Magnus	2834	Firouzja, Alireza	2704	1-0	2022.08.20
+Firouzja, Alireza	2704	Carlsen, Magnus	2834	1/2-1/2	2022.08.20
+Firouzja, Alireza	2704	Aronian, Levon	2728	1/2-1/2	2022.08.21
+Nakamura, Hikaru	2837	Firouzja, Alireza	2704	0-1	2022.08.26
+Firouzja, Alireza	2704	Shankland, Sam	2616	1/2-1/2	2022.08.26
+Firouzja, Alireza	2704	Nepomniachtchi, Ian	2795	1/2-1/2	2022.08.28
+Firouzja, Alireza	2704	Aronian, Levon	2728	1/2-1/2	2022.08.28
+Firouzja, Alireza	2795	Nakamura, Hikaru	2850	1/2-1/2	2022.08.29
+Firouzja, Alireza	2795	Caruana, Fabiano	2847	1/2-1/2	2022.08.29
+Firouzja, Alireza	2778	Caruana, Fabiano	2776	1/2-1/2	2022.09.02
+Nepomniachtchi, Ian	2792	Firouzja, Alireza	2778	1-0	2022.09.03
+Nakamura, Hikaru	2736	Firouzja, Alireza	2759	0-1	Wed Apr 07 2021
+Nakamura, Hikaru	2736	Firouzja, Alireza	2759	0-1	Wed Apr 07 2021
+Nakamura, Hikaru	2736	Firouzja, Alireza	2759	0-1	Wed Apr 07 2021
+Nakamura, Hikaru	2736	Firouzja, Alireza	2759	0-1	Wed Apr 07 2021
+Tang, Andrew	2538	Firouzja, Alireza	2759	0-1	Wed Apr 07 2021
+Tang, Andrew	2538	Firouzja, Alireza	2759	0-1	Wed Apr 07 2021
+Tang, Andrew	2538	Firouzja, Alireza	2759	0-1	Wed Apr 07 2021
+Tang, Andrew	2538	Firouzja, Alireza	2759	0-1	Wed Apr 07 2021
+Tang, Andrew	2538	Firouzja, Alireza	2759	0-1	Wed Apr 07 2021
+Tang, Andrew	2538	Firouzja, Alireza	2759	0-1	Wed Apr 07 2021
+Christiansen, Johan-Sebastian	2618	Firouzja, Alireza	2759	0-1	Sun Apr 25 2021
+Mamedyarov, Shakhriyar	2770	Firouzja, Alireza	2759	0-1	Sun May 23 2021
+Nakamura, Hikaru	2829	Firouzja, Alireza	2703	0-1	Tue May 25 2021
+Dubov, Daniil	2770	Firouzja, Alireza	2703	0-1	Tue May 25 2021
+Rapport, Richard	2759	Firouzja, Alireza	2770	0-1	2021.06.21
+Nepomniachtchi, Ian	2785	Firouzja, Alireza	2770	0-1	2021.06.21
+Kramnik, Vladimir	2797	Firouzja, Alireza	2770	0-1	2021.06.21
+Radjabov, Teimour	2757	Firouzja, Alireza	2770	0-1	2021.06.21
+Adhiban, B.	2624	Firouzja, Alireza	2703	0-1	2021.06.27
+Gukesh, D	1927	Firouzja, Alireza	2703	0-1	2021.06.27
+Salem, A.R. Saleh	2718	Firouzja, Alireza	2703	0-1	2021.06.28
+Anton Guijarro, David	2674	Firouzja, Alireza	2696	0-1	2021.08.01
+Koneru, Humpy	2483	Firouzja, Alireza	2696	0-1	2021.08.01
+Hansen, Eric	2579	Firouzja, Alireza	2696	0-1	2021.08.29
+Dominguez Perez, Leinier	2786	Firouzja, Alireza	2696	0-1	2021.08.30
+Grandelius, Nils	2663	Firouzja, Alireza	2749	1/2-1/2	Wed Jan 27 2021
+Giri, Anish	2764	Firouzja, Alireza	2749	1/2-1/2	Sat Jan 30 2021
+Vachier-Lagrave, Maxime	2784	Firouzja, Alireza	2749	1/2-1/2	Sun Jan 17 2021
+Tari, Aryan	2625	Firouzja, Alireza	2749	1/2-1/2	Tue Jan 19 2021
+Vachier-Lagrave, Maxime	2758	Firouzja, Alireza	2759	1/2-1/2	Sat Mar 13 2021
+Giri, Anish	2776	Firouzja, Alireza	2759	1/2-1/2	Sat Mar 13 2021
+Aronian, Levon	2781	Firouzja, Alireza	2759	1/2-1/2	Mon Mar 15 2021
+So, Wesley	2770	Firouzja, Alireza	2759	1/2-1/2	Tue Mar 16 2021
+Artemiev, Vladislav	2709	Firouzja, Alireza	2759	1/2-1/2	Tue Apr 06 2021
+Artemiev, Vladislav	2709	Firouzja, Alireza	2759	1/2-1/2	Tue Apr 06 2021
+Le, Quang Liem	2709	Firouzja, Alireza	2759	1/2-1/2	Sat Apr 24 2021
+Praggnanandhaa, R	2608	Firouzja, Alireza	2759	1/2-1/2	Mon Apr 26 2021
+Mamedyarov, Shakhriyar	2770	Firouzja, Alireza	2759	1/2-1/2	Tue Apr 27 2021
+Mamedyarov, Shakhriyar	2770	Firouzja, Alireza	2759	1/2-1/2	Wed Apr 28 2021
+Vidit, Santosh Gujrathi	2726	Firouzja, Alireza	2759	1/2-1/2	Sun Apr 25 2021
+Caruana, Fabiano	2820	Firouzja, Alireza	2759	1/2-1/2	Sun May 23 2021
+Le, Quang Liem	2744	Firouzja, Alireza	2696	0-1	2021.08.29
+So, Wesley	2774	Firouzja, Alireza	2696	0-1	2021.08.31
+Artemiev, Vladislav	2757	Firouzja, Alireza	2696	0-1	2021.09.03
+Karjakin, Sergey	2758	Firouzja, Alireza	2754	0-1	2021.09.15
+Tari, Aryan	2642	Firouzja, Alireza	2754	0-1	2021.09.16
+Swiercz, Dariusz	2647	Firouzja, Alireza	2770	0-1	2021.10.28
+Erdos, Viktor	2615	Firouzja, Alireza	2770	0-1	2021.11.14
+Ragger, Markus	2668	Firouzja, Alireza	2770	0-1	2021.11.12
+Sargissian, Gabriel	2664	Firouzja, Alireza	2770	0-1	2021.11.16
+So, Wesley	2770	Firouzja, Alireza	2759	1/2-1/2	Sun May 23 2021
+Ding, Liren	2799	Firouzja, Alireza	2759	1/2-1/2	Mon May 24 2021
+Bacrot, Etienne	2667	Firouzja, Alireza	2703	1/2-1/2	2021.06.19
+Nepomniachtchi, Ian	2778	Firouzja, Alireza	2703	1/2-1/2	2021.06.20
+Aronian, Levon	2739	Firouzja, Alireza	2770	1/2-1/2	2021.06.22
+Svidler, Peter	2754	Firouzja, Alireza	2770	1/2-1/2	2021.06.21
+Dubov, Daniil	2770	Firouzja, Alireza	2703	1/2-1/2	2021.06.26
+Vidit, Santosh Gujrathi	2636	Firouzja, Alireza	2703	1/2-1/2	2021.06.27
+So, Wesley	2741	Firouzja, Alireza	2703	1/2-1/2	2021.06.28
+Sindarov, Javokhir	2357	Firouzja, Alireza	2696	1/2-1/2	2021.07.17
+Sindarov, Javokhir	2558	Firouzja, Alireza	2759	1/2-1/2	2021.07.16
+Sindarov, Javokhir	2357	Firouzja, Alireza	2696	1/2-1/2	2021.07.17
+Iturrizaga Bonelli, Eduardo	2647	Firouzja, Alireza	2696	1/2-1/2	2021.07.31
+Aronian, Levon	2761	Firouzja, Alireza	2696	1/2-1/2	2021.07.31
+Artemiev, Vladislav	2757	Firouzja, Alireza	2696	1/2-1/2	2021.08.01
+Mamedyarov, Shakhriyar	2761	Firouzja, Alireza	2696	1/2-1/2	2021.08.02
+Van Foreest, Jorden	2563	Firouzja, Alireza	2696	1/2-1/2	2021.08.28
+Liang, Awonder	2397	Firouzja, Alireza	2696	1/2-1/2	2021.08.28
+So, Wesley	2774	Firouzja, Alireza	2696	1/2-1/2	2021.08.28
+Artemiev, Vladislav	2757	Firouzja, Alireza	2696	1/2-1/2	2021.08.30
+Duda, Jan-Krzysztof	2775	Firouzja, Alireza	2696	1/2-1/2	2021.08.29
+So, Wesley	2774	Firouzja, Alireza	2696	1/2-1/2	2021.09.01
+So, Wesley	2861	Firouzja, Alireza	2810	1/2-1/2	2021.09.01
+Artemiev, Vladislav	2757	Firouzja, Alireza	2696	1/2-1/2	2021.09.02
+Artemiev, Vladislav	2783	Firouzja, Alireza	2810	1/2-1/2	2021.09.03
+Firouzja, Alireza	0	Kovalev, Vladislav	0	1-0	Sat Jan 11 2020
+Firouzja, Alireza	0	Artemiev, Vladislav	0	1-0	Mon Jan 13 2020
+So, Wesley	0	Firouzja, Alireza	0	1-0	Tue Jan 14 2020
+Firouzja, Alireza	0	Giri, Anish	0	1-0	Thu Jan 16 2020
+Firouzja, Alireza	0	Xiong, Jeffery	0	1-0	Sat Jan 18 2020
+Firouzja, Alireza	0	Carlsen, Magnus	0	0-1	Tue Jan 21 2020
+Firouzja, Alireza	0	Anand, Viswanathan	0	0-1	Fri Jan 24 2020
+Firouzja, Alireza	0	Dubov, Daniil	0	1/2-1/2	Sun Jan 26 2020
+Firouzja, Alireza	0	Ragger, Markus	0	1/2-1/2	Wed Feb 12 2020
+Firouzja, Alireza	0	Harikrishna, P.	0	1-0	Fri Feb 14 2020
+Firouzja, Alireza	0	Vitiugov, Nikita	0	1/2-1/2	Sat Feb 15 2020
+Firouzja, Alireza	0	Navara, David	0	1/2-1/2	Tue Feb 18 2020
+Firouzja, Alireza	0	Shankland, Samuel L	0	1/2-1/2	Thu Feb 20 2020
+Firouzja, Alireza	0	Vidit, Santosh Gujrathi	0	1-0	Fri Feb 21 2020
+Firouzja,Alireza	2723	Artemiev,V	2731	1-0	2020.01.11
+Firouzja,Alireza	2723	Zierk,S	2509	1-0	2020.01.06
+Firouzja,Alireza	2723	Naroditsky,D	2621	1-0	2020.01.06
+Firouzja,Alireza	2726	Le,Quang Liem	2713	1/2-1/2	2020.01.06
+Firouzja,Alireza	2726	Dominguez Perez,L	2758	1-0	2020.01.06
+Artemiev, Vladislav	2757	Firouzja, Alireza	2696	1/2-1/2	2021.09.03
+Nepomniachtchi, Ian	2792	Firouzja, Alireza	2754	1/2-1/2	2021.09.08
+Shirov, Alexei	2659	Firouzja, Alireza	2770	1/2-1/2	2021.11.01
+Yu, Yangyi	2704	Firouzja, Alireza	2770	1/2-1/2	2021.10.30
+Oparin, Grigoriy	2659	Firouzja, Alireza	2770	1/2-1/2	2021.11.07
+Grischuk, Alexander	2773	Firouzja, Alireza	2770	1/2-1/2	2021.11.20
+Firouzja, Alireza	0	Cori, Jorge	0	1-0	Sun Oct 20 2019
+Firouzja, Alireza	0	Cori, Jorge	0	1-0	Tue Oct 22 2019
+Firouzja, Alireza	0	Korobov, Anton	0	1-0	Thu Dec 26 2019
+Firouzja, Alireza	0	Duda, Jan-Krzysztof	0	1-0	Sun Dec 29 2019
+Firouzja, Alireza	0	Triapishko, Olexandr	0	1-0	Sun Dec 29 2019
+Firouzja, Alireza	0	Andreikin, Dmitry	0	1-0	Mon Dec 30 2019
+Firouzja, Alireza	0	Jobava, Baadur	0	1-0	Sun Dec 29 2019
+Firouzja, Alireza	0	Mamedyarov, Shakhriyar	0	1-0	Sat Dec 28 2019
+Firouzja, Alireza	0	Inarkiev, Ernesto	0	1-0	Sat Dec 28 2019
+Duda, Jan-Krzysztof	0	Firouzja, Alireza	0	1/2-1/2	Sun Jan 12 2020
+Yu, Yangyi	0	Firouzja, Alireza	0	1/2-1/2	Fri Jan 17 2020
+Van Foreest, Jorden	0	Firouzja, Alireza	0	1/2-1/2	Sun Jan 19 2020
+Caruana, Fabiano	0	Firouzja, Alireza	0	1-0	Wed Jan 22 2020
+Vitiugov, Nikita	0	Firouzja, Alireza	0	1/2-1/2	Sat Jan 25 2020
+Grandelius, Nils	0	Firouzja, Alireza	0	1/2-1/2	Thu Feb 13 2020
+Vidit, Santosh Gujrathi	0	Firouzja, Alireza	0	1-0	Sun Feb 16 2020
+Duda, Jan-Krzysztof	0	Firouzja, Alireza	0	0-1	Wed Feb 19 2020
+Anton Guijarro, David	0	Firouzja, Alireza	0	1/2-1/2	Fri Feb 21 2020
+Vidit, Santosh Gujrathi	0	Firouzja, Alireza	0	0-1	Fri Feb 21 2020
+So,W	2765	Firouzja,Alireza	2723	1-0	2020.01.11
+Van Foreest,Jorden	2644	Firouzja,Alireza	2723	1/2-1/2	2020.01.11
+Sarana,A	2656	Firouzja,Alireza	2723	0-1	2020.01.06
+Smirnov,Ant	2604	Firouzja,Alireza	2723	1/2-1/2	2020.01.06
+So,W	2770	Firouzja,Alireza	2726	1-0	2020.01.06
+Caruana,F	2842	Firouzja,Alireza	2726	0-1	2020.01.06
+Firouzja, Alireza	0	Le, Quang Liem	0	1-0	Sat Dec 28 2019
+Firouzja, Alireza	0	Artemiev, Vladislav	0	1-0	Mon Dec 30 2019
+Firouzja,Alireza	2618	Xu,Grant	2207	1-0	2019.01.08
+Firouzja,Alireza	2618	Daghli,Arash	2367	1-0	2019.01.24
+Firouzja,Alireza	2618	Mosadeghpour,Masoud	2517	1-0	2019.01.24
+Firouzja,Alireza	2618	Moradi,A	2318	1-0	2019.01.24
+Firouzja,Alireza	2618	Abedi,Al	2163	1-0	2019.02.05
+Firouzja,Alireza	2618	Pour Agha Bala,Amirreza	2362	1-0	2019.02.05
+Firouzja,Alireza	2618	Alizadeh,G	2191	1-0	2019.02.05
+Firouzja,Alireza	2618	Fedorchuk,S	2604	1-0	2019.02.05
+Firouzja,Alireza	2618	Bosiocic,Mari	2618	1-0	2019.02.12
+Firouzja,Alireza	2618	Alekseev,Evgeny	2639	1-0	2019.02.12
+Firouzja,Alireza	2618	Sargsyan,Shant	2488	1-0	2019.02.20
+Firouzja,Alireza	2618	Sindarov,Javokhir	2505	1-0	2019.02.20
+Firouzja,Alireza	2657	Ni Hua	2683	1-0	2019.03.05
+Firouzja,Alireza	2657	Lenderman,A	2637	1-0	2019.03.05
+Firouzja,Alireza	2657	Kostenko,P	2466	1-0	2019.03.05
+Firouzja,Alireza	2657	Sundararajan,K	2413	1-0	2019.03.22
+Firouzja,Alireza	2657	Zarkovic,M	2187	1-0	2019.03.22
+Firouzja,Alireza	2657	Nguyen,Anh Khoi	2484	1-0	2019.03.22
+Firouzja,Alireza	2657	Vignesh,N R	2476	1-0	2019.03.22
+Firouzja,Alireza	2669	Chittka,Julius	2268	1-0	2019.04.08
+Firouzja,Alireza	2669	Potkin,V	2597	1-0	2019.04.08
+Firouzja,Alireza	2669	Hjartarson,J	2520	1-0	2019.04.08
+Firouzja,Alireza	2669	Ertan,C	2404	1-0	2019.04.18
+Firouzja,Alireza	2669	Ackermann,Ha	2237	1-0	2019.04.18
+Firouzja,Alireza	2669	Ciolek,Andreas	2284	1-0	2019.04.18
+Firouzja,Alireza	2682	Lagarde,Max	2600	1-0	2019.05.31
+Firouzja,Alireza	2682	Dourerassou,J	2477	1-0	2019.05.31
+Firouzja,Alireza	2682	David,Alb	2557	1-0	2019.05.31
+Firouzja,Alireza	2682	Siddharth,Gopakumar	1847	1-0	2019.06.01
+Firouzja,Alireza	2682	Shchekachev,A	2531	1-0	2019.06.01
+Firouzja,Alireza	2682	Shapiro,V	2249	1-0	2019.06.01
+Firouzja,Alireza	2682	David,Alb	2553	1-0	2019.06.01
+Firouzja,Alireza	2682	Martinez Alcantara,Jose Eduardo	2583	1-0	2019.05.16
+Firouzja,Alireza	2682	Martinez Alcantara,Jose Eduardo	2583	1-0	2019.05.16
+Firouzja,Alireza	2682	Martinez Alcantara,Jose Eduardo	2583	1-0	2019.05.16
+Firouzja,Alireza	2682	Martinez Alcantara,Jose Eduardo	2583	1-0	2019.05.16
+Firouzja,Alireza	2682	Martinez Alcantara,Jose Eduardo	2583	1-0	2019.05.16
+Firouzja,Alireza	2682	Martinez Alcantara,Jose Eduardo	2583	1-0	2019.05.16
+Firouzja,Alireza	2682	Martinez Alcantara,Jose Eduardo	2583	1-0	2019.05.16
+Firouzja,Alireza	2682	Gomez,Joh	2467	1-0	2019.06.07
+Firouzja,Alireza	2682	Wan Yunguo	2531	1-0	2019.06.07
+Firouzja,Alireza	2682	Aryan,C	2553	1-0	2019.06.07
+Firouzja,Alireza	2682	Vidit,S	2707	1-0	2019.06.15
+Firouzja,Alireza	2682	Garcia,Jan	2413	1-0	2019.06.15
+Firouzja,Alireza	2682	Laylo,D	2433	1-0	2019.06.15
+Firouzja,Alireza	2682	Tran Tuan Minh	2526	1-0	2019.06.15
+Firouzja,Alireza	2685	Yilmaz,M	2618	1-0	2019.07.17
+Firouzja,Alireza	2685	Gulbas,C	2380	1-0	2019.07.17
+Firouzja,Alireza	2682	Sevian,Samuel	2666	1-0	2019.05.16
+Firouzja,Alireza	2682	Sevian,Samuel	2666	1-0	2019.05.16
+Firouzja,Alireza	2682	Sevian,Samuel	2666	1-0	2019.05.16
+Firouzja,Alireza	2682	Sevian,Samuel	2666	1-0	2019.05.16
+Firouzja,Alireza	2682	Sevian,Samuel	2666	1-0	2019.05.16
+Firouzja,Alireza	2682	Sevian,Samuel	2666	1-0	2019.05.16
+Firouzja,Alireza	2682	Sevian,Samuel	2666	1-0	2019.05.16
+Firouzja,Alireza	2685	Asadli,Vugar	2502	1-0	2019.07.17
+Firouzja,Alireza	2685	Yaran,Siar	2197	1-0	2019.07.17
+Firouzja,Alireza	2685	Ertan,C	2396	1-0	2019.07.17
+Firouzja,Alireza	2685	Haznedaroglu,K	2448	1-0	2019.07.17
+Firouzja,Alireza	2682	Wei Yi	2736	1-0	2019.05.16
+Firouzja,Alireza	2682	Wei Yi	2736	1-0	2019.05.16
+Firouzja,Alireza	2682	Wei Yi	2736	1-0	2019.05.16
+Firouzja,Alireza	2682	Wei Yi	2736	1-0	2019.05.16
+Firouzja,Alireza	2682	Wei Yi	2736	1-0	2019.05.16
+Firouzja,Alireza	2702	Dubov,Daniil	2699	1-0	2019.09.10
+Firouzja,Alireza	2702	Pashikian,A	2599	1-0	2019.09.10
+Firouzja,Alireza	2702	Skripchenko,A	2403	1-0	2019.09.25
+Firouzja,Alireza	2702	Skripchenko,A	2403	1-0	2019.09.25
+Firouzja,Alireza	2702	Skripchenko,A	2403	1-0	2019.09.25
+Firouzja,Alireza	2702	Skripchenko,A	2403	1-0	2019.09.25
+Firouzja,Alireza	2702	Skripchenko,A	2403	1-0	2019.09.25
+Firouzja,Alireza	2702	Aronian,L	2758	1-0	2019.09.02
+Firouzja,Alireza	2702	Aronian,L	2758	1-0	2019.09.02
+Firouzja, Alireza	0	Duda, Jan-Krzysztof	0	0-1	Thu Dec 26 2019
+Firouzja, Alireza	0	Yu, Yangyi	0	0-1	Sun Dec 29 2019
+Firouzja, Alireza	0	Dubov, Daniil	0	0-1	Mon Dec 30 2019
+Firouzja, Alireza	0	Fedoseev, Vladimir	0	0-1	Sun Dec 29 2019
+Firouzja, Alireza	0	Carlsen, Magnus	0	0-1	Mon Dec 30 2019
+Firouzja,Alireza	2618	Kulaots,K	2542	0-1	2019.02.20
+Firouzja,Alireza	2669	Lupulescu,C	2634	0-1	2019.04.08
+Firouzja,Alireza	2669	Ziegenfuss,Antonia	1945	0-1	2019.04.18
+Firouzja,Alireza	2682	Fedorchuk,S	2620	0-1	2019.05.30
+Firouzja,Alireza	2682	Bellahcene,B	2545	0-1	2019.06.01
+Firouzja,Alireza	2682	Martinez Alcantara,Jose Eduardo	2583	0-1	2019.05.16
+Firouzja,Alireza	2682	Martinez Alcantara,Jose Eduardo	2583	0-1	2019.05.16
+Firouzja,Alireza	2682	Martinez Alcantara,Jose Eduardo	2583	0-1	2019.05.16
+Firouzja,Alireza	2682	Karthikeyan,M2	2593	0-1	2019.06.07
+Firouzja,Alireza	2682	Sevian,Samuel	2666	0-1	2019.05.16
+Firouzja,Alireza	2682	Sevian,Samuel	2666	0-1	2019.05.16
+Firouzja,Alireza	2682	Sevian,Samuel	2666	0-1	2019.05.16
+Firouzja,Alireza	2682	Sevian,Samuel	2666	0-1	2019.05.16
+Firouzja,Alireza	2682	Wei Yi	2736	0-1	2019.05.16
+Firouzja,Alireza	2702	Aronian,L	2758	1-0	2019.09.02
+Firouzja,Alireza	2702	Aronian,L	2758	1-0	2019.09.02
+Firouzja,Alireza	2702	Aronian,L	2758	1-0	2019.09.02
+Firouzja,Alireza	2702	Aronian,L	2758	1-0	2019.09.02
+Firouzja,Alireza	2702	Aronian,L	2758	1-0	2019.09.02
+Firouzja,Alireza	2723	Xu,Xiangyu	2582	1-0	2019.12.26
+Firouzja, Alireza	0	Cori, Jorge	0	1/2-1/2	Fri Oct 25 2019
+Firouzja, Alireza	0	Giri, Anish	0	1/2-1/2	Fri Dec 27 2019
+Firouzja, Alireza	0	Zubov, Alexander	0	1/2-1/2	Sun Dec 29 2019
+Firouzja, Alireza	0	Wang, Hao	0	1/2-1/2	Mon Dec 30 2019
+Firouzja,Alireza	2618	Demchenko,A	2679	1/2-1/2	2019.01.08
+Firouzja,Alireza	2618	Tahbaz,Arash	2468	1/2-1/2	2019.01.24
+Firouzja,Alireza	2618	Ghaem Maghami,E	2533	1/2-1/2	2019.01.24
+Firouzja,Alireza	2618	Gholami,A	2488	1/2-1/2	2019.01.24
+Firouzja,Alireza	2618	Kuzubov,Y	2650	1/2-1/2	2019.02.05
+Firouzja,Alireza	2618	Safarli,E	2681	1/2-1/2	2019.02.12
+Firouzja,Alireza	2618	Tiviakov,S	2610	1/2-1/2	2019.02.12
+Firouzja,Alireza	2618	Karthikeyan,M2	2560	1/2-1/2	2019.02.20
+Firouzja,Alireza	2618	Abdusattorov,Nodirbek	2560	1/2-1/2	2019.02.20
+Firouzja,Alireza	2657	Sethuraman,S	2637	1/2-1/2	2019.03.05
+Firouzja,Alireza	2657	Idani,P	2604	1/2-1/2	2019.03.22
+Firouzja,Alireza	2669	Cornette,M	2556	1/2-1/2	2019.04.08
+Firouzja,Alireza	2682	Wei Yi	2736	0-1	2019.05.16
+Firouzja,Alireza	2682	Wei Yi	2736	0-1	2019.05.16
+Firouzja,Alireza	2682	Wei Yi	2736	0-1	2019.05.16
+Firouzja,Alireza	2702	Ding Liren	2811	0-1	2019.09.10
+Firouzja,Alireza	2702	Aronian,L	2758	0-1	2019.09.02
+Firouzja,Alireza	2702	Aronian,L	2758	0-1	2019.09.02
+Firouzja,Alireza	2702	Aronian,L	2758	0-1	2019.09.02
+Firouzja,Alireza	2702	Aronian,L	2758	0-1	2019.09.02
+Firouzja,Alireza	2702	Aronian,L	2758	0-1	2019.09.02
+Radjabov, Teimour	2753	Firouzja, Alireza	2793	1/2-1/2	2022.06.17
+Rapport, Richard	2764	Firouzja, Alireza	2793	1/2-1/2	2022.06.18
+Ding, Liren	2806	Firouzja, Alireza	2793	1/2-1/2	2022.06.25
+Giri, Anish	2721	Firouzja, Alireza	2704	1/2-1/2	2022.08.17
+Giri, Anish	2721	Firouzja, Alireza	2704	1/2-1/2	2022.08.17
+Giri, Anish	2721	Firouzja, Alireza	2704	1/2-1/2	2022.08.17
+Duda, Jan-Krzysztof	2808	Firouzja, Alireza	2704	1/2-1/2	2022.08.18
+Niemann, Hans Moke	2529	Firouzja, Alireza	2704	1/2-1/2	2022.08.19
+Carlsen, Magnus	2834	Firouzja, Alireza	2704	1/2-1/2	2022.08.20
+Aronian, Levon	2728	Firouzja, Alireza	2704	1/2-1/2	2022.08.21
+Aronian, Levon	2728	Firouzja, Alireza	2704	1/2-1/2	2022.08.21
+Xiong, Jeffery	2725	Firouzja, Alireza	2704	1/2-1/2	2022.08.27
+Dominguez Perez, Leinier	2705	Firouzja, Alireza	2704	0-1	2022.08.27
+Xiong, Jeffery	2714	Firouzja, Alireza	2795	1/2-1/2	2022.08.29
+Aronian, Levon	2850	Firouzja, Alireza	2795	1/2-1/2	2022.08.29
+Mamedyarov, Shakhriyar	2710	Firouzja, Alireza	2795	0-1	2022.08.29
+Dominguez Perez, Leinier	2708	Firouzja, Alireza	2795	0-1	2022.08.29
+Nepomniachtchi, Ian	2791	Firouzja, Alireza	2795	1/2-1/2	2022.08.30
+Nakamura, Hikaru	2850	Firouzja, Alireza	2795	0-1	2022.08.30
+Caruana, Fabiano	2847	Firouzja, Alireza	2795	0-1	2022.08.30
+Shankland, Sam	2645	Firouzja, Alireza	2795	0-1	2022.08.30
+Vachier-Lagrave, Maxime	2812	Firouzja, Alireza	2795	1/2-1/2	2022.08.30
+Niemann, Hans Moke	2688	Firouzja, Alireza	2778	1/2-1/2	2022.09.05
+Dominguez Perez, Leinier	2745	Firouzja, Alireza	2778	1/2-1/2	2022.09.09
+Vachier-Lagrave, Maxime	2757	Firouzja, Alireza	2778	1/2-1/2	2022.09.11
+Cori, Jorge	0	Firouzja, Alireza	0	1-0	Thu Oct 24 2019
+Svidler, Peter	0	Firouzja, Alireza	0	1-0	Fri Dec 27 2019
+Nepomniachtchi, Ian	0	Firouzja, Alireza	0	1-0	Sun Dec 29 2019
+Kramnik, Vladimir	0	Firouzja, Alireza	0	1-0	Mon Dec 30 2019
+Azarov,S	2575	Firouzja,Alireza	2618	1-0	2019.01.08
+Khodashenas,M	2455	Firouzja,Alireza	2618	1-0	2019.02.05
+Wang Hao	2714	Firouzja,Alireza	2618	1-0	2019.02.20
+Artemiev,V	2736	Firouzja,Alireza	2657	1-0	2019.03.05
+Firouzja,Alireza	2682	Fier,A	2543	1/2-1/2	2019.06.01
+Firouzja,Alireza	2682	Martinez Alcantara,Jose Eduardo	2583	1/2-1/2	2019.05.16
+Firouzja,Alireza	2682	Martinez Alcantara,Jose Eduardo	2583	1/2-1/2	2019.05.16
+Firouzja,Alireza	2682	Martinez Alcantara,Jose Eduardo	2583	1/2-1/2	2019.05.16
+Firouzja,Alireza	2682	Sethuraman,S	2613	1/2-1/2	2019.06.07
+Firouzja,Alireza	2685	Sarana,A	2640	1/2-1/2	2019.07.17
+Firouzja,Alireza	2682	Sevian,Samuel	2666	1/2-1/2	2019.05.16
+Firouzja,Alireza	2682	Sevian,Samuel	2666	1/2-1/2	2019.05.16
+Firouzja,Alireza	2682	Sevian,Samuel	2666	1/2-1/2	2019.05.16
+Firouzja,Alireza	2682	Wei Yi	2736	1/2-1/2	2019.05.16
+Firouzja,Alireza	2682	Wei Yi	2736	1/2-1/2	2019.05.16
+Firouzja,Alireza	2682	Wei Yi	2736	1/2-1/2	2019.05.16
+Firouzja,Alireza	2682	Wei Yi	2736	1/2-1/2	2019.05.16
+Firouzja,Alireza	2702	Ding Liren	2811	1/2-1/2	2019.09.10
+Firouzja,Alireza	2702	Aronian,L	2758	1/2-1/2	2019.09.02
+Firouzja,Alireza	2702	Cori,J	2671	1/2-1/2	2019.10.20
+Firouzja,Alireza	2723	Studer,N	2546	1/2-1/2	2019.12.26
+Lagarde,Max	2600	Firouzja,Alireza	2682	1-0	2019.05.31
+Munoz Pantoja,M	2513	Firouzja,Alireza	2682	1-0	2019.06.01
+Morelle,L	2313	Firouzja,Alireza	2682	1-0	2019.06.01
+Martinez Alcantara,Jose Eduardo	2583	Firouzja,Alireza	2682	1-0	2019.05.16
+Le Quang Liem	2694	Firouzja,Alireza	2682	1-0	2019.06.07
+Nihal,Sarin	2606	Firouzja,Alireza	2682	1-0	2019.06.15
+Sandipan,C	2511	Firouzja,Alireza	2682	1-0	2019.06.15
+Sevian,Samuel	2666	Firouzja,Alireza	2682	1-0	2019.05.16
+Sevian,Samuel	2666	Firouzja,Alireza	2682	1-0	2019.05.16
+Sevian,Samuel	2666	Firouzja,Alireza	2682	1-0	2019.05.16
+Wei Yi	2736	Firouzja,Alireza	2682	1-0	2019.05.16
+Wei Yi	2736	Firouzja,Alireza	2682	1-0	2019.05.16
+Wei Yi	2736	Firouzja,Alireza	2682	1-0	2019.05.16
+Wei Yi	2736	Firouzja,Alireza	2682	1-0	2019.05.16
+Wei Yi	2736	Firouzja,Alireza	2682	1-0	2019.05.16
+Wei Yi	2736	Firouzja,Alireza	2682	1-0	2019.05.16
+Wei Yi	2736	Firouzja,Alireza	2682	1-0	2019.05.16
+Ding Liren	2811	Firouzja,Alireza	2702	1-0	2019.09.10
+Skripchenko,A	2403	Firouzja,Alireza	2702	1-0	2019.09.25
+Aronian,L	2758	Firouzja,Alireza	2702	1-0	2019.09.02
+Aronian,L	2758	Firouzja,Alireza	2702	1-0	2019.09.02
+Aronian,L	2758	Firouzja,Alireza	2702	1-0	2019.09.02
+Aronian,L	2758	Firouzja,Alireza	2702	1-0	2019.09.02
+Aronian,L	2758	Firouzja,Alireza	2702	1-0	2019.09.02
+Aronian,L	2758	Firouzja,Alireza	2702	1-0	2019.09.02
+Cori, Jorge	0	Firouzja, Alireza	0	0-1	Mon Oct 21 2019
+Cori, Jorge	0	Firouzja, Alireza	0	0-1	Sat Oct 26 2019
+Karjakin, Sergey	0	Firouzja, Alireza	0	0-1	Thu Dec 26 2019
+Esipenko, Andrey	0	Firouzja, Alireza	0	0-1	Sun Dec 29 2019
+Nakamura, Hikaru	0	Firouzja, Alireza	0	0-1	Sun Dec 29 2019
+Harsha, Bharathakoti	0	Firouzja, Alireza	0	0-1	Sun Dec 29 2019
+Socko, Bartosz	0	Firouzja, Alireza	0	0-1	Mon Dec 30 2019
+Grischuk, Alexander	0	Firouzja, Alireza	0	0-1	Mon Dec 30 2019
+Tari, Aryan	0	Firouzja, Alireza	0	0-1	Sun Dec 29 2019
+Wang, Hao	0	Firouzja, Alireza	0	0-1	Sat Dec 28 2019
+Giri, Anish	0	Firouzja, Alireza	0	0-1	Mon Dec 30 2019
+Idani,P	2611	Firouzja,Alireza	2618	0-1	2019.01.24
+Darini,P	2475	Firouzja,Alireza	2618	0-1	2019.01.24
+Pourramezanali,A	2528	Firouzja,Alireza	2618	0-1	2019.01.24
+Gholami Orimi,Mahdi	2375	Firouzja,Alireza	2618	0-1	2019.01.24
+Cubas Pons,Ju	2280	Firouzja,Alireza	2618	0-1	2019.02.05
+Omidi,Arya	2354	Firouzja,Alireza	2618	0-1	2019.02.05
+Mirzoev,A	2483	Firouzja,Alireza	2618	0-1	2019.02.05
+Bosiocic,Mari	2618	Firouzja,Alireza	2618	0-1	2019.02.12
+Ghaem Maghami,E	2540	Firouzja,Alireza	2618	0-1	2019.02.20
+Johansson,Linus	2479	Firouzja,Alireza	2657	0-1	2019.03.05
+Abdelnabbi,I	2435	Firouzja,Alireza	2657	0-1	2019.03.05
+Speelman,J	2516	Firouzja,Alireza	2657	0-1	2019.03.05
+Aronian,L	2758	Firouzja,Alireza	2702	1-0	2019.09.02
+Kramnik,V	2753	Firouzja,Alireza	2723	1-0	2019.12.29
+Sindarov,Javokhir	2505	Firouzja,Alireza	2657	0-1	2019.03.22
+Sadzikowski,D	2523	Firouzja,Alireza	2669	0-1	2019.04.08
+Kevlishvili,Robby	2451	Firouzja,Alireza	2669	0-1	2019.04.08
+Mihajlov,Sv	2145	Firouzja,Alireza	2669	0-1	2019.04.18
+Suleymenov,Alisher	2431	Firouzja,Alireza	2669	0-1	2019.04.08
+Lobron,E	2508	Firouzja,Alireza	2669	0-1	2019.04.18
+Siddharth,Jagadeesh	2132	Firouzja,Alireza	2669	0-1	2019.04.18
+Ziska,H	2533	Firouzja,Alireza	2682	0-1	2019.05.30
+Lagarde,Max	2600	Firouzja,Alireza	2682	0-1	2019.05.31
+David,Alb	2557	Firouzja,Alireza	2682	0-1	2019.05.31
+Fantin,L	2213	Firouzja,Alireza	2682	0-1	2019.06.01
+Medghoul,S	2148	Firouzja,Alireza	2682	0-1	2019.06.01
+Dionisi,T	2405	Firouzja,Alireza	2682	0-1	2019.06.01
+Martinez Alcantara,Jose Eduardo	2583	Firouzja,Alireza	2682	0-1	2019.05.16
+Martinez Alcantara,Jose Eduardo	2583	Firouzja,Alireza	2682	0-1	2019.05.16
+Martinez Alcantara,Jose Eduardo	2583	Firouzja,Alireza	2682	0-1	2019.05.16
+Martinez Alcantara,Jose Eduardo	2583	Firouzja,Alireza	2682	0-1	2019.05.16
+Martinez Alcantara,Jose Eduardo	2583	Firouzja,Alireza	2682	0-1	2019.05.16
+Martinez Alcantara,Jose Eduardo	2583	Firouzja,Alireza	2682	0-1	2019.05.16
+Martinez Alcantara,Jose Eduardo	2583	Firouzja,Alireza	2682	0-1	2019.05.16
+Martinez Alcantara,Jose Eduardo	2583	Firouzja,Alireza	2682	0-1	2019.05.16
+Gupta,Ab	2606	Firouzja,Alireza	2682	0-1	2019.06.07
+Aravindh,Chithambaram VR.	2598	Firouzja,Alireza	2682	0-1	2019.06.07
+Krishna,CRG	2481	Firouzja,Alireza	2682	0-1	2019.06.15
+Nguyen Ngoc Truong Son	2639	Firouzja,Alireza	2682	0-1	2019.06.15
+Aronian, Levon	0	Firouzja, Alireza	0	1/2-1/2	Fri Dec 27 2019
+Mamedyarov, Shakhriyar	0	Firouzja, Alireza	0	1/2-1/2	Sun Dec 29 2019
+Andreikin, Dmitry	0	Firouzja, Alireza	0	1/2-1/2	Sat Dec 28 2019
+Lobanov,Sergei	2505	Firouzja,Alireza	2685	0-1	2019.07.17
+Quparadze,G	2499	Firouzja,Alireza	2685	0-1	2019.07.17
+Kerigan,D	2398	Firouzja,Alireza	2685	0-1	2019.07.17
+Sevian,Samuel	2666	Firouzja,Alireza	2682	0-1	2019.05.16
+Sevian,Samuel	2666	Firouzja,Alireza	2682	0-1	2019.05.16
+Sevian,Samuel	2666	Firouzja,Alireza	2682	0-1	2019.05.16
+Sevian,Samuel	2666	Firouzja,Alireza	2682	0-1	2019.05.16
+Sevian,Samuel	2666	Firouzja,Alireza	2682	0-1	2019.05.16
+Sevian,Samuel	2666	Firouzja,Alireza	2682	0-1	2019.05.16
+Sevian,Samuel	2666	Firouzja,Alireza	2682	0-1	2019.05.16
+Selbes,T	2342	Firouzja,Alireza	2685	0-1	2019.07.17
+Wei Yi	2736	Firouzja,Alireza	2682	0-1	2019.05.16
+Wei Yi	2736	Firouzja,Alireza	2682	0-1	2019.05.16
+Wei Yi	2736	Firouzja,Alireza	2682	0-1	2019.05.16
+Skripchenko,A	2403	Firouzja,Alireza	2702	0-1	2019.09.25
+Skripchenko,A	2403	Firouzja,Alireza	2702	0-1	2019.09.25
+Skripchenko,A	2403	Firouzja,Alireza	2702	0-1	2019.09.25
+Aronian,L	2758	Firouzja,Alireza	2702	0-1	2019.09.02
+Aronian,L	2758	Firouzja,Alireza	2702	0-1	2019.09.02
+Aronian,L	2758	Firouzja,Alireza	2702	0-1	2019.09.02
+Aronian,L	2758	Firouzja,Alireza	2702	0-1	2019.09.02
+Ismagambetov,An	2528	Firouzja,Alireza	2723	0-1	2019.12.26
+Yu, Yangyi	0	Firouzja, Alireza	0	1/2-1/2	Fri Dec 27 2019
+Khamrakulov,D	2503	Firouzja,Alireza	2618	1/2-1/2	2019.01.08
+Khodashenas,M	2455	Firouzja,Alireza	2618	1/2-1/2	2019.01.24
+Alekseev,Evgeny	2639	Firouzja,Alireza	2618	1/2-1/2	2019.02.12
+Tiviakov,S	2610	Firouzja,Alireza	2618	1/2-1/2	2019.02.12
+Safarli,E	2681	Firouzja,Alireza	2618	1/2-1/2	2019.02.12
+Xu,Yi	2520	Firouzja,Alireza	2618	1/2-1/2	2019.02.20
+Liu,Yan	2498	Firouzja,Alireza	2618	1/2-1/2	2019.02.20
+Abasov,N	2627	Firouzja,Alireza	2657	1/2-1/2	2019.03.05
+Nitin,S	2408	Firouzja,Alireza	2657	1/2-1/2	2019.03.22
+Deepan,C	2534	Firouzja,Alireza	2657	1/2-1/2	2019.03.22
+Inarkiev,E	2692	Firouzja,Alireza	2657	1/2-1/2	2019.03.22
+Hovhannisyan,R	2630	Firouzja,Alireza	2669	1/2-1/2	2019.04.08
+Dourerassou,J	2477	Firouzja,Alireza	2682	1/2-1/2	2019.05.31
+Moussard,J	2576	Firouzja,Alireza	2682	1/2-1/2	2019.06.01
+Martinez Alcantara,Jose Eduardo	2583	Firouzja,Alireza	2682	1/2-1/2	2019.05.16
+Martinez Alcantara,Jose Eduardo	2583	Firouzja,Alireza	2682	1/2-1/2	2019.05.16
+Martinez Alcantara,Jose Eduardo	2583	Firouzja,Alireza	2682	1/2-1/2	2019.05.16
+Praggnanandhaa,R	2537	Firouzja,Alireza	2682	1/2-1/2	2019.06.07
+Praggnanandhaa,R	2537	Firouzja,Alireza	2682	1/2-1/2	2019.06.15
+Sevian,Samuel	2666	Firouzja,Alireza	2682	1/2-1/2	2019.05.16
+Sevian,Samuel	2666	Firouzja,Alireza	2682	1/2-1/2	2019.05.16
+Sevian,Samuel	2666	Firouzja,Alireza	2682	1/2-1/2	2019.05.16
+Rozum,I	2583	Firouzja,Alireza	2685	1/2-1/2	2019.07.17
+Gholami,A	2532	Firouzja,Alireza	2685	1/2-1/2	2019.07.17
+Firouzja, Alireza	2549	Gholami, A.	2489	1-0	2018.02.03
+Firouzja, Alireza	2549	Khamisi, S.	2236	1-0	2018.02.03
+Firouzja, Alireza	2549	Gusain, H.	2447	1-0	2018.02.03
+Firouzja, Alireza	2549	Khademalsharieh, S.	2413	1-0	2018.02.03
+Firouzja, Alireza	2549	Toufighi, H.	2436	1-0	2018.02.03
+Firouzja, Alireza	2549	Debashis, D.	2501	1-0	2018.02.20
+Firouzja, Alireza	2558	Tahbaz, Arash	2455	1-0	2018.03.09
+Firouzja, Alireza	2558	Darini, P.	2497	1-0	2018.03.09
+Firouzja, Alireza	2558	Gholami Orimi, Mahdi	2299	1-0	2018.03.09
+Firouzja, Alireza	2558	Lorparizangeneh, S.	2506	1-0	2018.03.09
+Firouzja, Alireza	2572	Hejazipour, M.	2304	1-0	2018.04.12
+Firouzja, Alireza	2572	Raahul, V S.	2258	1-0	2018.04.12
+Firouzja, Alireza	2572	Ashwath, R.	2250	1-0	2018.04.12
+Firouzja, Alireza	2572	Bhambure, S.	2155	1-0	2018.04.12
+Firouzja, Alireza	2561	Ahmed, SN.	2257	1-0	2018.07.28
+Firouzja, Alireza	2561	Bai, Jinshi	2588	1-0	2018.07.28
+Wei Yi	2736	Firouzja,Alireza	2682	1/2-1/2	2019.05.16
+Wei Yi	2736	Firouzja,Alireza	2682	1/2-1/2	2019.05.16
+Wei Yi	2736	Firouzja,Alireza	2682	1/2-1/2	2019.05.16
+Pashikian,A	2599	Firouzja,Alireza	2702	1/2-1/2	2019.09.10
+Dubov,Daniil	2699	Firouzja,Alireza	2702	1/2-1/2	2019.09.10
+Ding Liren	2811	Firouzja,Alireza	2702	1/2-1/2	2019.09.10
+Skripchenko,A	2403	Firouzja,Alireza	2702	1/2-1/2	2019.09.25
+Aronian,L	2758	Firouzja,Alireza	2702	1/2-1/2	2019.09.02
+Aronian,L	2758	Firouzja,Alireza	2702	1/2-1/2	2019.09.02
+Firouzja, Alireza	2561	Sadhwani, Raunak	2424	1-0	2018.08.07
+Firouzja, Alireza	2561	Kathmale, S.	2367	1-0	2018.08.07
+Firouzja, Alireza	2561	Noah, A.	2288	1-0	2018.07.28
+Firouzja, Alireza	2561	Nguyen Duc Hoa	2441	1-0	2018.07.28
+Firouzja, Alireza	2561	Gukesh, D.	2440	1-0	2018.08.07
+Firouzja, Alireza	2561	Omar, Noa	2353	1-0	2018.08.07
+Firouzja, Alireza	2561	Irwanto, S.	2325	1-0	2018.08.20
+Firouzja, Alireza	2561	Dimakiling, O.	2401	1-0	2018.08.20
+Firouzja, Alireza	2582	Dedebas, Emre Emin	2334	1-0	2018.09.05
+Firouzja, Alireza	2582	Asadli, Vugar	2492	1-0	2018.09.05
+Firouzja, Alireza	2582	Vavulin, M.	2559	1-0	2018.09.05
+Firouzja, Alireza	2600	Schnepp, Gunnar	2320	1-0	2018.10.27
+Firouzja, Alireza	2607	Anton Guijarro, David	2642	1-0	2018.12.26
+Firouzja, Alireza	2607	Grachev, Boris	2626	1-0	2018.12.26
+Firouzja, Alireza	2607	Ivic, Velimir	2497	1-0	2018.11.25
+Firouzja, Alireza	2607	Liu, Yan	2495	1-0	2018.12.10
+Firouzja, Alireza	2607	Vishnu, Prasanna V	2518	1-0	2018.12.29
+Firouzja, Alireza	2600	Niese, Holger	2130	1-0	2018.10.27
+Firouzja, Alireza	2607	Abdusattorov, Nodirbek	2546	1-0	2018.12.29
+Firouzja, Alireza	2607	Zhigalko, Sergei	2604	1-0	2018.12.26
+Firouzja, Alireza	2582	Blackman, Justin	2158	1-0	2018.09.24
+Firouzja, Alireza	2607	Motylev, Alexander	2644	1-0	2018.12.26
+Firouzja, Alireza	2582	Gengler, Pierre	2205	1-0	2018.09.24
+Firouzja, Alireza	2607	Svidler, Peter	2737	1-0	2018.12.29
+Firouzja, Alireza	2607	Jobava, Baadur	2627	1-0	2018.12.29
+Firouzja, Alireza	2549	Andreikin, D.	2712	1/2-1/2	2018.02.20
+Firouzja, Alireza	2549	Inarkiev, E.	2684	1/2-1/2	2018.02.20
+Firouzja, Alireza	2549	Zvjaginsev, V.	2629	0-1	2018.02.20
+Firouzja, Alireza	2558	Maghsoodloo, Parham	2601	0-1	2018.03.09
+Firouzja, Alireza	2558	Tabatabaei, M.	2592	0-1	2018.03.09
+Firouzja, Alireza	2572	Grandelius, N.	2652	1/2-1/2	2018.04.12
+Firouzja, Alireza	2570	Guseinov, G.	2654	1/2-1/2	2018.05.01
+Firouzja, Alireza	2582	Puranik, A.	2524	0-1	2018.09.05
+Firouzja, Alireza	2607	Vokhidov, Shamsiddin	2480	0-1	2018.12.10
+Firouzja, Alireza	2607	Dubov, Daniil	2703	0-1	2018.12.26
+Firouzja, Alireza	2607	Khusnutdinov, Rustam	2470	0-1	2018.12.29
+Firouzja, Alireza	2607	Nozdrachev, Vladislav	2486	0-1	2018.12.29
+Firouzja, Alireza	2607	Pascua, Haridas	2442	1-0	2018.12.10
+Firouzja, Alireza	2607	Sahidi, Samir	2309	1-0	2018.11.25
+Firouzja, Alireza	2582	Quparadze, Giga	2495	1-0	2018.09.24
+Firouzja, Alireza	2607	Wang, Hao	2730	0-1	2018.12.29
+Firouzja, Alireza	2607	Zhigalko, Andrey	2545	1-0	2018.12.29
+Firouzja, Alireza	2582	Munkhgal, Gombosuren	2452	1-0	2018.09.24
+Firouzja, Alireza	2600	Hovhannisyan, Robert	2621	1-0	2018.10.27
+Firouzja, Alireza	2607	Brodsky, David	2415	1-0	2018.11.25
+Firouzja, Alireza	2607	Lalith, Babu M R	2529	0-1	2018.12.10
+Firouzja, Alireza	2607	Cheparinov, Ivan	2709	1-0	2018.12.26
+Firouzja, Alireza	2607	Andreikin, Dmitry	2719	0-1	2018.12.26
+Firouzja,Alireza	2600	Schoen,Ru	1997	1-0	2018.10.27
+Firouzja,Alireza	2607	Wijesinghe,N L C Dojitha	1688	1-0	2018.11.25
+Kuzubov, Y.	2695	Firouzja, Alireza	2549	1-0	2018.02.03
+Tabatabaei, M.	2577	Firouzja, Alireza	2549	1-0	2018.02.03
+Kamsky, G.	2677	Firouzja, Alireza	2549	1-0	2018.02.20
+Ghaem Maghami, E.	2530	Firouzja, Alireza	2558	1-0	2018.03.09
+Artemiev, V.	2701	Firouzja, Alireza	2572	1-0	2018.04.12
+Eljanov, P.	2700	Firouzja, Alireza	2572	1-0	2018.04.12
+Sanal, V.	2505	Firouzja, Alireza	2570	1-0	2018.05.01
+Firouzja, Alireza	2570	Aliyev, Ravan	2340	1/2-1/2	2018.05.01
+Ibrahimli, Murad	2305	Firouzja, Alireza	2570	1-0	2018.05.01
+Firouzja, Alireza	2570	Ghaem Maghami, E.	2531	1/2-1/2	2018.05.01
+Firouzja, Alireza	2561	Le Quang Liem	2727	1/2-1/2	2018.08.07
+Firouzja, Alireza	2561	Darini, P.	2463	1/2-1/2	2018.07.28
+Firouzja, Alireza	2561	Yeoh, L.	2497	1/2-1/2	2018.08.20
+Firouzja, Alireza	2561	Wang Hao	2711	1/2-1/2	2018.08.20
+Firouzja, Alireza	2561	Taher, Yoseph Theolifus	2444	1/2-1/2	2018.08.20
+Firouzja, Alireza	2582	Sindarov, Javokhir	2484	1/2-1/2	2018.09.05
+Firouzja, Alireza	2582	Narayanan, SL.	2573	1/2-1/2	2018.09.05
+Firouzja, Alireza	2607	Cheparinov, Ivan	2709	1/2-1/2	2018.12.29
+Firouzja, Alireza	2607	Predke, Alexandr	2622	1/2-1/2	2018.12.29
+Firouzja, Alireza	2582	Michalik, Peter	2556	1/2-1/2	2018.09.24
+Firouzja, Alireza	2607	Wang, Hao	2730	1/2-1/2	2018.12.26
+Firouzja, Alireza	2600	Nisipeanu, Liviu-Dieter	2667	1/2-1/2	2018.10.27
+Firouzja, Alireza	2582	Volodin, Aleksandr	2457	1/2-1/2	2018.09.24
+Firouzja, Alireza	2607	Yu, Yangyi	2764	1/2-1/2	2018.12.29
+Firouzja, Alireza	2582	Martinovic, Sasa	2567	1/2-1/2	2018.09.24
+Firouzja, Alireza	2749	Duda, Jan-Krzysztof	2743	1-0	Sat Jan 23 2021
+Firouzja, Alireza	2749	Anton Guijarro, David	2679	1-0	Mon Jan 18 2021
+Firouzja, Alireza	2759	Grandelius, Nils	2670	1-0	Sat Mar 13 2021
+Firouzja, Alireza	2759	Radjabov, Teimour	2765	1-0	Sun Mar 14 2021
+Firouzja, Alireza	2759	Artemiev, Vladislav	2709	1-0	Tue Apr 06 2021
+Firouzja, Alireza	2759	Artemiev, Vladislav	2709	1-0	Tue Apr 06 2021
+Firouzja, Alireza	2759	Artemiev, Vladislav	2709	1-0	Tue Apr 06 2021
+Firouzja, Alireza	2759	Nakamura, Hikaru	2736	1-0	Wed Apr 07 2021
+Firouzja, Alireza	2759	Nakamura, Hikaru	2736	1-0	Wed Apr 07 2021
+Firouzja, Alireza	2759	Nakamura, Hikaru	2736	1-0	Wed Apr 07 2021
+Firouzja, Alireza	2759	Nakamura, Hikaru	2736	1-0	Wed Apr 07 2021
+Firouzja, Alireza	2759	Tang, Andrew	2538	1-0	Wed Apr 07 2021
+Firouzja, Alireza	2759	Tang, Andrew	2538	1-0	Wed Apr 07 2021
+Firouzja, Alireza	2759	Nakamura, Hikaru	2736	1-0	Wed Apr 07 2021
+Firouzja, Alireza	2759	Tang, Andrew	2538	1-0	Wed Apr 07 2021
+Firouzja, Alireza	2759	Nakamura, Hikaru	2736	1-0	Wed Apr 07 2021
+Firouzja, Alireza	2759	Tang, Andrew	2538	1-0	Wed Apr 07 2021
+Firouzja, Alireza	2759	Tang, Andrew	2538	1-0	Wed Apr 07 2021
+Firouzja, Alireza	2759	So, Wesley	2770	1-0	Sat Apr 24 2021
+Firouzja, Alireza	2759	Dominguez Perez, Leinier	2758	1-0	Sat Apr 24 2021
+Firouzja, Alireza	2759	Karjakin, Sergey	2757	1-0	Sat Apr 24 2021
+Firouzja, Alireza	2759	Jones, Gawain C B	2670	1-0	Mon Apr 26 2021
+Firouzja, Alireza	2759	Aronian, Levon	2781	1-0	Sun Apr 25 2021
+Nepomniachtchi, Ian	2792	Firouzja, Alireza	2778	1/2-1/2	2022.09.12
+Nepomniachtchi, Ian	2792	Firouzja, Alireza	2778	1/2-1/2	2022.09.12
+Moradi, A.	2276	Firouzja, Alireza	2549	0-1	2018.02.03
+Mikaelyan, A.	2486	Firouzja, Alireza	2549	0-1	2018.02.20
+Noroozi, O.	2356	Firouzja, Alireza	2558	0-1	2018.03.09
+Javanbakht, N.	2436	Firouzja, Alireza	2558	0-1	2018.03.09
+Krithigga, K.	2003	Firouzja, Alireza	2572	0-1	2018.04.12
+Tutisani, Noe	2460	Firouzja, Alireza	2570	0-1	2018.05.01
+Beradze, I.	2486	Firouzja, Alireza	2570	0-1	2018.05.01
+Makhnev, Denis	2437	Firouzja, Alireza	2561	0-1	2018.07.28
+Dubov, Daniil	2691	Firouzja, Alireza	2561	1-0	2018.08.07
+Krishnater, Kushager	2256	Firouzja, Alireza	2561	0-1	2018.08.07
+Cheparinov, I.	2718	Firouzja, Alireza	2561	1-0	2018.08.07
+Fedoseev, Vl3	2707	Firouzja, Alireza	2561	1-0	2018.08.07
+Chan, Marc	2150	Firouzja, Alireza	2561	0-1	2018.08.20
+Ervan, Mohamad	2354	Firouzja, Alireza	2561	0-1	2018.08.20
+Ikeda, J.	2419	Firouzja, Alireza	2561	0-1	2018.08.20
+Tang, Andrew	2489	Firouzja, Alireza	2582	0-1	2018.09.05
+Liang, Awonder	2575	Firouzja, Alireza	2582	1-0	2018.09.05
+Artemiev, Vladislav	2709	Firouzja, Alireza	2607	1-0	2018.12.29
+Carlsen, Magnus	2835	Firouzja, Alireza	2607	1-0	2018.12.29
+Groetzbach, Julian	2247	Firouzja, Alireza	2600	1-0	2018.10.27
+Korobov, Anton	2698	Firouzja, Alireza	2607	1-0	2018.12.26
+Kovalev, Vladislav	2683	Firouzja, Alireza	2607	1-0	2018.12.29
+Nepomniachtchi, Ian	2763	Firouzja, Alireza	2607	1-0	2018.12.29
+Sibashvili, Giorgi	2425	Firouzja, Alireza	2582	1-0	2018.09.24
+Wei, Yi	2728	Firouzja, Alireza	2607	1-0	2018.12.10
+Maghalashvili, Da	2506	Firouzja, Alireza	2549	1/2-1/2	2018.02.03
+Sasikiran, K.	2671	Firouzja, Alireza	2549	1/2-1/2	2018.02.20
+Vidit, S.	2723	Firouzja, Alireza	2549	1/2-1/2	2018.02.20
+Bluebaum, M.	2635	Firouzja, Alireza	2549	1/2-1/2	2018.02.20
+Mousavi, Se	2467	Firouzja, Alireza	2558	1/2-1/2	2018.03.09
+Escalante Ramirez, Brian Sebasti	2436	Firouzja, Alireza	2582	0-1	2018.09.05
+Lagunow, Raphael	2403	Firouzja, Alireza	2582	0-1	2018.09.05
+Andreikin, Dmitry	2719	Firouzja, Alireza	2607	0-1	2018.12.29
+Artemiev, Vladislav	2709	Firouzja, Alireza	2607	0-1	2018.12.26
+Bellia, Fabrizio	2448	Firouzja, Alireza	2600	0-1	2018.10.27
+Coman, Mihnea-George	2042	Firouzja, Alireza	2607	0-1	2018.11.25
+Dominguez, JM	2283	Firouzja, Alireza	2582	0-1	2018.09.24
+Dzhumagaliev, Yan	2410	Firouzja, Alireza	2607	0-1	2018.12.29
+Fedorov, Alexei	2568	Firouzja, Alireza	2582	0-1	2018.09.24
+Gagare, Shardul	2504	Firouzja, Alireza	2607	0-1	2018.12.10
+Gueci, Tea	2166	Firouzja, Alireza	2600	0-1	2018.10.27
+Guseinov, Gadir	2664	Firouzja, Alireza	2607	0-1	2018.12.29
+Huang, Renjie	2322	Firouzja, Alireza	2607	0-1	2018.11.25
+Khismatullin, Denis	2621	Firouzja, Alireza	2607	0-1	2018.12.26
+Miller, Eduard	2383	Firouzja, Alireza	2600	0-1	2018.10.27
+Nava, Roderick	2392	Firouzja, Alireza	2607	0-1	2018.12.10
+Potkin, Vladimir	2597	Firouzja, Alireza	2607	0-1	2018.12.29
+Svidler, Peter	2737	Firouzja, Alireza	2607	0-1	2018.12.26
+Timofeev, Artyom	2589	Firouzja, Alireza	2607	0-1	2018.12.29
+Zarubitski, Viachaslau	2417	Firouzja, Alireza	2607	0-1	2018.11.25
+Firouzja, Alireza	2456	Hakemi, Arman	2366	1-0	2017.01.20
+Firouzja, Alireza	2456	Mohandesi, S.	2207	1-0	2017.01.20
+Firouzja, Alireza	2456	Jamshidi, Amir Hossein	2125	1-0	2017.01.20
+Firouzja, Alireza	2456	Sedaghati, M.	2315	1-0	2017.01.20
+Firouzja, Alireza	2465	Bindrich, F.	2590	1-0	2017.02.21
+Firouzja, Alireza	2465	Bluebaum, M.	2632	1-0	2017.02.21
+Firouzja, Alireza	2465	Vavulin, M.	2604	1-0	2017.02.21
+Firouzja, Alireza	2465	Cordova, E.	2655	1-0	2017.02.21
+Firouzja, Alireza	2470	Pourramezanali, A.	2510	1-0	2017.03.05
+Firouzja, Alireza	2492	Arjun, K1.	2232	1-0	2017.04.03
+Firouzja, Alireza	2487	Taalaibekov, Tagir	2213	1-0	2017.05.03
+Mosadeghpour, Masoud	2535	Firouzja, Alireza	2558	1/2-1/2	2018.03.09
+Sadhwani, Raunak	2358	Firouzja, Alireza	2572	1/2-1/2	2018.04.12
+Ozen, Deniz	2397	Firouzja, Alireza	2570	1/2-1/2	2018.05.01
+Ganguly, S.	2652	Firouzja, Alireza	2561	1/2-1/2	2018.07.28
+Le Tuan Minh	2512	Firouzja, Alireza	2561	1/2-1/2	2018.08.20
+Maghsoodloo, Parham	2649	Firouzja, Alireza	2582	1/2-1/2	2018.09.05
+Abdusattorov, Nodirbek	2560	Firouzja, Alireza	2607	1/2-1/2	2018.11.25
+Anand, Viswanathan	2773	Firouzja, Alireza	2607	1/2-1/2	2018.12.26
+Aronian, Levon	2765	Firouzja, Alireza	2607	1/2-1/2	2018.12.29
+Erigaisi, Arjun	2531	Firouzja, Alireza	2607	1/2-1/2	2018.11.25
+Kamsky, Gata	2666	Firouzja, Alireza	2607	1/2-1/2	2018.12.26
+Li, Chao2	2708	Firouzja, Alireza	2582	1/2-1/2	2018.09.24
+Morozevich, Alexander	2656	Firouzja, Alireza	2607	1/2-1/2	2018.12.26
+Nguyen, Ngoc Truong Son	2641	Firouzja, Alireza	2607	1/2-1/2	2018.12.10
+Firouzja, Alireza	2465	Bok, B.	2596	0-1	2017.02.21
+Firouzja, Alireza	2470	Maghsoodloo, Parham	2576	0-1	2017.03.05
+Firouzja, Alireza	2470	Mosadeghpour, Masoud	2444	0-1	2017.03.05
+Firouzja, Alireza	2470	Lorparizangeneh, S.	2524	0-1	2017.03.05
+Firouzja, Alireza	2492	Areshchenko, A.	2686	0-1	2017.04.03
+Firouzja, Alireza	2492	Oleksiyenko, Mykhaylo	2643	0-1	2017.04.03
+Firouzja, Alireza	2487	Gholami, A.	2423	1-0	2017.05.03
+Firouzja, Alireza	2487	Tran Tuan Minh	2537	1-0	2017.05.03
+Firouzja, Alireza	2499	Bruzon Batista, L.	2653	1-0	2017.07.11
+Firouzja, Alireza	2499	Wen Yang	2617	1-0	2017.07.11
+Firouzja, Alireza	2499	Jobava, Ba	2714	1-0	2017.07.12
+Firouzja, Alireza	2499	Jobava, Ba	2714	1-0	2017.07.11
+Firouzja, Alireza	2517	Asgarizadeh, A.	2423	1-0	2017.08.29
+Firouzja, Alireza	2517	Molaei, Mohammadamin	2194	1-0	2017.08.29
+Firouzja, Alireza	2517	Orooji, Siamak	1588	1-0	2017.08.29
+Firouzja, Alireza	2525	Ganjali, Hossein	2204	1-0	2017.10.24
+Firouzja, Alireza	2525	Valizadeh, A.	2306	1-0	2017.10.24
+Firouzja, Alireza	2525	Abu Sufian, S.	2322	1-0	2017.10.24
+Firouzja, Alireza	2521	Ghafourian, Amir Ali	2181	1-0	2017.11.02
+Firouzja, Alireza	2521	Lorparizangeneh, S.	2485	1-0	2017.11.02
+Firouzja, Alireza	2526	Zhalmakhanov, Ramazan	2245	1-0	2017.12.11
+Firouzja, Alireza	2526	Rahul, Srivatshav P	2331	1-0	2017.12.11
+Firouzja, Alireza	2526	Sargsyan, Shant	2453	1-0	2017.12.11
+Firouzja, Alireza	2517	Saurabh, Anand	2332	1-0	2017.08.14
+Firouzja, Alireza	2517	Fier, Alexandr	2579	1-0	2017.08.14
+Sargissian, G.	2667	Firouzja, Alireza	2456	1-0	2017.01.20
+Lorparizangeneh, S.	2504	Firouzja, Alireza	2456	1-0	2017.01.20
+Lysyj, I.	2643	Firouzja, Alireza	2465	1-0	2017.02.21
+Gholami, A.	2426	Firouzja, Alireza	2470	1-0	2017.03.05
+Firouzja, Alireza	2470	Idani, P.	2576	1/2-1/2	2017.03.05
+Mousavi, Se	2412	Firouzja, Alireza	2470	1-0	2017.03.05
+Firouzja, Alireza	2470	Ghaem Maghami, E.	2577	1/2-1/2	2017.03.05
+Harikrishnan, A.	2305	Firouzja, Alireza	2492	1-0	2017.04.03
+Mosadeghpour, Masoud	2444	Firouzja, Alireza	2487	1-0	2017.05.03
+Firouzja, Alireza	2487	Khodashenas, M.	2410	1/2-1/2	2017.05.03
+Shirov, A.	2656	Firouzja, Alireza	2499	1-0	2017.07.11
+Firouzja, Alireza	2499	Bruzon Batista, L.	2653	1/2-1/2	2017.07.12
+Firouzja, Alireza	2499	Sokolov, Ivan	2626	0-1	2017.07.12
+Firouzja, Alireza	2517	Akhgari, Reza	2092	1/2-1/2	2017.08.29
+Firouzja, Alireza	2527	Javanbakht, N.	2418	1/2-1/2	2017.09.13
+Firouzja, Alireza	2527	Garcia, Jan	2443	1/2-1/2	2017.09.27
+Firouzja, Alireza	2525	Sibashvili, G.	2412	1/2-1/2	2017.10.24
+Firouzja, Alireza	2525	Rostami, R.	2147	1/2-1/2	2017.10.24
+Firouzja, Alireza	2525	Molaei, Mohammadamin	2326	1/2-1/2	2017.10.16
+Firouzja, Alireza	2521	Darini, P.	2484	1/2-1/2	2017.11.02
+Firouzja, Alireza	2521	Javanbakht, N.	2427	1/2-1/2	2017.11.02
+Firouzja, Alireza	2526	Lobanov, Sergei	2441	0-1	2017.12.11
+Firouzja, Alireza	2517	Adly, Ahmed	2619	1/2-1/2	2017.08.14
+Firouzja, Alireza	2517	Salem, A R Saleh	2624	0-1	2017.08.14
+Firouzja, Alireza	2517	Alinasab, Mobina	2208	1/2-1/2	2017.08.14
+Donchenko, Alexa	2553	Firouzja, Alireza	2465	0-1	2017.02.21
+Tabatabaei, M.	2515	Firouzja, Alireza	2470	0-1	2017.03.05
+Dodeja, P.	2235	Firouzja, Alireza	2492	0-1	2017.04.03
+Tahbaz, Arash	2409	Firouzja, Alireza	2487	0-1	2017.05.03
+Baneshi, Mahan	1971	Firouzja, Alireza	2487	0-1	2017.05.03
+Harsha, B.	2413	Firouzja, Alireza	2487	0-1	2017.05.03
+Safarli, E.	2641	Firouzja, Alireza	2499	0-1	2017.07.11
+Van Wely, L.	2675	Firouzja, Alireza	2499	0-1	2017.07.12
+Mohandesi, S.	2180	Firouzja, Alireza	2517	0-1	2017.08.29
+Doroodian, Mahyar	1978	Firouzja, Alireza	2517	0-1	2017.08.29
+Savchenko, B.	2602	Firouzja, Alireza	2517	1-0	2017.08.29
+Mari Ooriad, P.	2166	Firouzja, Alireza	2527	0-1	2017.09.13
+Abdusattorov, Nodirbek	2486	Firouzja, Alireza	2527	0-1	2017.09.27
+Atabayev, M.	2488	Firouzja, Alireza	2527	0-1	2017.09.27
+Le Tuan Minh	2485	Firouzja, Alireza	2527	0-1	2017.09.27
+Gholami, A.	2482	Firouzja, Alireza	2525	1-0	2017.10.24
+Khamisi, S.	2214	Firouzja, Alireza	2525	0-1	2017.10.24
+Kantans, T.	2524	Firouzja, Alireza	2525	1-0	2017.10.24
+Ettehadi, H.	2188	Firouzja, Alireza	2525	0-1	2017.10.16
+Mousavi, Se	2456	Firouzja, Alireza	2521	0-1	2017.11.02
+Khatibi, Meysam	2250	Firouzja, Alireza	2521	0-1	2017.11.02
+Khamisi, S.	2214	Firouzja, Alireza	2521	0-1	2017.11.02
+Mosadeghpour, Masoud	2510	Firouzja, Alireza	2521	0-1	2017.11.02
+Mausyach Suri, Kemas Ade Krisna	1805	Firouzja, Alireza	2526	0-1	2017.12.11
+Vokhidov, Shamsiddin	2412	Firouzja, Alireza	2526	0-1	2017.12.11
+Berkes, F.	2648	Firouzja, Alireza	2456	1/2-1/2	2017.01.20
+Korneev, O.	2598	Firouzja, Alireza	2456	1/2-1/2	2017.01.20
+Zhigalko, S.	2652	Firouzja, Alireza	2465	1/2-1/2	2017.02.21
+Dubov, Daniil	2661	Firouzja, Alireza	2465	1/2-1/2	2017.02.21
+Darini, P.	2518	Firouzja, Alireza	2470	1/2-1/2	2017.03.05
+Bagheri, Maziar	2302	Firouzja, Alireza	2470	1/2-1/2	2017.03.05
+Anton Guijarro, D.	2679	Firouzja, Alireza	2492	1/2-1/2	2017.04.03
+Mohammad, Nubairshah Shaikh	2408	Firouzja, Alireza	2487	1/2-1/2	2017.05.03
+Safarli, E.	2641	Firouzja, Alireza	2499	1/2-1/2	2017.07.12
+Shirov, A.	2656	Firouzja, Alireza	2499	1/2-1/2	2017.07.12
+Sanikidze, T.	2533	Firouzja, Alireza	2517	1/2-1/2	2017.08.29
+Maghsoodloo, Parham	2590	Firouzja, Alireza	2517	1/2-1/2	2017.08.29
+Golizadeh, A.	2468	Firouzja, Alireza	2527	1/2-1/2	2017.09.13
+Gholami Orimi, Mahdi	2279	Firouzja, Alireza	2527	1/2-1/2	2017.09.13
+Maghsoodloo, Parham	2569	Firouzja, Alireza	2527	1/2-1/2	2017.09.13
+Ghosh, D.	2556	Firouzja, Alireza	2527	1/2-1/2	2017.09.27
+Fendereski, Nima	2294	Firouzja, Alireza	2525	1/2-1/2	2017.10.24
+Tahbaz, Arash	2398	Firouzja, Alireza	2525	1/2-1/2	2017.10.16
+Omidi, Arya	2380	Firouzja, Alireza	2525	1/2-1/2	2017.10.16
+Tabatabaei, M.	2563	Firouzja, Alireza	2521	1/2-1/2	2017.11.02
+Badelka, Olga	2388	Firouzja, Alireza	2526	0-1	2017.12.11
+Jayakumaar, S.	2254	Firouzja, Alireza	2526	0-1	2017.12.11
+Praggnanandhaa, R.	2517	Firouzja, Alireza	2526	0-1	2017.12.11
+Mahjoob, Morteza	2354	Firouzja, Alireza	2517	0-1	2017.08.14
+Sethuraman, S P	2618	Firouzja, Alireza	2517	0-1	2017.08.14
+Firouzja, Alireza	2485	Kasimdzhanov, R.	2703	0-1	2016.05.26
+Firouzja, Alireza	2475	Abdulla, AlR	2478	1-0	2016.03.28
+Firouzja, Alireza	2475	Naotunna, Dineth Nimnaka	2022	1-0	2016.03.28
+Firouzja, Alireza	2455	Mosadeghpour, Masoud	2475	1-0	2016.01.20
+Firouzja, Alireza	2455	Mousavi, Se	2425	1-0	2016.01.20
+Firouzja, Alireza	2455	Khamisi, S.	2279	1-0	2016.01.20
+Firouzja, Alireza	2475	Wang, Yiye	2445	1-0	2016.03.01
+Firouzja, Alireza	2475	Aravindh, Chithambaram VR	2506	0-1	2016.03.01
+Firouzja, Alireza	2481	Miroshnichenko, E.	2616	1-0	2016.07.11
+Firouzja, Alireza	2481	Dreev, A.	2664	0-1	2016.07.11
+Firouzja, Alireza	2481	Sokolov, Ivan	2642	0-1	2016.07.11
+Firouzja, Alireza	2481	Horvath, Dominik	2216	1-0	2016.07.22
+Firouzja, Alireza	2463	Petrik, T.	2464	1-0	2016.09.02
+Firouzja, Alireza	2469	Hakobyan, Hakob V	1947	1-0	2016.10.02
+Firouzja, Alireza	2469	Gevorgyan, M.	2189	1-0	2016.10.02
+Firouzja, Alireza	2469	Hejazipour, M.	2298	1-0	2016.10.25
+Firouzja, Alireza	2469	Razaghi, B.	2184	1-0	2016.10.25
+Firouzja, Alireza	2469	Ghaffarifar, Matin	2149	1-0	2016.10.25
+Firouzja, Alireza	2456	Quparadze, G.	2481	1-0	2016.12.26
+Firouzja, Alireza	2456	Agdestein, S.	2602	1-0	2016.12.26
+Firouzja, Alireza	2456	Bologan, V.	2640	1-0	2016.12.29
+Firouzja, Alireza	2456	Jumabayev, R.	2611	1-0	2016.12.29
+Firouzja, Alireza	2456	Svane, R.	2555	1-0	2016.12.29
+Efimenko, Zahar	2636	Firouzja, Alireza	2517	1/2-1/2	2017.08.14
+Mahalakshmi, M	2140	Firouzja, Alireza	2517	1/2-1/2	2017.08.14
+Firouzja, Alireza	2475	Dao Thien Hai	2481	1/2-1/2	2016.03.28
+Firouzja, Alireza	2475	Sasikiran, K.	2637	1/2-1/2	2016.03.28
+Firouzja, Alireza	2475	Wei Yi	2714	1/2-1/2	2016.03.28
+Firouzja, Alireza	2455	Gholami, A.	2398	1/2-1/2	2016.01.20
+Firouzja, Alireza	2475	Maiorov, N1.	2558	1/2-1/2	2016.03.01
+Firouzja, Alireza	2475	Kulaots, K.	2578	1/2-1/2	2016.03.01
+Firouzja, Alireza	2455	Darini, P.	2474	1/2-1/2	2016.01.20
+Firouzja, Alireza	2455	Maghsoodloo, Parham	2450	1/2-1/2	2016.01.20
+Firouzja, Alireza	2481	Sargissian, G.	2679	1/2-1/2	2016.07.11
+Firouzja, Alireza	2481	Edouard, R.	2639	0-1	2016.07.11
+Firouzja, Alireza	2481	Kozak, Adam	2364	1/2-1/2	2016.07.22
+Firouzja, Alireza	2481	Zarubitski, Viachaslau	2289	1/2-1/2	2016.07.22
+Firouzja, Alireza	2481	Esipenko, Andrey	2477	1/2-1/2	2016.07.22
+Firouzja, Alireza	2463	Urkedal, F.	2537	0-1	2016.09.02
+Firouzja, Alireza	2469	Bernadskiy, V.	2539	0-1	2016.10.02
+Firouzja, Alireza	2469	Hayrapetyan, A.	2258	0-1	2016.10.02
+Firouzja, Alireza	2456	Ghaem Maghami, E.	2574	0-1	2016.12.26
+Firouzja, Alireza	2456	Volokitin, And	2649	0-1	2016.12.26
+Firouzja, Alireza	2456	Vitiugov, N.	2726	0-1	2016.12.26
+Firouzja, Alireza	2456	Wojtaszek, R.	2749	0-1	2016.12.26
+Firouzja, Alireza	2456	Banikas, H.	2568	0-1	2016.12.29
+Firouzja, Alireza	2456	Vitiugov, N.	2726	0-1	2016.12.29
+Firouzja, Alireza	2456	Cheparinov, I.	2689	0-1	2016.12.29
+Firouzja, Alireza	2456	Amonatov, F.	2620	0-1	2016.12.29
+Firouzja, Alireza	2285	Maghsoodloo, Parham	2243	0-1	2016.??.??
+Goryachkina, A.	2509	Firouzja, Alireza	2475	1-0	2016.03.01
+Lalith, B.	2573	Firouzja, Alireza	2475	1-0	2016.03.01
+Lu Shanglei	2620	Firouzja, Alireza	2475	1-0	2016.03.01
+Short, N.	2652	Firouzja, Alireza	2481	1-0	2016.07.11
+Vakhidov, J.	2586	Firouzja, Alireza	2481	1-0	2016.07.11
+Lu Shanglei	2611	Firouzja, Alireza	2481	1-0	2016.07.11
+Mchedlishvili, M.	2604	Firouzja, Alireza	2481	1-0	2016.07.11
+Firouzja, Alireza	2464	Ghaziolsharif, K.	2204	1/2-1/2	2016.08.02
+Firouzja, Alireza	2464	Azadbakhsh, F.	2142	1/2-1/2	2016.08.02
+Firouzja, Alireza	2463	Gelashvili, T.	2575	1/2-1/2	2016.09.02
+Jones, G.	2635	Firouzja, Alireza	2463	1-0	2016.09.02
+Firouzja, Alireza	2463	Moroni, L.	2459	1/2-1/2	2016.09.02
+Firouzja, Alireza	2469	Manukyan, SaV	2292	1/2-1/2	2016.10.02
+Toufighi, H.	2379	Firouzja, Alireza	2469	1-0	2016.10.25
+Komarov, Di	2498	Firouzja, Alireza	2469	1-0	2016.10.25
+Firouzja, Alireza	2469	Idani, P.	2551	1/2-1/2	2016.10.25
+Khademalsharieh, S.	2439	Firouzja, Alireza	2469	1-0	2016.10.25
+Henriquez Villagra, C.	2517	Firouzja, Alireza	2456	1-0	2016.12.26
+Firouzja, Alireza	2456	Halkias, S.	2585	1/2-1/2	2016.12.26
+Ganguly, S.	2668	Firouzja, Alireza	2456	1-0	2016.12.26
+Firouzja, Alireza	2456	Adly, A.	2599	1/2-1/2	2016.12.26
+Firouzja, Alireza	2456	Nguyen Ngoc Truong Son	2629	1/2-1/2	2016.12.29
+Li Chao2	2720	Firouzja, Alireza	2456	1-0	2016.12.29
+Firouzja, Alireza	2456	Borisek, J.	2561	1/2-1/2	2016.12.29
+Firouzja, Alireza	2456	Kozul, Z.	2613	1/2-1/2	2016.12.29
+Firouzja, Alireza	2770	Svidler, Peter	2754	1-0	2021.06.22
+Firouzja, Alireza	2770	Kramnik, Vladimir	2797	1-0	2021.06.22
+Firouzja, Alireza	2770	Radjabov, Teimour	2757	1-0	2021.06.22
+Firouzja, Alireza	2770	Aronian, Levon	2739	1-0	2021.06.21
+Firouzja, Alireza	2770	Rapport, Richard	2759	1-0	2021.06.22
+Firouzja, Alireza	2770	Vachier-Lagrave, Maxime	2822	1-0	2021.06.21
+Firouzja, Alireza	2770	Nepomniachtchi, Ian	2785	1-0	2021.06.22
+Firouzja, Alireza	2703	Carlsen, Magnus	2881	1-0	2021.06.26
+Firouzja, Alireza	2703	Svidler, Peter	2742	1-0	2021.06.28
+Firouzja, Alireza	2703	Hou, Yifan	2621	1-0	2021.06.28
+Firouzja, Alireza	2696	Tari, Aryan	2531	1-0	2021.07.31
+Firouzja, Alireza	2696	Ju, Wenjun	2610	1-0	2021.07.31
+Firouzja, Alireza	2696	Mishra, Abhimanyu	2504	1-0	2021.08.02
+Firouzja, Alireza	2696	Le, Quang Liem	2744	1-0	2021.08.02
+Firouzja, Alireza	2696	Adhiban, B.	2624	1-0	2021.08.02
+Firouzja, Alireza	2696	Carlsen, Magnus	2881	1-0	2021.08.28
+Firouzja, Alireza	2696	Vachier-Lagrave, Maxime	2817	1-0	2021.08.30
+Firouzja, Alireza	2696	So, Wesley	2774	1-0	2021.08.31
+Firouzja, Alireza	2696	So, Wesley	2774	1-0	2021.09.01
+Firouzja, Alireza	2810	So, Wesley	2861	1-0	2021.09.01
+Firouzja, Alireza	2696	Artemiev, Vladislav	2757	1-0	2021.09.02
+Firouzja, Alireza	2754	Tari, Aryan	2642	1-0	2021.09.12
+Firouzja, Alireza	2754	Nepomniachtchi, Ian	2792	1-0	2021.09.14
+Firouzja, Alireza	2754	Rapport, Richard	2760	1-0	2021.09.17
+Firouzja, Alireza	2770	Abasov, Nijat	2638	1-0	2021.10.27
+Munkhgal, G.	2419	Firouzja, Alireza	2475	0-1	2016.03.28
+Taalaibekov, Tagir	2150	Firouzja, Alireza	2475	0-1	2016.03.28
+Ghaem Maghami, E.	2594	Firouzja, Alireza	2455	0-1	2016.01.20
+Bagheri, Maziar	2262	Firouzja, Alireza	2455	0-1	2016.01.20
+Haring, Filip	2155	Firouzja, Alireza	2481	0-1	2016.07.22
+Hakobyan, Aram	2382	Firouzja, Alireza	2481	0-1	2016.07.22
+Song, Ziyuan (Sam)	2049	Firouzja, Alireza	2481	0-1	2016.07.22
+Gavrilescu, David	2274	Firouzja, Alireza	2481	0-1	2016.07.22
+Ivic, Velimir	2315	Firouzja, Alireza	2481	0-1	2016.07.22
+Asgarizadeh, A.	2409	Firouzja, Alireza	2464	0-1	2016.08.02
+Ali Babaei, Sasan	1945	Firouzja, Alireza	2464	0-1	2016.08.02
+Poormosavi, Seyed Kian	1986	Firouzja, Alireza	2464	0-1	2016.08.02
+Monnaatsheko, Keletshabile	1988	Firouzja, Alireza	2463	0-1	2016.09.02
+Bilguun, Sumiya	2444	Firouzja, Alireza	2463	0-1	2016.09.02
+Mashatan, R.	2182	Firouzja, Alireza	2469	0-1	2016.10.02
+Ter Sahakyan, S.	2599	Firouzja, Alireza	2469	0-1	2016.10.02
+Matevosian, S.	2141	Firouzja, Alireza	2469	0-1	2016.10.02
+Dalir, A.	2296	Firouzja, Alireza	2469	0-1	2016.10.25
+Quintiliano Pinto, R.	2484	Firouzja, Alireza	2456	0-1	2016.12.26
+Debashis, D.	2472	Firouzja, Alireza	2456	0-1	2016.12.26
+Fressinet, L.	2672	Firouzja, Alireza	2456	1-0	2016.12.29
+Pichot, A.	2544	Firouzja, Alireza	2456	1-0	2016.12.29
+Grandelius, N.	2643	Firouzja, Alireza	2456	1-0	2016.12.29
+Short, Nigel D	2652	Firouzja, Alireza	2481	1-0	2016.07.11
+Maghsoodloo, Parham	2243	Firouzja, Alireza	2285	1-0	2016.??.??
+Firouzja, Alireza	2364	Mitev, Valentin	2090	1-0	2015.10.25
+Firouzja, Alireza	2364	Martinovici, Ilie	2031	1-0	2015.10.25
+Ni Hua	2682	Firouzja, Alireza	2485	1/2-1/2	2016.05.26
+Firouzja, Alireza	2291	Shah Moradi, Mohammad	2168	1-0	2015.01.20
+Firouzja, Alireza	2291	Tahbaz, Arash	2196	1-0	2015.01.20
+Firouzja, Alireza	2291	Hosseinipour, M.	2295	1-0	2015.01.20
+Firouzja, Alireza	2305	Afsordeh, Farshad	0	1-0	2015.02.18
+Noroozi, O.	2399	Firouzja, Alireza	2455	1/2-1/2	2016.01.20
+Javanbakht, N.	2422	Firouzja, Alireza	2455	1/2-1/2	2016.01.20
+Lorparizangeneh, S.	2442	Firouzja, Alireza	2455	1/2-1/2	2016.01.20
+Socko, B.	2587	Firouzja, Alireza	2475	1/2-1/2	2016.03.01
+Ehlvest, J.	2524	Firouzja, Alireza	2481	1/2-1/2	2016.07.11
+Hamitevici, V.	2489	Firouzja, Alireza	2463	1/2-1/2	2016.09.02
+Demchenko, A.	2629	Firouzja, Alireza	2469	1/2-1/2	2016.10.02
+Hakemi, Arman	2197	Firouzja, Alireza	2469	1/2-1/2	2016.10.25
+Bindrich, F.	2590	Firouzja, Alireza	2456	1/2-1/2	2016.12.26
+Mareco, S.	2635	Firouzja, Alireza	2456	0-1	2016.12.26
+Bosiocic, Mari	2591	Firouzja, Alireza	2456	1/2-1/2	2016.12.26
+Anton Guijarro, D.	2650	Firouzja, Alireza	2456	0-1	2016.12.29
+Inarkiev, E.	2709	Firouzja, Alireza	2456	0-1	2016.12.29
+Aronian, L.	2785	Firouzja, Alireza	2456	1/2-1/2	2016.12.29
+Amin, B.	2662	Firouzja, Alireza	2456	0-1	2016.12.29
+Bindrich, F.	2590	Firouzja, Alireza	2456	0-1	2016.12.29
+Howell, D.	2644	Firouzja, Alireza	2456	0-1	2016.12.29
+Zhigalko, S.	2671	Firouzja, Alireza	2456	1/2-1/2	2016.12.29
+Firouzja, Alireza	2364	Peng, David T	2231	0-1	2015.10.25
+Firouzja, Alireza	2364	Turgut, Aydin	1884	1/2-1/2	2015.10.25
+Firouzja, Alireza	2364	Abdusattorov, Nodirbek	2432	1/2-1/2	2015.10.25
+Firouzja, Alireza	2291	Alavi, S.	2454	1/2-1/2	2015.01.20
+Firouzja, Alireza	2291	Darban, M.	2345	0-1	2015.01.20
+Firouzja, Alireza	2305	Lazarev, V.	2361	1/2-1/2	2015.02.11
+Firouzja, Alireza	2305	Gholami Orimi, Mahdi	1925	1/2-1/2	2015.02.18
+Firouzja, Alireza	2305	Asghari Badeki, M.	1990	1/2-1/2	2015.02.18
+Firouzja, Alireza	2312	Abdelnabbi, I.	2433	1-0	2015.04.06
+Firouzja, Alireza	2312	Grover, S.	2519	0-1	2015.04.06
+Firouzja, Alireza	2277	Poghosyan, S.	2273	0-1	2015.07.13
+Firouzja, Alireza	2277	Kostenko, P.	2457	1/2-1/2	2015.07.13
+Firouzja, Alireza	2277	Paichadze, L.	2566	1/2-1/2	2015.07.13
+Firouzja, Alireza	2277	Rasulov, Vu	2504	1-0	2015.07.13
+Firouzja, Alireza	2277	Kekelidze, M.	2426	1/2-1/2	2015.07.13
+Firouzja, Alireza	2309	Karavade, E.	2409	0-1	2015.08.23
+Firouzja, Alireza	2309	Sumets, A.	2596	0-1	2015.08.23
+Firouzja, Alireza	2309	Czebe, A.	2439	1-0	2015.08.23
+Firouzja, Alireza	2364	Mike, Patryk	1781	1-0	2015.10.25
+Firouzja, Alireza	2372	Neelotpal, D.	2475	1-0	2015.12.20
+Firouzja, Alireza	2372	Tabatabaei, M.	2482	1-0	2015.12.13
+Firouzja, Alireza	2372	Rostami, R.	2150	1-0	2015.12.13
+Firouzja, Alireza	2372	Asgharzadeh, M.reza	2278	1-0	2015.12.13
+Firouzja, Alireza	2372	Tregubov, P.	2589	1-0	2015.12.20
+Firouzja, Alireza	2323	Vojdani, Siavosh	2125	1-0	2015.07.17
+Aydincelebi, Kagan	2247	Firouzja, Alireza	2364	0-1	2015.10.25
+Niemann, Hans M	2046	Firouzja, Alireza	2364	0-1	2015.10.25
+Mahjoob, M.	2416	Firouzja, Alireza	2291	0-1	2015.01.20
+Hamidi, Amir Mohammad	1963	Firouzja, Alireza	2291	1-0	2015.01.20
+Tarlev, K.	2557	Firouzja, Alireza	2305	1-0	2015.02.11
+Guliev, L.	2389	Firouzja, Alireza	2305	1-0	2015.02.18
+Karthikeyan, M2.	2504	Firouzja, Alireza	2312	1-0	2015.04.06
+Solodovnichenko, Y.	2584	Firouzja, Alireza	2312	1-0	2015.04.06
+Vakhania, A.	2178	Firouzja, Alireza	2277	0-1	2015.07.13
+Hayrapetyan, Ho	2444	Firouzja, Alireza	2277	1-0	2015.07.13
+Mohammed, Tarig Elther	2105	Firouzja, Alireza	2309	0-1	2015.08.23
+Khouri, I.	2205	Firouzja, Alireza	2309	0-1	2015.08.23
+Padmini, R.	2444	Firouzja, Alireza	2309	1-0	2015.08.23
+Firouzja, Alireza	2309	Ezat, M.	2476	1/2-1/2	2015.08.23
+Weishaeutel, Moritz	1962	Firouzja, Alireza	2364	0-1	2015.10.25
+Firouzja, Alireza	2372	Bromberger, S.	2521	1/2-1/2	2015.12.20
+Al Sayed, Mohamad	2520	Firouzja, Alireza	2372	1-0	2015.12.20
+Esen, B.	2562	Firouzja, Alireza	2372	1-0	2015.12.20
+Lorparizangeneh, S.	2454	Firouzja, Alireza	2372	0-1	2015.12.20
+Firouzja, Alireza	2372	Svane, R.	2529	1/2-1/2	2015.12.20
+Firouzja, Alireza	2372	Harika, D.	2513	1/2-1/2	2015.12.20
+Firouzja, Alireza	2372	Lorparizangeneh, S.	2454	1/2-1/2	2015.12.13
+Firouzja, Alireza	2372	Javanbakht, N.	2410	1/2-1/2	2015.12.13
+Swiercz, D.	2646	Firouzja, Alireza	2372	1-0	2015.12.20
+Firouzja, Alireza	2323	Asgari, Morteza	2256	1/2-1/2	2015.07.17
+Nihal, Sarin	2096	Firouzja, Alireza	2364	1/2-1/2	2015.10.25
+Muradli, Mahammad	2121	Firouzja, Alireza	2364	1/2-1/2	2015.10.25
+Firouzja, Alireza	2372	Mohammadpour, Afshin	2034	1-0	2014.11.15
+Ghaem Maghami, E.	2559	Firouzja, Alireza	2372	1-0	2014.11.15
+Grover, S.	2505	Firouzja, Alireza	2332	1-0	2014.12.19
+Firouzja, Alireza	2332	Derakhshani, Borna	1979	1/2-1/2	2014.12.19
+Firouzja, Alireza	2332	Moskalenko, V1.	2528	0-1	2014.12.18
+Firouzja, Alireza	2332	Bajarani, U.	2494	0-1	2014.12.18
+Firouzja, Alireza	2332	Lodhi, M.	2328	1-0	2014.12.18
+Firouzja, Alireza	2332	Sokolov, Ivan	2645	1/2-1/2	2014.12.19
+Firouzja, Alireza	2332	Sultan, I.	2062	1-0	2014.12.19
+Firouzja, Alireza	2332	Al Shamisi, Hareb Nasser	1389	1-0	2014.12.19
+Toufighi, H.	2429	Firouzja, Alireza	2291	1/2-1/2	2015.01.20
+Pilvaieh, A.	2075	Firouzja, Alireza	2291	1/2-1/2	2015.01.20
+Darini, P.	2470	Firouzja, Alireza	2291	1/2-1/2	2015.01.20
+Khatibi, Meysam	2099	Firouzja, Alireza	2291	1/2-1/2	2015.01.20
+Sundararajan, K.	2433	Firouzja, Alireza	2312	1/2-1/2	2015.04.06
+Sivuk, V.	2463	Firouzja, Alireza	2277	1/2-1/2	2015.07.13
+Stopa, Ja	2544	Firouzja, Alireza	2309	1/2-1/2	2015.08.23
+Khamisi, S.	2224	Firouzja, Alireza	2372	1/2-1/2	2015.12.13
+Noroozi, O.	2380	Firouzja, Alireza	2372	0-1	2015.12.13
+Mosadeghpour, Masoud	2479	Firouzja, Alireza	2372	0-1	2015.12.13
+Maghsoodloo, Parham	2443	Firouzja, Alireza	2372	1/2-1/2	2015.12.13
+Javanbakht, Nima	2405	Firouzja, Alireza	2323	0-1	2015.07.17
+Rastbod, Ali	2190	Firouzja, Alireza	2323	0-1	2015.07.17
+Saberi, Mahan	1987	Firouzja, Alireza	2372	0-1	2014.11.15
+Abtini, H.	1987	Firouzja, Alireza	2332	0-1	2014.12.19
+Ter Sahakyan, S.	2580	Firouzja, Alireza	2332	1-0	2014.12.19
+Ahadzade, Kanan	1909	Firouzja, Alireza	2332	0-1	2014.12.18
+Ahadzada, Hajiali	0	Firouzja, Alireza	2332	0-1	2014.12.18
+Mchedlishvili, M.	2625	Firouzja, Alireza	2332	1-0	2014.12.18
+Rahman, Zia	2511	Firouzja, Alireza	2332	1-0	2014.12.19
+Iordachescu, V.	2611	Firouzja, Alireza	2332	1/2-1/2	2014.12.19
+Firouzja, Alireza	2759	So, Wesley	2770	0-1	Tue Mar 16 2021
+Firouzja, Alireza	2759	So, Wesley	2770	0-1	Wed Mar 17 2021
+Firouzja, Alireza	2759	Artemiev, Vladislav	2709	0-1	Tue Apr 06 2021
+Firouzja, Alireza	2759	Artemiev, Vladislav	2709	0-1	Tue Apr 06 2021
+Firouzja, Alireza	2759	Artemiev, Vladislav	2709	0-1	Tue Apr 06 2021
+Firouzja, Alireza	2759	Artemiev, Vladislav	2709	0-1	Tue Apr 06 2021
+Firouzja, Alireza	2759	Artemiev, Vladislav	2709	0-1	Tue Apr 06 2021
+Firouzja, Alireza	2759	Artemiev, Vladislav	2709	0-1	Tue Apr 06 2021
+Firouzja, Alireza	2759	Nakamura, Hikaru	2736	0-1	Wed Apr 07 2021
+Firouzja, Alireza	2759	Nakamura, Hikaru	2736	0-1	Wed Apr 07 2021
+Firouzja, Alireza	2759	Nakamura, Hikaru	2736	0-1	Wed Apr 07 2021
+Firouzja, Alireza	2759	Tang, Andrew	2538	0-1	Wed Apr 07 2021
+Firouzja, Alireza	2759	Tang, Andrew	2538	0-1	Wed Apr 07 2021
+Firouzja, Alireza	2759	Tang, Andrew	2538	0-1	Wed Apr 07 2021
+Firouzja, Alireza	2759	Mamedyarov, Shakhriyar	2770	0-1	Tue Apr 27 2021
+Firouzja, Alireza	2759	Duda, Jan-Krzysztof	2729	0-1	Mon Apr 26 2021
+Firouzja, Alireza	2759	Mamedyarov, Shakhriyar	2770	0-1	Wed Apr 28 2021
+Firouzja, Alireza	2770	Predke, Alexandr	2666	1-0	2021.10.29
+Firouzja, Alireza	2770	Najer, Evgeniy	2654	1-0	2021.11.03
+Firouzja, Alireza	2770	Howell, David W L	2648	1-0	2021.11.06
+Firouzja, Alireza	2770	Sasikiran, Krishnan	2640	1-0	2021.11.04
+Firouzja, Alireza	2770	Mamedyarov, Shakhriyar	2765	1-0	2021.11.21
+Firouzja, Alireza	2770	Jobava, Baadur	2582	1-0	2021.11.19
+Firouzja, Alireza	2770	Mastrovasilis, Dimitrios	2619	1-0	2021.11.18
+Firouzja, Alireza	2770	Yilmaz, Mustafa	2626	1-0	2021.11.15
+Firouzja, Alireza	2749	Caruana, Fabiano	2823	1/2-1/2	Fri Jan 29 2021
+Firouzja, Alireza	2749	Wojtaszek, Radoslaw	2705	1/2-1/2	Sun Jan 31 2021
+Firouzja, Alireza	2749	Van Foreest, Jorden	2671	1/2-1/2	Thu Jan 21 2021
+Firouzja, Alireza	2749	Esipenko, Andrey	2677	1/2-1/2	Tue Jan 26 2021
+Firouzja, Alireza	2759	Carlsen, Magnus	2847	1/2-1/2	Sat Mar 13 2021
+Firouzja, Alireza	2759	Nepomniachtchi, Ian	2789	1/2-1/2	Sun Mar 14 2021
+Firouzja, Alireza	2759	So, Wesley	2770	1/2-1/2	Mon Mar 15 2021
+Firouzja, Alireza	2759	Dubov, Daniil	2710	1/2-1/2	Mon Mar 15 2021
+Firouzja, Alireza	2759	Mamedyarov, Shakhriyar	2770	0-1	Wed Apr 28 2021
+Firouzja, Alireza	2759	Carlsen, Magnus	2847	0-1	Mon Apr 26 2021
+Firouzja, Alireza	2759	Giri, Anish	2780	0-1	Mon May 24 2021
+Firouzja, Alireza	2759	Grischuk, Alexander	2776	0-1	Mon May 24 2021
+Firouzja, Alireza	2770	So, Wesley	2816	0-1	2021.06.21
+Firouzja, Alireza	2770	Caruana, Fabiano	2711	0-1	2021.06.21
+Firouzja, Alireza	2703	Duda, Jan-Krzysztof	2774	0-1	2021.06.26
+Firouzja, Alireza	2703	Artemiev, Vladislav	2757	0-1	2021.06.26
+Firouzja, Alireza	2703	Ding, Liren	2836	0-1	2021.06.27
+Firouzja, Alireza	2703	Aronian, Levon	2778	0-1	2021.06.28
+Firouzja, Alireza	2696	Sindarov, Javokhir	2357	0-1	2021.07.17
+Firouzja, Alireza	2696	Harikrishna, Pentala	2705	0-1	2021.08.01
+Firouzja, Alireza	2696	Le, Quang Liem	2744	0-1	2021.08.04
+Firouzja, Alireza	2696	Vidit, Santosh Gujrathi	2636	0-1	2021.08.29
+Firouzja, Alireza	2696	So, Wesley	2774	0-1	2021.09.01
+Firouzja, Alireza	2696	Artemiev, Vladislav	2757	0-1	2021.09.03
+Firouzja, Alireza	2754	Karjakin, Sergey	2758	0-1	2021.09.09
+Firouzja, Alireza	2759	So, Wesley	2770	1/2-1/2	Wed Mar 17 2021
+Firouzja, Alireza	2759	Mamedyarov, Shakhriyar	2770	1/2-1/2	Tue Apr 27 2021
+Firouzja, Alireza	2759	Radjabov, Teimour	2765	1/2-1/2	Sun Apr 25 2021
+Firouzja, Alireza	2759	Nepomniachtchi, Ian	2792	1/2-1/2	Sun May 23 2021
+Firouzja, Alireza	2703	Carlsen, Magnus	2881	1/2-1/2	Tue May 25 2021
+Firouzja, Alireza	2759	Vachier-Lagrave, Maxime	2760	1/2-1/2	Mon May 24 2021
+Firouzja, Alireza	2703	Svidler, Peter	2742	1/2-1/2	Tue May 25 2021
+Firouzja, Alireza	2703	So, Wesley	2741	1/2-1/2	2021.06.18
+Firouzja, Alireza	2703	Svidler, Peter	2742	1/2-1/2	2021.06.18
+Firouzja, Alireza	2703	Caruana, Fabiano	2773	1/2-1/2	2021.06.19
+Firouzja, Alireza	2703	Rapport, Richard	2727	1/2-1/2	2021.06.19
+Firouzja, Alireza	2703	Aronian, Levon	2778	1/2-1/2	2021.06.20
+Firouzja, Alireza	2703	Erigaisi, Arjun	2289	1/2-1/2	2021.06.27
+Firouzja, Alireza	2759	Sindarov, Javokhir	2558	1/2-1/2	2021.07.15
+Firouzja, Alireza	2696	Sindarov, Javokhir	2357	1/2-1/2	2021.07.17
+Firouzja, Alireza	2696	So, Wesley	2774	1/2-1/2	2021.07.31
+Firouzja, Alireza	2696	Nakamura, Hikaru	2829	1/2-1/2	2021.08.01
+Firouzja, Alireza	2696	Le, Quang Liem	2744	1/2-1/2	2021.08.03
+Firouzja, Alireza	2696	Le, Quang Liem	2744	1/2-1/2	2021.08.03
+Firouzja, Alireza	2696	Aronian, Levon	2761	1/2-1/2	2021.08.28
+Firouzja, Alireza	2696	Mamedyarov, Shakhriyar	2756	1/2-1/2	2021.08.30
+Firouzja, Alireza	2696	Giri, Anish	2744	1/2-1/2	2021.08.30
+Firouzja, Alireza	2696	Naroditsky, Daniel	2639	1/2-1/2	2021.08.29
+Firouzja, Alireza	2696	So, Wesley	2774	1/2-1/2	2021.08.31
+Firouzja, Alireza	2696	Artemiev, Vladislav	2757	1/2-1/2	2021.09.02
+Carlsen, Magnus	2862	Firouzja, Alireza	2749	1-0	Sat Jan 16 2021
+Anton Guijarro, David	2673	Firouzja, Alireza	2759	1-0	Sat Mar 13 2021
+Karjakin, Sergey	2757	Firouzja, Alireza	2759	1-0	Sun Mar 14 2021
+So, Wesley	2770	Firouzja, Alireza	2759	1-0	Tue Mar 16 2021
+So, Wesley	2770	Firouzja, Alireza	2759	1-0	Wed Mar 17 2021
+Artemiev, Vladislav	2709	Firouzja, Alireza	2759	1-0	Tue Apr 06 2021
+Nakamura, Hikaru	2736	Firouzja, Alireza	2759	1-0	Wed Apr 07 2021
+Nakamura, Hikaru	2736	Firouzja, Alireza	2759	1-0	Wed Apr 07 2021
+Nakamura, Hikaru	2736	Firouzja, Alireza	2759	1-0	Wed Apr 07 2021
+Nakamura, Hikaru	2736	Firouzja, Alireza	2759	1-0	Wed Apr 07 2021
+Nakamura, Hikaru	2736	Firouzja, Alireza	2759	1-0	Wed Apr 07 2021
+Tang, Andrew	2538	Firouzja, Alireza	2759	1-0	Wed Apr 07 2021
+Tang, Andrew	2538	Firouzja, Alireza	2759	1-0	Wed Apr 07 2021
+Mamedyarov, Shakhriyar	2770	Firouzja, Alireza	2759	1-0	Sat Apr 24 2021
+Mamedyarov, Shakhriyar	2770	Firouzja, Alireza	2759	1-0	Tue Apr 27 2021
+Tari, Aryan	2639	Firouzja, Alireza	2759	1-0	Sun Apr 25 2021
+Pichot, Alan	2630	Firouzja, Alireza	2759	1-0	Mon May 24 2021
+Aronian, Levon	2778	Firouzja, Alireza	2703	1-0	Tue May 25 2021
+Firouzja, Alireza	2810	Artemiev, Vladislav	2783	1/2-1/2	2021.09.03
+Firouzja, Alireza	2696	Artemiev, Vladislav	2757	1/2-1/2	2021.09.03
+Firouzja, Alireza	2754	Karjakin, Sergey	2758	1/2-1/2	Thu Sep 09 2021
+Firouzja, Alireza	2754	Carlsen, Magnus	2855	1/2-1/2	2021.09.07
+Firouzja, Alireza	2754	Carlsen, Magnus	2855	1/2-1/2	2021.09.07
+Firouzja, Alireza	2770	Vachier-Lagrave, Maxime	2763	1/2-1/2	2021.10.31
+Firouzja, Alireza	2770	Saric, Ivan	2665	1/2-1/2	2021.11.13
+Donchenko, Alexander	2668	Firouzja, Alireza	2749	0-1	Fri Jan 22 2021
+Harikrishna, Pentala	2732	Firouzja, Alireza	2749	0-1	Sun Jan 24 2021
+Mamedyarov, Shakhriyar	2770	Firouzja, Alireza	2759	0-1	Sun Mar 14 2021
+Pichot, Alan	2630	Firouzja, Alireza	2759	0-1	Sun Mar 14 2021
+Artemiev, Vladislav	2709	Firouzja, Alireza	2759	0-1	Tue Apr 06 2021
+Artemiev, Vladislav	2709	Firouzja, Alireza	2759	0-1	Tue Apr 06 2021
+Artemiev, Vladislav	2709	Firouzja, Alireza	2759	0-1	Tue Apr 06 2021
+Artemiev, Vladislav	2709	Firouzja, Alireza	2759	0-1	Tue Apr 06 2021
+Artemiev, Vladislav	2709	Firouzja, Alireza	2759	0-1	Tue Apr 06 2021
+Radjabov, Teimour	2758	Firouzja, Alireza	2703	1-0	2021.06.18
+Vachier-Lagrave, Maxime	2860	Firouzja, Alireza	2703	1-0	2021.06.20
+Vachier-Lagrave, Maxime	2822	Firouzja, Alireza	2770	1-0	2021.06.22
+So, Wesley	2816	Firouzja, Alireza	2770	1-0	2021.06.22
+Caruana, Fabiano	2711	Firouzja, Alireza	2770	1-0	2021.06.22
+Giri, Anish	2731	Firouzja, Alireza	2703	1-0	2021.06.26
+Le, Quang Liem	2744	Firouzja, Alireza	2696	1-0	2021.08.03
+Le, Quang Liem	2744	Firouzja, Alireza	2696	1-0	2021.08.03
+Le, Quang Liem	2744	Firouzja, Alireza	2696	1-0	2021.08.04
+So, Wesley	2774	Firouzja, Alireza	2696	1-0	2021.09.01
+Artemiev, Vladislav	2757	Firouzja, Alireza	2696	1-0	2021.09.02
+Artemiev, Vladislav	2783	Firouzja, Alireza	2810	1-0	2021.09.03
+Nepomniachtchi, Ian	2792	Firouzja, Alireza	2754	1-0	2021.09.08
+Rapport, Richard	2760	Firouzja, Alireza	2754	1-0	2021.09.10
+Carlsen, Magnus	2855	Firouzja, Alireza	2754	1-0	2021.09.13
+Caruana, Fabiano	2791	Firouzja, Alireza	2770	1-0	2021.11.05
+Firouzja, Alireza	2793	Nakamura, Hikaru	2760	1/2-1/2	2022.06.19
+Firouzja, Alireza	2793	Caruana, Fabiano	2783	0-1	2022.06.23
+Firouzja, Alireza	2793	Rapport, Richard	2764	1-0	2022.06.27
+Firouzja, Alireza	2704	Praggnanandhaa, R	1927	1-0	2022.08.15
+Firouzja, Alireza	2704	Le, Quang Liem	2661	1-0	2022.08.16
+Firouzja, Alireza	2704	Giri, Anish	2721	1-0	2022.08.17
+Firouzja, Alireza	2704	Duda, Jan-Krzysztof	2808	1-0	2022.08.18
+Firouzja, Alireza	2704	Duda, Jan-Krzysztof	2808	1-0	2022.08.18
+Firouzja, Alireza	2704	Niemann, Hans Moke	2529	1-0	2022.08.19
+Firouzja, Alireza	2704	Carlsen, Magnus	2834	1-0	2022.08.20
+Firouzja, Alireza	2704	Aronian, Levon	2728	1-0	2022.08.21
+Firouzja, Alireza	2704	Mamedyarov, Shakhriyar	2695	1-0	2022.08.26
+Firouzja, Alireza	2704	Caruana, Fabiano	2766	0-1	2022.08.27
+Firouzja, Alireza	2795	Nepomniachtchi, Ian	2791	1-0	2022.08.29
+Firouzja, Alireza	2795	Shankland, Sam	2645	1-0	2022.08.29
+Firouzja, Alireza	2795	Vachier-Lagrave, Maxime	2812	1-0	2022.08.29
+Firouzja, Alireza	2795	Aronian, Levon	2850	1-0	2022.08.30
+Firouzja, Alireza	2795	Xiong, Jeffery	2714	1-0	2022.08.30
+Firouzja, Alireza	2795	Mamedyarov, Shakhriyar	2710	1-0	2022.08.30
+Firouzja, Alireza	2795	Dominguez Perez, Leinier	2708	1-0	2022.08.30
+Firouzja, Alireza	2778	Aronian, Levon	2775	1-0	2022.09.04
+Firouzja, Alireza	2778	Mamedyarov, Shakhriyar	2757	1-0	2022.09.08
+Firouzja, Alireza	2778	So, Wesley	2771	1-0	2022.09.10
+Firouzja, Alireza	2778	Nepomniachtchi, Ian	2792	1-0	2022.09.12
+Firouzja, Alireza	2778	Nepomniachtchi, Ian	2792	1-0	2022.09.12
