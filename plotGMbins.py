@@ -223,7 +223,7 @@ def plot2GMbins(df_bins1,df_bins2,gm1_info,gm2_info,elo_pack,DO_SAVE):
 
     plt.subplots_adjust(wspace=0,top=0.875,bottom=0.15,left=0.1,right=0.95)
     if DO_SAVE:
-        plt.savefig(f'figures/{playername1}-{playername2}.png.png')
+        plt.savefig(f'figures/{playername1}-{playername2}.png')
 
 def buildColours():
     #create three tones of default style colours
